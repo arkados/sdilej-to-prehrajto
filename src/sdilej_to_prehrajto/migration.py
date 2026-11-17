@@ -32,7 +32,10 @@ def audit(root: Path) -> dict[str, int]:
             raise ValueError(f"Migration changed completed target for film {film_id}")
     for video_id, intent in baseline["verified_subtitles"].items():
         row = subtitles.get(video_id, {})
-        if row.get("status") != "attached_verified" or row.get("intent") != intent:
+        # A later remote check may temporarily report an unavailable track.
+        # Preserve the durable attachment proof independently of live status.
+        current = row.get("intent") or {}
+        if any(current.get(key) != value for key, value in intent.items()):
             raise ValueError(f"Migration lost verified subtitle for video {video_id}")
     return {
         "protected_films": len(baseline["films"]),

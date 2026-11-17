@@ -37,11 +37,14 @@ jobs:
           set -euo pipefail
           [[ -z "$COMPLETED_RUN_ID" || "$COMPLETED_RUN_ID" =~ ^[0-9]+$ ]]
           # Both transfer workflows share one target concurrency lock.
-          uploads=$(gh run list --repo "$GITHUB_REPOSITORY" --limit 100 \
-            --json databaseId,status,workflowName | jq --arg completed "$COMPLETED_RUN_ID" \
-            '[.[] | select((.databaseId | tostring) != $completed) |
-              select(.workflowName == "continuous-sync" or .workflowName == "pilot-upload") |
-              select(.status != "completed")] | length')
+          uploads=0
+          for workflow in continuous.yml pilot-upload.yml; do
+            active=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow "$workflow" \
+              --limit 30 --json databaseId,status | jq --arg completed "$COMPLETED_RUN_ID" \
+              '[.[] | select((.databaseId | tostring) != $completed) |
+                select(.status != "completed")] | length')
+            uploads=$(( uploads + active ))
+          done
           if [[ "$uploads" -eq 0 ]]; then
             gh workflow run continuous.yml --repo "$GITHUB_REPOSITORY" --ref main
           else

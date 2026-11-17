@@ -50,3 +50,11 @@ def test_audit_blocks_lost_verified_subtitle_evidence(tmp_path):
     (tmp_path / "state/subtitle-backfill.json").write_text('{"videos": {}}')
     with pytest.raises(ValueError, match="lost verified subtitle"):
         audit(tmp_path)
+
+
+def test_remote_subtitle_outage_does_not_erase_attachment_proof(tmp_path):
+    rows = fixture(tmp_path)
+    (tmp_path / "state/sync.json").write_text(json.dumps({"films": rows}))
+    subtitles = {"101": {"status": "upload_unconfirmed", "intent": {"checksum": "verified-proof", "rechecked": True}}}
+    (tmp_path / "state/subtitle-backfill.json").write_text(json.dumps({"videos": subtitles}))
+    assert audit(tmp_path)["verified_subtitles"] == 1
