@@ -1,0 +1,88 @@
+name: continuous-sync
+
+on:
+  workflow_dispatch:
+    inputs:
+      workers:
+        description: "Upload workers (limited to one to reduce target load)"
+        required: false
+        type: choice
+        default: "1"
+        options:
+          - "1"
+  schedule:
+    - cron: "17 * * * *"
+
+concurrency:
+  # Share the target upload slots with the manually reviewed pilot workflow.
+  group: sdilej-to-prehrajto-target-transfer
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: vars.CONTINUOUS_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    permissions:
+      contents: write
+    env:
+      CONTINUOUS_ENABLED: ${{ vars.CONTINUOUS_ENABLED }}
+      UPLOAD_WORKERS: "1"
+      SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
+      SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
+      PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
+      PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install runtime
+        run: pip install "."
+      - name: Verify migrated uploads and pending target guards
+        run: python -m sdilej_to_prehrajto.migration
+      - name: Configure durable state commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Continuously drain verified source queue
+        shell: bash
+        run: |
+          sync_deadline_epoch=$(( $(date +%s) + 19800 ))
+          while [ "$(date +%s)" -lt "$sync_deadline_epoch" ]; do
+            git pull --rebase origin main
+            sync_output=$(sdilej-sync continuous \
+              --limit "${{ vars.CONTINUOUS_BATCH_SIZE || '5' }}" \
+              --persist-git-state 2>&1 | tee /dev/stderr)
+            if grep -q "planned=0" <<<"$sync_output"; then
+              # Source preparation publishes small verified batches. Poll
+              # frequently enough that an empty queue does not add another
+              # multi-minute gap before the next relay starts.
+              sleep 30
+            else
+              sleep 5
+            fi
+          done
+
+  handoff:
+    needs: sync
+    if: always() && !cancelled() && vars.CONTINUOUS_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      actions: write
+    steps:
+      - name: Back off after a failed runner
+        if: needs.sync.result == 'failure'
+        run: sleep 60
+      - name: Explicitly resume pipeline supervision
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >-
+          gh workflow run pipeline-health.yml --repo "$GITHUB_REPOSITORY"
+          --ref main -f completed_run_id="$GITHUB_RUN_ID"

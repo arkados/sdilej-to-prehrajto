@@ -1,0 +1,69 @@
+name: pilot-upload
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "Must match the reviewed plan"
+        required: true
+        type: choice
+        default: "1"
+        options:
+          - "1"
+          - "10"
+      approved_plan_sha:
+        description: "SHA-256 copied from the reviewed pilot-plan artifact"
+        required: true
+        type: string
+      approved_plan_run_id:
+        description: "Run ID of the reviewed pilot-plan artifact"
+        required: true
+        type: string
+
+concurrency:
+  # The target account must never receive a pilot and continuous batch at once.
+  group: sdilej-to-prehrajto-target-transfer
+  cancel-in-progress: false
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    permissions:
+      actions: read
+      contents: write
+    env:
+      UPLOAD_WORKERS: "1"
+      SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
+      SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
+      PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
+      PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Download reviewed plan
+        uses: actions/download-artifact@v4
+        with:
+          name: pilot-plan-${{ inputs.batch_size }}
+          path: approved-plan
+          github-token: ${{ github.token }}
+          run-id: ${{ inputs.approved_plan_run_id }}
+      - name: Install runtime
+        run: pip install "."
+      - name: Configure durable state commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Execute reviewed pilot
+        run: >-
+          sdilej-sync upload
+          --limit "${{ inputs.batch_size }}"
+          --approved-plan-sha "${{ inputs.approved_plan_sha }}"
+          --approved-plan-file approved-plan/plan.json
+          --persist-git-state

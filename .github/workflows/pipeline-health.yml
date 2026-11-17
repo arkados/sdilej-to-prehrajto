@@ -1,0 +1,59 @@
+name: pipeline-health
+
+on:
+  workflow_dispatch:
+    inputs:
+      completed_run_id:
+        description: Run whose production job has already finished
+        type: string
+        default: ''
+  schedule:
+    - cron: '4,14,24,34,44,54 * * * *'
+  workflow_run:
+    workflows: [continuous-sync, prepare-sources]
+    types: [completed]
+    branches: [main]
+
+permissions:
+  contents: read
+  actions: write
+
+concurrency:
+  group: sdilej-to-prehrajto-pipeline-health
+  cancel-in-progress: false
+
+jobs:
+  check:
+    if: vars.CONTINUOUS_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Keep source preparation and the single uploader running
+        env:
+          GH_TOKEN: ${{ github.token }}
+          COMPLETED_RUN_ID: ${{ inputs.completed_run_id || '' }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          [[ -z "$COMPLETED_RUN_ID" || "$COMPLETED_RUN_ID" =~ ^[0-9]+$ ]]
+          # Both transfer workflows share one target concurrency lock.
+          uploads=$(gh run list --repo "$GITHUB_REPOSITORY" --limit 100 \
+            --json databaseId,status,workflowName | jq --arg completed "$COMPLETED_RUN_ID" \
+            '[.[] | select((.databaseId | tostring) != $completed) |
+              select(.workflowName == "continuous-sync" or .workflowName == "pilot-upload") |
+              select(.status != "completed")] | length')
+          if [[ "$uploads" -eq 0 ]]; then
+            gh workflow run continuous.yml --repo "$GITHUB_REPOSITORY" --ref main
+          else
+            echo "Uploader is active or queued"
+          fi
+          preparations=$(gh run list --repo "$GITHUB_REPOSITORY" \
+            --workflow prepare-sources.yml --limit 30 --json databaseId,status |
+            jq --arg completed "$COMPLETED_RUN_ID" \
+            '[.[] | select((.databaseId | tostring) != $completed) |
+              select(.status != "completed")] | length')
+          if [[ "$preparations" -eq 0 ]]; then
+            gh workflow run prepare-sources.yml --repo "$GITHUB_REPOSITORY" --ref main
+          else
+            echo "Preparation is active or queued"
+          fi

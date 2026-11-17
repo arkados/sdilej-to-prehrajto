@@ -1,0 +1,88 @@
+name: backfill-subtitles
+
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+    inputs:
+      max_pages:
+        description: "Unfiltered pages for missing detail URLs only (0 disables indexing)"
+        default: "2"
+      max_sources:
+        description: "Original sources to inspect (serially)"
+        default: "120"
+      limit:
+        description: "Maximum subtitle attachments in one run"
+        default: "30"
+      continue_backfill:
+        description: "Queue another batch when work remains (disable for a bounded smoke test)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: film-original-subtitle-backfill
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    if: vars.CONTINUOUS_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verify or install media runtime
+        timeout-minutes: 12
+        run: python3 scripts/ensure_media_runtime.py
+      - name: Install subtitle extraction runtime
+        timeout-minutes: 10
+        run: |
+          pip install .
+      - name: Configure checkpoint author
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Backfill original Czech text subtitles
+        id: backfill
+        env:
+          SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
+          SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
+          PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
+          PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
+          MAX_PAGES: ${{ inputs.max_pages || '2' }}
+          MAX_SOURCES: ${{ inputs.max_sources || '120' }}
+          SUBTITLE_LIMIT: ${{ inputs.limit || '30' }}
+        run: |
+          python -m sdilej_to_prehrajto.subtitle_backfill \
+            --max-pages "$MAX_PAGES" --max-sources "$MAX_SOURCES" \
+            --limit "$SUBTITLE_LIMIT" --git-persist
+      - name: Preserve audit report even on failure
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: subtitle-backfill-report
+          path: |
+            reports/subtitle-backfill.md
+            state/subtitle-backfill.json
+          if-no-files-found: ignore
+      - name: Queue next serial subtitle batch
+        if: success() && vars.CONTINUOUS_ENABLED == 'true' && steps.backfill.outputs.continue_backfill == 'true' && (github.event_name != 'workflow_dispatch' || inputs.continue_backfill)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          MAX_PAGES: ${{ inputs.max_pages || '2' }}
+          MAX_SOURCES: ${{ inputs.max_sources || '120' }}
+          SUBTITLE_LIMIT: ${{ inputs.limit || '30' }}
+        run: |
+          gh workflow run backfill-subtitles.yml --ref main \
+            -f max_pages="$MAX_PAGES" -f max_sources="$MAX_SOURCES" \
+            -f limit="$SUBTITLE_LIMIT"

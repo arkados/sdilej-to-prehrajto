@@ -1,0 +1,44 @@
+name: test
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install ".[test]"
+      - run: pytest
+      - name: Audit preserved migration identities
+        run: python -m sdilej_to_prehrajto.migration
+
+  whisper-runtime:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      HF_HOME: /tmp/huggingface
+      WHISPER_CPU_THREADS: "1"
+      WHISPER_NUM_WORKERS: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/cache@v4
+        with:
+          path: ${{ env.HF_HOME }}
+          key: whisper-small-${{ runner.os }}-v1
+      - name: Verify or install media runtime
+        timeout-minutes: 12
+        run: python3 scripts/ensure_media_runtime.py
+      - run: pip install ".[whisper]"
+        timeout-minutes: 10
+      - run: python scripts/check_whisper_runtime.py

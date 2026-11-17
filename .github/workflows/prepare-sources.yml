@@ -1,0 +1,84 @@
+name: prepare-sources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7 * * * *"
+
+concurrency:
+  group: sdilej-to-prehrajto-source-preparation
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    if: vars.CONTINUOUS_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    permissions:
+      contents: write
+    env:
+      HF_HOME: /tmp/huggingface
+      # Three fast discovery shards keep the upload queue supplied while three
+      # deep shards drain candidate-heavy films. Limit each Whisper model to
+      # one CPU thread to avoid 6x oversubscription.
+      WHISPER_CPU_THREADS: "1"
+      WHISPER_NUM_WORKERS: "1"
+      SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
+      SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
+      PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
+      PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/cache@v4
+        with:
+          path: ${{ env.HF_HOME }}
+          key: whisper-small-${{ runner.os }}-v1
+      - name: Verify or install media runtime
+        timeout-minutes: 12
+        run: python3 scripts/ensure_media_runtime.py
+      - name: Install preparation runtime
+        timeout-minutes: 10
+        run: |
+          pip install ".[whisper]"
+      - name: Verify real Whisper runtime before scanning films
+        run: python scripts/check_whisper_runtime.py
+      - name: Verify migrated uploads and pending target guards
+        run: python -m sdilej_to_prehrajto.migration
+      - name: Configure durable source checkpoints
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Continuously fill verified source queue
+        run: >-
+          sdilej-sync prepare
+          --limit 200
+          --max-scan 2000
+          --prepare-workers 6
+          --prepare-runtime-minutes 330
+          --persist-git-state
+
+  handoff:
+    needs: prepare
+    if: always() && !cancelled() && vars.CONTINUOUS_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      actions: write
+    steps:
+      - name: Back off after a failed runner
+        if: needs.prepare.result == 'failure'
+        run: sleep 60
+      - name: Explicitly resume pipeline supervision
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >-
+          gh workflow run pipeline-health.yml --repo "$GITHUB_REPOSITORY"
+          --ref main -f completed_run_id="$GITHUB_RUN_ID"
