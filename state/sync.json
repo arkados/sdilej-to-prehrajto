@@ -126509,13 +126509,6 @@
           "source_id": "30659376",
           "target_video_id": "30983497",
           "permanent": false,
-          "attempted_at": "2026-11-16T04:47:17.631236+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30659376",
-          "target_video_id": "30983497",
-          "permanent": false,
           "attempted_at": "2026-11-16T07:28:24.872001+00:00"
         },
         {
@@ -126524,12 +126517,20 @@
           "target_video_id": "30983497",
           "permanent": false,
           "attempted_at": "2026-11-16T11:25:43.210805+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30659376",
+          "target_video_id": "30983497",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-17T22:43:32.331646+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30659376",
         "display_name": "Zborov (1939) SD CZ Dabing",
-        "planned_at": "2026-11-16T11:25:25.890678+00:00"
+        "planned_at": "2026-11-17T22:42:18.700532+00:00"
       },
       "previous_target_id": "30983497",
       "prepared": {
@@ -126619,7 +126620,7 @@
       "last_plan": {
         "source_id": "27909373",
         "display_name": "Vražda po našem (1967) SD CZ Dabing",
-        "planned_at": "2026-11-16T11:25:26.265335+00:00"
+        "planned_at": "2026-11-17T22:42:19.079448+00:00"
       },
       "previous_target_id": "30983519",
       "prepared": {
@@ -128241,7 +128242,7 @@
       "last_plan": {
         "source_id": "30626666",
         "display_name": "Konec cesty (1960) SD CZ Dabing",
-        "planned_at": "2026-11-16T11:26:00.522790+00:00"
+        "planned_at": "2026-11-17T22:42:19.442749+00:00"
       },
       "previous_target_id": "30983536",
       "prepared": {
@@ -129064,7 +129065,7 @@
       "last_plan": {
         "source_id": "30521084",
         "display_name": "Vražda v Ostrovní ulici (1933) SD CZ Dabing",
-        "planned_at": "2026-11-16T11:26:00.904036+00:00"
+        "planned_at": "2026-11-17T22:42:19.803284+00:00"
       },
       "previous_target_id": "30983561",
       "prepared": {
@@ -129584,7 +129585,7 @@
       "last_plan": {
         "source_id": "33494979",
         "display_name": "Bláhové děvče (1938) 1080p CZ Dabing",
-        "planned_at": "2026-11-16T11:26:01.280550+00:00"
+        "planned_at": "2026-11-17T22:42:20.162256+00:00"
       },
       "previous_target_id": "30983575",
       "prepared": {
@@ -446366,5 +446367,5 @@
       }
     }
   },
-  "updated_at": "2026-11-17T22:42:06.323558+00:00"
+  "updated_at": "2026-11-17T22:43:32.331665+00:00"
 }
