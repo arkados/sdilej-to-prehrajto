@@ -10759,13 +10759,6 @@
           "source_id": "29548312",
           "target_video_id": "30984721",
           "permanent": false,
-          "attempted_at": "2026-11-18T07:36:03.722102+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29548312",
-          "target_video_id": "30984721",
-          "permanent": false,
           "attempted_at": "2026-11-18T10:27:26.398483+00:00"
         },
         {
@@ -10774,12 +10767,20 @@
           "target_video_id": "30984721",
           "permanent": false,
           "attempted_at": "2026-11-18T13:25:06.725990+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29548312",
+          "target_video_id": "30984721",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T17:28:35.761750+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29548312",
         "display_name": "Kabaret (1972) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:24:47.732519+00:00"
+        "planned_at": "2026-11-18T17:27:21.286544+00:00"
       },
       "previous_target_id": "30984721",
       "prepared": {
@@ -17272,7 +17273,7 @@
       "last_plan": {
         "source_id": "35107406",
         "display_name": "West side Story (1961) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:25:19.383283+00:00"
+        "planned_at": "2026-11-18T17:27:21.690896+00:00"
       },
       "previous_target_id": "30984727",
       "prepared": {
@@ -181159,7 +181160,7 @@
       "last_plan": {
         "source_id": "35004172",
         "display_name": "Together (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:25:19.911966+00:00"
+        "planned_at": "2026-11-18T17:27:22.093000+00:00"
       },
       "previous_target_id": "30984736",
       "prepared": {
@@ -184381,7 +184382,7 @@
       "last_plan": {
         "source_id": "11236090",
         "display_name": "Karlík a továrna na čokoládu (2005) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:25:20.306861+00:00"
+        "planned_at": "2026-11-18T17:27:22.494920+00:00"
       },
       "previous_target_id": "30984738",
       "prepared": {
@@ -252047,7 +252048,7 @@
       "last_plan": {
         "source_id": "13336049",
         "display_name": "Dědictví kostí (2019) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T13:25:20.697783+00:00"
+        "planned_at": "2026-11-18T17:27:22.893584+00:00"
       },
       "previous_target_id": "30984741",
       "prepared": {
@@ -446542,5 +446543,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T17:27:07.024163+00:00"
+  "updated_at": "2026-11-18T17:28:35.761769+00:00"
 }
