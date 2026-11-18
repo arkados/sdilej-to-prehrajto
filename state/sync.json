@@ -66673,13 +66673,6 @@
     "24505": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29820312",
-          "reason": "Request failed for https://sdilej.cz/29820312/konicek-hrbacek-1975-.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-11-18T21:10:43.825065+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "29820312",
@@ -66692,6 +66685,13 @@
           "source_id": "29820312",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T21:55:51.730603+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29820312",
+          "reason": "Request failed for https://sdilej.cz/29820312/konicek-hrbacek-1975-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-18T22:09:05.796583+00:00"
         }
       ],
       "last_plan": {
@@ -447082,5 +447082,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T22:09:01.726861+00:00"
+  "updated_at": "2026-11-18T22:09:05.796601+00:00"
 }
