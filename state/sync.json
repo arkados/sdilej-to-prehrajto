@@ -86310,12 +86310,19 @@
           "source_id": "34853602",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T20:44:19.814448+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34853602",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-18T20:49:56.041407+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34853602",
         "display_name": "Zlo si umí počkat (2023) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T20:43:57.188680+00:00"
+        "planned_at": "2026-11-18T20:49:33.435865+00:00"
       }
     },
     "11861": {
@@ -350172,13 +350179,6 @@
           "source_id": "29593403",
           "target_video_id": "29657099",
           "permanent": false,
-          "attempted_at": "2026-11-18T08:08:43.135795+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29593403",
-          "target_video_id": "29657099",
-          "permanent": false,
           "attempted_at": "2026-11-18T11:02:03.123402+00:00"
         },
         {
@@ -350187,12 +350187,20 @@
           "target_video_id": "29657099",
           "permanent": false,
           "attempted_at": "2026-11-18T13:58:11.843970+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29593403",
+          "target_video_id": "29657099",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T20:51:09.212537+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29593403",
         "display_name": "Alf versus U.S. Army (1996) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:58:05.379920+00:00"
+        "planned_at": "2026-11-18T20:49:33.883315+00:00"
       },
       "previous_target_id": "29657099",
       "prepared": {
@@ -350268,7 +350276,7 @@
       "last_plan": {
         "source_id": "10792907",
         "display_name": "The Marine 6: Close Quarters (2018) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T13:58:05.885068+00:00"
+        "planned_at": "2026-11-18T20:49:34.291988+00:00"
       },
       "previous_target_id": "29657108",
       "prepared": {
@@ -350304,7 +350312,7 @@
       "last_plan": {
         "source_id": "11710724",
         "display_name": "I'll Take Your Dead (2018) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T13:58:06.274276+00:00"
+        "planned_at": "2026-11-18T20:49:34.702747+00:00"
       },
       "previous_target_id": "29657112",
       "prepared": {
@@ -352822,7 +352830,7 @@
       "last_plan": {
         "source_id": "32793725",
         "display_name": "Ledový armagedon (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:58:06.662896+00:00"
+        "planned_at": "2026-11-18T20:49:35.116469+00:00"
       },
       "previous_target_id": "29658497",
       "prepared": {
@@ -446883,5 +446891,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T20:49:20.439749+00:00"
+  "updated_at": "2026-11-18T20:51:09.212560+00:00"
 }
