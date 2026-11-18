@@ -194036,13 +194036,6 @@
           "source_id": "13165617",
           "target_video_id": "29773699",
           "permanent": false,
-          "attempted_at": "2026-11-18T08:06:46.748525+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13165617",
-          "target_video_id": "29773699",
-          "permanent": false,
           "attempted_at": "2026-11-18T10:59:48.237499+00:00"
         },
         {
@@ -194051,12 +194044,20 @@
           "target_video_id": "29773699",
           "permanent": false,
           "attempted_at": "2026-11-18T13:55:58.326352+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13165617",
+          "target_video_id": "29773699",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T20:25:40.126563+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13165617",
         "display_name": "Čertova nevěsta (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:55:49.858640+00:00"
+        "planned_at": "2026-11-18T20:24:25.897866+00:00"
       },
       "previous_target_id": "29773699",
       "prepared": {
@@ -333981,7 +333982,7 @@
       "last_plan": {
         "source_id": "29001957",
         "display_name": "Trollové 3 (2023) 4K CZ Dabing",
-        "planned_at": "2026-11-18T13:55:51.036334+00:00"
+        "planned_at": "2026-11-18T20:24:27.312949+00:00"
       },
       "previous_target_id": "29643074",
       "prepared": {
@@ -339801,7 +339802,7 @@
       "last_plan": {
         "source_id": "29047113",
         "display_name": "Na cestě (2012) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:56:23.669026+00:00"
+        "planned_at": "2026-11-18T20:24:27.786580+00:00"
       },
       "previous_target_id": "29648514",
       "prepared": {
@@ -345157,7 +345158,7 @@
       "last_plan": {
         "source_id": "32138633",
         "display_name": "Venom: Poslední tanec (2024) 4K CZ Dabing",
-        "planned_at": "2026-11-18T13:55:50.251450+00:00"
+        "planned_at": "2026-11-18T20:24:26.366885+00:00"
       },
       "previous_target_id": "29535498",
       "prepared": {
@@ -345336,7 +345337,7 @@
       "last_plan": {
         "source_id": "26256318",
         "display_name": "Válka Bohů (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:55:50.642419+00:00"
+        "planned_at": "2026-11-18T20:24:26.833960+00:00"
       },
       "previous_target_id": "29651262",
       "prepared": {
@@ -446852,5 +446853,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T20:24:12.539623+00:00"
+  "updated_at": "2026-11-18T20:25:40.126582+00:00"
 }
