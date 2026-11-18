@@ -10060,17 +10060,19 @@
       }
     },
     "409": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34840363",
+          "target_video_id": "31154588",
+          "permanent": false,
+          "attempted_at": "2026-11-18T15:45:50.676410+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34840363",
         "display_name": "Kočičí odysea (2024) 1080p CZ Titulky",
         "planned_at": "2026-11-18T15:41:00.546767+00:00"
-      },
-      "claim": {
-        "worker_id": "1ff81b5d05de480886927b9ea7553db5-shard-0",
-        "claimed_at": "2026-11-18T15:41:02.622877+00:00",
-        "lease_expires_at": "2026-11-18T21:41:02.622877+00:00",
-        "run_id": "44310963904"
       },
       "previous_target_id": "31154588",
       "prepared": {
@@ -446462,5 +446464,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T15:41:06.994172+00:00"
+  "updated_at": "2026-11-18T15:45:50.676429+00:00"
 }
