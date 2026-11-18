@@ -202012,13 +202012,6 @@
           "source_id": "33071425",
           "target_video_id": "29265117",
           "permanent": false,
-          "attempted_at": "2026-11-18T07:48:10.127113+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33071425",
-          "target_video_id": "29265117",
-          "permanent": false,
           "attempted_at": "2026-11-18T10:39:44.225159+00:00"
         },
         {
@@ -202027,12 +202020,20 @@
           "target_video_id": "29265117",
           "permanent": false,
           "attempted_at": "2026-11-18T13:37:43.477669+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33071425",
+          "target_video_id": "29265117",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T19:31:47.978289+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33071425",
         "display_name": "V neznámych vodách (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:37:37.949513+00:00"
+        "planned_at": "2026-11-18T19:30:33.102416+00:00"
       },
       "prepared": {
         "target_video_id": "29265117",
@@ -205506,7 +205507,7 @@
       "last_plan": {
         "source_id": "23681455",
         "display_name": "Hromotluk (2021) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:37:38.754698+00:00"
+        "planned_at": "2026-11-18T19:30:33.924850+00:00"
       },
       "prepared": {
         "target_video_id": "29167687",
@@ -205639,7 +205640,7 @@
       "last_plan": {
         "source_id": "35001076",
         "display_name": "Oklamaná paměť (2020) SD CZ Dabing",
-        "planned_at": "2026-11-18T13:37:38.362670+00:00"
+        "planned_at": "2026-11-18T19:30:33.515422+00:00"
       },
       "previous_target_id": "29631623",
       "prepared": {
@@ -206833,7 +206834,7 @@
       "last_plan": {
         "source_id": "34694187",
         "display_name": "Sweet on You (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:37:39.537900+00:00"
+        "planned_at": "2026-11-18T19:30:34.733163+00:00"
       },
       "prepared": {
         "target_video_id": "29220558",
@@ -207381,7 +207382,7 @@
       "last_plan": {
         "source_id": "34418685",
         "display_name": "Zvonilka a piráti (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:37:39.147504+00:00"
+        "planned_at": "2026-11-18T19:30:34.329694+00:00"
       },
       "prepared": {
         "target_video_id": "29282493",
@@ -446826,5 +446827,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T19:30:18.702715+00:00"
+  "updated_at": "2026-11-18T19:31:47.978307+00:00"
 }
