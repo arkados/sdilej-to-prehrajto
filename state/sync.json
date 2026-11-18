@@ -132107,13 +132107,6 @@
           "source_id": "30696489",
           "target_video_id": "30983663",
           "permanent": false,
-          "attempted_at": "2026-11-18T07:26:16.664828+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30696489",
-          "target_video_id": "30983663",
-          "permanent": false,
           "attempted_at": "2026-11-18T10:17:40.542861+00:00"
         },
         {
@@ -132122,12 +132115,20 @@
           "target_video_id": "30983663",
           "permanent": false,
           "attempted_at": "2026-11-18T13:14:39.898945+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30696489",
+          "target_video_id": "30983663",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T16:53:06.968767+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30696489",
         "display_name": "Bláhový sen (1943) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:14:31.002819+00:00"
+        "planned_at": "2026-11-18T16:51:51.905571+00:00"
       },
       "previous_target_id": "30983663",
       "prepared": {
@@ -132258,7 +132259,7 @@
       "last_plan": {
         "source_id": "34832290",
         "display_name": "Paolo Villagio: Příběh Fantozziho (2024) 1080p SK Dabing",
-        "planned_at": "2026-11-18T13:14:31.397695+00:00"
+        "planned_at": "2026-11-18T16:51:52.332958+00:00"
       },
       "previous_target_id": "30983672",
       "prepared": {
@@ -132417,7 +132418,7 @@
       "last_plan": {
         "source_id": "35096031",
         "display_name": "Lidi krve (2021) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:14:31.794529+00:00"
+        "planned_at": "2026-11-18T16:51:52.746954+00:00"
       },
       "previous_target_id": "30983682",
       "prepared": {
@@ -133691,7 +133692,7 @@
       "last_plan": {
         "source_id": "34979976",
         "display_name": "Radúz a Mahulena (1971) 1080p",
-        "planned_at": "2026-11-18T13:14:32.187477+00:00"
+        "planned_at": "2026-11-18T16:51:53.161122+00:00"
       },
       "previous_target_id": "30983687",
       "prepared": {
@@ -134485,7 +134486,7 @@
       "last_plan": {
         "source_id": "30657880",
         "display_name": "Volejte Martina (1966) SD CZ Dabing",
-        "planned_at": "2026-11-18T13:15:06.531617+00:00"
+        "planned_at": "2026-11-18T16:51:53.579846+00:00"
       },
       "previous_target_id": "30983690",
       "prepared": {
@@ -446505,5 +446506,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T16:51:37.734247+00:00"
+  "updated_at": "2026-11-18T16:53:06.968787+00:00"
 }
