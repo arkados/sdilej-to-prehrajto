@@ -203379,13 +203379,6 @@
           "source_id": "30977091",
           "target_video_id": "29266484",
           "permanent": false,
-          "attempted_at": "2026-11-18T07:49:01.227220+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30977091",
-          "target_video_id": "29266484",
-          "permanent": false,
           "attempted_at": "2026-11-18T10:40:22.694026+00:00"
         },
         {
@@ -203394,12 +203387,20 @@
           "target_video_id": "29266484",
           "permanent": false,
           "attempted_at": "2026-11-18T13:38:19.848814+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30977091",
+          "target_video_id": "29266484",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T19:39:59.106897+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30977091",
         "display_name": "Bolestivá zrada (2022) SD CZ Dabing",
-        "planned_at": "2026-11-18T13:38:11.410322+00:00"
+        "planned_at": "2026-11-18T19:37:30.312299+00:00"
       },
       "prepared": {
         "target_video_id": "29266484",
@@ -204784,13 +204785,6 @@
           "source_id": "34825554",
           "target_video_id": "29183405",
           "permanent": false,
-          "attempted_at": "2026-11-18T07:48:43.120965+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34825554",
-          "target_video_id": "29183405",
-          "permanent": false,
           "attempted_at": "2026-11-18T10:40:18.783483+00:00"
         },
         {
@@ -204799,12 +204793,19 @@
           "target_video_id": "29183405",
           "permanent": false,
           "attempted_at": "2026-11-18T13:38:16.330358+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34825554",
+          "target_video_id": "29183405",
+          "permanent": false,
+          "attempted_at": "2026-11-18T19:38:43.349780+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34825554",
         "display_name": "Jestli se ztratím (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:38:10.925861+00:00"
+        "planned_at": "2026-11-18T19:37:29.901744+00:00"
       },
       "prepared": {
         "target_video_id": "29183405",
@@ -206636,7 +206637,7 @@
       "last_plan": {
         "source_id": "32831311",
         "display_name": "Dva kopečky lásky (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:38:12.197195+00:00"
+        "planned_at": "2026-11-18T19:37:31.122694+00:00"
       },
       "prepared": {
         "target_video_id": "29220516",
@@ -208782,7 +208783,7 @@
       "last_plan": {
         "source_id": "34473113",
         "display_name": "Ve spleti lží (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:38:11.806935+00:00"
+        "planned_at": "2026-11-18T19:37:30.721189+00:00"
       },
       "prepared": {
         "target_video_id": "29167695",
@@ -209654,7 +209655,7 @@
       "last_plan": {
         "source_id": "10192590",
         "display_name": "Na vlásku před šťastně až na věky (2017) 720p CZ Dabing",
-        "planned_at": "2026-11-18T13:38:12.591648+00:00"
+        "planned_at": "2026-11-18T19:37:31.525324+00:00"
       },
       "prepared": {
         "target_video_id": "29167781",
@@ -446831,5 +446832,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T19:37:07.132078+00:00"
+  "updated_at": "2026-11-18T19:39:59.106917+00:00"
 }
