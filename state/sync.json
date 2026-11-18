@@ -90790,13 +90790,6 @@
           "source_id": "32500243",
           "target_video_id": "29356044",
           "permanent": false,
-          "attempted_at": "2026-11-18T07:45:02.003134+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32500243",
-          "target_video_id": "29356044",
-          "permanent": false,
           "attempted_at": "2026-11-18T10:36:23.524569+00:00"
         },
         {
@@ -90805,12 +90798,20 @@
           "target_video_id": "29356044",
           "permanent": false,
           "attempted_at": "2026-11-18T13:34:12.312214+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32500243",
+          "target_video_id": "29356044",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T18:56:27.036079+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32500243",
         "display_name": "Slunce, seno, jahody (1983) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:33:57.964800+00:00"
+        "planned_at": "2026-11-18T18:54:31.267864+00:00"
       },
       "prepared": {
         "target_video_id": "29356044",
@@ -191018,7 +191019,7 @@
       "last_plan": {
         "source_id": "34684428",
         "display_name": "Bojovnice (2007) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:33:58.357260+00:00"
+        "planned_at": "2026-11-18T18:54:31.665662+00:00"
       },
       "prepared": {
         "target_video_id": "29218008",
@@ -194594,7 +194595,7 @@
       "last_plan": {
         "source_id": "34144514",
         "display_name": "Mrtvé tělo (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:33:58.747998+00:00"
+        "planned_at": "2026-11-18T18:54:32.066405+00:00"
       },
       "prepared": {
         "target_video_id": "29218933",
@@ -324973,12 +324974,19 @@
           "source_id": "25699329",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T18:43:37.310415+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "25699329",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-18T18:54:53.032241+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25699329",
         "display_name": "Nadosmrti (2021) SD CZ Titulky",
-        "planned_at": "2026-11-18T18:43:14.618498+00:00"
+        "planned_at": "2026-11-18T18:54:30.430891+00:00"
       }
     },
     "19849": {
@@ -388291,12 +388299,19 @@
           "source_id": "11841659",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T18:43:58.320395+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11841659",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-18T18:55:14.004744+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11841659",
         "display_name": "Lancaster Skies (2019) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T18:43:15.033416+00:00"
+        "planned_at": "2026-11-18T18:54:30.836116+00:00"
       }
     },
     "16909": {
@@ -446757,5 +446772,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T18:54:16.259342+00:00"
+  "updated_at": "2026-11-18T18:56:27.036103+00:00"
 }
