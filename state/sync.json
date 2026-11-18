@@ -142150,13 +142150,6 @@
           "source_id": "13959338",
           "target_video_id": "29607988",
           "permanent": false,
-          "attempted_at": "2026-11-18T09:06:33.355506+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13959338",
-          "target_video_id": "29607988",
-          "permanent": false,
           "attempted_at": "2026-11-18T11:52:45.156014+00:00"
         },
         {
@@ -142165,12 +142158,20 @@
           "target_video_id": "29607988",
           "permanent": false,
           "attempted_at": "2026-11-18T14:58:06.288425+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13959338",
+          "target_video_id": "29607988",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T22:50:53.403266+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13959338",
         "display_name": "Mořská panna (1939) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T14:57:51.603150+00:00"
+        "planned_at": "2026-11-18T22:48:27.334777+00:00"
       },
       "previous_target_id": "29607988",
       "prepared": {
@@ -149501,7 +149502,7 @@
       "last_plan": {
         "source_id": "34791759",
         "display_name": "Cirkus bude! (1954) SD CZ Dabing",
-        "planned_at": "2026-11-18T14:58:28.771390+00:00"
+        "planned_at": "2026-11-18T22:48:28.578190+00:00"
       },
       "prepared": {
         "target_video_id": "29140505",
@@ -149543,13 +149544,6 @@
           "source_id": "32476562",
           "target_video_id": "29722188",
           "permanent": false,
-          "attempted_at": "2026-11-18T09:05:53.502562+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32476562",
-          "target_video_id": "29722188",
-          "permanent": false,
           "attempted_at": "2026-11-18T11:52:40.909412+00:00"
         },
         {
@@ -149558,12 +149552,19 @@
           "target_video_id": "29722188",
           "permanent": false,
           "attempted_at": "2026-11-18T14:58:01.495008+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32476562",
+          "target_video_id": "29722188",
+          "permanent": false,
+          "attempted_at": "2026-11-18T22:49:42.548755+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32476562",
         "display_name": "Chernobyl: Hour by Hour (2020) SD CZ Dabing",
-        "planned_at": "2026-11-18T14:57:51.192929+00:00"
+        "planned_at": "2026-11-18T22:48:26.917696+00:00"
       },
       "previous_target_id": "29722188",
       "prepared": {
@@ -149966,7 +149967,7 @@
       "last_plan": {
         "source_id": "11948507",
         "display_name": "Osudové léto v jižní Francii (2016) SD CZ Dabing",
-        "planned_at": "2026-11-18T14:57:52.004833+00:00"
+        "planned_at": "2026-11-18T22:48:27.756066+00:00"
       },
       "previous_target_id": "29610817",
       "prepared": {
@@ -154221,7 +154222,7 @@
       "last_plan": {
         "source_id": "25586153",
         "display_name": "Vraždy odvedle: Falešné obvinění (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T14:57:52.408661+00:00"
+        "planned_at": "2026-11-18T22:48:28.167574+00:00"
       },
       "prepared": {
         "target_video_id": "29175998",
@@ -447120,5 +447121,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T22:48:09.159820+00:00"
+  "updated_at": "2026-11-18T22:50:53.403283+00:00"
 }
