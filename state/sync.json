@@ -66478,17 +66478,20 @@
       "previous_target_id": "29427702"
     },
     "15283": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34772164",
+          "target_video_id": "31157191",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T18:33:14.478483+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34772164",
         "display_name": "The Wedding Veil Legacy (2022) 1080p SK Dabing",
         "planned_at": "2026-11-18T18:26:17.326172+00:00"
-      },
-      "claim": {
-        "worker_id": "5a886c02de45499392adc7ea10143eab-shard-0",
-        "claimed_at": "2026-11-18T18:26:19.418892+00:00",
-        "lease_expires_at": "2026-11-19T00:26:19.418892+00:00",
-        "run_id": "44310963904"
       },
       "previous_target_id": "31157191",
       "prepared": {
@@ -446710,5 +446713,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T18:26:24.608643+00:00"
+  "updated_at": "2026-11-18T18:33:14.478502+00:00"
 }
