@@ -4140,17 +4140,19 @@
       "attempts": []
     },
     "10671": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35140819",
+          "target_video_id": "31155377",
+          "permanent": false,
+          "attempted_at": "2026-11-18T16:29:23.318496+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35140819",
         "display_name": "Frigo jako Sherlock Holmes (1924) 1080p CZ Titulky",
         "planned_at": "2026-11-18T16:27:45.125682+00:00"
-      },
-      "claim": {
-        "worker_id": "6405fd4eac1a4e61a0bf873e8a7f4e64-shard-0",
-        "claimed_at": "2026-11-18T16:27:47.230649+00:00",
-        "lease_expires_at": "2026-11-18T22:27:47.230649+00:00",
-        "run_id": "44310963904"
       },
       "previous_target_id": "31155377",
       "prepared": {
@@ -446475,5 +446477,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T16:27:52.348564+00:00"
+  "updated_at": "2026-11-18T16:29:23.318512+00:00"
 }
