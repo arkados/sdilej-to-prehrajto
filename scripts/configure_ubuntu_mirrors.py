@@ -18,12 +18,11 @@ def configure(apt_root: Path = Path('/etc/apt'), mirror: str = 'archive') -> int
         if not path.is_file():
             continue
         original = path.read_text()
-        updated = original.replace('http://azure.archive.ubuntu.com/ubuntu',
-                                   'https://archive.ubuntu.com/ubuntu')
-        updated = updated.replace('https://azure.archive.ubuntu.com/ubuntu',
-                                  'https://archive.ubuntu.com/ubuntu')
-        updated = updated.replace('http://archive.ubuntu.com/ubuntu',
-                                  'https://archive.ubuntu.com/ubuntu')
+        # Hosted runners can include regional EC2 mirrors as well as Azure.
+        # Every archive entry must change so fallback does not keep selecting
+        # an unreachable regional mirror from the same mirror+file list.
+        updated = re.sub(r'https?://(?:[a-z0-9-]+\.)*archive\.ubuntu\.com/ubuntu(?=/|\s|$)',
+                         'https://archive.ubuntu.com/ubuntu', original, flags=re.I)
         updated = updated.replace('http://security.ubuntu.com/ubuntu',
                                   'https://security.ubuntu.com/ubuntu')
         if mirror == 'azure':

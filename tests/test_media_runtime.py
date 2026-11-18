@@ -99,6 +99,19 @@ def test_azure_fallback_preserves_apt_signature_configuration(tmp_path):
     assert vendor.read_text() == 'deb https://vendor.example/ubuntu stable main\n'
 
 
+@pytest.mark.parametrize('mirror', ['archive', 'azure'])
+def test_regional_runner_mirrors_are_replaced_in_the_whole_mirror_list(tmp_path, mirror):
+    mirrors = load_script('configure_ubuntu_mirrors')
+    path = tmp_path / 'apt-mirrors.txt'
+    path.write_text('http://us-east-2.ec2.archive.ubuntu.com/ubuntu/\thttps=1\n'
+                    'https://azure.archive.ubuntu.com/ubuntu/\n')
+    assert mirrors.configure(tmp_path, mirror=mirror) == 1
+    assert mirrors.configure(tmp_path, mirror=mirror) == 0
+    hostname = 'archive.ubuntu.com' if mirror == 'archive' else 'azure.archive.ubuntu.com'
+    assert path.read_text().count('https://' + hostname + '/ubuntu/') == 2
+    assert 'ec2.archive' not in path.read_text()
+
+
 @pytest.mark.parametrize('workflow', ['prepare-sources', 'backfill-subtitles', 'source-media-diagnostics', 'pilot-plan', 'test'])
 def test_media_workflows_share_bounded_setup(workflow):
     text = (Path(__file__).parents[1] / '.github/workflows' / f'{workflow}.yml').read_text()

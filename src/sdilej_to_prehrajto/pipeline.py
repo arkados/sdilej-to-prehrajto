@@ -233,6 +233,7 @@ class SyncPipeline:
         max_scan: int | None = None,
         deadline_monotonic: float | None = None,
         deep_scan_only: bool = False,
+        review_film_ids: set[int] | None = None,
     ) -> list[dict]:
         """Continuously fill the verified-source manifest without uploading."""
         prepared: list[dict] = []
@@ -248,7 +249,7 @@ class SyncPipeline:
             if current_source is not None:
                 continue
             if deep_scan_only:
-                if not self.state.deep_scan_ready(
+                if film.cr_film_id not in (review_film_ids or set()) and not self.state.deep_scan_ready(
                     film.cr_film_id, selection_policy=SELECTION_POLICY
                 ):
                     continue

@@ -2,6 +2,7 @@ from pathlib import Path
 from types import SimpleNamespace
 import subprocess
 import traceback
+import sys
 
 import pytest
 
@@ -10,6 +11,18 @@ from sdilej_to_prehrajto.language import (
     LanguageDetectionError,
     WhisperLanguageDetector,
 )
+
+
+@pytest.mark.parametrize('explicit,expected', [(None, 'small'), ('medium', 'medium')])
+def test_fast_and_deep_detectors_select_independent_models(monkeypatch, explicit, expected):
+    monkeypatch.setenv('WHISPER_MODEL', 'small')
+    seen = []
+    monkeypatch.setitem(sys.modules, 'faster_whisper', SimpleNamespace(
+        WhisperModel=lambda model, **kwargs: seen.append(model) or object()))
+    detector = WhisperLanguageDetector(model_name=explicit)
+    detector._load_model()
+    assert seen == [expected]
+    assert detector.model_name == expected
 
 
 def test_remote_sample_has_bounded_ffmpeg_timeout(monkeypatch) -> None:

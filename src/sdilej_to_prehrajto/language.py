@@ -55,9 +55,11 @@ def _whisper_worker(connection: Connection, settings: dict[str, object]) -> None
 
 class WhisperLanguageDetector:
     def __init__(
-        self, *, seconds: int = 75, inference_timeout_seconds: int | None = None
+        self, *, seconds: int = 75, inference_timeout_seconds: int | None = None,
+        model_name: str | None = None,
     ):
         self.seconds = seconds
+        self.model_name = model_name or os.environ.get("WHISPER_MODEL", "small")
         self.inference_timeout_seconds = (
             inference_timeout_seconds
             if inference_timeout_seconds is not None
@@ -78,7 +80,7 @@ class WhisperLanguageDetector:
         except ImportError as error:
             raise LanguageDetectionError("faster-whisper is not installed") from error
         self._model = WhisperModel(
-            os.environ.get("WHISPER_MODEL", "small"),
+            self.model_name,
             device=os.environ.get("WHISPER_DEVICE", "cpu"),
             compute_type=os.environ.get("WHISPER_COMPUTE_TYPE", "int8"),
             cpu_threads=int(os.environ.get("WHISPER_CPU_THREADS", "0")),
@@ -102,7 +104,7 @@ class WhisperLanguageDetector:
         context = multiprocessing.get_context("spawn")
         parent_connection, child_connection = context.Pipe()
         settings = {
-            "model_size_or_path": os.environ.get("WHISPER_MODEL", "small"),
+            "model_size_or_path": self.model_name,
             "device": os.environ.get("WHISPER_DEVICE", "cpu"),
             "compute_type": os.environ.get("WHISPER_COMPUTE_TYPE", "int8"),
             "cpu_threads": int(os.environ.get("WHISPER_CPU_THREADS", "0")),

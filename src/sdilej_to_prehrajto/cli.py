@@ -97,6 +97,7 @@ def prepare_source_batch(
     max_scan: int,
     deadline_monotonic: float | None,
     deep_scan_only: bool = False,
+    priority_film_ids: set[int] | None = None,
 ) -> list[dict]:
     """Search disjoint backlog slices concurrently and merge their results."""
     # A catalog-ordered retry loop can revisit thousands of high-ranked films
@@ -105,10 +106,11 @@ def prepare_source_batch(
     state = pipelines[0].state
     sources = pipelines[0].selected_sources
 
-    def scan_priority(film: Film) -> tuple[bool, str]:
+    def scan_priority(film: Film) -> tuple[bool, bool, str]:
         source = sources.get(film.cr_film_id) or {}
         attempts = state.snapshot(film.cr_film_id).get("attempts") or []
         return (
+            film.cr_film_id not in (priority_film_ids or set()),
             source.get("source_status") != "rediscovery_needed",
             (attempts[-1].get("attempted_at") or "") if attempts else "",
         )
@@ -120,6 +122,8 @@ def prepare_source_batch(
     def prepare(worker_index: int) -> list[dict]:
         worker_limit = base_limit + (1 if worker_index < extra else 0)
         lane_options = {"deep_scan_only": True} if deep_scan_only else {}
+        if deep_scan_only and priority_film_ids:
+            lane_options["review_film_ids"] = priority_film_ids
         return pipelines[worker_index].prepare_sources(
             films[worker_index::worker_count],
             worker_limit,
@@ -161,6 +165,7 @@ def parser() -> argparse.ArgumentParser:
     )
     result.add_argument("--persist-git-state", action="store_true")
     result.add_argument("--max-scan", type=int, default=200)
+    result.add_argument("--priority-film-id", type=int, action="append", default=[])
     result.add_argument("--prepare-runtime-minutes", type=int, default=0)
     result.add_argument(
         "--prepare-workers",
@@ -182,10 +187,12 @@ def prepare_source_lane(
     max_scan: int,
     deadline_monotonic: float | None,
     deep_scan_only: bool = False,
+    priority_film_ids: set[int] | None = None,
 ) -> list[dict]:
     """Keep one preparation lane active until its workflow deadline."""
     plan: list[dict] = []
     pipeline = pipelines[0]
+    pending_reviews = set(priority_film_ids or set())
     try:
         while True:
             batch = prepare_source_batch(
@@ -195,7 +202,10 @@ def prepare_source_lane(
                 max_scan=max_scan,
                 deadline_monotonic=deadline_monotonic,
                 deep_scan_only=deep_scan_only,
+                priority_film_ids=pending_reviews,
             )
+            # An explicit review bypasses a stale cooldown once per run.
+            pending_reviews.clear()
             plan.extend(batch)
             if deadline_monotonic is None or time.monotonic() >= deadline_monotonic:
                 break
@@ -297,7 +307,9 @@ def main() -> int:
                 SyncPipeline(
                     source_provider=SdilejProvider(
                         worker_session,
-                        WhisperLanguageDetector(),
+                        WhisperLanguageDetector(model_name=(
+                            os.environ.get("WHISPER_DEEP_MODEL") if deep_worker else None
+                        )),
                         max_candidates=(
                             None if deep_worker else FAST_DISCOVERY_CANDIDATES
                         ),
@@ -331,6 +343,7 @@ def main() -> int:
                 args.limit,
                 max_scan=args.max_scan,
                 deadline_monotonic=deadline,
+                priority_film_ids=set(args.priority_film_id),
             )
         else:
             # Keep dedicated workers on difficult films while the remaining
@@ -347,6 +360,7 @@ def main() -> int:
                     fast_limit,
                     max_scan=args.max_scan,
                     deadline_monotonic=deadline,
+                    priority_film_ids=set(args.priority_film_id),
                 )
                 deep_future = executor.submit(
                     prepare_source_lane,
@@ -356,6 +370,7 @@ def main() -> int:
                     max_scan=args.max_scan,
                     deadline_monotonic=deadline,
                     deep_scan_only=True,
+                    priority_film_ids=set(args.priority_film_id),
                 )
                 plan = fast_future.result() + deep_future.result()
         digest = write_plan(args.plan_out, plan)

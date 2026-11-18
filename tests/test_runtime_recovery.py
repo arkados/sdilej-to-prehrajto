@@ -78,3 +78,59 @@ def test_recovery_precedes_catalog_and_retries_are_fair(tmp_path, deep):
     # Recovery first; unseen ties preserve catalog rank; older retries first.
     assert sorted(calls) == sorted([[6, 4, 2], [3, 5, 1]])
     assert [film.cr_film_id for film in films] == list(range(1, 7))
+
+
+def test_operator_review_reaches_deep_workers_ahead_of_the_old_backlog(tmp_path):
+    state = StateStore(tmp_path / 'scan.json')
+    sources = SelectedSourceStore(tmp_path / 'sources.jsonl')
+    state.record_attempt(3, {'status': 'source_deep_scan_failed'})
+    calls = []
+
+    class Pipeline:
+        def __init__(self):
+            self.state, self.selected_sources = state, sources
+
+        def prepare_sources(self, films, limit, **kwargs):
+            calls.append(([film.cr_film_id for film in films], kwargs))
+            return []
+
+    films = [Film(i, str(i), str(i), None, 2000, 90, 'en') for i in range(1, 5)]
+    prepare_source_batch([Pipeline()], films, 4, max_scan=4,
+                         deadline_monotonic=None, deep_scan_only=True,
+                         priority_film_ids={3})
+    assert calls[0][0] == [3, 1, 2, 4]
+    assert calls[0][1]['review_film_ids'] == {3}
+
+
+@pytest.mark.parametrize('quality_ok', [False, True])
+def test_explicit_review_keeps_completion_and_quality_guards(tmp_path, quality_ok):
+    from sdilej_to_prehrajto.models import Candidate, LanguageTier, MatchTier
+    from sdilej_to_prehrajto.pipeline import SyncPipeline
+    from sdilej_to_prehrajto.subtitles import SubtitleQueue
+
+    state = StateStore(tmp_path / 'scan.json')
+    state.record_success(1, {'target_video_id': '777'})
+    for film_id in (2, 3):
+        state.record_attempt(film_id, {'status': 'source_deep_scan_failed'})
+    sources = SelectedSourceStore(tmp_path / 'sources.jsonl')
+    candidate = Candidate('10', 'https://sdilej.cz/10/film.mkv', 'Film',
+                          size_bytes=3_000_000_000 if quality_ok else 100,
+                          duration_sec=6000, width=1920, height=1080,
+                          language_tier=LanguageTier.CZECH_AUDIO,
+                          match_tier=MatchTier.STRONG)
+    calls = []
+
+    class Provider:
+        def discover(self, film):
+            calls.append(film.cr_film_id)
+            return [candidate]
+
+    pipeline = SyncPipeline(source_provider=Provider(), source_session=None,
+                            target_session=None, state=state,
+                            subtitle_queue=SubtitleQueue(tmp_path / 'subs.jsonl'),
+                            selected_sources=sources)
+    films = [Film(i, str(i), 'Film', None, 2000, 100, 'en') for i in (1, 2, 3)]
+    result = pipeline.prepare_sources(films, 3, deep_scan_only=True, review_film_ids={1, 2})
+    assert calls == [2]
+    assert len(result) == int(quality_ok)
+    assert state.snapshot(1)['upload']['target_video_id'] == '777'

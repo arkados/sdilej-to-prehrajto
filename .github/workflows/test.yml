@@ -20,12 +20,16 @@ jobs:
         run: python -m sdilej_to_prehrajto.migration
 
   whisper-runtime:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    strategy:
+      matrix:
+        model: [small, medium]
     timeout-minutes: 25
     env:
       HF_HOME: /tmp/huggingface
       WHISPER_CPU_THREADS: "1"
       WHISPER_NUM_WORKERS: "1"
+      WHISPER_MODEL: ${{ matrix.model }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -35,7 +39,7 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: ${{ env.HF_HOME }}
-          key: whisper-small-${{ runner.os }}-v1
+          key: whisper-${{ matrix.model }}-${{ runner.os }}-v2
       - name: Verify or install media runtime
         timeout-minutes: 12
         run: python3 scripts/ensure_media_runtime.py

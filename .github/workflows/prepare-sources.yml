@@ -2,6 +2,11 @@ name: prepare-sources
 
 on:
   workflow_dispatch:
+    inputs:
+      priority_film_ids:
+        description: Comma-separated film IDs for an explicit deep review
+        type: string
+        default: ''
   schedule:
     - cron: "7 * * * *"
 
@@ -12,17 +17,18 @@ concurrency:
 jobs:
   prepare:
     if: vars.CONTINUOUS_ENABLED == 'true'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 350
     permissions:
       contents: write
     env:
       HF_HOME: /tmp/huggingface
-      # Three fast discovery shards keep the upload queue supplied while three
-      # deep shards drain candidate-heavy films. Limit each Whisper model to
-      # one CPU thread to avoid 6x oversubscription.
+      # One small fast model and two medium deep models fit the runner's RAM.
+      # The deep lane keeps the same language confidence and quality floors.
+      WHISPER_DEEP_MODEL: medium
       WHISPER_CPU_THREADS: "1"
       WHISPER_NUM_WORKERS: "1"
+      PRIORITY_FILM_IDS: ${{ inputs.priority_film_ids || '' }}
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
       PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
@@ -39,7 +45,7 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: ${{ env.HF_HOME }}
-          key: whisper-small-${{ runner.os }}-v1
+          key: whisper-small-medium-${{ runner.os }}-v2
       - name: Verify or install media runtime
         timeout-minutes: 12
         run: python3 scripts/ensure_media_runtime.py
@@ -56,13 +62,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - name: Continuously fill verified source queue
-        run: >-
-          sdilej-sync prepare
-          --limit 200
-          --max-scan 2000
-          --prepare-workers 6
-          --prepare-runtime-minutes 330
-          --persist-git-state
+        run: |
+          priority_args=()
+          IFS=',' read -ra film_ids <<< "$PRIORITY_FILM_IDS"
+          for film_id in "${film_ids[@]}"; do
+            [[ -z "$film_id" ]] && continue
+            [[ "$film_id" =~ ^[0-9]+$ ]] || exit 1
+            priority_args+=(--priority-film-id "$film_id")
+          done
+          sdilej-sync prepare --limit 200 --max-scan 2000 \
+            --prepare-workers 3 --prepare-runtime-minutes 330 \
+            --persist-git-state "${priority_args[@]}"
 
   handoff:
     needs: prepare
