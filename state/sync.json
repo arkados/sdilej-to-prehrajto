@@ -49030,13 +49030,6 @@
           "source_id": "34762216",
           "target_video_id": "29388066",
           "permanent": false,
-          "attempted_at": "2026-11-18T08:21:10.366253+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34762216",
-          "target_video_id": "29388066",
-          "permanent": false,
           "attempted_at": "2026-11-18T11:25:45.692789+00:00"
         },
         {
@@ -49045,12 +49038,20 @@
           "target_video_id": "29388066",
           "permanent": false,
           "attempted_at": "2026-11-18T14:21:33.793293+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34762216",
+          "target_video_id": "29388066",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T21:57:24.938710+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34762216",
         "display_name": "Psych 2: Lassie, pojď domů (2020) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T14:21:14.616809+00:00"
+        "planned_at": "2026-11-18T21:55:30.008835+00:00"
       },
       "prepared": {
         "target_video_id": "29388066",
@@ -49556,7 +49557,7 @@
       "last_plan": {
         "source_id": "32042477",
         "display_name": "Ranhojič (2013) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T14:21:46.745556+00:00"
+        "planned_at": "2026-11-18T21:55:30.418538+00:00"
       },
       "prepared": {
         "target_video_id": "29318983",
@@ -55765,7 +55766,7 @@
       "last_plan": {
         "source_id": "33709979",
         "display_name": "Vánoční skřítek (2003) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T14:21:47.216089+00:00"
+        "planned_at": "2026-11-18T21:55:30.821221+00:00"
       },
       "prepared": {
         "target_video_id": "29407929",
@@ -66668,13 +66669,6 @@
     "24505": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29820312",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-18T21:00:15.387375+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "29820312",
           "reason": "Request failed for https://sdilej.cz/29820312/konicek-hrbacek-1975-.mp4 (HTTP None)",
@@ -66687,12 +66681,19 @@
           "source_id": "29820312",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T21:44:47.443864+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29820312",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-18T21:55:51.730603+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29820312",
         "display_name": "Koníček Hrbáček (1975) SD SK Dabing",
-        "planned_at": "2026-11-18T21:44:24.866806+00:00"
+        "planned_at": "2026-11-18T21:55:29.153037+00:00"
       }
     },
     "23735": {
@@ -312031,13 +312032,6 @@
           "permanent": false,
           "source_id": "34774987",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-18T21:33:41.559490+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34774987",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T21:39:14.850306+00:00"
         },
         {
@@ -312046,12 +312040,19 @@
           "source_id": "34774987",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T21:45:08.372124+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34774987",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-18T21:56:12.645758+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34774987",
         "display_name": "Shivaay (2016) SD CZ Titulky",
-        "planned_at": "2026-11-18T21:44:25.282751+00:00"
+        "planned_at": "2026-11-18T21:55:29.572346+00:00"
       }
     },
     "28588": {
@@ -447039,5 +447040,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T21:55:16.365632+00:00"
+  "updated_at": "2026-11-18T21:57:24.938729+00:00"
 }
