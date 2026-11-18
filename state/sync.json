@@ -105580,17 +105580,19 @@
       "attempts": []
     },
     "14800": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34758048",
+          "target_video_id": "31145306",
+          "permanent": false,
+          "attempted_at": "2026-11-18T08:36:23.326599+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34758048",
         "display_name": "Škola klebiet (1977) 1080p SK Dabing",
         "planned_at": "2026-11-18T08:34:02.835447+00:00"
-      },
-      "claim": {
-        "worker_id": "745e1f22032842a7836547f16b624bdf-shard-0",
-        "claimed_at": "2026-11-18T08:34:04.926767+00:00",
-        "lease_expires_at": "2026-11-18T14:34:04.926767+00:00",
-        "run_id": "44231502947"
       },
       "previous_target_id": "31145306",
       "prepared": {
@@ -446256,5 +446258,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T08:34:08.463847+00:00"
+  "updated_at": "2026-11-18T08:36:23.326613+00:00"
 }
