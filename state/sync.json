@@ -189013,17 +189013,19 @@
       }
     },
     "10675": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34789293",
+          "target_video_id": "31161211",
+          "permanent": false,
+          "attempted_at": "2026-11-18T22:09:01.726843+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34789293",
         "display_name": "Extase (1933) 1080p CZ Dabing",
         "planned_at": "2026-11-18T22:05:30.086696+00:00"
-      },
-      "claim": {
-        "worker_id": "86cd3a76dcac44eaaf1d78e340f53197-shard-0",
-        "claimed_at": "2026-11-18T22:06:36.738978+00:00",
-        "lease_expires_at": "2026-11-19T04:06:36.738978+00:00",
-        "run_id": "44388747247"
       },
       "previous_target_id": "31161211",
       "prepared": {
@@ -447080,5 +447082,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T22:06:40.289712+00:00"
+  "updated_at": "2026-11-18T22:09:01.726861+00:00"
 }
