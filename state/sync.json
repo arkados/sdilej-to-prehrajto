@@ -103887,17 +103887,19 @@
       }
     },
     "12526": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34758084",
+          "target_video_id": "31145368",
+          "permanent": false,
+          "attempted_at": "2026-11-18T08:42:23.470523+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34758084",
         "display_name": "Sebechlebskí hudci (1975) 1080p SK Dabing",
         "planned_at": "2026-11-18T08:37:33.632503+00:00"
-      },
-      "claim": {
-        "worker_id": "03b232cec5814563a8fd3d76eecbc9dc-shard-0",
-        "claimed_at": "2026-11-18T08:37:35.709035+00:00",
-        "lease_expires_at": "2026-11-18T14:37:35.709035+00:00",
-        "run_id": "44231502947"
       },
       "previous_target_id": "31145368",
       "prepared": {
@@ -446275,5 +446277,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T08:37:39.541800+00:00"
+  "updated_at": "2026-11-18T08:42:23.470539+00:00"
 }
