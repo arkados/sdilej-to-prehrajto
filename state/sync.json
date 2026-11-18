@@ -107634,13 +107634,6 @@
           "permanent": false,
           "source_id": "5972613",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-18T17:48:05.485791+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "5972613",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T17:58:04.450443+00:00"
         },
         {
@@ -107649,18 +107642,19 @@
           "source_id": "5972613",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T18:04:24.293874+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "5972613",
+          "target_video_id": "31157130",
+          "permanent": false,
+          "attempted_at": "2026-11-18T18:25:38.663567+00:00"
         }
       ],
       "last_plan": {
         "source_id": "5972613",
         "display_name": "Černý prapor (1958) SD CZ Dabing",
         "planned_at": "2026-11-18T18:20:22.834578+00:00"
-      },
-      "claim": {
-        "worker_id": "23b3e17089ff481cb1691bd9eee39f49-shard-0",
-        "claimed_at": "2026-11-18T18:20:24.881184+00:00",
-        "lease_expires_at": "2026-11-19T00:20:24.881184+00:00",
-        "run_id": "44310963904"
       },
       "previous_target_id": "31157130",
       "prepared": {
@@ -446689,5 +446683,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T18:20:30.976005+00:00"
+  "updated_at": "2026-11-18T18:25:38.663584+00:00"
 }
