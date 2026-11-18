@@ -86317,12 +86317,19 @@
           "source_id": "34853602",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T20:49:56.041407+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34853602",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-18T20:55:54.801723+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34853602",
         "display_name": "Zlo si umí počkat (2023) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T20:49:33.435865+00:00"
+        "planned_at": "2026-11-18T20:55:11.696412+00:00"
       }
     },
     "11861": {
@@ -97023,7 +97030,20 @@
       "attempts": []
     },
     "29373": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "10003478",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-18T20:55:33.890219+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "10003478",
+        "display_name": "Imagine Dragons: Smoke + Mirrors Live (2016) SD CZ Titulky",
+        "planned_at": "2026-11-18T20:55:11.246487+00:00"
+      }
     },
     "34805": {
       "attempts": [
@@ -352895,13 +352915,6 @@
           "source_id": "32726585",
           "target_video_id": "29658541",
           "permanent": false,
-          "attempted_at": "2026-11-18T08:09:12.003401+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32726585",
-          "target_video_id": "29658541",
-          "permanent": false,
           "attempted_at": "2026-11-18T11:02:34.336594+00:00"
         },
         {
@@ -352910,12 +352923,20 @@
           "target_video_id": "29658541",
           "permanent": false,
           "attempted_at": "2026-11-18T13:58:25.743761+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32726585",
+          "target_video_id": "29658541",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T20:57:06.994280+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32726585",
         "display_name": "Lidi, které nesnášíme na svatbě (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:58:07.055990+00:00"
+        "planned_at": "2026-11-18T20:55:12.153052+00:00"
       },
       "previous_target_id": "29658541",
       "prepared": {
@@ -357282,7 +357303,7 @@
       "last_plan": {
         "source_id": "11595340",
         "display_name": "Smršť nad Pacifikem (2006) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:58:38.746545+00:00"
+        "planned_at": "2026-11-18T20:55:12.980809+00:00"
       },
       "previous_target_id": "29678669",
       "prepared": {
@@ -357988,7 +358009,7 @@
       "last_plan": {
         "source_id": "27874666",
         "display_name": "Zbohatlíci 3: Volnost, rovnost, zbohatlictví (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:58:38.343128+00:00"
+        "planned_at": "2026-11-18T20:55:12.571511+00:00"
       },
       "previous_target_id": "29683796",
       "prepared": {
@@ -446894,5 +446915,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T20:54:57.591051+00:00"
+  "updated_at": "2026-11-18T20:57:06.994305+00:00"
 }
