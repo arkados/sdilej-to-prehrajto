@@ -86324,13 +86324,6 @@
           "permanent": false,
           "source_id": "34853602",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-18T20:44:19.814448+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34853602",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T20:49:56.041407+00:00"
         },
         {
@@ -86339,18 +86332,19 @@
           "source_id": "34853602",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T20:55:54.801723+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34853602",
+          "target_video_id": "31159984",
+          "permanent": false,
+          "attempted_at": "2026-11-18T21:10:37.038317+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34853602",
         "display_name": "Zlo si umí počkat (2023) 1080p CZ Titulky",
         "planned_at": "2026-11-18T21:05:33.536368+00:00"
-      },
-      "claim": {
-        "worker_id": "6332d11b77b84715927b68af4efe98da-shard-0",
-        "claimed_at": "2026-11-18T21:07:08.951167+00:00",
-        "lease_expires_at": "2026-11-19T03:07:08.951167+00:00",
-        "run_id": "44388747247"
       },
       "previous_target_id": "31159984",
       "prepared": {
@@ -446959,5 +446953,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T21:07:12.979154+00:00"
+  "updated_at": "2026-11-18T21:10:37.038333+00:00"
 }
