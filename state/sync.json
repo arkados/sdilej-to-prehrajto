@@ -66696,13 +66696,6 @@
           "permanent": false,
           "source_id": "29820312",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-18T21:44:47.443864+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29820312",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T21:55:51.730603+00:00"
         },
         {
@@ -66711,18 +66704,19 @@
           "reason": "Request failed for https://sdilej.cz/29820312/konicek-hrbacek-1975-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-18T22:09:05.796583+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29820312",
+          "target_video_id": "31161844",
+          "permanent": false,
+          "attempted_at": "2026-11-18T22:40:08.970838+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29820312",
         "display_name": "Koníček Hrbáček (1975) SD SK Dabing",
         "planned_at": "2026-11-18T22:39:27.529132+00:00"
-      },
-      "claim": {
-        "worker_id": "97b54dfc0db94bfc90ef69986c975d14-shard-0",
-        "claimed_at": "2026-11-18T22:39:29.698862+00:00",
-        "lease_expires_at": "2026-11-19T04:39:29.698862+00:00",
-        "run_id": "44388747247"
       },
       "previous_target_id": "31161844",
       "prepared": {
@@ -447126,5 +447120,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T22:39:33.988836+00:00"
+  "updated_at": "2026-11-18T22:40:08.970857+00:00"
 }
