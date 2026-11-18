@@ -397137,17 +397137,19 @@
       }
     },
     "7883": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27307255",
+          "target_video_id": "31134764",
+          "permanent": false,
+          "attempted_at": "2026-11-18T00:44:51.503491+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27307255",
         "display_name": "Uvnitř (2023) SD CZ Titulky",
         "planned_at": "2026-11-18T00:37:37.284276+00:00"
-      },
-      "claim": {
-        "worker_id": "fb1517043041404e831da10a4b9b6f91-shard-0",
-        "claimed_at": "2026-11-18T00:37:39.410479+00:00",
-        "lease_expires_at": "2026-11-18T06:37:39.410479+00:00",
-        "run_id": "44186408545"
       },
       "previous_target_id": "31134764",
       "prepared": {
@@ -446418,5 +446420,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T00:37:42.842323+00:00"
+  "updated_at": "2026-11-18T00:44:51.503508+00:00"
 }
