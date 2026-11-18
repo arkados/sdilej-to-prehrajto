@@ -48740,13 +48740,6 @@
           "source_id": "29638089",
           "target_video_id": "29387970",
           "permanent": false,
-          "attempted_at": "2026-11-18T07:51:08.984574+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29638089",
-          "target_video_id": "29387970",
-          "permanent": false,
           "attempted_at": "2026-11-18T10:42:36.042038+00:00"
         },
         {
@@ -48755,12 +48748,20 @@
           "target_video_id": "29387970",
           "permanent": false,
           "attempted_at": "2026-11-18T13:40:32.913068+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29638089",
+          "target_video_id": "29387970",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T19:58:23.469520+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29638089",
         "display_name": "71 (2014) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T13:39:50.089645+00:00"
+        "planned_at": "2026-11-18T19:57:08.931770+00:00"
       },
       "prepared": {
         "target_video_id": "29387970",
@@ -211158,7 +211159,7 @@
       "last_plan": {
         "source_id": "32836469",
         "display_name": "Na vlnách lásky (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:39:50.528298+00:00"
+        "planned_at": "2026-11-18T19:57:09.341771+00:00"
       },
       "prepared": {
         "target_video_id": "29266611",
@@ -211629,7 +211630,7 @@
       "last_plan": {
         "source_id": "22563602",
         "display_name": "Hon na čarodějnice: Za lásku a svobodu (2021) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:39:50.928492+00:00"
+        "planned_at": "2026-11-18T19:57:09.747931+00:00"
       },
       "prepared": {
         "target_video_id": "29344116",
@@ -212988,7 +212989,7 @@
       "last_plan": {
         "source_id": "34900693",
         "display_name": "Poslední tanec Salome (1988) SD CZ Dabing",
-        "planned_at": "2026-11-18T13:39:51.708324+00:00"
+        "planned_at": "2026-11-18T19:57:10.561701+00:00"
       },
       "prepared": {
         "target_video_id": "29222174",
@@ -214274,7 +214275,7 @@
       "last_plan": {
         "source_id": "19560291",
         "display_name": "Příběh Elizabeth Smartové (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:39:51.317270+00:00"
+        "planned_at": "2026-11-18T19:57:10.155021+00:00"
       },
       "prepared": {
         "target_video_id": "29168644",
@@ -446844,5 +446845,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T19:56:54.444963+00:00"
+  "updated_at": "2026-11-18T19:58:23.469540+00:00"
 }
