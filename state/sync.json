@@ -86303,7 +86303,20 @@
       }
     },
     "2538": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34853602",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-18T20:44:19.814448+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34853602",
+        "display_name": "Zlo si umí počkat (2023) 1080p CZ Titulky",
+        "planned_at": "2026-11-18T20:43:57.188680+00:00"
+      }
     },
     "11861": {
       "attempts": [
@@ -345270,13 +345283,6 @@
           "source_id": "23564589",
           "target_video_id": "29651252",
           "permanent": false,
-          "attempted_at": "2026-11-18T08:08:27.952599+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "23564589",
-          "target_video_id": "29651252",
-          "permanent": false,
           "attempted_at": "2026-11-18T11:01:34.630589+00:00"
         },
         {
@@ -345285,12 +345291,20 @@
           "target_video_id": "29651252",
           "permanent": false,
           "attempted_at": "2026-11-18T13:57:40.533945+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "23564589",
+          "target_video_id": "29651252",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T20:45:33.454833+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23564589",
         "display_name": "Hounded (2022) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T13:57:31.877344+00:00"
+        "planned_at": "2026-11-18T20:43:57.659124+00:00"
       },
       "previous_target_id": "29651252",
       "prepared": {
@@ -346686,7 +346700,7 @@
       "last_plan": {
         "source_id": "6477718",
         "display_name": "Princ a já: Sloní dobrodužství (2010) SD CZ Dabing",
-        "planned_at": "2026-11-18T13:57:32.266702+00:00"
+        "planned_at": "2026-11-18T20:43:58.071528+00:00"
       },
       "previous_target_id": "29653458",
       "prepared": {
@@ -350216,7 +350230,7 @@
       "last_plan": {
         "source_id": "14361665",
         "display_name": "The Curse of Audrey Earnshaw (2020) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T13:57:33.051188+00:00"
+        "planned_at": "2026-11-18T20:43:58.896610+00:00"
       },
       "previous_target_id": "29657104",
       "prepared": {
@@ -350585,7 +350599,7 @@
       "last_plan": {
         "source_id": "28796831",
         "display_name": "Zákon přitažlivosti (2004) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:57:32.658817+00:00"
+        "planned_at": "2026-11-18T20:43:58.482683+00:00"
       },
       "previous_target_id": "29657185",
       "prepared": {
@@ -446866,5 +446880,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T20:43:38.257388+00:00"
+  "updated_at": "2026-11-18T20:45:33.454855+00:00"
 }
