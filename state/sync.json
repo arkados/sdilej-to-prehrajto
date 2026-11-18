@@ -209566,17 +209566,19 @@
       }
     },
     "14235": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24347265",
+          "target_video_id": "31162545",
+          "permanent": false,
+          "attempted_at": "2026-11-18T23:13:51.971190+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24347265",
         "display_name": "Calibro 9 (2020) SD SK Dabing",
         "planned_at": "2026-11-18T23:04:28.734464+00:00"
-      },
-      "claim": {
-        "worker_id": "eaa09e01b5244b0eabb142aff762de37-shard-0",
-        "claimed_at": "2026-11-18T23:10:30.308265+00:00",
-        "lease_expires_at": "2026-11-19T05:10:30.308265+00:00",
-        "run_id": "44388747247"
       },
       "previous_target_id": "31162545",
       "prepared": {
@@ -447197,5 +447199,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T23:10:34.054184+00:00"
+  "updated_at": "2026-11-18T23:13:51.971211+00:00"
 }
