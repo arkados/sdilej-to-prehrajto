@@ -206242,13 +206242,6 @@
           "source_id": "33664516",
           "target_video_id": "29220276",
           "permanent": false,
-          "attempted_at": "2026-11-18T07:49:18.665297+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33664516",
-          "target_video_id": "29220276",
-          "permanent": false,
           "attempted_at": "2026-11-18T10:40:51.149060+00:00"
         },
         {
@@ -206257,12 +206250,20 @@
           "target_video_id": "29220276",
           "permanent": false,
           "attempted_at": "2026-11-18T13:38:48.697248+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33664516",
+          "target_video_id": "29220276",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T19:45:18.715414+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33664516",
         "display_name": "Neonová cesta (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:38:43.322557+00:00"
+        "planned_at": "2026-11-18T19:44:04.197157+00:00"
       },
       "prepared": {
         "target_video_id": "29220276",
@@ -207150,7 +207151,7 @@
       "last_plan": {
         "source_id": "30588020",
         "display_name": "Destination Gobi (1953) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:38:44.249681+00:00"
+        "planned_at": "2026-11-18T19:44:05.013692+00:00"
       },
       "prepared": {
         "target_video_id": "29344077",
@@ -208223,7 +208224,7 @@
       "last_plan": {
         "source_id": "26569147",
         "display_name": "Pekelný dům (2020) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:38:43.862659+00:00"
+        "planned_at": "2026-11-18T19:44:04.608864+00:00"
       },
       "prepared": {
         "target_video_id": "29220982",
@@ -209142,7 +209143,7 @@
       "last_plan": {
         "source_id": "32991210",
         "display_name": "Společenství vlků (1984) 4K CZ Dabing",
-        "planned_at": "2026-11-18T13:38:45.032684+00:00"
+        "planned_at": "2026-11-18T19:44:05.828768+00:00"
       },
       "prepared": {
         "target_video_id": "29167729",
@@ -211117,7 +211118,7 @@
       "last_plan": {
         "source_id": "32353777",
         "display_name": "Vánoční expres (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:38:44.640485+00:00"
+        "planned_at": "2026-11-18T19:44:05.418908+00:00"
       },
       "prepared": {
         "target_video_id": "29230784",
@@ -446835,5 +446836,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T19:43:49.871401+00:00"
+  "updated_at": "2026-11-18T19:45:18.715432+00:00"
 }
