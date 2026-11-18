@@ -312074,13 +312074,6 @@
           "permanent": false,
           "source_id": "34774987",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-18T21:39:14.850306+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34774987",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T21:45:08.372124+00:00"
         },
         {
@@ -312089,18 +312082,19 @@
           "source_id": "34774987",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T21:56:12.645758+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34774987",
+          "target_video_id": "31161260",
+          "permanent": false,
+          "attempted_at": "2026-11-18T22:11:51.155213+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34774987",
         "display_name": "Shivaay (2016) SD CZ Titulky",
         "planned_at": "2026-11-18T22:05:30.941159+00:00"
-      },
-      "claim": {
-        "worker_id": "86cd3a76dcac44eaaf1d78e340f53197-shard-0",
-        "claimed_at": "2026-11-18T22:09:08.763083+00:00",
-        "lease_expires_at": "2026-11-19T04:09:08.763083+00:00",
-        "run_id": "44388747247"
       },
       "previous_target_id": "31161260",
       "prepared": {
@@ -447094,5 +447088,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T22:09:12.608355+00:00"
+  "updated_at": "2026-11-18T22:11:51.155231+00:00"
 }
