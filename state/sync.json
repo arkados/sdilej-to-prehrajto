@@ -138617,7 +138617,7 @@
       "last_plan": {
         "source_id": "32705790",
         "display_name": "Stín podezření (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:32:52.081901+00:00"
+        "planned_at": "2026-11-18T18:43:15.894189+00:00"
       },
       "previous_target_id": "29806041",
       "prepared": {
@@ -191350,7 +191350,7 @@
       "last_plan": {
         "source_id": "30060670",
         "display_name": "Válka policajtů (1979) SD CZ Dabing",
-        "planned_at": "2026-11-18T13:33:25.496621+00:00"
+        "planned_at": "2026-11-18T18:43:16.311150+00:00"
       },
       "prepared": {
         "target_video_id": "29218067",
@@ -192405,13 +192405,6 @@
           "source_id": "32746960",
           "target_video_id": "29828936",
           "permanent": false,
-          "attempted_at": "2026-11-18T07:43:57.407991+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32746960",
-          "target_video_id": "29828936",
-          "permanent": false,
           "attempted_at": "2026-11-18T10:35:19.211101+00:00"
         },
         {
@@ -192420,12 +192413,20 @@
           "target_video_id": "29828936",
           "permanent": false,
           "attempted_at": "2026-11-18T13:33:07.745145+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32746960",
+          "target_video_id": "29828936",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T18:45:11.085721+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32746960",
         "display_name": "Vražedná výchova (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:32:51.691629+00:00"
+        "planned_at": "2026-11-18T18:43:15.478682+00:00"
       },
       "previous_target_id": "29828936",
       "prepared": {
@@ -324961,12 +324962,19 @@
           "source_id": "25699329",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T18:33:38.333878+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "25699329",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-18T18:43:37.310415+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25699329",
         "display_name": "Nadosmrti (2021) SD CZ Titulky",
-        "planned_at": "2026-11-18T18:26:17.759249+00:00"
+        "planned_at": "2026-11-18T18:43:14.618498+00:00"
       }
     },
     "19849": {
@@ -388271,12 +388279,19 @@
           "source_id": "11841659",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T18:33:59.303893+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11841659",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-18T18:43:58.320395+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11841659",
         "display_name": "Lancaster Skies (2019) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T18:26:18.169657+00:00"
+        "planned_at": "2026-11-18T18:43:15.033416+00:00"
       }
     },
     "16909": {
@@ -446736,5 +446751,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T18:42:59.994429+00:00"
+  "updated_at": "2026-11-18T18:45:11.085740+00:00"
 }
