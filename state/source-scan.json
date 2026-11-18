@@ -538401,15 +538401,6 @@
     "25085": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-16T12:44:02.323821+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -538424,6 +538415,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T03:52:40.671267+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-11-18T14:07:46.331066+00:00"
         }
       ]
     },
@@ -723339,5 +723337,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-18T14:04:17.677928+00:00"
+  "updated_at": "2026-11-18T14:07:46.331084+00:00"
 }
