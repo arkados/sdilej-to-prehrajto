@@ -96890,13 +96890,6 @@
           "permanent": false,
           "source_id": "35231917",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-18T17:47:44.397794+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35231917",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T17:53:42.947937+00:00"
         },
         {
@@ -96905,18 +96898,19 @@
           "source_id": "35231917",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T18:04:03.317590+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35231917",
+          "target_video_id": "31157096",
+          "permanent": false,
+          "attempted_at": "2026-11-18T18:19:48.258927+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35231917",
         "display_name": "Krtek ve snu (1984) 1080p CZ Titulky",
         "planned_at": "2026-11-18T18:09:21.109730+00:00"
-      },
-      "claim": {
-        "worker_id": "017e0dd8d57c4495a9806fdf6b328a96-shard-0",
-        "claimed_at": "2026-11-18T18:18:07.489188+00:00",
-        "lease_expires_at": "2026-11-19T00:18:07.489188+00:00",
-        "run_id": "44310963904"
       },
       "previous_target_id": "31157096",
       "prepared": {
@@ -446683,5 +446677,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T18:18:12.912759+00:00"
+  "updated_at": "2026-11-18T18:19:48.258947+00:00"
 }
