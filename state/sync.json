@@ -21661,7 +21661,7 @@
       "last_plan": {
         "source_id": "30641618",
         "display_name": "Nepřítel před branami (2001) 4K CZ Dabing",
-        "planned_at": "2026-11-18T14:20:06.027234+00:00"
+        "planned_at": "2026-11-18T21:38:53.102529+00:00"
       },
       "prepared": {
         "target_video_id": "29116000",
@@ -31499,13 +31499,6 @@
           "source_id": "12181949",
           "target_video_id": "29260125",
           "permanent": false,
-          "attempted_at": "2026-11-18T08:19:54.972444+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12181949",
-          "target_video_id": "29260125",
-          "permanent": false,
           "attempted_at": "2026-11-18T11:24:31.216248+00:00"
         },
         {
@@ -31514,12 +31507,20 @@
           "target_video_id": "29260125",
           "permanent": false,
           "attempted_at": "2026-11-18T14:20:18.199622+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12181949",
+          "target_video_id": "29260125",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T21:40:26.762513+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12181949",
         "display_name": "Bídníci (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T14:20:05.637090+00:00"
+        "planned_at": "2026-11-18T21:38:52.690650+00:00"
       },
       "prepared": {
         "target_video_id": "29260125",
@@ -39037,7 +39038,7 @@
       "last_plan": {
         "source_id": "26314149",
         "display_name": "Zpívej 2 (2021) 4K CZ Dabing",
-        "planned_at": "2026-11-18T14:20:06.417019+00:00"
+        "planned_at": "2026-11-18T21:38:53.515861+00:00"
       },
       "prepared": {
         "target_video_id": "29127237",
@@ -44617,7 +44618,7 @@
       "last_plan": {
         "source_id": "31605868",
         "display_name": "Shenandoah (1965) SD CZ Dabing",
-        "planned_at": "2026-11-18T14:20:38.001741+00:00"
+        "planned_at": "2026-11-18T21:38:53.930419+00:00"
       },
       "prepared": {
         "target_video_id": "29463896",
@@ -312014,12 +312015,19 @@
           "source_id": "34774987",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T21:33:41.559490+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34774987",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-18T21:39:14.850306+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34774987",
         "display_name": "Shivaay (2016) SD CZ Titulky",
-        "planned_at": "2026-11-18T21:33:18.916387+00:00"
+        "planned_at": "2026-11-18T21:38:52.249577+00:00"
       }
     },
     "28588": {
@@ -447007,5 +447015,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T21:38:38.267367+00:00"
+  "updated_at": "2026-11-18T21:40:26.762537+00:00"
 }
