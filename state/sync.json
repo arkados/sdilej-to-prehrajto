@@ -1691,7 +1691,7 @@
       "last_plan": {
         "source_id": "7430975",
         "display_name": "Dangal (2016) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T13:58:39.526362+00:00"
+        "planned_at": "2026-11-18T20:59:53.638673+00:00"
       },
       "prepared": {
         "target_video_id": "29111363",
@@ -2487,13 +2487,6 @@
           "source_id": "24225122",
           "target_video_id": "29115694",
           "permanent": false,
-          "attempted_at": "2026-11-18T08:09:37.669768+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24225122",
-          "target_video_id": "29115694",
-          "permanent": false,
           "attempted_at": "2026-11-18T11:02:45.662671+00:00"
         },
         {
@@ -2502,12 +2495,20 @@
           "target_video_id": "29115694",
           "permanent": false,
           "attempted_at": "2026-11-18T13:58:51.946810+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "24225122",
+          "target_video_id": "29115694",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-18T21:01:32.788100+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24225122",
         "display_name": "Koe no katači (2016) 1080p CZ Titulky",
-        "planned_at": "2026-11-18T13:58:39.137289+00:00"
+        "planned_at": "2026-11-18T20:59:53.222948+00:00"
       },
       "prepared": {
         "target_video_id": "29115694",
@@ -66646,7 +66647,20 @@
       "attempts": []
     },
     "24505": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29820312",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-18T21:00:15.387375+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "29820312",
+        "display_name": "Koníček Hrbáček (1975) SD SK Dabing",
+        "planned_at": "2026-11-18T20:59:52.750856+00:00"
+      }
     },
     "23735": {
       "attempts": [
@@ -352185,7 +352199,7 @@
       "last_plan": {
         "source_id": "11032374",
         "display_name": "Život jde dál (2006) 1080p CZ Dabing",
-        "planned_at": "2026-11-18T13:59:11.716788+00:00"
+        "planned_at": "2026-11-18T20:59:54.471142+00:00"
       },
       "previous_target_id": "29658195",
       "prepared": {
@@ -356522,7 +356536,7 @@
       "last_plan": {
         "source_id": "34908899",
         "display_name": "Orka zabiják (1977) 4K CZ Dabing",
-        "planned_at": "2026-11-18T13:58:39.917300+00:00"
+        "planned_at": "2026-11-18T20:59:54.054059+00:00"
       },
       "previous_target_id": "29666723",
       "prepared": {
@@ -446917,5 +446931,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T20:59:37.463149+00:00"
+  "updated_at": "2026-11-18T21:01:32.788118+00:00"
 }
