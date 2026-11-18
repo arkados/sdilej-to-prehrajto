@@ -253,10 +253,12 @@ def main() -> int:
         args.state = REPO_ROOT / "state/source-scan.json"
     source_email = required_env("SDILEJ_EMAIL")
     source_password = required_env("SDILEJ_PASSWORD")
-    target_email = required_env("PREHRAJTO_EMAIL")
-    target_password = required_env("PREHRAJTO_PASSWORD")
     source_session = login_sdilej(source_email, source_password)
-    target_session = login_prehrajto(target_email, target_password)
+    target_session = None
+    if args.mode != "prepare":
+        target_email = required_env("PREHRAJTO_EMAIL")
+        target_password = required_env("PREHRAJTO_PASSWORD")
+        target_session = login_prehrajto(target_email, target_password)
     subtitle_path = REPO_ROOT / "plans/subtitle-followup.jsonl"
     persisted_extras = [subtitle_path]
     if args.mode in {"plan", "prepare"}:

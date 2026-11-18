@@ -23,7 +23,7 @@ jobs:
       contents: write
     env:
       HF_HOME: /tmp/huggingface
-      # One small fast model and two medium deep models fit the runner's RAM.
+      # One small fast model and one medium deep model bound runner memory.
       # The deep lane keeps the same language confidence and quality floors.
       WHISPER_DEEP_MODEL: medium
       WHISPER_CPU_THREADS: "1"
@@ -31,8 +31,6 @@ jobs:
       PRIORITY_FILM_IDS: ${{ inputs.priority_film_ids || '' }}
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
-      PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
-      PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -71,7 +69,7 @@ jobs:
             priority_args+=(--priority-film-id "$film_id")
           done
           sdilej-sync prepare --limit 200 --max-scan 2000 \
-            --prepare-workers 3 --prepare-runtime-minutes 330 \
+            --prepare-workers 2 --prepare-runtime-minutes 330 \
             --persist-git-state "${priority_args[@]}"
 
   handoff:

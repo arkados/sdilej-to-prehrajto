@@ -26,6 +26,29 @@ def test_upload_default_is_one_worker(monkeypatch):
     assert additional_worker_count(1, 50, refill_enabled=True) == 0
 
 
+def test_preparation_does_not_require_target_credentials_or_login(tmp_path, monkeypatch):
+    import sdilej_to_prehrajto.cli as cli
+
+    monkeypatch.setattr(cli, 'REPO_ROOT', tmp_path)
+    monkeypatch.setenv('SDILEJ_EMAIL', 'source@example.test')
+    monkeypatch.setenv('SDILEJ_PASSWORD', 'test-source')
+    monkeypatch.delenv('PREHRAJTO_EMAIL', raising=False)
+    monkeypatch.delenv('PREHRAJTO_PASSWORD', raising=False)
+    monkeypatch.setattr(cli, 'login_sdilej', lambda *_: object())
+    monkeypatch.setattr(cli, 'login_prehrajto', lambda *_: pytest.fail('Source preparation must not log into the target'))
+    monkeypatch.setattr(cli, 'load_backlog', lambda *_: [Film(1, 'film', 'Film', None, 2000, 90, 'en')])
+
+    def prepare(pipelines, *_args, **_kwargs):
+        assert pipelines[0].target_session is None
+        return []
+
+    monkeypatch.setattr(cli, 'prepare_source_lane', prepare)
+    monkeypatch.setattr('sys.argv', ['sdilej-sync', 'prepare', '--limit', '1',
+                                    '--plan-out', str(tmp_path / 'plan.json'),
+                                    '--report-out', str(tmp_path / 'report.md')])
+    assert cli.main() == 0
+
+
 @pytest.mark.parametrize("workers", [0, 2, 3, 4, 6])
 @pytest.mark.parametrize("via_env", [False, True])
 @pytest.mark.parametrize("mode", ["upload", "continuous"])
