@@ -388295,13 +388295,6 @@
           "permanent": false,
           "source_id": "11841659",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-18T18:33:59.303893+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11841659",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T18:43:58.320395+00:00"
         },
         {
@@ -388310,18 +388303,19 @@
           "source_id": "11841659",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-18T18:55:14.004744+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11841659",
+          "target_video_id": "31157997",
+          "permanent": false,
+          "attempted_at": "2026-11-18T19:09:09.660666+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11841659",
         "display_name": "Lancaster Skies (2019) 1080p CZ Titulky",
         "planned_at": "2026-11-18T19:04:57.894617+00:00"
-      },
-      "claim": {
-        "worker_id": "e8f725e5c78e437e8feee2ea443f82f6-shard-0",
-        "claimed_at": "2026-11-18T19:05:05.556916+00:00",
-        "lease_expires_at": "2026-11-19T01:05:05.556916+00:00",
-        "run_id": "44310963904"
       },
       "previous_target_id": "31157997",
       "prepared": {
@@ -446789,5 +446783,5 @@
       }
     }
   },
-  "updated_at": "2026-11-18T19:05:10.181144+00:00"
+  "updated_at": "2026-11-18T19:09:09.660683+00:00"
 }
