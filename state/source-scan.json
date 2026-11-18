@@ -3042,15 +3042,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-11T10:41:53.191678+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-13T06:48:57.723377+00:00"
         },
         {
@@ -3061,6 +3052,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-15T01:48:04.807105+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before search completed",
+          "attempted_at": "2026-11-18T03:16:26.154638+00:00"
         }
       ]
     },
@@ -6013,15 +6011,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-11T10:40:00.891055+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-13T06:47:45.488103+00:00"
         },
         {
@@ -6032,6 +6021,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-15T01:46:39.287623+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Umberto D 1952 online | Sdilej.cz'; bytes=188385; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-18T03:01:07.785348+00:00"
         }
       ]
     },
@@ -8629,15 +8625,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-11T10:38:20.975820+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-13T06:44:55.617227+00:00"
         },
         {
@@ -8648,6 +8635,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-15T01:44:30.672320+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Quo Vadis Aida 2021 online | Sdilej.cz'; bytes=188490; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-18T03:01:07.323558+00:00"
         }
       ]
     },
@@ -58295,13 +58289,6 @@
           "status": "source_deep_scan_failed",
           "permanent": false,
           "selection_policy": "compact-quality-v13",
-          "reason": "Request failed for https://sdilej.cz/mala-sokolnice/s/-6 (HTTP None)",
-          "attempted_at": "2026-11-15T20:11:49.438201+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-16T05:50:38.345413+00:00"
         },
@@ -58311,6 +58298,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-16T14:55:29.896498+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Request failed for https://sdilej.cz/mala-sokolnice-2016/s/-6 (HTTP None)",
+          "attempted_at": "2026-11-18T03:06:19.152620+00:00"
         }
       ]
     },
@@ -97622,13 +97616,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
-          "attempted_at": "2026-11-15T19:20:32.228822+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-16T04:57:41.644027+00:00"
         },
         {
@@ -97637,6 +97624,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-16T14:27:21.891830+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Konicek Hrbacek 1975 online | Sdilej.cz'; bytes=188511; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-18T03:11:20.474038+00:00"
         }
       ]
     },
@@ -138488,15 +138482,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-11T10:31:08.517900+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-13T06:38:29.411042+00:00"
         },
         {
@@ -138507,6 +138492,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-15T01:41:36.536697+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Sachova Kralovna 2009 online | Sdilej.cz'; bytes=188532; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-18T03:06:20.058089+00:00"
         }
       ]
     },
@@ -141974,13 +141966,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
-          "attempted_at": "2026-11-15T19:18:22.682075+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-16T05:54:43.541549+00:00"
         },
         {
@@ -141989,6 +141974,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-16T14:58:23.604173+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Imagine Dragons Smoke Mirrors Live 2016 online | Sdilej.cz'; bytes=188910; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-18T02:56:10.706437+00:00"
         }
       ]
     },
@@ -149328,15 +149320,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-11T10:30:11.735050+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-13T06:37:27.546390+00:00"
         },
         {
@@ -149347,6 +149330,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-15T01:40:56.373964+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='En Sang For Martin 2001 online | Sdilej.cz'; bytes=188574; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-18T03:01:08.254168+00:00"
         }
       ]
     },
@@ -163997,13 +163987,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "No searchable title after source URL normalization",
-          "attempted_at": "2026-11-15T19:32:10.205442+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No searchable title after source URL normalization",
           "attempted_at": "2026-11-16T06:05:11.742551+00:00"
         },
         {
@@ -164012,6 +163995,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No searchable title after source URL normalization",
           "attempted_at": "2026-11-16T15:01:23.568336+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No searchable title after source URL normalization",
+          "attempted_at": "2026-11-18T03:11:20.931100+00:00"
         }
       ]
     },
@@ -318671,15 +318661,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-12T23:22:26.428621+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-14T17:36:03.328244+00:00"
         },
         {
@@ -318688,6 +318669,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Discovery deadline expired before verification completed",
           "attempted_at": "2026-11-16T15:00:27.884962+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Test 2013 online | Sdilej.cz'; bytes=188280; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-18T03:01:09.185385+00:00"
         }
       ]
     },
@@ -326737,15 +326725,6 @@
     "31482": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-14T09:16:12.905845+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -326758,6 +326737,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Request failed for https://sdilej.cz/lego-marvel-avengers-mission-demolition/s/-6 (HTTP None)",
           "attempted_at": "2026-11-16T15:01:21.402064+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Lego Marvel Avengers Operace Demolice 2024 online | Sdilej.cz'; bytes=188973; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-18T03:11:20.014615+00:00"
         }
       ]
     },
@@ -370338,15 +370324,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-11T10:41:17.867975+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-13T06:48:34.570737+00:00"
         },
         {
@@ -370357,6 +370334,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-15T01:47:44.512684+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Request failed for https://sdilej.cz/moji-pratele-iii-1985/s/-6 (HTTP None)",
+          "attempted_at": "2026-11-18T03:06:12.217917+00:00"
         }
       ]
     },
@@ -469412,13 +469396,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
-          "attempted_at": "2026-11-15T18:54:59.607456+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-16T05:16:01.303148+00:00"
         },
         {
@@ -469427,6 +469404,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-16T14:24:26.960195+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Zasah 2016 online | Sdilej.cz'; bytes=188301; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-18T03:01:09.697557+00:00"
         }
       ]
     },
@@ -501168,13 +501152,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
-          "attempted_at": "2026-11-15T19:24:39.647995+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-16T05:52:36.128930+00:00"
         },
         {
@@ -501183,6 +501160,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-16T14:48:59.877070+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Kouzelnici Z Waverly Film 2009 online | Sdilej.cz'; bytes=188721; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-18T02:56:10.244699+00:00"
         }
       ]
     },
@@ -674726,13 +674710,6 @@
     "22363": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate limit reached before verification completed",
-          "attempted_at": "2026-11-14T00:46:52.624650+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "discovery_complete": true,
@@ -674747,6 +674724,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-16T14:50:36.356764+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Pekelna Bestie Ss 1977 online | Sdilej.cz'; bytes=188553; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-18T03:01:08.715061+00:00"
         }
       ]
     },
@@ -707135,15 +707119,6 @@
     "25706": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-12T19:59:37.208540+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -707158,6 +707133,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-15T01:44:38.130122+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Kral Ztraceneho Sveta 2005 online | Sdilej.cz'; bytes=188637; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-18T03:06:19.607928+00:00"
         }
       ]
     },
@@ -723501,5 +723483,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-18T02:55:55.723610+00:00"
+  "updated_at": "2026-11-18T03:16:26.154652+00:00"
 }
