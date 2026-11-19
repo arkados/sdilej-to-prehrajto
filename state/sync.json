@@ -427346,17 +427346,19 @@
       "attempts": []
     },
     "9121": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32961196",
+          "target_video_id": "31192733",
+          "permanent": false,
+          "attempted_at": "2026-11-19T23:49:06.149824+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32961196",
         "display_name": "Tokarev (2014) SD SK Dabing",
         "planned_at": "2026-11-19T23:47:18.231900+00:00"
-      },
-      "claim": {
-        "worker_id": "7d2993b6bfc0481db17b850a54b5ee58-shard-0",
-        "claimed_at": "2026-11-19T23:47:20.099459+00:00",
-        "lease_expires_at": "2026-11-20T05:47:20.099459+00:00",
-        "run_id": "44626656824"
       },
       "previous_target_id": "31192733",
       "prepared": {
@@ -448337,5 +448339,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T23:47:23.344905+00:00"
+  "updated_at": "2026-11-19T23:49:06.149842+00:00"
 }
