@@ -493,6 +493,16 @@ class SdilejProvider:
                         candidate.title,
                         duration_sec=candidate.duration_sec,
                     )
+                    if matched.reason == "wrong_runtime":
+                        # The search list can report a shorter duration than
+                        # the actual media. Let a matching title and year reach
+                        # the original-media check, which still enforces runtime.
+                        title_match = classify_candidate(film, candidate.title)
+                        if (
+                            title_match.tier == MatchTier.SOLID
+                            and title_match.evidence.get("title_contains_alias")
+                        ):
+                            matched = title_match
                     candidate.match_tier = matched.tier
                     candidate.match_evidence = matched.evidence
                     if matched.tier in (MatchTier.STRONG, MatchTier.SOLID):

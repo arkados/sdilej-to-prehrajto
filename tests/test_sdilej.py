@@ -553,6 +553,27 @@ def test_discovery_uses_probed_original_media_metadata() -> None:
     assert discovered[0].duration_sec == 6997
 
 
+@pytest.mark.parametrize("original_duration,expected_count", [(8249, 1), (7200, 0)])
+def test_discovery_checks_original_runtime_when_search_duration_is_short(
+    monkeypatch, original_duration, expected_count,
+) -> None:
+    provider = SdilejProvider(
+        FakeSession(), FakeDetector(), request_gap_seconds=0,
+        media_probe=lambda _url: {"duration_sec": original_duration},
+    )
+    candidate = Candidate(
+        "10", "https://sdilej.cz/10/film.mkv", "Film (2000) 4K CZ.mkv",
+        size_bytes=6_000_000_000, duration_sec=7200, width=3840, height=1600,
+    )
+    monkeypatch.setattr(provider, "search_by_quality", lambda _query: [candidate])
+
+    discovered = provider.discover(Film(1, "film", "Film", None, 2000, 139, "en"))
+
+    assert len(discovered) == expected_count
+    if discovered:
+        assert discovered[0].duration_sec == original_duration
+
+
 def test_discovery_searches_title_with_and_without_year() -> None:
     class YearlessResultSession:
         def __init__(self) -> None:
