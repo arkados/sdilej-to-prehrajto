@@ -409689,18 +409689,20 @@
           "source_id": "34520466",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T20:37:39.455487+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34520466",
+          "target_video_id": "31190450",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-19T20:59:20.695385+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34520466",
         "display_name": "Den otců (1997) 1080p CZ Dabing",
         "planned_at": "2026-11-19T20:45:30.976406+00:00"
-      },
-      "claim": {
-        "worker_id": "c40e30fb940a46bfaece6be6710d95a7-shard-0",
-        "claimed_at": "2026-11-19T20:46:33.428929+00:00",
-        "lease_expires_at": "2026-11-20T02:46:33.428929+00:00",
-        "run_id": "44575213279"
       },
       "previous_target_id": "31190450",
       "prepared": {
@@ -448065,5 +448067,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T20:46:58.966567+00:00"
+  "updated_at": "2026-11-19T20:59:20.695405+00:00"
 }
