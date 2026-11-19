@@ -380744,13 +380744,6 @@
           "source_id": "29459322",
           "target_video_id": "30984648",
           "permanent": false,
-          "attempted_at": "2026-11-19T05:57:37.183762+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29459322",
-          "target_video_id": "30984648",
-          "permanent": false,
           "attempted_at": "2026-11-19T10:05:51.419012+00:00"
         },
         {
@@ -380759,12 +380752,20 @@
           "target_video_id": "30984648",
           "permanent": false,
           "attempted_at": "2026-11-19T13:35:39.450716+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29459322",
+          "target_video_id": "30984648",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-19T16:33:57.221616+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29459322",
         "display_name": "Nájezdníci z Atlantidy (1983) 1080p CZ Titulky",
-        "planned_at": "2026-11-19T13:35:20.496772+00:00"
+        "planned_at": "2026-11-19T16:32:43.578367+00:00"
       },
       "previous_target_id": "30984648",
       "prepared": {
@@ -382199,7 +382200,7 @@
       "last_plan": {
         "source_id": "34252654",
         "display_name": "Madhouse (2004) SD CZ Dabing",
-        "planned_at": "2026-11-19T13:35:20.897059+00:00"
+        "planned_at": "2026-11-19T16:32:43.839359+00:00"
       },
       "previous_target_id": "30984652",
       "prepared": {
@@ -384545,7 +384546,7 @@
       "last_plan": {
         "source_id": "29340326",
         "display_name": "Strážci (2024) 4K CZ Dabing",
-        "planned_at": "2026-11-19T13:35:57.153317+00:00"
+        "planned_at": "2026-11-19T16:32:44.080124+00:00"
       },
       "previous_target_id": "30984657",
       "prepared": {
@@ -386957,7 +386958,7 @@
       "last_plan": {
         "source_id": "34824449",
         "display_name": "Bravo Girls: Všechno nebo nic (2006) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T13:35:57.577131+00:00"
+        "planned_at": "2026-11-19T16:32:44.328592+00:00"
       },
       "previous_target_id": "30984669",
       "prepared": {
@@ -387827,7 +387828,7 @@
       "last_plan": {
         "source_id": "13153568",
         "display_name": "Touha po pomstě (2010) 720p CZ Titulky",
-        "planned_at": "2026-11-19T13:35:57.994710+00:00"
+        "planned_at": "2026-11-19T16:32:44.577588+00:00"
       },
       "previous_target_id": "30984675",
       "prepared": {
@@ -447551,5 +447552,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T16:32:30.435012+00:00"
+  "updated_at": "2026-11-19T16:33:57.221635+00:00"
 }
