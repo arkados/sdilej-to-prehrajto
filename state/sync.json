@@ -66313,13 +66313,6 @@
           "source_id": "14853845",
           "target_video_id": "29198848",
           "permanent": false,
-          "attempted_at": "2026-11-19T08:17:51.757598+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14853845",
-          "target_video_id": "29198848",
-          "permanent": false,
           "attempted_at": "2026-11-19T11:04:21.932922+00:00"
         },
         {
@@ -66328,12 +66321,20 @@
           "target_video_id": "29198848",
           "permanent": false,
           "attempted_at": "2026-11-19T14:36:42.274261+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "14853845",
+          "target_video_id": "29198848",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-19T19:28:12.432415+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14853845",
         "display_name": "Lessie se vrací (1943) SD CZ Dabing",
-        "planned_at": "2026-11-19T14:36:35.038565+00:00"
+        "planned_at": "2026-11-19T19:26:37.714801+00:00"
       },
       "prepared": {
         "target_video_id": "29198848",
@@ -66561,7 +66562,7 @@
       "last_plan": {
         "source_id": "34912011",
         "display_name": "Knoflíkáři (1997) 1080p CZ Titulky",
-        "planned_at": "2026-11-19T14:36:35.853637+00:00"
+        "planned_at": "2026-11-19T19:26:38.259735+00:00"
       },
       "prepared": {
         "target_video_id": "29427702",
@@ -67121,7 +67122,7 @@
       "last_plan": {
         "source_id": "34710258",
         "display_name": "Delta Okavanga: Kousek ráje (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T14:36:35.446835+00:00"
+        "planned_at": "2026-11-19T19:26:37.990190+00:00"
       },
       "prepared": {
         "target_video_id": "29255540",
@@ -69830,7 +69831,7 @@
       "last_plan": {
         "source_id": "12094326",
         "display_name": "Všem klukům, které jsem milovala (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T14:36:36.256961+00:00"
+        "planned_at": "2026-11-19T19:26:38.537107+00:00"
       },
       "prepared": {
         "target_video_id": "29255918",
@@ -76053,7 +76054,20 @@
       "attempts": []
     },
     "21482": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34467591",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-19T19:26:59.212473+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34467591",
+        "display_name": "Frankensteinova kletba (1957) 1080p CZ Titulky",
+        "planned_at": "2026-11-19T19:26:37.392510+00:00"
+      }
     },
     "21115": {
       "attempts": [
@@ -447797,5 +447811,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T19:26:24.313545+00:00"
+  "updated_at": "2026-11-19T19:28:12.432436+00:00"
 }
