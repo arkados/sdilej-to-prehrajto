@@ -153316,17 +153316,19 @@
       }
     },
     "29271": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27998470",
+          "target_video_id": "31168726",
+          "permanent": false,
+          "attempted_at": "2026-11-19T04:02:03.047964+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27998470",
         "display_name": "Čistič (2015) 1080p SK Dabing",
         "planned_at": "2026-11-19T03:42:13.258955+00:00"
-      },
-      "claim": {
-        "worker_id": "3ec903c0f4324bc087b77db4135a41dc-shard-0",
-        "claimed_at": "2026-11-19T03:42:15.119954+00:00",
-        "lease_expires_at": "2026-11-19T09:42:15.119954+00:00",
-        "run_id": "44439356258"
       },
       "previous_target_id": "31168726",
       "prepared": {
@@ -447407,5 +447409,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T03:42:19.159456+00:00"
+  "updated_at": "2026-11-19T04:02:03.047982+00:00"
 }
