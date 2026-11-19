@@ -73726,13 +73726,6 @@
           "permanent": false,
           "source_id": "29918112",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-19T20:36:58.145040+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29918112",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T20:46:12.524383+00:00"
         },
         {
@@ -73741,18 +73734,19 @@
           "source_id": "29918112",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T21:01:56.221252+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29918112",
+          "target_video_id": "31190769",
+          "permanent": false,
+          "attempted_at": "2026-11-19T21:21:46.873916+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29918112",
         "display_name": "Takoví jsme byli (1973) SD CZ Dabing",
         "planned_at": "2026-11-19T21:11:58.496205+00:00"
-      },
-      "claim": {
-        "worker_id": "d73de974334d4f2c87536545f264bf26-shard-0",
-        "claimed_at": "2026-11-19T21:19:36.299399+00:00",
-        "lease_expires_at": "2026-11-20T03:19:36.299399+00:00",
-        "run_id": "44575213279"
       },
       "previous_target_id": "31190769",
       "prepared": {
@@ -448133,5 +448127,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T21:19:39.962461+00:00"
+  "updated_at": "2026-11-19T21:21:46.873936+00:00"
 }
