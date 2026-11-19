@@ -21,19 +21,15 @@ class GitStatePersister:
 
     MAX_TRACKED_FILE_BYTES = 90 * 1024 * 1024
     PUSH_ATTEMPTS = 12
-    INITIAL_SOURCE_CHECKPOINTS = 4
     INITIAL_DEEP_CHECKPOINTS = 1
     DEFERABLE_EVENTS = {"source", "attempt", "deep_scan", "processing_refresh"}
-    # Publish one upload-shard-sized source batch at a time. Keeping 25 sources
-    # only inside a producer runner starves the six upload workers for too long.
-    # Negative discovery results are cheap and common during a full backlog
-    # rescan. Persist them in larger batches so six preparation workers do not
-    # create a bot commit every few seconds. Verified sources and uploads still
-    # use small batches because those checkpoints feed the live upload queue.
+    # Publish verified sources immediately: sparse discoveries can leave the
+    # uploader waiting for hours for a source batch to fill.
+    # Batch frequent negative discovery results to limit checkpoint churn.
     # Transfer checkpoints are written immediately: losing a prepared target
     # ID can duplicate a multi-gigabyte upload after a runner restart.
     CHECKPOINT_INTERVALS = {
-        "source": 4,
+        "source": 1,
         "attempt": 250,
         "deep_scan": 10,
         "prepared": 1,
@@ -51,7 +47,6 @@ class GitStatePersister:
         self.extra_paths = extra_paths
         self._lock = threading.RLock()
         self._pending: dict[str, int] = {}
-        self._source_checkpoints = 0
         self._deep_checkpoints = 0
 
     def _run(self, *args: str, check: bool = True) -> subprocess.CompletedProcess[str]:
@@ -74,15 +69,6 @@ class GitStatePersister:
                 return
             interval = self.CHECKPOINT_INTERVALS.get(event)
             if interval is None:
-                return
-            if (
-                event == "source"
-                and self._source_checkpoints < self.INITIAL_SOURCE_CHECKPOINTS
-            ):
-                if not self._publish_checkpoint(state_path, event):
-                    return
-                self._source_checkpoints += 1
-                self._pending.clear()
                 return
             if (
                 event == "deep_scan"

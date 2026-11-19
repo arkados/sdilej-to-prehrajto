@@ -28,7 +28,7 @@ def test_installed_tools_are_exercised_without_apt(monkeypatch):
     assert all(kw['check'] and kw['timeout'] == 30 for cmd, kw in calls)
 
 
-@pytest.mark.parametrize('failure', ['update', 'install', 'timeout'])
+@pytest.mark.parametrize('failure', ['update', 'download', 'timeout'])
 def test_failed_archive_falls_back_to_azure_with_hard_limits(monkeypatch, failure):
     runtime = load_script('ensure_media_runtime')
     # One binary alone is insufficient.
@@ -42,10 +42,13 @@ def test_failed_archive_falls_back_to_azure_with_hard_limits(monkeypatch, failur
         if '--mirror' in cmd:
             mirror = cmd[-1]
         if 'apt-get' in cmd:
-            assert cmd[:5] == ['sudo', '-n', 'timeout', '--kill-after=10s', '120s' if cmd[-1] == 'update' else '180s']
+            operation = 'update' if cmd[-1] == 'update' else (
+                'download' if '--download-only' in cmd else 'install'
+            )
+            timeout = {'update': '120s', 'download': '180s', 'install': '75s'}[operation]
+            assert cmd[:5] == ['sudo', '-n', 'timeout', '--kill-after=10s', timeout]
             assert 'APT::Update::Error-Mode=any' in cmd
             assert kwargs['timeout'] <= 200
-            operation = 'update' if cmd[-1] == 'update' else 'install'
             if mirror == 'archive' and (failure == operation or failure == 'timeout'):
                 if failure == 'timeout':
                     raise subprocess.TimeoutExpired(cmd, kwargs['timeout'])
@@ -56,8 +59,11 @@ def test_failed_archive_falls_back_to_azure_with_hard_limits(monkeypatch, failur
     runtime.ensure_runtime()
     assert [cmd[-1] for cmd, kw in calls if '--mirror' in cmd] == ['archive', 'azure']
     assert [cmd[0] for cmd, kw in calls][-2:] == ['ffmpeg', 'ffprobe']
+    install_calls = [cmd for cmd, _ in calls if 'install' in cmd]
+    assert '--no-download' in install_calls[-1]
+    assert all('--download-only' in cmd for cmd in install_calls[:-1])
     if failure in {'update', 'timeout'}:
-        assert len([cmd for cmd, kw in calls if 'install' in cmd]) == 1
+        assert len(install_calls) == 2
 
 
 def test_both_failed_updates_do_not_install_from_stale_indexes(monkeypatch):

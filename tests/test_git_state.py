@@ -145,7 +145,7 @@ def test_push_diagnostics_keep_cause_and_redact_urls():
     assert "secret" not in detail
 
 
-def test_git_checkpoints_batch_sources_and_persist_transfers(tmp_path, monkeypatch) -> None:
+def test_git_checkpoints_publish_every_verified_source_and_transfer(tmp_path, monkeypatch) -> None:
     persister = GitStatePersister(tmp_path)
     persisted = []
     monkeypatch.setattr(
@@ -157,22 +157,15 @@ def test_git_checkpoints_batch_sources_and_persist_transfers(tmp_path, monkeypat
 
     for _index in range(100):
         persister(state_path, "claim")
-    for _index in range(4):
+    for _index in range(8):
         persister(state_path, "source")
-    assert persisted == [(state_path, "source")] * 4
-
-    for _index in range(3):
-        persister(state_path, "source")
-    assert persisted == [(state_path, "source")] * 4
-
-    persister(state_path, "source")
-    assert persisted == [(state_path, "source")] * 5
+    assert persisted == [(state_path, "source")] * 8
 
     persister(state_path, "prepared")
     persister(state_path, "processing")
     persister(state_path, "failure")
     persister(state_path, "success")
-    assert persisted == [(state_path, "source")] * 5 + [
+    assert persisted == [(state_path, "source")] * 8 + [
         (state_path, "prepared"),
         (state_path, "processing"),
         (state_path, "failure"),

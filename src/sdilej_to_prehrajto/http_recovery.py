@@ -60,7 +60,8 @@ def request(operation: Callable[[], requests.Response], *, phase: str,
         if failure is None and (not isinstance(status, int) or status < 300):
             return response
         transient = status in TRANSIENT_STATUSES if status is not None else (
-            isinstance(failure, (requests.Timeout, requests.ConnectionError))
+            isinstance(failure, (requests.Timeout, requests.ConnectionError,
+                                 requests.exceptions.ChunkedEncodingError))
             and not isinstance(failure, requests.exceptions.SSLError)
         )
         delay = retry_delay(response, attempt) if retry_safe and transient and attempt < MAX_ATTEMPTS else None

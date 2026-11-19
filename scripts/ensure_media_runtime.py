@@ -29,24 +29,27 @@ def ensure_runtime():
         return
     options = ['-o', 'Acquire::Retries=0', '-o', 'Acquire::http::Timeout=15',
                '-o', 'Acquire::https::Timeout=15', '-o', 'APT::Update::Error-Mode=any']
+    prefix = ['sudo', '-n', 'timeout', '--kill-after=10s']
+    install = ['apt-get', *options, 'install', '-y', '--no-install-recommends']
     for mirror in ('archive', 'azure'):
         try:
             subprocess.run(['sudo', '-n', 'python3', str(Path(__file__).with_name('configure_ubuntu_mirrors.py')),
                             '--mirror', mirror], check=True, timeout=30)
-            # Per-request apt timeouts alone can still multiply into an hour
-            # across dozens of dependencies. Bound each entire apt command.
-            # sudo runs timeout so the root apt process is terminated as well.
-            prefix = ['sudo', '-n', 'timeout', '--kill-after=10s']
             subprocess.run(prefix + ['120s', 'apt-get', *options, 'update'],
                            check=True, timeout=140)
-            subprocess.run(prefix + ['180s', 'apt-get', *options, 'install', '-y',
-                                     '--no-install-recommends', 'ffmpeg'], check=True, timeout=200)
-            verify_runtime()
-            print(f'media_runtime=verified source={mirror}', flush=True)
-            return
-        except (subprocess.CalledProcessError, subprocess.TimeoutExpired, RuntimeError, ValueError) as error:
-            print(f'media_runtime_install_failed mirror={mirror} error={type(error).__name__}', flush=True)
-    raise RuntimeError('Media runtime installation failed on both official mirrors')
+            # A mirror timeout must happen before dpkg starts. An interrupted
+            # dpkg transaction prevents apt from using the fallback mirror.
+            subprocess.run(prefix + ['180s', *install, '--download-only', 'ffmpeg'],
+                           check=True, timeout=200)
+            break
+        except (subprocess.CalledProcessError, subprocess.TimeoutExpired) as error:
+            print(f'media_runtime_download_failed mirror={mirror} error={type(error).__name__}', flush=True)
+    else:
+        raise RuntimeError('Media runtime download failed on both official mirrors')
+    subprocess.run(prefix + ['75s', *install, '--no-download', 'ffmpeg'],
+                   check=True, timeout=90)
+    verify_runtime()
+    print(f'media_runtime=verified source={mirror}', flush=True)
 
 
 if __name__ == '__main__':

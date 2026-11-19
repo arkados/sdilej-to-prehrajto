@@ -23,8 +23,7 @@ jobs:
       contents: write
     env:
       HF_HOME: /tmp/huggingface
-      # One small fast model and one medium deep model bound runner memory.
-      # The deep lane keeps the same language confidence and quality floors.
+      # One fast worker and two deep workers, with one CPU thread per model.
       WHISPER_DEEP_MODEL: medium
       WHISPER_CPU_THREADS: "1"
       WHISPER_NUM_WORKERS: "1"
@@ -69,7 +68,7 @@ jobs:
             priority_args+=(--priority-film-id "$film_id")
           done
           sdilej-sync prepare --limit 200 --max-scan 2000 \
-            --prepare-workers 2 --prepare-runtime-minutes 330 \
+            --prepare-workers 3 --prepare-runtime-minutes 330 \
             --persist-git-state "${priority_args[@]}"
 
   handoff:

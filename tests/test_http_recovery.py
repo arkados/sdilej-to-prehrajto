@@ -7,6 +7,7 @@ import requests
 
 from sdilej_to_prehrajto import http_recovery
 from sdilej_to_prehrajto.prehrajto import EXPECTED_EMAIL, PrehrajtoError, login
+from sdilej_to_prehrajto.sdilej import BASE_URL as SOURCE_BASE_URL, login as source_login
 
 
 def response(status, retry_after=None):
@@ -49,7 +50,9 @@ def test_read_stops_after_three_attempts(sleep):
     assert [call.args[0] for call in sleep.call_args_list] == [5, 10]
 
 
-@pytest.mark.parametrize("error", [requests.Timeout, requests.ConnectionError])
+@pytest.mark.parametrize("error", [
+    requests.Timeout, requests.ConnectionError, requests.exceptions.ChunkedEncodingError,
+])
 def test_transport_error_retry_is_bounded_and_redacted(error, capsys, sleep):
     operation = Mock(side_effect=error("https://secret.example/?token=PRIVATE_TOKEN"))
     with pytest.raises(error):
@@ -125,6 +128,23 @@ def test_source_failure_diagnostics_omit_secrets(capsys):
     error = requests.HTTPError("PRIVATE_PASSWORD", response=response(403))
     http_recovery.log_failure("source_login", error)
     assert capsys.readouterr().out == "http_failure phase=source_login status=403 error=HTTPError\n"
+
+
+def test_source_login_verifies_profile_without_following_submit_redirect(sleep):
+    session = Mock(headers={}, cookies={"SDILEJ": "session"})
+    session.get.side_effect = [
+        response(200), requests.exceptions.ChunkedEncodingError(), response(200),
+    ]
+    session.post.return_value = response(302)
+
+    assert source_login("user@example.com", "password", session=session) is session
+
+    session.post.assert_called_once()
+    assert session.post.call_args.kwargs["allow_redirects"] is False
+    session.get.assert_called_with(
+        f"{SOURCE_BASE_URL}/nastaveni", allow_redirects=False, timeout=30,
+    )
+    sleep.assert_called_once_with(5)
 
 
 def test_login_verification_redirect_is_logged_without_retry(capsys, sleep):
