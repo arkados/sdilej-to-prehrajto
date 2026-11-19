@@ -71849,13 +71849,6 @@
           "source_id": "30700247",
           "target_video_id": "29204451",
           "permanent": false,
-          "attempted_at": "2026-11-19T08:21:03.234547+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30700247",
-          "target_video_id": "29204451",
-          "permanent": false,
           "attempted_at": "2026-11-19T11:07:43.522191+00:00"
         },
         {
@@ -71864,12 +71857,20 @@
           "target_video_id": "29204451",
           "permanent": false,
           "attempted_at": "2026-11-19T14:40:29.068560+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30700247",
+          "target_video_id": "29204451",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-19T20:28:25.636616+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30700247",
         "display_name": "Kinsey (2004) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T14:40:10.289785+00:00"
+        "planned_at": "2026-11-19T20:26:11.104038+00:00"
       },
       "prepared": {
         "target_video_id": "29204451",
@@ -72119,7 +72120,7 @@
       "last_plan": {
         "source_id": "29515698",
         "display_name": "Leo (2023) 4K CZ Dabing",
-        "planned_at": "2026-11-19T14:40:10.693209+00:00"
+        "planned_at": "2026-11-19T20:26:11.380221+00:00"
       },
       "prepared": {
         "target_video_id": "29204469",
@@ -73717,7 +73718,20 @@
       }
     },
     "11129": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29918112",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-19T20:26:32.059855+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "29918112",
+        "display_name": "Takoví jsme byli (1973) SD CZ Dabing",
+        "planned_at": "2026-11-19T20:26:10.268624+00:00"
+      }
     },
     "2157": {
       "attempts": [
@@ -136236,7 +136250,20 @@
       "attempts": []
     },
     "26390": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34709219",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-19T20:26:52.722135+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34709219",
+        "display_name": "Záhadná vražda (2008) SD CZ Dabing",
+        "planned_at": "2026-11-19T20:26:10.529783+00:00"
+      }
     },
     "32497": {
       "attempts": [
@@ -409611,7 +409638,20 @@
       }
     },
     "29994": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34520466",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-19T20:27:13.358363+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34520466",
+        "display_name": "Den otců (1997) 1080p CZ Dabing",
+        "planned_at": "2026-11-19T20:26:10.825966+00:00"
+      }
     },
     "32472": {
       "attempts": [
@@ -447969,5 +448009,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T20:25:55.033162+00:00"
+  "updated_at": "2026-11-19T20:28:25.636636+00:00"
 }
