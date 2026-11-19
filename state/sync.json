@@ -104404,13 +104404,6 @@
           "permanent": false,
           "source_id": "25983032",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-19T18:47:28.283655+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25983032",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T18:53:24.545875+00:00"
         },
         {
@@ -104419,18 +104412,19 @@
           "source_id": "25983032",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T19:04:41.428157+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25983032",
+          "target_video_id": "31189322",
+          "permanent": false,
+          "attempted_at": "2026-11-19T19:17:16.137213+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25983032",
         "display_name": "Pěsti ve tmě (1987) 1080p CZ Dabing",
         "planned_at": "2026-11-19T19:09:46.642760+00:00"
-      },
-      "claim": {
-        "worker_id": "e88e60bd93d44ae681038c903960b7b6-shard-0",
-        "claimed_at": "2026-11-19T19:11:15.232460+00:00",
-        "lease_expires_at": "2026-11-20T01:11:15.232460+00:00",
-        "run_id": "44575213279"
       },
       "previous_target_id": "31189322",
       "prepared": {
@@ -447799,5 +447793,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T19:11:20.511209+00:00"
+  "updated_at": "2026-11-19T19:17:16.137237+00:00"
 }
