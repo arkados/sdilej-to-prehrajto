@@ -13408,13 +13408,6 @@
           "source_id": "32277811",
           "target_video_id": "29469014",
           "permanent": false,
-          "attempted_at": "2026-11-19T08:06:17.449143+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32277811",
-          "target_video_id": "29469014",
-          "permanent": false,
           "attempted_at": "2026-11-19T10:52:33.575942+00:00"
         },
         {
@@ -13423,12 +13416,20 @@
           "target_video_id": "29469014",
           "permanent": false,
           "attempted_at": "2026-11-19T14:24:00.011444+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32277811",
+          "target_video_id": "29469014",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-19T18:43:10.408304+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32277811",
         "display_name": "Jak vycvičit draka (2025) 4K CZ Dabing",
-        "planned_at": "2026-11-19T14:23:40.557182+00:00"
+        "planned_at": "2026-11-19T18:41:36.434726+00:00"
       },
       "prepared": {
         "target_video_id": "29469014",
@@ -15529,7 +15530,7 @@
       "last_plan": {
         "source_id": "12671560",
         "display_name": "Zrození Planety opic (2011) 4K CZ Dabing",
-        "planned_at": "2026-11-19T14:23:40.980220+00:00"
+        "planned_at": "2026-11-19T18:41:36.688093+00:00"
       },
       "prepared": {
         "target_video_id": "29469127",
@@ -16079,7 +16080,7 @@
       "last_plan": {
         "source_id": "31222883",
         "display_name": "Mission: Impossible Odplata – První část (2023) 4K CZ Dabing",
-        "planned_at": "2026-11-19T14:24:17.437163+00:00"
+        "planned_at": "2026-11-19T18:41:36.935573+00:00"
       },
       "prepared": {
         "target_video_id": "29154102",
@@ -16521,7 +16522,7 @@
       "last_plan": {
         "source_id": "27048649",
         "display_name": "Předčítač (2008) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T14:24:17.851460+00:00"
+        "planned_at": "2026-11-19T18:41:37.189831+00:00"
       },
       "prepared": {
         "target_video_id": "29336272",
@@ -104386,7 +104387,20 @@
       "attempts": []
     },
     "11650": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "25983032",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-19T18:41:57.819567+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "25983032",
+        "display_name": "Pěsti ve tmě (1987) 1080p CZ Dabing",
+        "planned_at": "2026-11-19T18:41:36.132546+00:00"
+      }
     },
     "11898": {
       "attempts": [
@@ -447711,5 +447725,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T18:41:23.936703+00:00"
+  "updated_at": "2026-11-19T18:43:10.408325+00:00"
 }
