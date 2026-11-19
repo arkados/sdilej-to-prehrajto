@@ -66087,13 +66087,6 @@
           "source_id": "10595935",
           "target_video_id": "29427630",
           "permanent": false,
-          "attempted_at": "2026-11-19T08:19:43.111944+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "10595935",
-          "target_video_id": "29427630",
-          "permanent": false,
           "attempted_at": "2026-11-19T11:06:17.519318+00:00"
         },
         {
@@ -66102,12 +66095,20 @@
           "target_video_id": "29427630",
           "permanent": false,
           "attempted_at": "2026-11-19T14:38:55.107353+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "10595935",
+          "target_video_id": "29427630",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-19T19:51:13.229457+00:00"
         }
       ],
       "last_plan": {
         "source_id": "10595935",
         "display_name": "Conor McGregor: Notorious (2017) 1080p CZ Titulky",
-        "planned_at": "2026-11-19T14:38:37.172658+00:00"
+        "planned_at": "2026-11-19T19:48:57.555031+00:00"
       },
       "prepared": {
         "target_video_id": "29427630",
@@ -68817,7 +68818,7 @@
       "last_plan": {
         "source_id": "32147406",
         "display_name": "Heretik (2024) 4K CZ Dabing",
-        "planned_at": "2026-11-19T14:38:37.574857+00:00"
+        "planned_at": "2026-11-19T19:48:57.818348+00:00"
       },
       "prepared": {
         "target_video_id": "29255726",
@@ -76074,13 +76075,6 @@
           "permanent": false,
           "source_id": "34467591",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-19T19:26:59.212473+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34467591",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T19:32:33.874623+00:00"
         },
         {
@@ -76089,12 +76083,19 @@
           "source_id": "34467591",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T19:38:29.955863+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34467591",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-19T19:49:59.747707+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34467591",
         "display_name": "Frankensteinova kletba (1957) 1080p CZ Titulky",
-        "planned_at": "2026-11-19T19:37:47.850226+00:00"
+        "planned_at": "2026-11-19T19:48:57.251597+00:00"
       }
     },
     "21115": {
@@ -114049,12 +114050,19 @@
           "source_id": "32097656",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T19:38:09.325985+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32097656",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-19T19:49:39.130461+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32097656",
         "display_name": "Brittany Runs a Marathon (2019) 1080p CZ Titulky",
-        "planned_at": "2026-11-19T19:37:47.564509+00:00"
+        "planned_at": "2026-11-19T19:48:56.998744+00:00"
       }
     },
     "2872": {
@@ -296221,7 +296229,20 @@
       "attempts": []
     },
     "13812": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29269581",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-19T19:49:18.459679+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "29269581",
+        "display_name": "Tři království: Vzkříšení draka (2008) 720p CZ Dabing",
+        "planned_at": "2026-11-19T19:48:56.719871+00:00"
+      }
     },
     "22579": {
       "attempts": []
@@ -447853,5 +447874,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T19:48:44.365449+00:00"
+  "updated_at": "2026-11-19T19:51:13.229477+00:00"
 }
