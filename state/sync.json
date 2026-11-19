@@ -127289,17 +127289,19 @@
       "attempts": []
     },
     "30534": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33139012",
+          "target_video_id": "31191732",
+          "permanent": false,
+          "attempted_at": "2026-11-19T22:46:44.044929+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33139012",
         "display_name": "Total Detox (2011) SD",
         "planned_at": "2026-11-19T22:43:00.731074+00:00"
-      },
-      "claim": {
-        "worker_id": "236ce946e1de429282966d696b699642-shard-0",
-        "claimed_at": "2026-11-19T22:43:02.130420+00:00",
-        "lease_expires_at": "2026-11-20T04:43:02.130420+00:00",
-        "run_id": "44575213279"
       },
       "previous_target_id": "31191732",
       "prepared": {
@@ -448208,5 +448210,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T22:43:05.636317+00:00"
+  "updated_at": "2026-11-19T22:46:44.044951+00:00"
 }
