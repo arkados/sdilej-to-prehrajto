@@ -7184,17 +7184,19 @@
       }
     },
     "31037": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34772879",
+          "target_video_id": "31192494",
+          "permanent": false,
+          "attempted_at": "2026-11-19T23:39:11.385470+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34772879",
         "display_name": "Karnan (2021) 720p CZ Titulky",
         "planned_at": "2026-11-19T23:30:49.319010+00:00"
-      },
-      "claim": {
-        "worker_id": "74f3a34d93eb47e9bac33d8f7c860ebc-shard-0",
-        "claimed_at": "2026-11-19T23:30:51.189594+00:00",
-        "lease_expires_at": "2026-11-20T05:30:51.189594+00:00",
-        "run_id": "44626656824"
       },
       "previous_target_id": "31192494",
       "prepared": {
@@ -448280,5 +448282,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T23:30:54.493467+00:00"
+  "updated_at": "2026-11-19T23:39:11.385511+00:00"
 }
