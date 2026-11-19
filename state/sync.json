@@ -16379,13 +16379,6 @@
           "source_id": "29165269",
           "target_video_id": "29336236",
           "permanent": false,
-          "attempted_at": "2026-11-19T08:07:22.172105+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29165269",
-          "target_video_id": "29336236",
-          "permanent": false,
           "attempted_at": "2026-11-19T10:53:38.245183+00:00"
         },
         {
@@ -16394,12 +16387,20 @@
           "target_video_id": "29336236",
           "permanent": false,
           "attempted_at": "2026-11-19T14:25:10.433460+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29165269",
+          "target_video_id": "29336236",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-19T18:54:37.095266+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29165269",
         "display_name": "Víly z Inisherinu (2022) 720p CZ Dabing",
-        "planned_at": "2026-11-19T14:24:58.854459+00:00"
+        "planned_at": "2026-11-19T18:52:42.732929+00:00"
       },
       "prepared": {
         "target_video_id": "29336236",
@@ -16450,7 +16451,7 @@
       "last_plan": {
         "source_id": "28172188",
         "display_name": "Patrola (2012) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T14:24:59.255657+00:00"
+        "planned_at": "2026-11-19T18:52:42.995839+00:00"
       },
       "prepared": {
         "target_video_id": "29154104",
@@ -104406,12 +104407,19 @@
           "source_id": "25983032",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T18:47:28.283655+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "25983032",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-19T18:53:24.545875+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25983032",
         "display_name": "Pěsti ve tmě (1987) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T18:47:06.460708+00:00"
+        "planned_at": "2026-11-19T18:52:42.442533+00:00"
       }
     },
     "11898": {
@@ -248417,7 +248425,20 @@
       }
     },
     "22691": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30832077",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-19T18:53:03.910001+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30832077",
+        "display_name": "Srdce a zbroj (1983) SD CZ Dabing",
+        "planned_at": "2026-11-19T18:52:42.155898+00:00"
+      }
     },
     "4634": {
       "attempts": [
@@ -366933,7 +366954,7 @@
       "last_plan": {
         "source_id": "26903578",
         "display_name": "Trable o Vánocích (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T14:24:59.661172+00:00"
+        "planned_at": "2026-11-19T18:52:43.264274+00:00"
       },
       "previous_target_id": "29707694",
       "prepared": {
@@ -447739,5 +447760,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T18:52:29.637854+00:00"
+  "updated_at": "2026-11-19T18:54:37.095288+00:00"
 }
