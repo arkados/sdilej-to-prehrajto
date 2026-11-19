@@ -95640,13 +95640,6 @@
           "source_id": "34910979",
           "target_video_id": "29608889",
           "permanent": false,
-          "attempted_at": "2026-11-19T08:28:12.932947+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34910979",
-          "target_video_id": "29608889",
-          "permanent": false,
           "attempted_at": "2026-11-19T11:23:52.651801+00:00"
         },
         {
@@ -95655,12 +95648,20 @@
           "target_video_id": "29608889",
           "permanent": false,
           "attempted_at": "2026-11-19T14:48:37.815443+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34910979",
+          "target_video_id": "29608889",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-19T21:58:29.431507+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34910979",
         "display_name": "Ikarie XB 1 (1963) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T14:48:16.987009+00:00"
+        "planned_at": "2026-11-19T21:57:15.124085+00:00"
       },
       "previous_target_id": "29608889",
       "prepared": {
@@ -97717,7 +97718,7 @@
       "last_plan": {
         "source_id": "12024103",
         "display_name": "Bernský vyslanec (2014) 720p CZ Dabing",
-        "planned_at": "2026-11-19T14:48:51.552406+00:00"
+        "planned_at": "2026-11-19T21:57:15.414297+00:00"
       },
       "prepared": {
         "target_video_id": "29216460",
@@ -101125,7 +101126,7 @@
       "last_plan": {
         "source_id": "30581817",
         "display_name": "Apatykář Melchior: Znamení čarodějnice (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T14:48:51.969960+00:00"
+        "planned_at": "2026-11-19T21:57:15.679989+00:00"
       },
       "prepared": {
         "target_video_id": "29214591",
@@ -104327,7 +104328,7 @@
       "last_plan": {
         "source_id": "30160689",
         "display_name": "Smrt černého krále (1972) 720p CZ Dabing",
-        "planned_at": "2026-11-19T14:48:52.787084+00:00"
+        "planned_at": "2026-11-19T21:57:16.207317+00:00"
       },
       "prepared": {
         "target_video_id": "29303068",
@@ -157361,7 +157362,7 @@
       "last_plan": {
         "source_id": "24507656",
         "display_name": "Unesená princezna (2020) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T14:48:52.377859+00:00"
+        "planned_at": "2026-11-19T21:57:15.943231+00:00"
       },
       "previous_target_id": "29847834",
       "prepared": {
@@ -448173,5 +448174,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T21:57:02.858678+00:00"
+  "updated_at": "2026-11-19T21:58:29.431528+00:00"
 }
