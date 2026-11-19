@@ -136294,13 +136294,6 @@
           "permanent": false,
           "source_id": "34709219",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-19T20:37:18.779592+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34709219",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T20:46:33.144657+00:00"
         },
         {
@@ -136309,18 +136302,19 @@
           "source_id": "34709219",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T21:02:16.878454+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34709219",
+          "target_video_id": "31190793",
+          "permanent": false,
+          "attempted_at": "2026-11-19T21:23:04.510628+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34709219",
         "display_name": "Záhadná vražda (2008) SD CZ Dabing",
         "planned_at": "2026-11-19T21:11:58.758293+00:00"
-      },
-      "claim": {
-        "worker_id": "d73de974334d4f2c87536545f264bf26-shard-0",
-        "claimed_at": "2026-11-19T21:21:53.905350+00:00",
-        "lease_expires_at": "2026-11-20T03:21:53.905350+00:00",
-        "run_id": "44575213279"
       },
       "previous_target_id": "31190793",
       "prepared": {
@@ -448139,5 +448133,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T21:21:57.892481+00:00"
+  "updated_at": "2026-11-19T21:23:04.510651+00:00"
 }
