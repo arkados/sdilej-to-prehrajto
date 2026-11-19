@@ -181711,13 +181711,6 @@
           "source_id": "35004172",
           "target_video_id": "30984736",
           "permanent": false,
-          "attempted_at": "2026-11-19T05:59:24.667521+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35004172",
-          "target_video_id": "30984736",
-          "permanent": false,
           "attempted_at": "2026-11-19T10:07:37.831466+00:00"
         },
         {
@@ -181726,12 +181719,20 @@
           "target_video_id": "30984736",
           "permanent": false,
           "attempted_at": "2026-11-19T13:37:34.091660+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35004172",
+          "target_video_id": "30984736",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-19T16:53:23.542027+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35004172",
         "display_name": "Together (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T13:37:16.373944+00:00"
+        "planned_at": "2026-11-19T16:52:08.275454+00:00"
       },
       "previous_target_id": "30984736",
       "prepared": {
@@ -184953,7 +184954,7 @@
       "last_plan": {
         "source_id": "11236090",
         "display_name": "Karlík a továrna na čokoládu (2005) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T13:37:16.784050+00:00"
+        "planned_at": "2026-11-19T16:52:08.530654+00:00"
       },
       "previous_target_id": "30984738",
       "prepared": {
@@ -252799,7 +252800,7 @@
       "last_plan": {
         "source_id": "13336049",
         "display_name": "Dědictví kostí (2019) 1080p CZ Titulky",
-        "planned_at": "2026-11-19T13:37:51.868153+00:00"
+        "planned_at": "2026-11-19T16:52:08.789424+00:00"
       },
       "previous_target_id": "30984741",
       "prepared": {
@@ -265945,7 +265946,7 @@
       "last_plan": {
         "source_id": "13516216",
         "display_name": "Pomsta mrtvého muže (2013) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T13:37:52.276164+00:00"
+        "planned_at": "2026-11-19T16:52:09.038182+00:00"
       },
       "previous_target_id": "30984745",
       "prepared": {
@@ -270200,7 +270201,7 @@
       "last_plan": {
         "source_id": "34772928",
         "display_name": "Horror Noire (2021) 1080p CZ Titulky",
-        "planned_at": "2026-11-19T13:37:52.677408+00:00"
+        "planned_at": "2026-11-19T16:52:09.292795+00:00"
       },
       "previous_target_id": "30984751",
       "prepared": {
@@ -447565,5 +447566,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T16:51:54.311715+00:00"
+  "updated_at": "2026-11-19T16:53:23.542047+00:00"
 }
