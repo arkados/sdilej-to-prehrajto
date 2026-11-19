@@ -64501,7 +64501,7 @@
       "last_plan": {
         "source_id": "34253445",
         "display_name": "Zvuk hluku (2010) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T14:37:13.848113+00:00"
+        "planned_at": "2026-11-19T19:32:13.216868+00:00"
       },
       "prepared": {
         "target_video_id": "29419443",
@@ -65902,7 +65902,7 @@
       "last_plan": {
         "source_id": "24916658",
         "display_name": "Dvanáct vánočních zastavení (2020) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T14:37:13.034444+00:00"
+        "planned_at": "2026-11-19T19:32:12.679763+00:00"
       },
       "prepared": {
         "target_video_id": "29156718",
@@ -66481,7 +66481,7 @@
       "last_plan": {
         "source_id": "24984582",
         "display_name": "Vánoce pod hvězdami (2020) 1080p CZ Dabing",
-        "planned_at": "2026-11-19T14:37:13.444329+00:00"
+        "planned_at": "2026-11-19T19:32:12.948215+00:00"
       },
       "prepared": {
         "target_video_id": "29421356",
@@ -67519,13 +67519,6 @@
           "source_id": "34501428",
           "target_video_id": "29482056",
           "permanent": false,
-          "attempted_at": "2026-11-19T08:18:08.203825+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34501428",
-          "target_video_id": "29482056",
-          "permanent": false,
           "attempted_at": "2026-11-19T11:04:42.508090+00:00"
         },
         {
@@ -67534,12 +67527,20 @@
           "target_video_id": "29482056",
           "permanent": false,
           "attempted_at": "2026-11-19T14:36:59.863554+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34501428",
+          "target_video_id": "29482056",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-19T19:33:46.393217+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34501428",
         "display_name": "Thor (2011) 4K CZ Dabing",
-        "planned_at": "2026-11-19T14:36:36.663061+00:00"
+        "planned_at": "2026-11-19T19:32:12.417322+00:00"
       },
       "prepared": {
         "target_video_id": "29482056",
@@ -76064,12 +76065,19 @@
           "source_id": "34467591",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T19:26:59.212473+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34467591",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-19T19:32:33.874623+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34467591",
         "display_name": "Frankensteinova kletba (1957) 1080p CZ Titulky",
-        "planned_at": "2026-11-19T19:26:37.392510+00:00"
+        "planned_at": "2026-11-19T19:32:12.117758+00:00"
       }
     },
     "21115": {
@@ -447814,5 +447822,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T19:31:59.495578+00:00"
+  "updated_at": "2026-11-19T19:33:46.393238+00:00"
 }
