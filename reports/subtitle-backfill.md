@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-19T22:30:58.162521+00:00
+Poslední aktualizace (UTC): 2026-11-19T22:31:16.403884+00:00
 
 Zkontrolováno videí: 3282. Další stránka kontroly: 0.
 
@@ -1955,7 +1955,7 @@ Kontrol: 56; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Singham (2011) SD CZ Titulky](https://prehraj.to/singham-2011-sd-cz-titulky-mp4/9a63edd9bd9cea5e) (ID 29445959) | [Sdílej 34746723](https://sdilej.cz/34746723/singham-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:38:36.795096+00:00 |
 | [Singl na vdávání (2020) 1080p CZ Titulky](https://prehraj.to/singl-na-vdavani-2020-1080p-cz-titulky-mp4/993832c164970b56) (ID 29653123) | [Sdílej 34732130](https://sdilej.cz/34732130/singl-na-vdavani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:29:00.065974+00:00 |
 | [Sir Alex Ferguson: Nikdy se nevzdej (2021) 720p CZ Titulky](https://prehraj.to/sir-alex-ferguson-nikdy-se-nevzdej-2021-720p-cz-titulky-mp4/1ac1cd302d83495f) (ID 29337463) | [Sdílej 34699238](https://sdilej.cz/34699238/sir-alex-ferguson-nikdy-se-nevzdej-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T10:26:35.253915+00:00 |
-| [Sirius (2013) SD CZ Titulky](https://prehraj.to/sirius-2013-sd-cz-titulky-avi/c552939e2e21f3d1) (ID 29234030) | [Sdílej 11779816](https://sdilej.cz/11779816/sirius-odhaleni-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T22:30:22.972746+00:00 |
+| [Sirius (2013) SD CZ Titulky](https://prehraj.to/sirius-2013-sd-cz-titulky-avi/c552939e2e21f3d1) (ID 29234030) | [Sdílej 11779816](https://sdilej.cz/11779816/sirius-odhaleni-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:31:16.403763+00:00 |
 | [Sisu (2022) 1080p CZ Titulky](https://prehraj.to/sisu-2022-1080p-cz-titulky-mkv/f8a2dbc6ff9eb7a8) (ID 31032292) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-19T22:15:13.774744+00:00 |
 | [Sisu: Odplata (2025) 4K CZ Titulky](https://prehraj.to/sisu-odplata-2025-4k-cz-titulky-mkv/c7bd097335f87f04) (ID 31032358) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-19T22:15:13.774752+00:00 |
 | [Skate Kitchen (2018) 1080p CZ Titulky](https://prehraj.to/skate-kitchen-2018-1080p-cz-titulky-avi/0a3ca241dde6d605) (ID 29562810) | [Sdílej 11486609](https://sdilej.cz/11486609/skate-kitchen-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:57:56.116040+00:00 |
