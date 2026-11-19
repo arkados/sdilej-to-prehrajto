@@ -117264,13 +117264,6 @@
           "permanent": false,
           "source_id": "29803901",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-19T20:36:37.516497+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29803901",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T20:45:51.889622+00:00"
         },
         {
@@ -117279,18 +117272,19 @@
           "source_id": "29803901",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-19T21:01:35.569004+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29803901",
+          "target_video_id": "31190735",
+          "permanent": false,
+          "attempted_at": "2026-11-19T21:19:33.761279+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29803901",
         "display_name": "Seznam Adriana Messengera (1963) SD CZ Dabing",
         "planned_at": "2026-11-19T21:11:58.224794+00:00"
-      },
-      "claim": {
-        "worker_id": "d73de974334d4f2c87536545f264bf26-shard-0",
-        "claimed_at": "2026-11-19T21:16:43.176518+00:00",
-        "lease_expires_at": "2026-11-20T03:16:43.176518+00:00",
-        "run_id": "44575213279"
       },
       "previous_target_id": "31190735",
       "prepared": {
@@ -448127,5 +448121,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T21:16:47.019450+00:00"
+  "updated_at": "2026-11-19T21:19:33.761299+00:00"
 }
