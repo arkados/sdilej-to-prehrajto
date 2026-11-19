@@ -388302,13 +388302,6 @@
           "source_id": "30225920",
           "target_video_id": "30984682",
           "permanent": false,
-          "attempted_at": "2026-11-19T05:58:13.772596+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30225920",
-          "target_video_id": "30984682",
-          "permanent": false,
           "attempted_at": "2026-11-19T10:06:27.298106+00:00"
         },
         {
@@ -388317,12 +388310,20 @@
           "target_video_id": "30984682",
           "permanent": false,
           "attempted_at": "2026-11-19T13:36:16.165163+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30225920",
+          "target_video_id": "30984682",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-19T16:40:24.446761+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30225920",
         "display_name": "Frankenstein (2004) SD CZ Dabing",
-        "planned_at": "2026-11-19T13:35:58.408347+00:00"
+        "planned_at": "2026-11-19T16:39:10.914106+00:00"
       },
       "previous_target_id": "30984682",
       "prepared": {
@@ -390664,7 +390665,7 @@
       "last_plan": {
         "source_id": "28104418",
         "display_name": "Mistr loutkář (1989) SD CZ Dabing",
-        "planned_at": "2026-11-19T13:35:58.833521+00:00"
+        "planned_at": "2026-11-19T16:39:11.167539+00:00"
       },
       "previous_target_id": "30984686",
       "prepared": {
@@ -392662,7 +392663,7 @@
       "last_plan": {
         "source_id": "34736955",
         "display_name": "Malevolence 3: Killer (2018) 1080p CZ Titulky",
-        "planned_at": "2026-11-19T13:36:34.129760+00:00"
+        "planned_at": "2026-11-19T16:39:11.424065+00:00"
       },
       "previous_target_id": "30984691",
       "prepared": {
@@ -396855,7 +396856,7 @@
       "last_plan": {
         "source_id": "34737957",
         "display_name": "The Burning Dead (2015) SD CZ Titulky",
-        "planned_at": "2026-11-19T13:36:34.541792+00:00"
+        "planned_at": "2026-11-19T16:39:11.685137+00:00"
       },
       "previous_target_id": "30984696",
       "prepared": {
@@ -400223,7 +400224,7 @@
       "last_plan": {
         "source_id": "16006452",
         "display_name": "The Reckoning (2020) 1080p CZ Titulky",
-        "planned_at": "2026-11-19T13:36:34.944391+00:00"
+        "planned_at": "2026-11-19T16:39:11.943643+00:00"
       },
       "previous_target_id": "30984698",
       "prepared": {
@@ -447556,5 +447557,5 @@
       }
     }
   },
-  "updated_at": "2026-11-19T16:38:57.532413+00:00"
+  "updated_at": "2026-11-19T16:40:24.446782+00:00"
 }
