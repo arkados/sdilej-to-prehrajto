@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:46:55.631350+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:47:05.715832+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1157,7 +1157,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Kruťas od přírody (2024) 4K CZ Titulky](https://prehraj.to/krutas-od-prirody-2024-4k-cz-titulky-mkv/1ef913bb5891708a) (ID 31037269) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.323942+00:00 |
 | [Krvavá hra (1990) 1080p CZ Titulky](https://prehraj.to/krvava-hra-1990-1080p-cz-titulky-mp4/a09a2587697790f2) (ID 29295752) | [Sdílej 13703472](https://sdilej.cz/13703472/blood.games.1990.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:09:36.598798+00:00 |
 | [Krvavá nevěsta: Hra začíná (2026) 4K CZ Titulky](https://prehraj.to/krvava-nevesta-hra-zacina-2026-4k-cz-titulky-mkv/bc059d0f7e243f96) (ID 31034450) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.323824+00:00 |
-| [Krvavé housle (1998) 1080p CZ Titulky](https://prehraj.to/krvave-housle-1998-1080p-cz-titulky-mp4/f40a18ddb5e19ef4) (ID 29559302) | [Sdílej 33219259](https://sdilej.cz/33219259/the-red-violin-1998-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:03:31.737316+00:00 |
+| [Krvavé housle (1998) 1080p CZ Titulky](https://prehraj.to/krvave-housle-1998-1080p-cz-titulky-mp4/f40a18ddb5e19ef4) (ID 29559302) | [Sdílej 33219259](https://sdilej.cz/33219259/the-red-violin-1998-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:47:05.715645+00:00 |
 | [Krvavý trůn (1957) SD CZ Titulky](https://prehraj.to/krvavy-trun-1957-sd-cz-titulky-mp4/bd724eb10c63a016) (ID 30905266) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.319716+00:00 |
 | [Krysař (1986) 1080p CZ Titulky](https://prehraj.to/krysar-1986-1080p-cz-titulky-mp4/484462b1896e588f) (ID 31153038) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.325059+00:00 |
 | [Krystal (2017) SD CZ Titulky](https://prehraj.to/krystal-2017-sd-cz-titulky-avi/eec4393e55f96908) (ID 30775617) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.317302+00:00 |
