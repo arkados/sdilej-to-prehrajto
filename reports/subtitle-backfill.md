@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:51:21.024087+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:51:40.064924+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -218,7 +218,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 520. Dů
 | [Battlefield: Fall of the World (2022) 720p CZ Titulky](https://prehraj.to/battlefield-fall-of-the-world-2022-720p-cz-titulky-mp4/83b7bcbb32cc36ea) (ID 30725212) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.354750+00:00 |
 | [Battlestar Galactica: Plán (2009) 1080p CZ Titulky](https://prehraj.to/battlestar-galactica-plan-2009-1080p-cz-titulky-mp4/c7fd5b1914f6e432) (ID 29429444) | [Sdílej 32444722](https://sdilej.cz/32444722/battlestar-galactica-the-plan-2009-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:25:38.579443+00:00 |
 | [Bayoneta (2018) 1080p CZ Titulky](https://prehraj.to/bayoneta-2018-1080p-cz-titulky-mkv/d72f4f707141770d) (ID 31022880) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.361520+00:00 |
-| [Be with you (2018) SD CZ Titulky](https://prehraj.to/be-with-you-2018-sd-cz-titulky-avi/fbda9cc4f0957a44) (ID 29585958) | [Sdílej 10928825](https://sdilej.cz/10928825/jigeum-mannaleo-gabnida-be-with-you-2018-bluray-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:05:45.251094+00:00 |
+| [Be with you (2018) SD CZ Titulky](https://prehraj.to/be-with-you-2018-sd-cz-titulky-avi/fbda9cc4f0957a44) (ID 29585958) | [Sdílej 10928825](https://sdilej.cz/10928825/jigeum-mannaleo-gabnida-be-with-you-2018-bluray-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:51:40.064772+00:00 |
 | [Beast of War (2025) 1080p CZ Titulky](https://prehraj.to/beast-of-war-2025-1080p-cz-titulky-mkv/8cb50dbc9d5472b3) (ID 29912694) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.340071+00:00 |
 | [Beautifully Broken (2018) SD CZ Titulky](https://prehraj.to/beautifully-broken-2018-sd-cz-titulky-avi/b32ce45729bd4871) (ID 30549589) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.351846+00:00 |
 | [Becoming (2020) 1080p CZ Titulky](https://prehraj.to/becoming-2020-1080p-cz-titulky-mkv/37fc72f0e44640c7) (ID 29917921) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.340795+00:00 |
