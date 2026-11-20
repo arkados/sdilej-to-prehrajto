@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T03:33:52.073387+00:00
+Poslední aktualizace (UTC): 2026-11-20T03:34:02.924350+00:00
 
 Zkontrolováno videí: 3289. Další stránka kontroly: 0.
 
@@ -2263,7 +2263,7 @@ Kontrol: 15; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Maid (2020) 1080p CZ Titulky](https://prehraj.to/the-maid-2020-1080p-cz-titulky-mkv/b1fbd7b7041e30ef) (ID 30734852) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.365055+00:00 |
 | [The Man from Earth: Holocene (2017) 1080p CZ Titulky](https://prehraj.to/the-man-from-earth-holocene-2017-1080p-cz-titulky-mkv/215184d64ce9ebc3) (ID 30382665) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.358924+00:00 |
 | [The Marine 6: Close Quarters (2018) 1080p CZ Titulky.mkv](https://prehraj.to/the-marine-6-close-quarters-2018-1080p-cz-titulky-mkv/ed4d64590f0eb597) (ID 29657108) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.347363+00:00 |
-| [The Marshes (2017) 720p CZ Titulky](https://prehraj.to/the-marshes-2017-720p-cz-titulky-mp4/67868ec2ae51f06a) (ID 29274565) | [Sdílej 34737253](https://sdilej.cz/34737253/the-marshes-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T02:32:11.084869+00:00 |
+| [The Marshes (2017) 720p CZ Titulky](https://prehraj.to/the-marshes-2017-720p-cz-titulky-mp4/67868ec2ae51f06a) (ID 29274565) | [Sdílej 34737253](https://sdilej.cz/34737253/the-marshes-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:34:02.924243+00:00 |
 | [The Medium (2021) 1080p CZ Titulky](https://prehraj.to/the-medium-2021-1080p-cz-titulky-mp4/5449b4fc7554bcc3) (ID 30217887) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.354577+00:00 |
 | [The Miracle Season (2018) 1080p CZ Titulky](https://prehraj.to/the-miracle-season-2018-1080p-cz-titulky-mkv/dd7e76a08d09ee42) (ID 30709337) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.364548+00:00 |
 | [The Moment (2026) 1080p CZ Titulky](https://prehraj.to/the-moment-2026-1080p-cz-titulky-mp4/4b5601a917e0a8a8) (ID 30478232) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.360711+00:00 |
