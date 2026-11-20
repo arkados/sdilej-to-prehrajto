@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:17:09.790238+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:17:18.847167+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -2495,7 +2495,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Violence Action (2022) 1080p CZ Titulky](https://prehraj.to/violence-action-2022-1080p-cz-titulky-mp4/d69a8bbc173eb1b8) (ID 29611154) | [Sdílej 34726508](https://sdilej.cz/34726508/violence-action-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:56:49.806508+00:00 |
 | [Violet (2021) SD CZ Titulky](https://prehraj.to/violet-2021-sd-cz-titulky-avi/3bb7c21ecd5a93e5) (ID 30254388) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.668118+00:00 |
 | [Virus (2019) 720p CZ Titulky](https://prehraj.to/virus-2019-720p-cz-titulky-mp4/7a98ea5b0d03bd98) (ID 29887510) | [Sdílej 34733658](https://sdilej.cz/34733658/virus-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:43:09.081901+00:00 |
-| [Virus Shark (2021) 1080p CZ Titulky](https://prehraj.to/virus-shark-2021-1080p-cz-titulky-mp4/4a92737f8ae2afca) (ID 29656500) | [Sdílej 34728190](https://sdilej.cz/34728190/virus-shark-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:30:06.878835+00:00 |
+| [Virus Shark (2021) 1080p CZ Titulky](https://prehraj.to/virus-shark-2021-1080p-cz-titulky-mp4/4a92737f8ae2afca) (ID 29656500) | [Sdílej 34728190](https://sdilej.cz/34728190/virus-shark-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:17:18.847035+00:00 |
 | [Visions (2023) 1080p CZ Titulky](https://prehraj.to/visions-2023-1080p-cz-titulky-mkv/ff06a27158dc211a) (ID 31163132) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.684560+00:00 |
 | [Vlci (2024) 4K CZ Titulky](https://prehraj.to/vlci-2024-4k-cz-titulky-mkv/f8292792c901c99d) (ID 30233355) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.667883+00:00 |
 | [Vleesdag (2025) 1080p CZ Titulky](https://prehraj.to/vleesdag-2025-1080p-cz-titulky-mkv/91778d541297e094) (ID 29975235) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.665099+00:00 |
