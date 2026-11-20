@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:52:19.951820+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:52:28.025143+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1921,7 +1921,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 520. Dů
 | [Sekigahara (2017) 720p CZ Titulky](https://prehraj.to/sekigahara-2017-720p-cz-titulky-mp4/b64ff43d1649191d) (ID 29923228) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.341132+00:00 |
 | [Sektor 36 (2024) 1080p CZ Titulky](https://prehraj.to/sektor-36-2024-1080p-cz-titulky-mp4/fb8a4588ff981500) (ID 30497140) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.351336+00:00 |
 | [Sentinelle (2023) 1080p CZ Titulky](https://prehraj.to/sentinelle-2023-1080p-cz-titulky-mp4/1159da7830e47542) (ID 29911372) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.339756+00:00 |
-| [Sergeant (2023) 1080p CZ Titulky](https://prehraj.to/sergeant-2023-1080p-cz-titulky-mp4/e0ab02e880e61e7d) (ID 29588360) | [Sdílej 34771949](https://sdilej.cz/34771949/sergeant-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:06:33.950752+00:00 |
+| [Sergeant (2023) 1080p CZ Titulky](https://prehraj.to/sergeant-2023-1080p-cz-titulky-mp4/e0ab02e880e61e7d) (ID 29588360) | [Sdílej 34771949](https://sdilej.cz/34771949/sergeant-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:52:28.025018+00:00 |
 | [Sergio (2020) SD CZ Titulky](https://prehraj.to/sergio-2020-sd-cz-titulky-mp4/0d24015a1a915f01) (ID 30308741) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.346823+00:00 |
 | [Sesterstvo (2023) 1080p CZ Titulky](https://prehraj.to/sesterstvo-2023-1080p-cz-titulky-mkv/9abdaa1b63752508) (ID 30691408) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.354355+00:00 |
 | [Sestry na startovní čáře (2021) 1080p CZ Titulky](https://prehraj.to/sestry-na-startovni-care-2021-1080p-cz-titulky-mp4/0d5bddb05f3166f3) (ID 29789058) | [Sdílej 34772803](https://sdilej.cz/34772803/sestry-na-startovni-care-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:37:22.606373+00:00 |
