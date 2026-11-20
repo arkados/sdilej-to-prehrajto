@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:48:37.345315+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:48:46.002512+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -878,7 +878,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Held (2020) SD CZ Titulky](https://prehraj.to/held-2020-sd-cz-titulky-avi/86062cc7dd90efce) (ID 29678819) | [Sdílej 30529555](https://sdilej.cz/30529555/help-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:23:47.982296+00:00 |
 | [Hell Hath No Fury (2021) 720p CZ Titulky](https://prehraj.to/hell-hath-no-fury-2021-720p-cz-titulky-mp4/3acd263fa5940b45) (ID 30458958) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.312174+00:00 |
 | [Hell House LLC (2015) 1080p CZ Titulky](https://prehraj.to/hell-house-llc-2015-1080p-cz-titulky-mp4/5235dbbab65e5c55) (ID 30279022) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.307488+00:00 |
-| [Hell House LLC II: The Abaddon Hotel (2018) 1080p CZ Titulky](https://prehraj.to/hell-house-llc-ii-the-abaddon-hotel-2018-1080p-cz-titulky-mkv/4627970acc90313e) (ID 29736560) | [Sdílej 29835047](https://sdilej.cz/29835047/hell.house.llc.ii.the.abaddon.hotel.2018.1080p.web.h264-edith.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:05:17.572406+00:00 |
+| [Hell House LLC II: The Abaddon Hotel (2018) 1080p CZ Titulky](https://prehraj.to/hell-house-llc-ii-the-abaddon-hotel-2018-1080p-cz-titulky-mkv/4627970acc90313e) (ID 29736560) | [Sdílej 29835047](https://sdilej.cz/29835047/hell.house.llc.ii.the.abaddon.hotel.2018.1080p.web.h264-edith.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:48:46.002330+00:00 |
 | [Hellfire (2026) 4K CZ Titulky](https://prehraj.to/hellfire-2026-4k-cz-titulky-mkv/d2ad46d7f873b54d) (ID 30471129) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.312368+00:00 |
 | [Hellhound (2024) 1080p CZ Titulky](https://prehraj.to/hellhound-2024-1080p-cz-titulky-mkv/adcbe023cd499b14) (ID 31039304) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.323993+00:00 |
 | [Hello World (2019) 1080p CZ Titulky](https://prehraj.to/hello-world-2019-1080p-cz-titulky-mp4/ef8e68a8310e045a) (ID 30102963) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.305017+00:00 |
