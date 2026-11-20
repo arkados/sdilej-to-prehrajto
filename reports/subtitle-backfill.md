@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:59:38.534795+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:59:46.341643+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -1924,7 +1924,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Sergeant (2023) 1080p CZ Titulky](https://prehraj.to/sergeant-2023-1080p-cz-titulky-mp4/e0ab02e880e61e7d) (ID 29588360) | [Sdílej 34771949](https://sdilej.cz/34771949/sergeant-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:52:28.025018+00:00 |
 | [Sergio (2020) SD CZ Titulky](https://prehraj.to/sergio-2020-sd-cz-titulky-mp4/0d24015a1a915f01) (ID 30308741) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.559143+00:00 |
 | [Sesterstvo (2023) 1080p CZ Titulky](https://prehraj.to/sesterstvo-2023-1080p-cz-titulky-mkv/9abdaa1b63752508) (ID 30691408) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.564564+00:00 |
-| [Sestry na startovní čáře (2021) 1080p CZ Titulky](https://prehraj.to/sestry-na-startovni-care-2021-1080p-cz-titulky-mp4/0d5bddb05f3166f3) (ID 29789058) | [Sdílej 34772803](https://sdilej.cz/34772803/sestry-na-startovni-care-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:37:22.606373+00:00 |
+| [Sestry na startovní čáře (2021) 1080p CZ Titulky](https://prehraj.to/sestry-na-startovni-care-2021-1080p-cz-titulky-mp4/0d5bddb05f3166f3) (ID 29789058) | [Sdílej 34772803](https://sdilej.cz/34772803/sestry-na-startovni-care-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:59:46.341523+00:00 |
 | [Sestry z kouřové sauny (2023) 1080p CZ Titulky](https://prehraj.to/sestry-z-kourove-sauny-2023-1080p-cz-titulky-mp4/180819ad578ffefe) (ID 30887566) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.568763+00:00 |
 | [Settlers (2021) 1080p CZ Titulky](https://prehraj.to/settlers-2021-1080p-cz-titulky-mkv/c9b2af009f9e7dfa) (ID 30397967) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.560452+00:00 |
 | [Seumool (2015) SD CZ Titulky](https://prehraj.to/seumool-2015-sd-cz-titulky-mp4/08a7d46319db0a6a) (ID 29216734) | [Sdílej 34775615](https://sdilej.cz/34775615/seumool-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:28:49.088073+00:00 |
