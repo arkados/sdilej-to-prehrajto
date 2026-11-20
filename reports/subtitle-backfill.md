@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:39:06.584550+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:39:14.444317+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1295,7 +1295,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Malicious (2018) 720p CZ Titulky](https://prehraj.to/malicious-2018-720p-cz-titulky-mkv-cz-titulky/1631f16d04092e13) (ID 30859795) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.318194+00:00 |
 | [Malum (2023) 1080p CZ Titulky](https://prehraj.to/malum-2023-1080p-cz-titulky-mp4/19a18f5509132661) (ID 30389383) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.310005+00:00 |
 | [Malá Anastázie (2020) 720p CZ Titulky](https://prehraj.to/mala-anastazie-2020-720p-cz-titulky-avi/df972dec42d5cbcb) (ID 30658901) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.315849+00:00 |
-| [Malé oslavy (2008) 1080p CZ Titulky](https://prehraj.to/male-oslavy-2008-1080p-cz-titulky-mp4/623a3a1744fe702a) (ID 29721574) | [Sdílej 34781269](https://sdilej.cz/34781269/male-oslavy-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:54:58.518101+00:00 |
+| [Malé oslavy (2008) 1080p CZ Titulky](https://prehraj.to/male-oslavy-2008-1080p-cz-titulky-mp4/623a3a1744fe702a) (ID 29721574) | [Sdílej 34781269](https://sdilej.cz/34781269/male-oslavy-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:39:14.444170+00:00 |
 | [Malí muži (2016) 1080p CZ Titulky](https://prehraj.to/mali-muzi-2016-1080p-cz-titulky-mkv/9523294f745f3bde) (ID 30108261) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.305155+00:00 |
 | [Malí obři (1994) 1080p CZ Titulky](https://prehraj.to/mali-obri-1994-1080p-cz-titulky-mkv/a3ff041932b0d07f) (ID 29285452) | [Sdílej 27881060](https://sdilej.cz/27881060/mali-obri-1994-little-giants-web-dl-1080p-h.264-2xcz-en.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:05:42.937459+00:00 |
 | [Malířka a zloděj (2020) 1080p CZ Titulky](https://prehraj.to/malirka-a-zlodej-2020-1080p-cz-titulky-mp4/889164df258a0aa2) (ID 31151460) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.325026+00:00 |
