@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:47:42.215756+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:47:52.130677+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -2141,7 +2141,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Tajný agent (2025) 4K CZ Titulky](https://prehraj.to/tajny-agent-2025-4k-cz-titulky-mkv/eabeb41353268d5b) (ID 29298951) | [Sdílej 33013860](https://sdilej.cz/33013860/the.secret.agent.2025.2160p.dcp.webrip.ac3.sdr.h265-aoc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:10:34.926331+00:00 |
 | [Tak jako v nebi (2004) SD CZ Titulky](https://prehraj.to/tak-jako-v-nebi-2004-sd-cz-titulky-mp4/9a46c9168543ef3c) (ID 29886931) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.299580+00:00 |
 | [Take Point (2018) SD CZ Titulky](https://prehraj.to/take-point-2018-sd-cz-titulky-mkv/b6097f931ecd0e90) (ID 29608451) | [Sdílej 12205647](https://sdilej.cz/12205647/take.point.2018.hdrip.xvid.ac3-evo-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:56.506112+00:00 |
-| [Taken from Rio Bravo (2024) SD CZ Titulky](https://prehraj.to/taken-from-rio-bravo-2024-sd-cz-titulky-mp4/05fb6b6ce5042ef4) (ID 29607659) | [Sdílej 34724748](https://sdilej.cz/34724748/taken-from-rio-bravo-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:04:20.869320+00:00 |
+| [Taken from Rio Bravo (2024) SD CZ Titulky](https://prehraj.to/taken-from-rio-bravo-2024-sd-cz-titulky-mp4/05fb6b6ce5042ef4) (ID 29607659) | [Sdílej 34724748](https://sdilej.cz/34724748/taken-from-rio-bravo-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:47:52.130525+00:00 |
 | [Takové maličkosti (2024) 1080p CZ Titulky](https://prehraj.to/takove-malickosti-2024-1080p-cz-titulky-mp4/632df2c39f85e34d) (ID 31034234) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.323763+00:00 |
 | [Talaash (2012) SD CZ Titulky](https://prehraj.to/talaash-2012-sd-cz-titulky-mp4/29245b4ff4b56783) (ID 30878081) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.318916+00:00 |
 | [Tales of Halloween (2015) SD CZ Titulky](https://prehraj.to/tales-of-halloween-2015-sd-cz-titulky-mp4/cc836cc47e762493) (ID 29736454) | [Sdílej 13554704](https://sdilej.cz/13554704/tales.of.halloween.2015.web-dl.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:05:08.636824+00:00 |
