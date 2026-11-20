@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:13:30.171101+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:13:37.581292+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -774,7 +774,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Frankensteinova armáda (2013) 720p CZ Titulky](https://prehraj.to/frankensteinova-armada-2013-720p-cz-titulky-mkv/89ab7e79bc07539c) (ID 30547900) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.010803+00:00 |
 | [Frankie (2019) 1080p CZ Titulky](https://prehraj.to/frankie-2019-1080p-cz-titulky-mp4/5a4cbfdb36cce1ae) (ID 29616500) | [Sdílej 34734417](https://sdilej.cz/34734417/frankie-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:14:13.058279+00:00 |
 | [Freaks: Jedni z nás (2020) SD CZ Titulky](https://prehraj.to/freaks-jedni-z-nas-2020-sd-cz-titulky-mp4/7f3177d3f54460b8) (ID 29936552) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.003780+00:00 |
-| [Freaky Friday (1995) SD CZ Titulky](https://prehraj.to/freaky-friday-1995-sd-cz-titulky-mp4/8906855391a754da) (ID 29313961) | [Sdílej 34785134](https://sdilej.cz/34785134/freaky-friday-1995-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:28:40.811573+00:00 |
+| [Freaky Friday (1995) SD CZ Titulky](https://prehraj.to/freaky-friday-1995-sd-cz-titulky-mp4/8906855391a754da) (ID 29313961) | [Sdílej 34785134](https://sdilej.cz/34785134/freaky-friday-1995-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:13:37.581139+00:00 |
 | [Freaky Tales (2024) 1080p CZ Titulky](https://prehraj.to/freaky-tales-2024-1080p-cz-titulky-mkv/a16e20b6489759aa) (ID 30483963) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.010515+00:00 |
 | [Friends & Family Christmas (2023) 1080p CZ Titulky](https://prehraj.to/friends-family-christmas-2023-1080p-cz-titulky-mp4/ff224258667637d1) (ID 30717202) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.011957+00:00 |
 | [Frigo jako Sherlock Holmes (1924) 1080p CZ Titulky](https://prehraj.to/frigo-jako-sherlock-holmes-1924-1080p-cz-titulky-mp4/0bc9ca76f3009a5c) (ID 31155377) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.022913+00:00 |
