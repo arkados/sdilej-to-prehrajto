@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:38:52.248494+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:39:09.856403+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -341,7 +341,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 520. Dů
 | [Caged (2021) 1080p CZ Titulky](https://prehraj.to/caged-2021-1080p-cz-titulky-mkv/549b069b78217651) (ID 29611542) | [Sdílej 15654947](https://sdilej.cz/15654947/caged.2021.1080p.web-dl.dd5.1.h.264-fgt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:11:52.022227+00:00 |
 | [Call Girl (2012) SD CZ Titulky](https://prehraj.to/call-girl-2012-sd-cz-titulky-mp4/8cf3bea37b063be0) (ID 30919088) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.358715+00:00 |
 | [Calmos (1976) SD CZ Titulky](https://prehraj.to/calmos-1976-sd-cz-titulky-mp4/939764072e9da940) (ID 30917234) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.358699+00:00 |
-| [Cam (2018) SD CZ Titulky](https://prehraj.to/cam-2018-sd-cz-titulky-avi/b82ffd846e166717) (ID 29536599) | [Sdílej 10930071](https://sdilej.cz/10930071/cam-2018-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:47:45.825355+00:00 |
+| [Cam (2018) SD CZ Titulky](https://prehraj.to/cam-2018-sd-cz-titulky-avi/b82ffd846e166717) (ID 29536599) | [Sdílej 10930071](https://sdilej.cz/10930071/cam-2018-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:39:09.856285+00:00 |
 | [Camp X-ray (2014) SD CZ Titulky](https://prehraj.to/camp-x-ray-2014-sd-cz-titulky-avi/d4b52a9c868e852f) (ID 30991307) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.361094+00:00 |
 | [Candy Corn (2019) 1080p CZ Titulky.mkv](https://prehraj.to/candy-corn-2019-1080p-cz-titulky-mkv/8c96c1c5cfe58167) (ID 29736310) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.338255+00:00 |
 | [Candy Land (2022) 720p CZ Titulky](https://prehraj.to/candy-land-2022-720p-cz-titulky-mp4/b70ec660d8a4ea7a) (ID 29721061) | [Sdílej 25002521](https://sdilej.cz/25002521/candy-land-2022-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:54:03.447758+00:00 |
