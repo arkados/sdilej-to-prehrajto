@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:10:11.450792+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:10:20.161483+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -409,7 +409,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Colectiv (2019) 1080p CZ Titulky](https://prehraj.to/colectiv-2019-1080p-cz-titulky-mkv/93f061e12d8606f9) (ID 30989257) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.682356+00:00 |
 | [Coma (2019) 1080p CZ Titulky](https://prehraj.to/coma-2019-1080p-cz-titulky-avi/9e2dcf443755843e) (ID 30959672) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.682001+00:00 |
 | [Confession of Murder (2012) SD CZ Titulky](https://prehraj.to/confession-of-murder-2012-sd-cz-titulky-mp4/909f89475f483bc8) (ID 30872075) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.678747+00:00 |
-| [Conjuring Tapes (2025) 1080p CZ Titulky](https://prehraj.to/conjuring-tapes-2025-1080p-cz-titulky-mp4/7319491f33ec346d) (ID 29643307) | [Sdílej 34771256](https://sdilej.cz/34771256/conjuring-tapes-2025-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:22:51.055568+00:00 |
+| [Conjuring Tapes (2025) 1080p CZ Titulky](https://prehraj.to/conjuring-tapes-2025-1080p-cz-titulky-mp4/7319491f33ec346d) (ID 29643307) | [Sdílej 34771256](https://sdilej.cz/34771256/conjuring-tapes-2025-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:10:20.161337+00:00 |
 | [Conor McGregor: Notorious (2017) 1080p CZ Titulky](https://prehraj.to/conor-mcgregor-notorious-2017-1080p-cz-titulky-mkv/9ae07d66666bf58b) (ID 29427630) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.659122+00:00 |
 | [Consecration (2023) 1080p CZ Titulky](https://prehraj.to/consecration-2023-1080p-cz-titulky-avi/897379aaaf50fbff) (ID 29938329) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.664752+00:00 |
 | [Consumed (2024) 720p CZ Titulky](https://prehraj.to/consumed-2024-720p-cz-titulky-mp4/54270e3a8dd8c610) (ID 30858978) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.678226+00:00 |
