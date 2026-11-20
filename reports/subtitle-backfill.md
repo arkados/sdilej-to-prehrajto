@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:13:32.456960+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:13:41.190928+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -2310,7 +2310,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [The Red Tide Massacre (2022) 1080p CZ Titulky](https://prehraj.to/the-red-tide-massacre-2022-1080p-cz-titulky-mkv/734977416655fa19) (ID 30714797) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.676303+00:00 |
 | [The Rental (2020) 1080p CZ Titulky](https://prehraj.to/the-rental-2020-1080p-cz-titulky-mkv/ae447861aa3528da) (ID 29916859) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.663073+00:00 |
 | [The Resort (2021) 720p CZ Titulky](https://prehraj.to/the-resort-2021-720p-cz-titulky-mp4/184690553b6354a2) (ID 30761083) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.677160+00:00 |
-| [The Return of the King (1980) SD CZ Titulky](https://prehraj.to/the-return-of-the-king-1980-sd-cz-titulky-mp4/f8b5adf3ac88c4ed) (ID 29648738) | [Sdílej 34787060](https://sdilej.cz/34787060/the-return-of-the-king-1980-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:26:28.484946+00:00 |
+| [The Return of the King (1980) SD CZ Titulky](https://prehraj.to/the-return-of-the-king-1980-sd-cz-titulky-mp4/f8b5adf3ac88c4ed) (ID 29648738) | [Sdílej 34787060](https://sdilej.cz/34787060/the-return-of-the-king-1980-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:13:41.190779+00:00 |
 | [The Rezort (2015) SD CZ Titulky](https://prehraj.to/the-rezort-2015-sd-cz-titulky-avi/29cb01f86c02cc48) (ID 30665740) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.675861+00:00 |
 | [The River Why (2010) SD CZ Titulky](https://prehraj.to/the-river-why-2010-sd-cz-titulky-mp4/358e6dd85d40e45d) (ID 29656392) | [Sdílej 34749257](https://sdilej.cz/34749257/the-river-why-2010-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:29:58.457015+00:00 |
 | [The Rooster (2023) 1080p CZ Titulky](https://prehraj.to/the-rooster-2023-1080p-cz-titulky-mkv/328afdd441d07a27) (ID 30480151) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.672990+00:00 |
