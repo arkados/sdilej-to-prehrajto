@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:16:40.957977+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:16:48.405553+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1582,7 +1582,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Operator (2015) SD CZ Titulky](https://prehraj.to/operator-2015-sd-cz-titulky-avi/f883e15297a21a9a) (ID 29313124) | [Sdílej 6242213](https://sdilej.cz/6242213/operator-2015-brrip-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:13:30.170984+00:00 |
 | [Opičí Král 2 (2016) SD CZ Titulky](https://prehraj.to/opici-kral-2-2016-sd-cz-titulky-mp4/fe8fd3411741f183) (ID 29934306) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.664365+00:00 |
 | [Orlando (1992) 1080p CZ Titulky](https://prehraj.to/orlando-1992-1080p-cz-titulky-mp4/8eb23d1a316941cc) (ID 31028382) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.682980+00:00 |
-| [Osamělí vlci (2019) 1080p CZ Titulky](https://prehraj.to/osameli-vlci-2019-1080p-cz-titulky-mkv/485b0ab0d1f3f27b) (ID 29655964) | [Sdílej 17308103](https://sdilej.cz/17308103/osameli-vlci-lone-wolves-2019-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:29:40.007465+00:00 |
+| [Osamělí vlci (2019) 1080p CZ Titulky](https://prehraj.to/osameli-vlci-2019-1080p-cz-titulky-mkv/485b0ab0d1f3f27b) (ID 29655964) | [Sdílej 17308103](https://sdilej.cz/17308103/osameli-vlci-lone-wolves-2019-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:16:48.405442+00:00 |
 | [Osmá noc (2021) 1080p CZ Titulky](https://prehraj.to/osma-noc-2021-1080p-cz-titulky-mp4/3a4ea5d9034a28e4) (ID 29914467) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.662802+00:00 |
 | [Ostrý holky (2018) 1080p CZ Titulky](https://prehraj.to/ostry-holky-2018-1080p-cz-titulky-mp4/97ceca05861e1bd7) (ID 29909879) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.662198+00:00 |
 | [Osudná džungle (2020) 720p CZ Titulky](https://prehraj.to/osudna-dzungle-2020-720p-cz-titulky-mkv/cdb18fe502b7c942) (ID 31170222) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.684636+00:00 |
