@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T03:32:25.108920+00:00
+Poslední aktualizace (UTC): 2026-11-20T03:32:32.162163+00:00
 
 Zkontrolováno videí: 3289. Další stránka kontroly: 0.
 
@@ -313,7 +313,7 @@ Kontrol: 15; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Britney Spears Live: The Femme Fatale Tour (2011) SD CZ Titulky](https://prehraj.to/britney-spears-live-the-femme-fatale-tour-2011-sd-cz-titulky-mp4/8523c0e8af3e9b85) (ID 31031693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.374191+00:00 |
 | [Broken Contract (2018) SD CZ Titulky](https://prehraj.to/broken-contract-2018-sd-cz-titulky-avi/49f2ef4135a66748) (ID 30191328) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.354010+00:00 |
 | [Bros Before Hos (2013) SD CZ Titulky](https://prehraj.to/bros-before-hos-2013-sd-cz-titulky-mp4/9e9bcbc8f6370168) (ID 30242923) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.354886+00:00 |
-| [Brotherhood (2010) SD CZ Titulky](https://prehraj.to/brotherhood-2010-sd-cz-titulky-mp4/deed6f1ab30e2613) (ID 29269524) | [Sdílej 34780698](https://sdilej.cz/34780698/brotherhood-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:47:06.845086+00:00 |
+| [Brotherhood (2010) SD CZ Titulky](https://prehraj.to/brotherhood-2010-sd-cz-titulky-mp4/deed6f1ab30e2613) (ID 29269524) | [Sdílej 34780698](https://sdilej.cz/34780698/brotherhood-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:32:32.162056+00:00 |
 | [Brotherhood of Blades II: The Infernal Battlefield (2017) 1080p CZ Titulky](https://prehraj.to/brotherhood-of-blades-ii-the-infernal-battlefield-2017-1080p-cz-titulky-mkv/1ad1affb3d364356) (ID 30912324) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.369607+00:00 |
 | [Brutální město (1970) 720p CZ Titulky](https://prehraj.to/brutalni-mesto-1970-720p-cz-titulky-mp4/4853541e2c1bed72) (ID 30944129) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.371747+00:00 |
 | [Brána do záhrobí (1981) SD CZ Titulky](https://prehraj.to/brana-do-zahrobi-1981-sd-cz-titulky-avi/8cd1f70d5174eeee) (ID 29240551) | [Sdílej 33652395](https://sdilej.cz/33652395/the-beyond-brana-do-zahrobi-1981-horor-usa-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:29:13.001122+00:00 |
