@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:28:26.960797+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:28:47.053027+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1829,7 +1829,7 @@ Kontrol: 56; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Richard III (1995) 1080p CZ Titulky](https://prehraj.to/richard-iii-1995-1080p-cz-titulky-mkv/c5789cf4a38c5554) (ID 30871204) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.614629+00:00 |
 | [Ride On (2023) 1080p CZ Titulky](https://prehraj.to/ride-on-2023-1080p-cz-titulky-mp4/cb860af57d0ce99d) (ID 30280693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.610908+00:00 |
 | [Ringo del Nebraska (1966) SD CZ Titulky](https://prehraj.to/ringo-del-nebraska-1966-sd-cz-titulky-mp4/e58f3fa17d28c48f) (ID 30914844) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.615451+00:00 |
-| [Riphagen (2016) SD CZ Titulky](https://prehraj.to/riphagen-2016-sd-cz-titulky-avi/4911e8cc5d09fdb5) (ID 29444576) | [Sdílej 6804762](https://sdilej.cz/6804762/riphagen-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:37:59.571658+00:00 |
+| [Riphagen (2016) SD CZ Titulky](https://prehraj.to/riphagen-2016-sd-cz-titulky-avi/4911e8cc5d09fdb5) (ID 29444576) | [Sdílej 6804762](https://sdilej.cz/6804762/riphagen-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:28:47.052922+00:00 |
 | [Rise of the Footsoldier Origins - The Tony Tucker Story (2021) 1080p CZ Titulky](https://prehraj.to/rise-of-the-footsoldier-origins-the-tony-tucker-story-2021-1080p-cz-titulky-mkv/d2fe1a48ebdcef76) (ID 30738717) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.613878+00:00 |
 | [Rise of the Footsoldier: Vengeance (2023) 1080p CZ Titulky](https://prehraj.to/rise-of-the-footsoldier-vengeance-2023-1080p-cz-titulky-mkv/b254d01e986409fa) (ID 30475154) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.612439+00:00 |
 | [Rise of the Zombies (2012) 1080p CZ Titulky](https://prehraj.to/rise-of-the-zombies-2012-1080p-cz-titulky-mp4/361c55ec98f51a60) (ID 29906087) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.605593+00:00 |
