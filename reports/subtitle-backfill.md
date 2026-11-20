@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:06:14.204697+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:06:27.992241+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -2250,7 +2250,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [The Human Voice (2020) 1080p CZ Titulky](https://prehraj.to/the-human-voice-2020-1080p-cz-titulky-mp4/7d6e575a85d83642) (ID 29468199) | [Sdílej 34731984](https://sdilej.cz/34731984/the-human-voice-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:31:09.567386+00:00 |
 | [The Huntress: Rune of the Dead (2019) SD CZ Titulky](https://prehraj.to/the-huntress-rune-of-the-dead-2019-sd-cz-titulky-mkv/34eb44b105dd8b57) (ID 31035545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.683295+00:00 |
 | [The Huntsman (2026) 1080p CZ Titulky](https://prehraj.to/the-huntsman-2026-1080p-cz-titulky-mkv/e3f26e4cb46f2d2f) (ID 30741257) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.676801+00:00 |
-| [The Iceman (2012) SD CZ Titulky](https://prehraj.to/the-iceman-2012-sd-cz-titulky-avi/7bfaf2c147e1b3f2) (ID 29635298) | [Sdílej 23107484](https://sdilej.cz/23107484/the-iceman.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:19:11.038517+00:00 |
+| [The Iceman (2012) SD CZ Titulky](https://prehraj.to/the-iceman-2012-sd-cz-titulky-avi/7bfaf2c147e1b3f2) (ID 29635298) | [Sdílej 23107484](https://sdilej.cz/23107484/the-iceman.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:06:27.992126+00:00 |
 | [The Immaculate Room (2022) 1080p CZ Titulky](https://prehraj.to/the-immaculate-room-2022-1080p-cz-titulky-mkv/1f8d1d109dbb522c) (ID 29733364) | [Sdílej 22604827](https://sdilej.cz/22604827/the.immaculate.room.2022.cz.titulky.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:34.983782+00:00 |
 | [The Innkeepers (2011) SD CZ Titulky](https://prehraj.to/the-innkeepers-2011-sd-cz-titulky-avi/be8c588563631484) (ID 29732578) | [Sdílej 24075498](https://sdilej.cz/24075498/tajemstvi-stareho-hotelu-the-innkeepers-horor.thriller-2011-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:58:51.053045+00:00 |
 | [The Internship (2026) 1080p CZ Titulky](https://prehraj.to/the-internship-2026-1080p-cz-titulky-mp4/f201e2c9c0de01ac) (ID 29706666) | [Sdílej 32909953](https://sdilej.cz/32909953/the-internship-2026-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:46:02.157276+00:00 |
