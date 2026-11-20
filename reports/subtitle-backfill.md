@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:34:28.984866+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:34:37.914171+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -2342,7 +2342,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [The Veil (2016) SD CZ Titulky](https://prehraj.to/the-veil-2016-sd-cz-titulky-avi/b320b0d95b088a9f) (ID 29733905) | [Sdílej 18550814](https://sdilej.cz/18550814/the-veil-horor-2016-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:00:09.747535+00:00 |
 | [The Veil (2017) SD CZ Titulky](https://prehraj.to/the-veil-2017-sd-cz-titulky-mp4/b880355a99a9d9ab) (ID 29907336) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.300033+00:00 |
 | [The Veteran (2011) SD CZ Titulky](https://prehraj.to/the-veteran-2011-sd-cz-titulky-avi/15337ca840251fab) (ID 31045807) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.324267+00:00 |
-| [The Viking War (2019) 1080p CZ Titulky](https://prehraj.to/the-viking-war-2019-1080p-cz-titulky-mkv/a62369332dea0ea2) (ID 29713558) | [Sdílej 11268800](https://sdilej.cz/11268800/the.viking.war.2019.eng.1080p.amzn.web-dl.x264.eac3.6ch-cmrg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:49:58.030469+00:00 |
+| [The Viking War (2019) 1080p CZ Titulky](https://prehraj.to/the-viking-war-2019-1080p-cz-titulky-mkv/a62369332dea0ea2) (ID 29713558) | [Sdílej 11268800](https://sdilej.cz/11268800/the.viking.war.2019.eng.1080p.amzn.web-dl.x264.eac3.6ch-cmrg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:34:37.913955+00:00 |
 | [The Virtuoso (2021) 1080p CZ Titulky](https://prehraj.to/the-virtuoso-2021-1080p-cz-titulky-mkv/1505dd49d8986cee) (ID 30396348) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.310214+00:00 |
 | [The Voices (2020) SD CZ Titulky](https://prehraj.to/the-voices-2020-sd-cz-titulky-avi/ffd8fdfe0a381bc9) (ID 30933764) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.321257+00:00 |
 | [The Walking Deceased (2015) SD CZ Titulky](https://prehraj.to/the-walking-deceased-2015-sd-cz-titulky-mkv/834c07b33f9138c7) (ID 29909456) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.300423+00:00 |
