@@ -132894,13 +132894,6 @@
           "source_id": "31513493",
           "target_video_id": "29136445",
           "permanent": false,
-          "attempted_at": "2026-11-20T08:35:40.593000+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31513493",
-          "target_video_id": "29136445",
-          "permanent": false,
           "attempted_at": "2026-11-20T11:43:11.582443+00:00"
         },
         {
@@ -132909,12 +132902,20 @@
           "target_video_id": "29136445",
           "permanent": false,
           "attempted_at": "2026-11-20T15:01:09.042426+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31513493",
+          "target_video_id": "29136445",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-20T18:43:25.507925+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31513493",
         "display_name": "Dědečkem proti své vůli (1939) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T15:00:50.029372+00:00"
+        "planned_at": "2026-11-20T18:41:30.797395+00:00"
       },
       "prepared": {
         "target_video_id": "29136445",
@@ -133520,7 +133521,7 @@
       "last_plan": {
         "source_id": "34530570",
         "display_name": "Velký případ malého detektiva a policejního psa Kykýna (1982) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T15:01:27.119020+00:00"
+        "planned_at": "2026-11-20T18:41:31.343607+00:00"
       },
       "prepared": {
         "target_video_id": "29409057",
@@ -158453,12 +158454,19 @@
           "source_id": "34686259",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-20T18:36:17.503251+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34686259",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-20T18:42:12.811244+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34686259",
         "display_name": "Jak se točí film (2010) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T18:35:55.814964+00:00"
+        "planned_at": "2026-11-20T18:41:30.519978+00:00"
       }
     },
     "21306": {
@@ -160187,7 +160195,20 @@
       }
     },
     "25261": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34707055",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-20T18:41:52.185665+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34707055",
+        "display_name": "Můj bratr je pes (2004) SD CZ Dabing",
+        "planned_at": "2026-11-20T18:41:30.252326+00:00"
+      }
     },
     "14546": {
       "attempts": [
@@ -233865,7 +233886,7 @@
       "last_plan": {
         "source_id": "32866326",
         "display_name": "Zločin z nenávisti (2005) 1080p CZ Titulky",
-        "planned_at": "2026-11-20T15:01:26.659340+00:00"
+        "planned_at": "2026-11-20T18:41:31.089005+00:00"
       },
       "previous_target_id": "31206717",
       "prepared": {
@@ -449095,5 +449116,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T18:41:14.617175+00:00"
+  "updated_at": "2026-11-20T18:43:25.507945+00:00"
 }
