@@ -168161,17 +168161,20 @@
       }
     },
     "34310": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32700650",
+          "target_video_id": "31211041",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-20T18:31:30.451088+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32700650",
         "display_name": "Totální provar: Tragédie na festivalu Astroworld (2025) 720p CZ Dabing",
         "planned_at": "2026-11-20T18:26:12.288601+00:00"
-      },
-      "claim": {
-        "worker_id": "e4a7477e0baf4a5eb184e979813ee467-shard-0",
-        "claimed_at": "2026-11-20T18:26:13.927076+00:00",
-        "lease_expires_at": "2026-11-21T00:26:13.927076+00:00",
-        "run_id": "44741073267"
       },
       "previous_target_id": "31211041",
       "prepared": {
@@ -449078,5 +449081,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T18:26:17.631808+00:00"
+  "updated_at": "2026-11-20T18:31:30.451107+00:00"
 }
