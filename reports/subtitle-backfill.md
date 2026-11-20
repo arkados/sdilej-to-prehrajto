@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T03:32:39.336857+00:00
+Poslední aktualizace (UTC): 2026-11-20T03:32:51.220922+00:00
 
 Zkontrolováno videí: 3289. Další stránka kontroly: 0.
 
@@ -1035,7 +1035,7 @@ Kontrol: 15; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Jamesy Boy (2014) SD CZ Titulky](https://prehraj.to/jamesy-boy-2014-sd-cz-titulky-avi/1fe7836dcfc6b146) (ID 29222680) | [Sdílej 34575081](https://sdilej.cz/34575081/jamesy-boy-2014-cz-titulky-vlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:30:16.247210+00:00 |
 | [Janička z Arku (2019) 1080p CZ Titulky](https://prehraj.to/janicka-z-arku-2019-1080p-cz-titulky-mkv/7aa4670675bb359c) (ID 30578693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.361823+00:00 |
 | [Je muž, který je vysoký, šťastný? (2013) SD CZ Titulky](https://prehraj.to/je-muz-ktery-je-vysoky-stastny-2013-sd-cz-titulky-mp4/cd1e4b072ff6ac93) (ID 30887444) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.368407+00:00 |
-| [Je ne suis pas un homme facile (2018) 1080p CZ Titulky](https://prehraj.to/je-ne-suis-pas-un-homme-facile-2018-1080p-cz-titulky-mkv/265c940fa2240f75) (ID 29271998) | [Sdílej 11763794](https://sdilej.cz/11763794/je-ne-suis-pas-un-homme-facile-i-am-not-an-easy-man-2018-sk-titulky-1080pwebrip-x264-dd5.1-1-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:47:21.799892+00:00 |
+| [Je ne suis pas un homme facile (2018) 1080p CZ Titulky](https://prehraj.to/je-ne-suis-pas-un-homme-facile-2018-1080p-cz-titulky-mkv/265c940fa2240f75) (ID 29271998) | [Sdílej 11763794](https://sdilej.cz/11763794/je-ne-suis-pas-un-homme-facile-i-am-not-an-easy-man-2018-sk-titulky-1080pwebrip-x264-dd5.1-1-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:32:51.220815+00:00 |
 | [Je to jen konec sveta (2016) 1080p CZ Titulky](https://prehraj.to/je-to-jen-konec-sveta-2016-1080p-cz-titulky-mp4/3eaaa5216aaee4c8) (ID 29443232) | [Sdílej 30611907](https://sdilej.cz/30611907/je-to-jen-konec-sveta-2016-fr-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:37:07.898907+00:00 |
 | [Jeanne du Barry – Králova milenka (2023) 1080p CZ Titulky](https://prehraj.to/jeanne-du-barry-kralova-milenka-2023-1080p-cz-titulky-mp4/d0f724546bcda986) (ID 30125036) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.353400+00:00 |
 | [Jedním dechem (2021) 1080p CZ Titulky](https://prehraj.to/jednim-dechem-2021-1080p-cz-titulky-mp4/2d5d5ee664fff6ee) (ID 30155718) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.353532+00:00 |
