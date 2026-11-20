@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:56:25.924293+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:56:33.742783+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -528,7 +528,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 520. Dů
 | [Dobrodružství knihomolky (2024) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29284085) | [Sdílej 32859647](https://sdilej.cz/32859647/bookworm-2024-cz-titulky.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-20T13:28:35.728900+00:00 |
 | [Dobrou noc, mami (2022) 1080p CZ Titulky](https://prehraj.to/dobrou-noc-mami-2022-1080p-cz-titulky-avi/238300d9e92eeb3f) (ID 29925531) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.341362+00:00 |
 | [Dobrá země (2018) SD CZ Titulky](https://prehraj.to/dobra-zeme-2018-sd-cz-titulky-mp4/1831c8491d580e2b) (ID 30096642) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.343297+00:00 |
-| [Dobrý Sam (2019) 1080p CZ Titulky](https://prehraj.to/dobry-sam-2019-1080p-cz-titulky-mp4/6f1496b01a29e5df) (ID 29610544) | [Sdílej 34734506](https://sdilej.cz/34734506/dobry-sam-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:11:07.005320+00:00 |
+| [Dobrý Sam (2019) 1080p CZ Titulky](https://prehraj.to/dobry-sam-2019-1080p-cz-titulky-mp4/6f1496b01a29e5df) (ID 29610544) | [Sdílej 34734506](https://sdilej.cz/34734506/dobry-sam-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:56:33.742631+00:00 |
 | [Dokjeon (2018) 1080p CZ Titulky](https://prehraj.to/dokjeon-2018-1080p-cz-titulky-mp4/66f75fcfc7765a88) (ID 30164040) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.344168+00:00 |
 | [Dokonalost (2018) 1080p CZ Titulky](https://prehraj.to/dokonalost-2018-1080p-cz-titulky-mkv/aacd345360985794) (ID 30314945) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.347034+00:00 |
 | [Dokonalé dny (2023) 4K CZ Titulky](https://prehraj.to/dokonale-dny-2023-4k-cz-titulky-mkv/91c8f9014cd7fbdf) (ID 31023900) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.361552+00:00 |
