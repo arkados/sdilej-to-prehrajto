@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:24:35.289030+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:24:42.464952+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -1697,7 +1697,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Poslední léto (2019) 1080p CZ Titulky](https://prehraj.to/posledni-leto-2019-1080p-cz-titulky-mp4/24f569fb0ca5f002) (ID 30459572) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.010334+00:00 |
 | [Poslední rytíři (2015) 1080p CZ Titulky](https://prehraj.to/posledni-rytiri-2015-1080p-cz-titulky-mkv/d6a9311ce19cb138) (ID 30313478) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.007832+00:00 |
 | [Poslední střih (2022) 720p CZ Titulky](https://prehraj.to/posledni-strih-2022-720p-cz-titulky-mp4/9f3fcc98a4ef11bd) (ID 30270290) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.007195+00:00 |
-| [Poslední ženy moře (2024) 1080p CZ Titulky](https://prehraj.to/posledni-zeny-more-2024-1080p-cz-titulky-mp4/f40938b711cb8997) (ID 29380715) | [Sdílej 34724860](https://sdilej.cz/34724860/posledni-zeny-more-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:32:18.720200+00:00 |
+| [Poslední ženy moře (2024) 1080p CZ Titulky](https://prehraj.to/posledni-zeny-more-2024-1080p-cz-titulky-mp4/f40938b711cb8997) (ID 29380715) | [Sdílej 34724860](https://sdilej.cz/34724860/posledni-zeny-more-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:24:42.464835+00:00 |
 | [Posledních pět let (2014) 1080p CZ Titulky](https://prehraj.to/poslednich-pet-let-2014-1080p-cz-titulky-mkv/023bd88791b6a778) (ID 30789606) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.013303+00:00 |
 | [Possessor (2020) 1080p CZ Titulky](https://prehraj.to/possessor-2020-1080p-cz-titulky-mkv/bb4b997a4ddb4dc5) (ID 30582518) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.011128+00:00 |
 | [Possum (2018) SD CZ Titulky](https://prehraj.to/possum-2018-sd-cz-titulky-mkv/dc94f0fb99fc5adf) (ID 30858756) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.013912+00:00 |
