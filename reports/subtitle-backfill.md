@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:08:57.335583+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:09:10.911808+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -470,7 +470,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Dead Again in Tombstone (2017) SD CZ Titulky](https://prehraj.to/dead-again-in-tombstone-2017-sd-cz-titulky-avi/0c5ed532f0cbd9b9) (ID 30445521) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.672356+00:00 |
 | [Dead Awake (2016) 1080p CZ Titulky](https://prehraj.to/dead-awake-2016-1080p-cz-titulky-mkv/60b1be0afe07a039) (ID 29753488) | [Sdílej 7419503](https://sdilej.cz/7419503/dead-awake.2016.1080p.web-dl.h264.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:29.141133+00:00 |
 | [Dead Sea (2024) 1080p CZ Titulky](https://prehraj.to/dead-sea-2024-1080p-cz-titulky-mp4/e39bbd3b8ac221e4) (ID 30870550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.678629+00:00 |
-| [Dead Shot (2023) SD CZ Titulky](https://prehraj.to/dead-shot-2023-sd-cz-titulky-avi/79bf1a45fea75f94) (ID 29639581) | [Sdílej 27128248](https://sdilej.cz/27128248/dead.shot.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:21:46.096346+00:00 |
+| [Dead Shot (2023) SD CZ Titulky](https://prehraj.to/dead-shot-2023-sd-cz-titulky-avi/79bf1a45fea75f94) (ID 29639581) | [Sdílej 27128248](https://sdilej.cz/27128248/dead.shot.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:09:10.911661+00:00 |
 | [Dead Snow: Rudý vs. Mrtvý (2014) 720p CZ Titulky](https://prehraj.to/dead-snow-rudy-vs-mrtvy-2014-720p-cz-titulky-avi/671e5d65fd2165be) (ID 31086837) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.684121+00:00 |
 | [Dead Trigger (2017) SD CZ Titulky](https://prehraj.to/dead-trigger-2017-sd-cz-titulky-mkv/1143014cba83d534) (ID 29935550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.664491+00:00 |
 | [DeadTectives (2018) 1080p CZ Titulky](https://prehraj.to/deadtectives-2018-1080p-cz-titulky-mkv/6e93fdf6db51c794) (ID 29983190) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.665215+00:00 |
