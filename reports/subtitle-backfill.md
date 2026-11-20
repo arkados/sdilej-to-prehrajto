@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T23:00:29.103473+00:00
+Poslední aktualizace (UTC): 2026-11-20T23:00:36.237049+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -304,7 +304,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Brankář (2018) 720p CZ Titulky](https://prehraj.to/brankar-2018-720p-cz-titulky-mp4/f5ff95c99160e5cf) (ID 31041160) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.573029+00:00 |
 | [Bratrstvo pěti (2020) SD CZ Titulky](https://prehraj.to/bratrstvo-peti-2020-sd-cz-titulky-mkv/cff70bde3cb673a9) (ID 30230006) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.558181+00:00 |
 | [Bratstvo (2019) 1080p CZ Titulky](https://prehraj.to/bratstvo-2019-1080p-cz-titulky-mkv/a2186e4496817601) (ID 30211332) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.557877+00:00 |
-| [Brave Citizen (2023) 1080p CZ Titulky](https://prehraj.to/brave-citizen-2023-1080p-cz-titulky-mp4/9a237b3934794785) (ID 29803955) | [Sdílej 34772096](https://sdilej.cz/34772096/brave-citizen-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:38:08.567973+00:00 |
+| [Brave Citizen (2023) 1080p CZ Titulky](https://prehraj.to/brave-citizen-2023-1080p-cz-titulky-mp4/9a237b3934794785) (ID 29803955) | [Sdílej 34772096](https://sdilej.cz/34772096/brave-citizen-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:00:36.236923+00:00 |
 | [Breakdown Lane (2017) SD CZ Titulky](https://prehraj.to/breakdown-lane-2017-sd-cz-titulky-mkv/bf91a3292885f16f) (ID 29658008) | [Sdílej 34798204](https://sdilej.cz/34798204/breakdown.lane.2017.720p.bluray.x264-getit.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:39.948736+00:00 |
 | [Breeder (2020) 1080p CZ Titulky](https://prehraj.to/breeder-2020-1080p-cz-titulky-mkv/205b001c0a9a5374) (ID 29912189) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.553034+00:00 |
 | [Brestská pevnost (2010) 720p CZ Titulky](https://prehraj.to/brestska-pevnost-2010-720p-cz-titulky-avi/8eb183c5b0821a97) (ID 30103403) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.557156+00:00 |
