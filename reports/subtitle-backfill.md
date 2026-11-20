@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:18:02.475226+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:18:14.533838+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -51,7 +51,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [A Good Enough Day (2022) 1080p CZ Titulky](https://prehraj.to/a-good-enough-day-2022-1080p-cz-titulky-mp4/5955d4d54a06fc7a) (ID 30913256) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.679997+00:00 |
 | [A Knight's War (2025) SD CZ Titulky](https://prehraj.to/a-knight-s-war-2025-sd-cz-titulky-avi/65f627e2d4424544) (ID 31188286) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.684770+00:00 |
 | [A Man Named Scott (2021) 1080p CZ Titulky](https://prehraj.to/a-man-named-scott-2021-1080p-cz-titulky-mp4/a0f50a689caa72ee) (ID 29298987) | [Sdílej 34731688](https://sdilej.cz/34731688/a-man-named-scott-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:10:45.631540+00:00 |
-| [A Perfect Ending (2012) 1080p CZ Titulky](https://prehraj.to/a-perfect-ending-2012-1080p-cz-titulky-mp4/6656d2e8d8d54a83) (ID 29657911) | [Sdílej 34745399](https://sdilej.cz/34745399/a-perfect-ending-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:30:57.342124+00:00 |
+| [A Perfect Ending (2012) 1080p CZ Titulky](https://prehraj.to/a-perfect-ending-2012-1080p-cz-titulky-mp4/6656d2e8d8d54a83) (ID 29657911) | [Sdílej 34745399](https://sdilej.cz/34745399/a-perfect-ending-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:18:14.533691+00:00 |
 | [A Reckoning (2018) SD CZ Titulky](https://prehraj.to/a-reckoning-2018-sd-cz-titulky-avi/d75948e208d6befe) (ID 30248956) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.668008+00:00 |
 | [A Tale of Two Sisters (2003) 1080p CZ Titulky](https://prehraj.to/a-tale-of-two-sisters-2003-1080p-cz-titulky-mp4/58cd01dd7d22aa69) (ID 29347293) | [Sdílej 34751427](https://sdilej.cz/34751427/a-tale-of-two-sisters-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:18:41.134450+00:00 |
 | [A Thursday (2022) 1080p CZ Titulky](https://prehraj.to/a-thursday-2022-1080p-cz-titulky-mp4/3a105b2b69da9af2) (ID 29581823) | [Sdílej 34727718](https://sdilej.cz/34727718/a-thursday-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:50:15.646921+00:00 |
