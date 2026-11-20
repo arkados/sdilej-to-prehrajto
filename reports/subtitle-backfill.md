@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:32:15.296365+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:32:22.392709+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -978,7 +978,7 @@ Kontrol: 56; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Ida (2013) 720p CZ Titulky](https://prehraj.to/ida-2013-720p-cz-titulky-mp4/487c2cd46e0b073c) (ID 29634738) | [Sdílej 33614636](https://sdilej.cz/33614636/ida-2013-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:18:57.211567+00:00 |
 | [Ideální domov (2018) 1080p CZ Titulky](https://prehraj.to/idealni-domov-2018-1080p-cz-titulky-mkv/80427d1871691e6a) (ID 30254872) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.610742+00:00 |
 | [Idioti (1998) 1080p CZ Titulky](https://prehraj.to/idioti-1998-1080p-cz-titulky-mkv/08ad89ca9eb8ecfe) (ID 30540162) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.612746+00:00 |
-| [Il filo invisibile (2022) 1080p CZ Titulky](https://prehraj.to/il-filo-invisibile-2022-1080p-cz-titulky-mp4/bedcce1c23ecb1ee) (ID 29486927) | [Sdílej 34727277](https://sdilej.cz/34727277/il-filo-invisibile-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:42:15.542979+00:00 |
+| [Il filo invisibile (2022) 1080p CZ Titulky](https://prehraj.to/il-filo-invisibile-2022-1080p-cz-titulky-mp4/bedcce1c23ecb1ee) (ID 29486927) | [Sdílej 34727277](https://sdilej.cz/34727277/il-filo-invisibile-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:32:22.392561+00:00 |
 | [Imagine Dragons: Smoke + Mirrors Live (2016) SD CZ Titulky](https://prehraj.to/imagine-dragons-smoke-mirrors-live-2016-sd-cz-titulky-mkv/75bb5099b5ea7c3d) (ID 31159949) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.619326+00:00 |
 | [Imaginární lásky (2010) SD CZ Titulky](https://prehraj.to/imaginarni-lasky-2010-sd-cz-titulky-mkv/90110a39fb1d89ea) (ID 29628654) | [Sdílej 7223331](https://sdilej.cz/7223331/imaginarni-lasky-les-amours-imaginaires-2010-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:27.405059+00:00 |
 | [Immanence (2022) 1080p CZ Titulky](https://prehraj.to/immanence-2022-1080p-cz-titulky-mp4/3698c678aa15f46b) (ID 30369784) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.611477+00:00 |
