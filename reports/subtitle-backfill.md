@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:20:48.820432+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:21:01.110995+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -373,7 +373,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Cherry (2021) 720p CZ Titulky](https://prehraj.to/cherry-2021-720p-cz-titulky-mkv/6e4e24fe338f823b) (ID 30556117) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.673952+00:00 |
 | [Chhapaak (2020) 1080p CZ Titulky](https://prehraj.to/chhapaak-2020-1080p-cz-titulky-mp4/d77c0fd308087167) (ID 29913995) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.662723+00:00 |
 | [Chhorii (2021) SD CZ Titulky](https://prehraj.to/chhorii-2021-sd-cz-titulky-mp4/31e566c381a3660a) (ID 30898794) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.679459+00:00 |
-| [Child Eater (2016) SD CZ Titulky](https://prehraj.to/child-eater-2016-sd-cz-titulky-avi/0f60ac44d2be3784) (ID 29666095) | [Sdílej 11004288](https://sdilej.cz/11004288/child-eater-2016-cz-titulky-bluray.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:33:39.527420+00:00 |
+| [Child Eater (2016) SD CZ Titulky](https://prehraj.to/child-eater-2016-sd-cz-titulky-avi/0f60ac44d2be3784) (ID 29666095) | [Sdílej 11004288](https://sdilej.cz/11004288/child-eater-2016-cz-titulky-bluray.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:21:01.110844+00:00 |
 | [Children of the Corn (2020) 720p CZ Titulky](https://prehraj.to/children-of-the-corn-2020-720p-cz-titulky-mp4/c56a91316c505b3c) (ID 30422843) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.671835+00:00 |
 | [Chimera Strain (2018) 1080p CZ Titulky.mkv](https://prehraj.to/chimera-strain-2018-1080p-cz-titulky-mkv/548ab677f3aca8f2) (ID 29927662) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.663921+00:00 |
 | [Chiméra (2023) 1080p CZ Titulky](https://prehraj.to/chimera-2023-1080p-cz-titulky-mp4/6f0f5a90948d8851) (ID 29505036) | [Sdílej 34713787](https://sdilej.cz/34713787/chimera-2023-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:33:43.406791+00:00 |
