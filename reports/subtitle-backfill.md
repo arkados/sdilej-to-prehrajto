@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:57:31.931654+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:57:40.932792+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -47,7 +47,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [71 (2014) 1080p CZ Titulky](https://prehraj.to/71-2014-1080p-cz-titulky-mkv/8e64d972d904819d) (ID 29387970) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.548203+00:00 |
 | [8213: Dům hrůz (2010) SD CZ Titulky](https://prehraj.to/8213-dum-hruz-2010-sd-cz-titulky-avi/2e4ce60bd8befbf6) (ID 30654037) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.564060+00:00 |
 | [825 Forest Road (2025) 1080p CZ Titulky](https://prehraj.to/825-forest-road-2025-1080p-cz-titulky-mkv/761cb37e29c08b79) (ID 30656480) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.564111+00:00 |
-| [A Breed Apart (2025) SD CZ Titulky](https://prehraj.to/a-breed-apart-2025-sd-cz-titulky-mp4/d4a88c01fc8f3efa) (ID 29752872) | [Sdílej 34758416](https://sdilej.cz/34758416/a-breed-apart-2025-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:34:39.399624+00:00 |
+| [A Breed Apart (2025) SD CZ Titulky](https://prehraj.to/a-breed-apart-2025-sd-cz-titulky-mp4/d4a88c01fc8f3efa) (ID 29752872) | [Sdílej 34758416](https://sdilej.cz/34758416/a-breed-apart-2025-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:57:40.932678+00:00 |
 | [A Good Enough Day (2022) 1080p CZ Titulky](https://prehraj.to/a-good-enough-day-2022-1080p-cz-titulky-mp4/5955d4d54a06fc7a) (ID 30913256) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.569596+00:00 |
 | [A Knight's War (2025) SD CZ Titulky](https://prehraj.to/a-knight-s-war-2025-sd-cz-titulky-avi/65f627e2d4424544) (ID 31188286) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.574335+00:00 |
 | [A Man Named Scott (2021) 1080p CZ Titulky](https://prehraj.to/a-man-named-scott-2021-1080p-cz-titulky-mp4/a0f50a689caa72ee) (ID 29298987) | [Sdílej 34731688](https://sdilej.cz/34731688/a-man-named-scott-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:10:45.631540+00:00 |
