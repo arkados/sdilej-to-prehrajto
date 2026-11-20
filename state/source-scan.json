@@ -94888,15 +94888,6 @@
     "11451": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-14T14:48:39.533845+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -94911,6 +94902,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T00:03:12.326322+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-11-20T03:51:44.960386+00:00"
         }
       ]
     },
@@ -103820,15 +103818,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-13T04:25:44.071198+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-14T23:34:15.212249+00:00"
         },
         {
@@ -103839,6 +103828,15 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T00:03:50.299417+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-20T03:52:03.371025+00:00"
         }
       ]
     },
@@ -118986,13 +118984,6 @@
           "status": "source_deep_scan_failed",
           "permanent": false,
           "selection_policy": "compact-quality-v13",
-          "reason": "Request failed for https://sdilej.cz/ceska-mse-vanocni-2007/s/-6 (HTTP None)",
-          "attempted_at": "2026-11-18T02:13:55.482913+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-18T19:15:09.131076+00:00"
         },
@@ -119002,6 +118993,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-19T17:29:11.066206+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-11-20T03:51:07.446408+00:00"
         }
       ]
     },
@@ -277505,13 +277503,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "No searchable title after source URL normalization",
-          "attempted_at": "2026-11-18T02:19:38.641655+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No searchable title after source URL normalization",
           "attempted_at": "2026-11-18T19:24:22.137831+00:00"
         },
         {
@@ -277520,6 +277511,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No searchable title after source URL normalization",
           "attempted_at": "2026-11-19T17:33:16.355291+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No searchable title after source URL normalization",
+          "attempted_at": "2026-11-20T03:51:08.120742+00:00"
         }
       ]
     },
@@ -723165,5 +723163,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-20T03:50:50.498780+00:00"
+  "updated_at": "2026-11-20T03:52:03.371044+00:00"
 }
