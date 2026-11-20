@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:56:49.236017+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:56:59.802534+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -1666,7 +1666,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Plivu na váš hrob 3 (2015) 1080p CZ Titulky](https://prehraj.to/plivu-na-vas-hrob-3-2015-1080p-cz-titulky-mkv/c116bffac22a0844) (ID 30400424) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.560540+00:00 |
 | [Plán pro rodinu (2023) 4K CZ Titulky](https://prehraj.to/plan-pro-rodinu-2023-4k-cz-titulky-mkv/a38db1b322c22070) (ID 30303685) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.559115+00:00 |
 | [Plán pro rodinu 2 (2025) 1080p CZ Titulky](https://prehraj.to/plan-pro-rodinu-2-2025-1080p-cz-titulky-mkv/e36f30a084a0a417) (ID 29937266) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.554790+00:00 |
-| [Pláž Paradise (2019) 1080p CZ Titulky](https://prehraj.to/plaz-paradise-2019-1080p-cz-titulky-mp4/67fe31e31653b1c1) (ID 29751130) | [Sdílej 34734056](https://sdilej.cz/34734056/plaz-paradise-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:33:47.233696+00:00 |
+| [Pláž Paradise (2019) 1080p CZ Titulky](https://prehraj.to/plaz-paradise-2019-1080p-cz-titulky-mp4/67fe31e31653b1c1) (ID 29751130) | [Sdílej 34734056](https://sdilej.cz/34734056/plaz-paradise-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:56:59.802414+00:00 |
 | [Po bouři (2016) SD CZ Titulky](https://prehraj.to/po-bouri-2016-sd-cz-titulky-avi/edde76ac660cfec3) (ID 29411862) | [Sdílej 8877514](https://sdilej.cz/8877514/po-bouri-after-the-storm-2016-hc.titulky.cz-720p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:23:17.888455+00:00 |
 | [Pod bodem mrazu (2021) SD CZ Titulky](https://prehraj.to/pod-bodem-mrazu-2021-sd-cz-titulky-mkv/8f0560206e8cf5ef) (ID 30772275) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.566261+00:00 |
 | [Pod vlivem (2019) 1080p CZ Titulky](https://prehraj.to/pod-vlivem-2019-1080p-cz-titulky-mkv/d5a71e8b13fabdb6) (ID 30392014) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.560354+00:00 |
