@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:22:32.521000+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:22:48.676579+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -2200,7 +2200,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Christmas Setup (2020) SD CZ Titulky](https://prehraj.to/the-christmas-setup-2020-sd-cz-titulky-mkv/b5131dad23641223) (ID 30095812) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.005750+00:00 |
 | [The Cleaning Lady (2018) SD CZ Titulky](https://prehraj.to/the-cleaning-lady-2018-sd-cz-titulky-mkv/f995d2224d687209) (ID 29677894) | [Sdílej 12656947](https://sdilej.cz/12656947/the-cleaning-lady-2018-sk-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:52.381535+00:00 |
 | [The Clearing (2020) 1080p CZ Titulky](https://prehraj.to/the-clearing-2020-1080p-cz-titulky-mkv/eef420d28463e011) (ID 29915070) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.002479+00:00 |
-| [The Clovehitch Killer (2018) SD CZ Titulky](https://prehraj.to/the-clovehitch-killer-2018-sd-cz-titulky-avi/7f908ff2189264d1) (ID 29372397) | [Sdílej 11007687](https://sdilej.cz/11007687/the-clovehitch-killer-2018-cz-titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:30:28.175080+00:00 |
+| [The Clovehitch Killer (2018) SD CZ Titulky](https://prehraj.to/the-clovehitch-killer-2018-sd-cz-titulky-avi/7f908ff2189264d1) (ID 29372397) | [Sdílej 11007687](https://sdilej.cz/11007687/the-clovehitch-killer-2018-cz-titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:22:48.676448+00:00 |
 | [The Cloverfield Paradox (2018) 1080p CZ Titulky](https://prehraj.to/the-cloverfield-paradox-2018-1080p-cz-titulky-mkv/5079d9a2d05b6d6d) (ID 29931322) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.003535+00:00 |
 | [The Collective (2023) 1080p CZ Titulky](https://prehraj.to/the-collective-2023-1080p-cz-titulky-mp4/ae8b59bb61190f7f) (ID 29736148) | [Sdílej 34725353](https://sdilej.cz/34725353/the-collective-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:03:21.059194+00:00 |
 | [The Coven (2022) 1080p CZ Titulky](https://prehraj.to/the-coven-2022-1080p-cz-titulky-mp4/72c6e94e2ba75cc1) (ID 30400902) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.009648+00:00 |
