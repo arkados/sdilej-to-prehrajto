@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:03:54.667385+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:04:03.483896+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -579,7 +579,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Dívčí válka (2004) SD CZ Titulky](https://prehraj.to/divci-valka-2004-sd-cz-titulky-mkv/9cd76f456d2e88f5) (ID 29731402) | [Sdílej 35069958](https://sdilej.cz/35069958/gladiatress-2004-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:56:50.107050+00:00 |
 | [Dědictví (2020) 1080p CZ Titulky](https://prehraj.to/dedictvi-2020-1080p-cz-titulky-mkv/f2b576e1755c25ae) (ID 30461908) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.672741+00:00 |
 | [Děsivé dědictví (2018) 1080p CZ Titulky](https://prehraj.to/desive-dedictvi-2018-1080p-cz-titulky-mkv/1acbfc40673b536b) (ID 30003284) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.665588+00:00 |
-| [Děti kapitána Granta (1936) SD CZ Titulky](https://prehraj.to/deti-kapitana-granta-1936-sd-cz-titulky-mp4/02c885a162875de7) (ID 29630830) | [Sdílej 34699486](https://sdilej.cz/34699486/deti-kapitana-granta-1936-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:16:49.307243+00:00 |
+| [Děti kapitána Granta (1936) SD CZ Titulky](https://prehraj.to/deti-kapitana-granta-1936-sd-cz-titulky-mp4/02c885a162875de7) (ID 29630830) | [Sdílej 34699486](https://sdilej.cz/34699486/deti-kapitana-granta-1936-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:04:03.483752+00:00 |
 | [Důkaz viny (2026) 4K CZ Titulky](https://prehraj.to/dukaz-viny-2026-4k-cz-titulky-mkv/02a0292fe54a430e) (ID 30599367) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.674839+00:00 |
 | [Dům běsů (2023) 1080p CZ Titulky](https://prehraj.to/dum-besu-2023-1080p-cz-titulky-mp4/efbbe4005a9be74f) (ID 30160550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.667201+00:00 |
 | [Dům k pověšení (1988) SD CZ Titulky](https://prehraj.to/dum-k-poveseni-1988-sd-cz-titulky-avi/928eb1810939184a) (ID 31164166) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.684575+00:00 |
