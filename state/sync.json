@@ -399904,17 +399904,19 @@
       }
     },
     "18679": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32585248",
+          "target_video_id": "31193858",
+          "permanent": false,
+          "attempted_at": "2026-11-20T01:17:21.996475+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32585248",
         "display_name": "Curve (2015) SD CZ Titulky",
         "planned_at": "2026-11-20T01:16:38.096419+00:00"
-      },
-      "claim": {
-        "worker_id": "7eb392b122e8467f980f9d08daffe28b-shard-0",
-        "claimed_at": "2026-11-20T01:16:39.937149+00:00",
-        "lease_expires_at": "2026-11-20T07:16:39.937149+00:00",
-        "run_id": "44626656824"
       },
       "previous_target_id": "31193858",
       "prepared": {
@@ -448409,5 +448411,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T01:16:43.231122+00:00"
+  "updated_at": "2026-11-20T01:17:21.996517+00:00"
 }
