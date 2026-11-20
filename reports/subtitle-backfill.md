@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:26:30.969015+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:26:40.537655+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1570,7 +1570,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [One More Shot (2024) 720p CZ Titulky](https://prehraj.to/one-more-shot-2024-720p-cz-titulky-mkv/e9c2f44e9819bced) (ID 29967909) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.302958+00:00 |
 | [One Night in Paris (2021) 1080p CZ Titulky](https://prehraj.to/one-night-in-paris-2021-1080p-cz-titulky-mp4/b797ec7aeaf5750e) (ID 30686539) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.316179+00:00 |
 | [One Summer (2021) 1080p CZ Titulky](https://prehraj.to/one-summer-2021-1080p-cz-titulky-mp4/3a017359e66c4d5e) (ID 30051684) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.304452+00:00 |
-| [One-Armed Boxer (1972) SD CZ Titulky](https://prehraj.to/one-armed-boxer-1972-sd-cz-titulky-mp4/8d41005671e4be1f) (ID 29680194) | [Sdílej 34755878](https://sdilej.cz/34755878/one-armed-boxer-1972-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:37:21.880756+00:00 |
+| [One-Armed Boxer (1972) SD CZ Titulky](https://prehraj.to/one-armed-boxer-1972-sd-cz-titulky-mp4/8d41005671e4be1f) (ID 29680194) | [Sdílej 34755878](https://sdilej.cz/34755878/one-armed-boxer-1972-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:26:40.537504+00:00 |
 | [One-Eyed Jacks (1961) SD CZ Titulky](https://prehraj.to/one-eyed-jacks-1961-sd-cz-titulky-mkv/dc379f14dd58488d) (ID 29174940) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.295419+00:00 |
 | [Ong Bak 3 (2010) SD CZ Titulky](https://prehraj.to/ong-bak-3-2010-sd-cz-titulky-mkv/c3edc81ad7e75e4a) (ID 31179933) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.325240+00:00 |
 | [Only for One Night (2016) 1080p CZ Titulky](https://prehraj.to/only-for-one-night-2016-1080p-cz-titulky-mp4/d68892f623b81df3) (ID 29611864) | [Sdílej 34775081](https://sdilej.cz/34775081/only-for-one-night-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:57:34.859117+00:00 |
