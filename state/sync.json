@@ -382336,17 +382336,19 @@
       }
     },
     "29028": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28111469",
+          "target_video_id": "31214370",
+          "permanent": false,
+          "attempted_at": "2026-11-20T22:18:39.500571+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28111469",
         "display_name": "The Horde (2016) SD CZ Titulky",
         "planned_at": "2026-11-20T22:17:27.558318+00:00"
-      },
-      "claim": {
-        "worker_id": "1b20c28f0b584c499277a56185ac5fe2-shard-0",
-        "claimed_at": "2026-11-20T22:17:28.830638+00:00",
-        "lease_expires_at": "2026-11-21T04:17:28.830638+00:00",
-        "run_id": "44815319555"
       },
       "previous_target_id": "31214370",
       "prepared": {
@@ -449454,5 +449456,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T22:17:33.888752+00:00"
+  "updated_at": "2026-11-20T22:18:39.500588+00:00"
 }
