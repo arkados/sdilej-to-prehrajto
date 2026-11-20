@@ -94606,17 +94606,19 @@
       }
     },
     "25819": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32250907",
+          "target_video_id": "31197734",
+          "permanent": false,
+          "attempted_at": "2026-11-20T05:38:43.369413+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32250907",
         "display_name": "Léto s liškou (2007) SD CZ Dabing",
         "planned_at": "2026-11-20T05:37:22.290023+00:00"
-      },
-      "claim": {
-        "worker_id": "dee2fb76e0d54420a0bf280dce1696a6-shard-0",
-        "claimed_at": "2026-11-20T05:37:24.450300+00:00",
-        "lease_expires_at": "2026-11-20T11:37:24.450300+00:00",
-        "run_id": "44668186527"
       },
       "previous_target_id": "31197734",
       "prepared": {
@@ -448723,5 +448725,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T05:37:28.475886+00:00"
+  "updated_at": "2026-11-20T05:38:43.369432+00:00"
 }
