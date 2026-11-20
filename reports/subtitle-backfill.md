@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:51:40.064924+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:51:52.482654+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1070,7 +1070,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 520. Dů
 | [Journey to the West: Demon Chapter (2017) SD CZ Titulky](https://prehraj.to/journey-to-the-west-demon-chapter-2017-sd-cz-titulky-mp4/6ba85bdd5bf019a6) (ID 29938773) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.342435+00:00 |
 | [Jsem s tebou (2004) SD CZ Titulky](https://prehraj.to/jsem-s-tebou-2004-sd-cz-titulky-mp4/8fbc9f39ecdcba67) (ID 29261675) | [Sdílej 34751375](https://sdilej.cz/34751375/jsem-s-tebou-2004-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:31:30.449999+00:00 |
 | [Jsem všechny dívky (2021) 1080p CZ Titulky](https://prehraj.to/jsem-vsechny-divky-2021-1080p-cz-titulky-mkv/c3517e25fe480e25) (ID 31045494) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.362426+00:00 |
-| [Jsme jedné krve: Malcolm X a Muhammad Ali (2021) 1080p CZ Titulky](https://prehraj.to/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-1080p-cz-titulky-mp4/3ddd0b6f5abaca0f) (ID 29586922) | [Sdílej 34730700](https://sdilej.cz/34730700/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:05:57.949069+00:00 |
+| [Jsme jedné krve: Malcolm X a Muhammad Ali (2021) 1080p CZ Titulky](https://prehraj.to/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-1080p-cz-titulky-mp4/3ddd0b6f5abaca0f) (ID 29586922) | [Sdílej 34730700](https://sdilej.cz/34730700/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:51:52.482492+00:00 |
 | [Judas Priest: Epitaph (2013) 1080p CZ Titulky](https://prehraj.to/judas-priest-epitaph-2013-1080p-cz-titulky-mp4/7e9dc8cd6926d398) (ID 31029015) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.361809+00:00 |
 | [Julia X (2011) 1080p CZ Titulky](https://prehraj.to/julia-x-2011-1080p-cz-titulky-mp4/0c024a61baf0f6f0) (ID 31047973) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.362649+00:00 |
 | [Jurassic Shark 2: Aquapocalypse (2021) 1080p CZ Titulky](https://prehraj.to/jurassic-shark-2-aquapocalypse-2021-1080p-cz-titulky-mp4/29a6f051738fa3c9) (ID 30863041) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.356753+00:00 |
