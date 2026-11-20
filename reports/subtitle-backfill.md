@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T23:04:08.235116+00:00
+Poslední aktualizace (UTC): 2026-11-20T23:04:15.412502+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -1772,7 +1772,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Přežít může jen jeden (1995) SD CZ Titulky](https://prehraj.to/prezit-muze-jen-jeden-1995-sd-cz-titulky-mkv/5da02756873b830e) (ID 30621759) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.563676+00:00 |
 | [Přišla za mnou (2023) 720p CZ Titulky](https://prehraj.to/prisla-za-mnou-2023-720p-cz-titulky-mkv/f6e1c634d8021267) (ID 31012679) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.572240+00:00 |
 | [Příběh Rudého zla (2008) SD CZ Titulky](https://prehraj.to/pribeh-rudeho-zla-2008-sd-cz-titulky-mp4/a1e981fb5247c199) (ID 29564996) | [Sdílej 34781192](https://sdilej.cz/34781192/pribeh-rudeho-zla-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:45:04.213117+00:00 |
-| [Příběh o princezně Kaguje (2013) 1080p CZ Titulky](https://prehraj.to/pribeh-o-princezne-kaguje-2013-1080p-cz-titulky-mp4/3dbe2cbff6508324) (ID 29884285) | [Sdílej 34716102](https://sdilej.cz/34716102/pribeh-o-princezne-kaguje-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:42:42.628328+00:00 |
+| [Příběh o princezně Kaguje (2013) 1080p CZ Titulky](https://prehraj.to/pribeh-o-princezne-kaguje-2013-1080p-cz-titulky-mp4/3dbe2cbff6508324) (ID 29884285) | [Sdílej 34716102](https://sdilej.cz/34716102/pribeh-o-princezne-kaguje-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:04:15.412383+00:00 |
 | [Příběh z Tokia (1953) SD CZ Titulky](https://prehraj.to/pribeh-z-tokia-1953-sd-cz-titulky-avi/6aac07c152906537) (ID 29878868) | [Sdílej 32251531](https://sdilej.cz/32251531/pribeh-z-tokia-1953-cz-dab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:03:20.319366+00:00 |
 | [Příběhy Cheeche a Chonga (1980) 720p CZ Titulky](https://prehraj.to/pribehy-cheeche-a-chonga-1980-720p-cz-titulky-mp4/c5dd28873f15c3bd) (ID 29637882) | [Sdílej 34755727](https://sdilej.cz/34755727/pribehy-cheeche-a-chonga-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:07:40.891876+00:00 |
 | [Příliš blízko (2019) 1080p CZ Titulky](https://prehraj.to/prilis-blizko-2019-1080p-cz-titulky-avi/0c8ae16671cfb793) (ID 31047572) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.573313+00:00 |
