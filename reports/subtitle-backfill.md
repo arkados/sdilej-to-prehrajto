@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:09:36.598941+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:09:45.024089+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -2646,7 +2646,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Zrádce mezi námi (2016) 720p CZ Titulky](https://prehraj.to/zradce-mezi-nami-2016-720p-cz-titulky-mkv/65e92b666a5e1e59) (ID 30296147) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.007479+00:00 |
 | [Zrůdy (1932) 1080p CZ Titulky](https://prehraj.to/zrudy-1932-1080p-cz-titulky-mkv/290650a68b697bed) (ID 29320943) | [Sdílej 34963214](https://sdilej.cz/34963214/freaks.1932.1080p.amzn.webrip.ddp2.0.x264-sbr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:18.997468+00:00 |
 | [Ztracená duše (1977) SD CZ Titulky](https://prehraj.to/ztracena-duse-1977-sd-cz-titulky-avi/c591ab6bb6f3bca0) (ID 30066605) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.005541+00:00 |
-| [Ztracené duše (2019) 720p CZ Titulky](https://prehraj.to/ztracene-duse-2019-720p-cz-titulky-mp4/59c7130b99408fec) (ID 29295830) | [Sdílej 34638611](https://sdilej.cz/34638611/ztracene-duse-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:31:31.843929+00:00 |
+| [Ztracené duše (2019) 720p CZ Titulky](https://prehraj.to/ztracene-duse-2019-720p-cz-titulky-mp4/59c7130b99408fec) (ID 29295830) | [Sdílej 34638611](https://sdilej.cz/34638611/ztracene-duse-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:09:45.023957+00:00 |
 | [Zvedá se vítr (2006) SD CZ Titulky](https://prehraj.to/zveda-se-vitr-2006-sd-cz-titulky-mp4/79a3d48ac2f7e606) (ID 29796253) | [Sdílej 32713304](https://sdilej.cz/32713304/zveda-se-vitr-2006-cz-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:37:46.650830+00:00 |
 | [Zvedá se vítr (2013) 1080p CZ Titulky](https://prehraj.to/zveda-se-vitr-2013-1080p-cz-titulky-mkv/bb212d059b1429cf) (ID 30942340) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.018455+00:00 |
 | [Zvrhlost (2019) 1080p CZ Titulky](https://prehraj.to/zvrhlost-2019-1080p-cz-titulky-mkv/09ff45c8c45e2169) (ID 30688287) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.011848+00:00 |
