@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:37:57.791263+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:38:07.699310+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -602,7 +602,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [El pacto (2018) SD CZ Titulky](https://prehraj.to/el-pacto-2018-sd-cz-titulky-avi/c99abde04e9a057c) (ID 29998055) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.303587+00:00 |
 | [Elektra Luxx (2011) SD CZ Titulky](https://prehraj.to/elektra-luxx-2011-sd-cz-titulky-avi/927856fdad31cbb1) (ID 29934863) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.302268+00:00 |
 | [Elephant (2020) 720p CZ Titulky](https://prehraj.to/elephant-2020-720p-cz-titulky-mp4/9c337ea2491fa134) (ID 29828611) | [Sdílej 34773343](https://sdilej.cz/34773343/elephant-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:39:58.547683+00:00 |
-| [Eliminators (1986) SD CZ Titulky](https://prehraj.to/eliminators-1986-sd-cz-titulky-mp4/fe11e925d112d972) (ID 29720595) | [Sdílej 30090091](https://sdilej.cz/30090091/eliminators.1986.vhsrip-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:53:44.568685+00:00 |
+| [Eliminators (1986) SD CZ Titulky](https://prehraj.to/eliminators-1986-sd-cz-titulky-mp4/fe11e925d112d972) (ID 29720595) | [Sdílej 30090091](https://sdilej.cz/30090091/eliminators.1986.vhsrip-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:38:07.699166+00:00 |
 | [Elisa a Marcela (2019) 1080p CZ Titulky](https://prehraj.to/elisa-a-marcela-2019-1080p-cz-titulky-avi/909b92102766fa09) (ID 29848461) | [Sdílej 11824610](https://sdilej.cz/11824610/elisa-y-marcela-2019-hc.titulky.cz-1080p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:41:15.097383+00:00 |
 | [Elita armády (2005) 1080p CZ Titulky](https://prehraj.to/elita-armady-2005-1080p-cz-titulky-mp4/046814d690cc33d8) (ID 29936811) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.302553+00:00 |
 | [Elitní jednotka 2: Vnitřní nepřítel (2010) 1080p CZ Titulky](https://prehraj.to/elitni-jednotka-2-vnitrni-nepritel-2010-1080p-cz-titulky-mkv/2edf16744908e288) (ID 29178613) | [Sdílej 26776202](https://sdilej.cz/26776202/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-titulky-vlozeny.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:23:31.302754+00:00 |
