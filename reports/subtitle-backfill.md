@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:14:54.690719+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:15:05.885378+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -386,7 +386,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Chuckův život (2024) 4K CZ Titulky](https://prehraj.to/chuckuv-zivot-2024-4k-cz-titulky-mkv/8b725145c79404be) (ID 30026756) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.665743+00:00 |
 | [Chum (2026) 1080p CZ Titulky](https://prehraj.to/chum-2026-1080p-cz-titulky-mkv/f776d9ad1711e741) (ID 29088573) | [Sdílej 34473094](https://sdilej.cz/34473094/chum-2026-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:17:44.419863+00:00 |
 | [Chuť třešní (1997) 1080p CZ Titulky](https://prehraj.to/chut-tresni-1997-1080p-cz-titulky-mkv/6af7ab6090aab3f0) (ID 30858319) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.678181+00:00 |
-| [Chyba v Matrixu (2021) 1080p CZ Titulky](https://prehraj.to/chyba-v-matrixu-2021-1080p-cz-titulky-mp4/38e549b6c8448b20) (ID 29650917) | [Sdílej 26322552](https://sdilej.cz/26322552/a-glitch-in-the-matrix-2021-cz-sub.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:27:51.547482+00:00 |
+| [Chyba v Matrixu (2021) 1080p CZ Titulky](https://prehraj.to/chyba-v-matrixu-2021-1080p-cz-titulky-mp4/38e549b6c8448b20) (ID 29650917) | [Sdílej 26322552](https://sdilej.cz/26322552/a-glitch-in-the-matrix-2021-cz-sub.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:15:05.885247+00:00 |
 | [Chůze. Jízda. Rodeo. (2019) 1080p CZ Titulky.mp4](https://prehraj.to/chuze-jizda-rodeo-2019-1080p-cz-titulky-mp4/58bcd1e626ea1b7d) (ID 30182737) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.667386+00:00 |
 | [Cirque du Soleil: Toruk - The First Flight (2016) 4K CZ Titulky](https://prehraj.to/cirque-du-soleil-toruk-the-first-flight-2016-4k-cz-titulky-mp4/4dc543dbc6d43038) (ID 30076676) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.666558+00:00 |
 | [Citizen Vigilante (2026) 1080p CZ Titulky](https://prehraj.to/citizen-vigilante-2026-1080p-cz-titulky-mkv/d80aedba9c3ceac1) (ID 30469562) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.672830+00:00 |
