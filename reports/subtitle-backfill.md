@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:20:03.733658+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:20:12.730500+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -1435,7 +1435,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Nanking! Nanking! (2009) 720p CZ Titulky](https://prehraj.to/nanking-nanking-2009-720p-cz-titulky-mp4/84a412e89dc0ac37) (ID 29560066) | [Sdílej 34698292](https://sdilej.cz/34698292/nanking-nanking-2009-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:54:43.124164+00:00 |
 | [Napoleon (2023) 4K CZ Titulky](https://prehraj.to/napoleon-2023-4k-cz-titulky-mkv/d1359a3e8b8e63b1) (ID 31042247) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.021644+00:00 |
 | [Naprosto osvětleno (2005) 720p CZ Titulky](https://prehraj.to/naprosto-osvetleno-2005-720p-cz-titulky-mkv/dd6cb0d65bf7311e) (ID 31027473) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.020763+00:00 |
-| [Naprostí cizinci (2016) 720p CZ Titulky](https://prehraj.to/naprosti-cizinci-2016-720p-cz-titulky-mp4/0beaa73b6807cef9) (ID 29363411) | [Sdílej 34449418](https://sdilej.cz/34449418/2016-naprosti-cizinci-komedie-drama-83-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T10:33:34.788891+00:00 |
+| [Naprostí cizinci (2016) 720p CZ Titulky](https://prehraj.to/naprosti-cizinci-2016-720p-cz-titulky-mp4/0beaa73b6807cef9) (ID 29363411) | [Sdílej 34449418](https://sdilej.cz/34449418/2016-naprosti-cizinci-komedie-drama-83-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:20:12.730370+00:00 |
 | [Naprostý zabiják (2023) 1080p CZ Titulky](https://prehraj.to/naprosty-zabijak-2023-1080p-cz-titulky-mp4/ee8c425f3af8b067) (ID 30582985) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.011147+00:00 |
 | [Napříč vesmírem (2007) 1080p CZ Titulky.mkv](https://prehraj.to/napric-vesmirem-2007-1080p-cz-titulky-mkv/f69ac99a0f336d30) (ID 30021825) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.004536+00:00 |
 | [Narok 6 metre (2018) 1080p CZ Titulky](https://prehraj.to/narok-6-metre-2018-1080p-cz-titulky-mp4/b07f9efdce769bd7) (ID 29914718) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.002366+00:00 |
