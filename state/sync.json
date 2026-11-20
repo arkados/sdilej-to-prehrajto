@@ -25788,17 +25788,19 @@
       }
     },
     "18891": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29890284",
+          "target_video_id": "31194537",
+          "permanent": false,
+          "attempted_at": "2026-11-20T02:11:40.033312+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29890284",
         "display_name": "Kurt Cobain: Montage of Heck (2015) 720p CZ Titulky",
         "planned_at": "2026-11-20T02:08:05.944922+00:00"
-      },
-      "claim": {
-        "worker_id": "a4519f81e52e4b69a567161b880cf452-shard-0",
-        "claimed_at": "2026-11-20T02:08:07.818890+00:00",
-        "lease_expires_at": "2026-11-20T08:08:07.818890+00:00",
-        "run_id": "44626656824"
       },
       "previous_target_id": "31194537",
       "prepared": {
@@ -448470,5 +448472,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T02:08:11.397786+00:00"
+  "updated_at": "2026-11-20T02:11:40.033331+00:00"
 }
