@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:30:51.202259+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:31:00.984617+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -2253,7 +2253,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [The Iceman (2012) SD CZ Titulky](https://prehraj.to/the-iceman-2012-sd-cz-titulky-avi/7bfaf2c147e1b3f2) (ID 29635298) | [Sdílej 23107484](https://sdilej.cz/23107484/the-iceman.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:06:27.992126+00:00 |
 | [The Immaculate Room (2022) 1080p CZ Titulky](https://prehraj.to/the-immaculate-room-2022-1080p-cz-titulky-mkv/1f8d1d109dbb522c) (ID 29733364) | [Sdílej 22604827](https://sdilej.cz/22604827/the.immaculate.room.2022.cz.titulky.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:34.983782+00:00 |
 | [The Innkeepers (2011) SD CZ Titulky](https://prehraj.to/the-innkeepers-2011-sd-cz-titulky-avi/be8c588563631484) (ID 29732578) | [Sdílej 24075498](https://sdilej.cz/24075498/tajemstvi-stareho-hotelu-the-innkeepers-horor.thriller-2011-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:58:51.053045+00:00 |
-| [The Internship (2026) 1080p CZ Titulky](https://prehraj.to/the-internship-2026-1080p-cz-titulky-mp4/f201e2c9c0de01ac) (ID 29706666) | [Sdílej 32909953](https://sdilej.cz/32909953/the-internship-2026-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:46:02.157276+00:00 |
+| [The Internship (2026) 1080p CZ Titulky](https://prehraj.to/the-internship-2026-1080p-cz-titulky-mp4/f201e2c9c0de01ac) (ID 29706666) | [Sdílej 32909953](https://sdilej.cz/32909953/the-internship-2026-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:31:00.984473+00:00 |
 | [The Invitation (2015) 1080p CZ Titulky](https://prehraj.to/the-invitation-2015-1080p-cz-titulky-mkv/07a15e57029bb93d) (ID 30279229) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.307506+00:00 |
 | [The Italians (2025) 1080p CZ Titulky](https://prehraj.to/the-italians-2025-1080p-cz-titulky-mp4/351bb8bcc1843ff3) (ID 30576734) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.314163+00:00 |
 | [The Jester 2 (2025) 1080p CZ Titulky](https://prehraj.to/the-jester-2-2025-1080p-cz-titulky-mkv/7241aa835fef2207) (ID 29026504) | [Sdílej 33466950](https://sdilej.cz/33466950/the.jester.2.2025.hd1080.sk.ru.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:17:13.864080+00:00 |
