@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:21:36.979291+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:21:47.114569+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1777,7 +1777,7 @@ Kontrol: 56; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Příběh z Tokia (1953) SD CZ Titulky](https://prehraj.to/pribeh-z-tokia-1953-sd-cz-titulky-avi/6aac07c152906537) (ID 29878868) | [Sdílej 32251531](https://sdilej.cz/32251531/pribeh-z-tokia-1953-cz-dab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:41:34.620379+00:00 |
 | [Příběhy Cheeche a Chonga (1980) 720p CZ Titulky](https://prehraj.to/pribehy-cheeche-a-chonga-1980-720p-cz-titulky-mp4/c5dd28873f15c3bd) (ID 29637882) | [Sdílej 34755727](https://sdilej.cz/34755727/pribehy-cheeche-a-chonga-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:20:12.231503+00:00 |
 | [Příliš blízko (2019) 1080p CZ Titulky](https://prehraj.to/prilis-blizko-2019-1080p-cz-titulky-avi/0c8ae16671cfb793) (ID 31047572) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.618664+00:00 |
-| [Případ Kim Bok-Nam (2010) SD CZ Titulky](https://prehraj.to/pripad-kim-bok-nam-2010-sd-cz-titulky-mp4/bcf091365ba6d88a) (ID 29409799) | [Sdílej 34710041](https://sdilej.cz/34710041/pripad-kim-bok-nam-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:30:24.745097+00:00 |
+| [Případ Kim Bok-Nam (2010) SD CZ Titulky](https://prehraj.to/pripad-kim-bok-nam-2010-sd-cz-titulky-mp4/bcf091365ba6d88a) (ID 29409799) | [Sdílej 34710041](https://sdilej.cz/34710041/pripad-kim-bok-nam-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:21:47.114438+00:00 |
 | [Případ ztracené kozy (2021) 720p CZ Titulky](https://prehraj.to/pripad-ztracene-kozy-2021-720p-cz-titulky-mp4/79697781d4793526) (ID 29239233) | [Sdílej 34728895](https://sdilej.cz/34728895/pripad-ztracene-kozy-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:28:41.465037+00:00 |
 | [Přísahám, že za to nemůžu (2025) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29113572) | [Sdílej 34430968](https://sdilej.cz/34430968/i-swear-2025-1080p-cz.tit.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-20T13:28:05.554779+00:00 |
 | [Přízraky ze snů (1999) 1080p CZ Titulky](https://prehraj.to/prizraky-ze-snu-1999-1080p-cz-titulky-mp4/5bbbb0c6a414215b) (ID 29905356) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.605554+00:00 |
