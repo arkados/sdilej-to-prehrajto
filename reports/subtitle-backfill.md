@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:38:15.140683+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:38:25.243449+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -730,7 +730,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 520. Dů
 | [Extraterrestrial (2014) 720p CZ Titulky](https://prehraj.to/extraterrestrial-2014-720p-cz-titulky-mkv/78ce759ddab7ca46) (ID 30410520) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.349242+00:00 |
 | [Extremity (2018) SD CZ Titulky](https://prehraj.to/extremity-2018-sd-cz-titulky-avi/98f7bd1952ac952b) (ID 30934455) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.359650+00:00 |
 | [Eye for an Eye (2022) 720p CZ Titulky](https://prehraj.to/eye-for-an-eye-2022-720p-cz-titulky-mp4/9cbd587088b02ba8) (ID 30101219) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.343339+00:00 |
-| [F.R.E.D.I. (2018) 720p CZ Titulky](https://prehraj.to/f-r-e-d-i-2018-720p-cz-titulky-mp4/a919152a57d11685) (ID 29528318) | [Sdílej 34716635](https://sdilej.cz/34716635/f.r.e.d.i.-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:46:42.784935+00:00 |
+| [F.R.E.D.I. (2018) 720p CZ Titulky](https://prehraj.to/f-r-e-d-i-2018-720p-cz-titulky-mp4/a919152a57d11685) (ID 29528318) | [Sdílej 34716635](https://sdilej.cz/34716635/f.r.e.d.i.-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:38:25.243316+00:00 |
 | [Fabricated City (2017) SD CZ Titulky](https://prehraj.to/fabricated-city-2017-sd-cz-titulky-avi/0930ce1fcebd5c2f) (ID 30070626) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.343241+00:00 |
 | [Faces of Death (1978) 720p CZ Titulky](https://prehraj.to/faces-of-death-1978-720p-cz-titulky-mp4/8447a2f323bcfcfd) (ID 30752222) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.355293+00:00 |
 | [Faces of Death (2026) 1080p CZ Titulky](https://prehraj.to/faces-of-death-2026-1080p-cz-titulky-mkv/3015c3c683a8da0e) (ID 29914822) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.340374+00:00 |
