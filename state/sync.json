@@ -101310,17 +101310,19 @@
       "attempts": []
     },
     "31412": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29060525",
+          "target_video_id": "31202126",
+          "permanent": false,
+          "attempted_at": "2026-11-20T10:43:59.107568+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29060525",
         "display_name": "Between Us (2023) 1080p CZ Titulky",
         "planned_at": "2026-11-20T10:39:44.520919+00:00"
-      },
-      "claim": {
-        "worker_id": "7d39fcd9121c41b88b23388966be790a-shard-0",
-        "claimed_at": "2026-11-20T10:39:46.642973+00:00",
-        "lease_expires_at": "2026-11-20T16:39:46.642973+00:00",
-        "run_id": "44713911438"
       },
       "previous_target_id": "31202126",
       "prepared": {
@@ -448752,5 +448754,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T10:39:50.090447+00:00"
+  "updated_at": "2026-11-20T10:43:59.107585+00:00"
 }
