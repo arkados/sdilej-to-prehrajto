@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:41:00.734696+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:41:09.213255+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1540,7 +1540,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 520. Dů
 | [O bozích a lidech (2010) SD CZ Titulky](https://prehraj.to/o-bozich-a-lidech-2010-sd-cz-titulky-mp4/6e63f513f0d8adc3) (ID 29340001) | [Sdílej 34709942](https://sdilej.cz/34709942/o-bozich-a-lidech-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:17:41.119655+00:00 |
 | [O osudu (2022) 1080p CZ Titulky](https://prehraj.to/o-osudu-2022-1080p-cz-titulky-mkv/11ecb2f003a143dd) (ID 30943919) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.360025+00:00 |
 | [OBEX (2025) 1080p CZ Titulky](https://prehraj.to/obex-2025-1080p-cz-titulky-mkv/b72f44f271a39fa1) (ID 30254537) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.345550+00:00 |
-| [ONE PIECE FILM Z (2012) 1080p CZ Titulky](https://prehraj.to/one-piece-film-z-2012-1080p-cz-titulky-mp4/e9336830ca086ff3) (ID 29559540) | [Sdílej 34744081](https://sdilej.cz/34744081/one-piece-film-z-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:54:13.235892+00:00 |
+| [ONE PIECE FILM Z (2012) 1080p CZ Titulky](https://prehraj.to/one-piece-film-z-2012-1080p-cz-titulky-mp4/e9336830ca086ff3) (ID 29559540) | [Sdílej 34744081](https://sdilej.cz/34744081/one-piece-film-z-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:41:09.213136+00:00 |
 | [ONE PIECE STAMPEDE (2019) SD CZ Titulky](https://prehraj.to/one-piece-stampede-2019-sd-cz-titulky-mkv/3d846d84c01258fb) (ID 29901446) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.338946+00:00 |
 | [OSS 117 - Milostné pozdravy z Afriky (2021) SD CZ Titulky](https://prehraj.to/oss-117-milostne-pozdravy-z-afriky-2021-sd-cz-titulky-mp4/4b2ae12d2591439c) (ID 29904732) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.339066+00:00 |
 | [OUTsideři (2014) SD CZ Titulky](https://prehraj.to/outsideri-2014-sd-cz-titulky-avi/036b6d6f32a892b2) (ID 29562375) | [Sdílej 8173680](https://sdilej.cz/8173680/outsideri-the-road-within-2014-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:56:54.392666+00:00 |
