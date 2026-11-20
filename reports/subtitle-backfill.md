@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:43:20.334249+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:43:33.095504+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -138,7 +138,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Apokalypsa Z: Začátek konce (2024) 4K CZ Titulky](https://prehraj.to/apokalypsa-z-zacatek-konce-2024-4k-cz-titulky-mkv/19d7c8787d1bd9f4) (ID 30612770) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.314981+00:00 |
 | [Apollo 11 (2019) 4K CZ Titulky](https://prehraj.to/apollo-11-2019-4k-cz-titulky-mkv/1f9727305c011995) (ID 29207536) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.295510+00:00 |
 | [Aporia (2023) SD CZ Titulky](https://prehraj.to/aporia-2023-sd-cz-titulky-avi/974fede927b423ce) (ID 29614082) | [Sdílej 27826016](https://sdilej.cz/27826016/aporia.2023.pl.480p.bdrip.xvid.dd5.1-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:07:41.979087+00:00 |
-| [Ardennes Fury (2014) SD CZ Titulky](https://prehraj.to/ardennes-fury-2014-sd-cz-titulky-mp4/b06fefe3afa317d3) (ID 29733215) | [Sdílej 34711665](https://sdilej.cz/34711665/ardennes-fury-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:59:33.388324+00:00 |
+| [Ardennes Fury (2014) SD CZ Titulky](https://prehraj.to/ardennes-fury-2014-sd-cz-titulky-mp4/b06fefe3afa317d3) (ID 29733215) | [Sdílej 34711665](https://sdilej.cz/34711665/ardennes-fury-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:43:33.095330+00:00 |
 | [Argylle: Tajný agent (2024) 4K CZ Titulky](https://prehraj.to/argylle-tajny-agent-2024-4k-cz-titulky-mkv/1753966117d652be) (ID 29928077) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.301723+00:00 |
 | [Armand (2024) 720p CZ Titulky](https://prehraj.to/armand-2024-720p-cz-titulky-mkv/9a1cf26471a8fefb) (ID 30869159) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.318547+00:00 |
 | [Armed (2018) SD CZ Titulky](https://prehraj.to/armed-2018-sd-cz-titulky-avi/c8c9f57781494782) (ID 29610479) | [Sdílej 26010890](https://sdilej.cz/26010890/arved.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:56:18.132427+00:00 |
