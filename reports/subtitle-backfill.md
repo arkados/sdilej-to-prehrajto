@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T23:04:50.466554+00:00
+Poslední aktualizace (UTC): 2026-11-20T23:05:00.618633+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -40,7 +40,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [40 Acres (2024) 1080p CZ Titulky](https://prehraj.to/40-acres-2024-1080p-cz-titulky-mkv/25257cec3ffa95fd) (ID 30246511) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.558269+00:00 |
 | [40: The Temptation of Christ (2020) 720p CZ Titulky](https://prehraj.to/40-the-temptation-of-christ-2020-720p-cz-titulky-mp4/b06c259f44d52252) (ID 29233225) | [Sdílej 34773492](https://sdilej.cz/34773492/40-the-temptation-of-christ-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:30:58.162403+00:00 |
 | [438 dní (2019) 1080p CZ Titulky](https://prehraj.to/438-dni-2019-1080p-cz-titulky-mp4/a3bebed4874353a2) (ID 30097551) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.557047+00:00 |
-| [5 centimetrů za sekundu (2007) SD CZ Titulky](https://prehraj.to/5-centimetru-za-sekundu-2007-sd-cz-titulky-avi/a380ea78e880f8e3) (ID 29900709) | [Sdílej 8731378](https://sdilej.cz/8731378/5-centimetru-za-sekundu-by-soku-5-centimeter-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:43:34.517757+00:00 |
+| [5 centimetrů za sekundu (2007) SD CZ Titulky](https://prehraj.to/5-centimetru-za-sekundu-2007-sd-cz-titulky-avi/a380ea78e880f8e3) (ID 29900709) | [Sdílej 8731378](https://sdilej.cz/8731378/5-centimetru-za-sekundu-by-soku-5-centimeter-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:05:00.618526+00:00 |
 | [6 Days (2017) 1080p CZ Titulky](https://prehraj.to/6-days-2017-1080p-cz-titulky-avi/e8deb2631f1025ff) (ID 30675106) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.564235+00:00 |
 | [600 mil (2015) SD CZ Titulky](https://prehraj.to/600-mil-2015-sd-cz-titulky-avi/d15eb778d7622803) (ID 30347474) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.559535+00:00 |
 | [7 citů (2018) 1080p CZ Titulky](https://prehraj.to/7-citu-2018-1080p-cz-titulky-mkv/85c360d8877f4b08) (ID 30530474) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.562406+00:00 |
