@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:25:22.464278+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:25:29.890405+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -1802,7 +1802,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Realms (2017) SD CZ Titulky](https://prehraj.to/realms-2017-sd-cz-titulky-mkv/83f47607b2709cff) (ID 31047713) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.021966+00:00 |
 | [Rebel (2022) 720p CZ Titulky](https://prehraj.to/rebel-2022-720p-cz-titulky-mp4/fd628e2b5a38719e) (ID 30261234) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.007162+00:00 |
 | [Recep İvedik 6 (2019) SD CZ Titulky](https://prehraj.to/recep-ivedik-6-2019-sd-cz-titulky-mp4/ff340788d39cf0a9) (ID 30440166) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.010085+00:00 |
-| [Red Dog - psí legenda (2011) SD CZ Titulky](https://prehraj.to/red-dog-psi-legenda-2011-sd-cz-titulky-mp4/7e564ee5bf116a34) (ID 29387725) | [Sdílej 34746795](https://sdilej.cz/34746795/red-dog-psi-legenda-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:33:05.306314+00:00 |
+| [Red Dog - psí legenda (2011) SD CZ Titulky](https://prehraj.to/red-dog-psi-legenda-2011-sd-cz-titulky-mp4/7e564ee5bf116a34) (ID 29387725) | [Sdílej 34746795](https://sdilej.cz/34746795/red-dog-psi-legenda-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:25:29.890274+00:00 |
 | [Red Sundown (1956) SD CZ Titulky](https://prehraj.to/red-sundown-1956-sd-cz-titulky-mp4/db854b4e32c50c82) (ID 30115522) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.006268+00:00 |
 | [Red Woods (2021) SD CZ Titulky](https://prehraj.to/red-woods-2021-sd-cz-titulky-mp4/66326bc156947b51) (ID 30934039) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.017974+00:00 |
 | [Redcon-1 (2018) 720p CZ Titulky](https://prehraj.to/redcon-1-2018-720p-cz-titulky-mp4/f050c95e92fa3009) (ID 30417986) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.009841+00:00 |
