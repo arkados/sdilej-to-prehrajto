@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:33:49.966935+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:34:00.528572+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -2182,7 +2182,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [The Appearance (2018) 1080p CZ Titulky](https://prehraj.to/the-appearance-2018-1080p-cz-titulky-mkv/5c7e6911dc2f41e1) (ID 29918173) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.301354+00:00 |
 | [The Ashram (2018) SD CZ Titulky](https://prehraj.to/the-ashram-2018-sd-cz-titulky-mkv/4c3de05e4c1b410b) (ID 30295263) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.307940+00:00 |
 | [The Assessment (2024) 1080p CZ Titulky](https://prehraj.to/the-assessment-2024-1080p-cz-titulky-mp4/a8019bcd124d6dcc) (ID 29221488) | [Sdílej 34724745](https://sdilej.cz/34724745/the-assessment-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:45:34.369923+00:00 |
-| [The Aviary (2022) 1080p CZ Titulky](https://prehraj.to/the-aviary-2022-1080p-cz-titulky-mp4/aee6a96eb6881d7c) (ID 29712339) | [Sdílej 34904089](https://sdilej.cz/34904089/the-aviary-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:49:19.651780+00:00 |
+| [The Aviary (2022) 1080p CZ Titulky](https://prehraj.to/the-aviary-2022-1080p-cz-titulky-mp4/aee6a96eb6881d7c) (ID 29712339) | [Sdílej 34904089](https://sdilej.cz/34904089/the-aviary-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:34:00.528390+00:00 |
 | [The Backpacker (2011) SD CZ Titulky](https://prehraj.to/the-backpacker-2011-sd-cz-titulky-mp4/1442f00671ea7057) (ID 30926652) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.320866+00:00 |
 | [The Ballad of Wallis Island (2025) 4K CZ Titulky](https://prehraj.to/the-ballad-of-wallis-island-2025-4k-cz-titulky-mkv/3ac8f439c7105805) (ID 30483546) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.312664+00:00 |
 | [The Bang Bang Club (2011) SD CZ Titulky](https://prehraj.to/the-bang-bang-club-2011-sd-cz-titulky-mp4/990662b079481eac) (ID 29356049) | [Sdílej 34780245](https://sdilej.cz/34780245/the-bang-bang-club-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:20:03.733539+00:00 |
