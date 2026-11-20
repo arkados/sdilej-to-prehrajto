@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:29:45.424604+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:29:51.315129+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -754,7 +754,7 @@ Kontrol: 56; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Fetih 1453 (2012) SD CZ Titulky](https://prehraj.to/fetih-1453-2012-sd-cz-titulky-avi/9c8e788c36361b7f) (ID 29288120) | [Sdílej 15619435](https://sdilej.cz/15619435/fetih-1453-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:06:16.170925+00:00 |
 | [Fighting Fish (2012) SD CZ Titulky](https://prehraj.to/fighting-fish-2012-sd-cz-titulky-mp4/99a05f777431c8a6) (ID 29748235) | [Sdílej 34780100](https://sdilej.cz/34780100/fighting-fish-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:30:40.383201+00:00 |
 | [Filles de joie (2020) 1080p CZ Titulky](https://prehraj.to/filles-de-joie-2020-1080p-cz-titulky-mp4/7683bcad24834e15) (ID 29220739) | [Sdílej 34720657](https://sdilej.cz/34720657/filles-de-joie-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:45:12.761694+00:00 |
-| [Final Fantasy VII: Advent Children (2005) 1080p CZ Titulky](https://prehraj.to/final-fantasy-vii-advent-children-2005-1080p-cz-titulky-mkv/af53cf83e22694a7) (ID 29460915) | [Sdílej 19680256](https://sdilej.cz/19680256/final.fantasy.vii.advent.children.complete.2005.-cz-titulky-japanese.1080p.bluray.h264.aac-vxt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:39:15.906037+00:00 |
+| [Final Fantasy VII: Advent Children (2005) 1080p CZ Titulky](https://prehraj.to/final-fantasy-vii-advent-children-2005-1080p-cz-titulky-mkv/af53cf83e22694a7) (ID 29460915) | [Sdílej 19680256](https://sdilej.cz/19680256/final.fantasy.vii.advent.children.complete.2005.-cz-titulky-japanese.1080p.bluray.h264.aac-vxt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:29:51.315000+00:00 |
 | [Finch (2021) 1080p CZ Titulky](https://prehraj.to/finch-2021-1080p-cz-titulky-mkv/dc79840f5c0de001) (ID 30806404) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.614328+00:00 |
 | [Fire and Ice: The Dragon Chronicles (2008) SD CZ Titulky](https://prehraj.to/fire-and-ice-the-dragon-chronicles-2008-sd-cz-titulky-mkv/64f89d65bab96d9a) (ID 29933125) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.607924+00:00 |
 | [Firebird (2021) 1080p CZ Titulky](https://prehraj.to/firebird-2021-1080p-cz-titulky-mp4/44fc0235727198b8) (ID 31028563) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.618017+00:00 |
