@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T23:01:52.933444+00:00
+Poslední aktualizace (UTC): 2026-11-20T23:01:59.944980+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -2694,7 +2694,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Čmuchalky (1999) 720p CZ Titulky](https://prehraj.to/cmuchalky-1999-720p-cz-titulky-mkv/666e6f0e7cb31557) (ID 30814394) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.567370+00:00 |
 | [Čokoládový dortík (2022) SD CZ Titulky](https://prehraj.to/cokoladovy-dortik-2022-sd-cz-titulky-avi/7c77e44c74b91ff3) (ID 29606406) | [Sdílej 24428260](https://sdilej.cz/24428260/cokoladovy-dortik-sachertorte-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:53:59.633702+00:00 |
 | [Číslo 37 (2018) 1080p CZ Titulky](https://prehraj.to/cislo-37-2018-1080p-cz-titulky-mkv/18e198aea9ea38a5) (ID 31008881) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.572211+00:00 |
-| [Ďábel (2020) 1080p CZ Titulky](https://prehraj.to/dabel-2020-1080p-cz-titulky-mp4/a52735d97e7f186b) (ID 29827585) | [Sdílej 34648374](https://sdilej.cz/34648374/dabel-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:39:49.465897+00:00 |
+| [Ďábel (2020) 1080p CZ Titulky](https://prehraj.to/dabel-2020-1080p-cz-titulky-mp4/a52735d97e7f186b) (ID 29827585) | [Sdílej 34648374](https://sdilej.cz/34648374/dabel-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:01:59.944847+00:00 |
 | [Ďáblovi běžci (2019) 1080p CZ Titulky](https://prehraj.to/dablovi-bezci-2019-1080p-cz-titulky-mkv/8438585c6a95b994) (ID 31044664) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.573166+00:00 |
 | [Ďáblové (1971) 720p CZ Titulky](https://prehraj.to/dablove-1971-720p-cz-titulky-mkv/8d81cc1f190864ef) (ID 29396498) | [Sdílej 29291619](https://sdilej.cz/29291619/dablove-1971-the-devils-eng..mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:07.821783+00:00 |
 | [Ďáblové v oblacích (1955) 1080p CZ Titulky](https://prehraj.to/dablove-v-oblacich-1955-1080p-cz-titulky-mkv/e0ba45a9b07047e5) (ID 30796109) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.567105+00:00 |
