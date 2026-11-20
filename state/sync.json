@@ -210687,17 +210687,19 @@
       }
     },
     "21121": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33795576",
+          "target_video_id": "31214403",
+          "permanent": false,
+          "attempted_at": "2026-11-20T22:22:50.721820+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33795576",
         "display_name": "Cotton Club (1984) 1080p CZ Dabing",
         "planned_at": "2026-11-20T22:19:24.907431+00:00"
-      },
-      "claim": {
-        "worker_id": "60c9dd88cfae4a8f9c083d1e03c7e979-shard-0",
-        "claimed_at": "2026-11-20T22:19:26.202078+00:00",
-        "lease_expires_at": "2026-11-21T04:19:26.202078+00:00",
-        "run_id": "44815319555"
       },
       "previous_target_id": "31214403",
       "prepared": {
@@ -449473,5 +449475,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T22:19:30.927058+00:00"
+  "updated_at": "2026-11-20T22:22:50.721837+00:00"
 }
