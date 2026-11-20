@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:17:18.847167+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:17:29.836346+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -349,7 +349,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Captain Hook: The Cursed Tides (2025) 720p CZ Titulky](https://prehraj.to/captain-hook-the-cursed-tides-2025-720p-cz-titulky-mp4/678ec1e2332eede9) (ID 31042082) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.683505+00:00 |
 | [Captive State (2019) 4K CZ Titulky](https://prehraj.to/captive-state-2019-4k-cz-titulky-mkv/4bc67c083ffe4295) (ID 31036301) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.683338+00:00 |
 | [Cargo (2017) 720p CZ Titulky](https://prehraj.to/cargo-2017-720p-cz-titulky-mkv/4f18dd41129a501f) (ID 30302934) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.669073+00:00 |
-| [Carnaval (2021) 1080p CZ Titulky](https://prehraj.to/carnaval-2021-1080p-cz-titulky-mp4/8f3c8f810b229479) (ID 29656573) | [Sdílej 34731482](https://sdilej.cz/34731482/carnaval-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:30:15.651805+00:00 |
+| [Carnaval (2021) 1080p CZ Titulky](https://prehraj.to/carnaval-2021-1080p-cz-titulky-mp4/8f3c8f810b229479) (ID 29656573) | [Sdílej 34731482](https://sdilej.cz/34731482/carnaval-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:17:29.836204+00:00 |
 | [Carnifex (2022) 1080p CZ Titulky](https://prehraj.to/carnifex-2022-1080p-cz-titulky-mkv/5b7276964a06c83c) (ID 30959587) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.681971+00:00 |
 | [Carrie Pilby (2017) 1080p CZ Titulky](https://prehraj.to/carrie-pilby-2017-1080p-cz-titulky-mp4/3d8283cf15969e3e) (ID 30123501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.666928+00:00 |
 | [Casanova '70 (1965) 1080p CZ Titulky](https://prehraj.to/casanova-70-1965-1080p-cz-titulky-mp4/82dd2846efd41eb7) (ID 30916731) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.680133+00:00 |
