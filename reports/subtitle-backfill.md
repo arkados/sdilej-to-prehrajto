@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T23:04:41.682699+00:00
+Poslední aktualizace (UTC): 2026-11-20T23:04:50.466554+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -1317,7 +1317,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Martyrs Lane (2021) SD CZ Titulky](https://prehraj.to/martyrs-lane-2021-sd-cz-titulky-avi/35ac025199364fdf) (ID 29632570) | [Sdílej 24430252](https://sdilej.cz/24430252/martyrs.lane.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:05:16.983475+00:00 |
 | [Masaryk (2016) SD CZ Titulky](https://prehraj.to/masaryk-2016-sd-cz-titulky-avi/df63a430e5e3839f) (ID 29717479) | [Sdílej 23085369](https://sdilej.cz/23085369/masaryk-2016-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:36:11.279833+00:00 |
 | [Masquerade (2021) 1080p CZ Titulky](https://prehraj.to/masquerade-2021-1080p-cz-titulky-avi/b0f50eb5832f2359) (ID 29916775) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.553489+00:00 |
-| [Mass (2021) 1080p CZ Titulky](https://prehraj.to/mass-2021-1080p-cz-titulky-mp4/0ad233c411a240fa) (ID 29895547) | [Sdílej 19343713](https://sdilej.cz/19343713/mass.2021.1080p.webrip.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:43:21.838734+00:00 |
+| [Mass (2021) 1080p CZ Titulky](https://prehraj.to/mass-2021-1080p-cz-titulky-mp4/0ad233c411a240fa) (ID 29895547) | [Sdílej 19343713](https://sdilej.cz/19343713/mass.2021.1080p.webrip.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:04:50.466432+00:00 |
 | [Matriarcha (2022) 1080p CZ Titulky](https://prehraj.to/matriarcha-2022-1080p-cz-titulky-avi/ca654e376c0ba4e1) (ID 30384064) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.560241+00:00 |
 | [Matthias a Maxime (2019) 1080p CZ Titulky](https://prehraj.to/matthias-a-maxime-2019-1080p-cz-titulky-mkv/2797d9d8ac8ecb6a) (ID 29687687) | [Sdílej 13605860](https://sdilej.cz/13605860/matthias.et.maxime.2019.pl.1080p.web-dl.x264-kit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:27:20.239635+00:00 |
 | [Mauglí - příběh džungle (2018) 1080p CZ Titulky](https://prehraj.to/maugli-pribeh-dzungle-2018-1080p-cz-titulky-avi/085b49d2501404b5) (ID 31040236) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.572985+00:00 |
