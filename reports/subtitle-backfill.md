@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:53:53.976264+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:54:08.239646+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -1998,7 +1998,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Slyšitelně (2021) 1080p CZ Titulky](https://prehraj.to/slysitelne-2021-1080p-cz-titulky-mp4/d68acdb709e179bd) (ID 31034169) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.572760+00:00 |
 | [Smartass (2017) SD CZ Titulky](https://prehraj.to/smartass-2017-sd-cz-titulky-avi/99ddd73eee53afca) (ID 30962181) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.571662+00:00 |
 | [Smrt a dívka (1994) 1080p CZ Titulky](https://prehraj.to/smrt-a-divka-1994-1080p-cz-titulky-mkv/8381c7a2fc383951) (ID 30495431) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.562183+00:00 |
-| [Smrt do roku 2020 (2020) 1080p CZ Titulky](https://prehraj.to/smrt-do-roku-2020-2020-1080p-cz-titulky-avi/94fe54d6492c94af) (ID 29747667) | [Sdílej 22458495](https://sdilej.cz/22458495/smrt-do-roku-2020-death-to-2020-2020-komedie-dokument-1920x1080p.-en-ct-title.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:30:31.648336+00:00 |
+| [Smrt do roku 2020 (2020) 1080p CZ Titulky](https://prehraj.to/smrt-do-roku-2020-2020-1080p-cz-titulky-avi/94fe54d6492c94af) (ID 29747667) | [Sdílej 22458495](https://sdilej.cz/22458495/smrt-do-roku-2020-death-to-2020-2020-komedie-dokument-1920x1080p.-en-ct-title.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:54:08.239522+00:00 |
 | [Smrt roku 2021! (2021) 1080p CZ Titulky](https://prehraj.to/smrt-roku-2021-2021-1080p-cz-titulky-avi/212688a30e86f589) (ID 29976229) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.555237+00:00 |
 | [Smrt v Benátkách (1971) SD CZ Titulky](https://prehraj.to/smrt-v-benatkach-1971-sd-cz-titulky-avi/fd11ac4655a5b130) (ID 30871110) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.568267+00:00 |
 | [Smrt za oponou (1967) 1080p CZ Titulky](https://prehraj.to/smrt-za-oponou-1967-1080p-cz-titulky-mkv/ab1104ce142dbcfe) (ID 29806237) | [Sdílej 34922724](https://sdilej.cz/34922724/smrt-za-oponou-1967-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:38:39.124613+00:00 |
