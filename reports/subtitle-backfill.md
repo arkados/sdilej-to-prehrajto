@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:56:59.802534+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:57:10.811534+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -2384,7 +2384,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Touha po životě (2015) SD CZ Titulky](https://prehraj.to/touha-po-zivote-2015-sd-cz-titulky-mp4/4dc83bc924b81ed7) (ID 29411882) | [Sdílej 34697611](https://sdilej.cz/34697611/touha-po-zivote-2015-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:53:31.743843+00:00 |
 | [Touhy žen (2025) 1080p CZ Titulky](https://prehraj.to/touhy-zen-2025-1080p-cz-titulky-mkv/7910e6c5035210c9) (ID 30102893) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.557112+00:00 |
 | [Toxický mstitel (1984) 1080p CZ Titulky](https://prehraj.to/toxicky-mstitel-1984-1080p-cz-titulky-mkv/2b33ba9e7565fd93) (ID 30775640) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.566568+00:00 |
-| [Traded (2016) SD CZ Titulky](https://prehraj.to/traded-2016-sd-cz-titulky-avi/2f2e2f16c81cc25f) (ID 29751271) | [Sdílej 34776246](https://sdilej.cz/34776246/western-cz-dab-traded-2016-hc.titulky.cz-western.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:34:00.746690+00:00 |
+| [Traded (2016) SD CZ Titulky](https://prehraj.to/traded-2016-sd-cz-titulky-avi/2f2e2f16c81cc25f) (ID 29751271) | [Sdílej 34776246](https://sdilej.cz/34776246/western-cz-dab-traded-2016-hc.titulky.cz-western.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:57:10.811410+00:00 |
 | [Traffik (2018) 1080p CZ Titulky](https://prehraj.to/traffik-2018-1080p-cz-titulky-mkv/e34bab284e25e196) (ID 30450653) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.561605+00:00 |
 | [Traja chrobáci (1976) SD CZ Titulky](https://prehraj.to/traja-chrobaci-1976-sd-cz-titulky-avi/652864e4cb07a5d2) (ID 31158094) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.574048+00:00 |
 | [Transdarinka (2015) SD CZ Titulky](https://prehraj.to/transdarinka-2015-sd-cz-titulky-mp4/f2cb0e1590430288) (ID 30677038) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.564247+00:00 |
