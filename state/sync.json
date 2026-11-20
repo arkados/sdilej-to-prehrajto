@@ -158458,13 +158458,6 @@
           "permanent": false,
           "source_id": "34686259",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-20T18:42:12.811244+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34686259",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-20T18:53:37.614756+00:00"
         },
         {
@@ -158473,18 +158466,19 @@
           "source_id": "34686259",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-20T19:04:00.276776+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34686259",
+          "target_video_id": "31211733",
+          "permanent": false,
+          "attempted_at": "2026-11-20T19:13:47.053943+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34686259",
         "display_name": "Jak se točí film (2010) 1080p CZ Dabing",
         "planned_at": "2026-11-20T19:10:38.605188+00:00"
-      },
-      "claim": {
-        "worker_id": "25f0f430b05f4b84909f92198663243e-shard-0",
-        "claimed_at": "2026-11-20T19:10:40.118307+00:00",
-        "lease_expires_at": "2026-11-21T01:10:40.118307+00:00",
-        "run_id": "44741073267"
       },
       "previous_target_id": "31211733",
       "prepared": {
@@ -449189,5 +449183,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T19:10:43.749686+00:00"
+  "updated_at": "2026-11-20T19:13:47.053963+00:00"
 }
