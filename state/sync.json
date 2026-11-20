@@ -379480,17 +379480,19 @@
       "attempts": []
     },
     "8426": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30108516",
+          "target_video_id": "31215541",
+          "permanent": false,
+          "attempted_at": "2026-11-20T23:43:12.091293+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30108516",
         "display_name": "Vnitřní monstrum (2023) 1080p CZ Titulky",
         "planned_at": "2026-11-20T23:37:03.163600+00:00"
-      },
-      "claim": {
-        "worker_id": "636cc063b7524361a554b40ee06686f0-shard-0",
-        "claimed_at": "2026-11-20T23:37:04.523360+00:00",
-        "lease_expires_at": "2026-11-21T05:37:04.523360+00:00",
-        "run_id": "44815319555"
       },
       "previous_target_id": "31215541",
       "prepared": {
@@ -449555,5 +449557,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T23:37:08.329854+00:00"
+  "updated_at": "2026-11-20T23:43:12.091310+00:00"
 }
