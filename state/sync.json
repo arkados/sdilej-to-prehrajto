@@ -233744,17 +233744,19 @@
       }
     },
     "25380": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32866326",
+          "target_video_id": "31206717",
+          "permanent": false,
+          "attempted_at": "2026-11-20T15:04:46.360686+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32866326",
         "display_name": "Zločin z nenávisti (2005) 1080p CZ Titulky",
         "planned_at": "2026-11-20T15:01:26.659340+00:00"
-      },
-      "claim": {
-        "worker_id": "ed7ac55eff55400bb20615c5f3222660-shard-0",
-        "claimed_at": "2026-11-20T15:01:28.750065+00:00",
-        "lease_expires_at": "2026-11-20T21:01:28.750065+00:00",
-        "run_id": "44713911438"
       },
       "previous_target_id": "31206717",
       "prepared": {
@@ -448925,5 +448927,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T15:01:32.422763+00:00"
+  "updated_at": "2026-11-20T15:04:46.360702+00:00"
 }
