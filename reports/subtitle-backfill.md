@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:58:02.032519+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:58:06.277441+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 527, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 841, `source_provenance_missing`: 1732, `source_unavailable`: 18, `target_detail_url_missing`: 16, `target_unavailable`: 24
+Stavy: `already_has_czech`: 527, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 840, `source_provenance_missing`: 1732, `source_unavailable`: 19, `target_detail_url_missing`: 16, `target_unavailable`: 24
 
 ## Poslední dávka
 
@@ -567,7 +567,6 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Dvojitý milenec (2017) SD CZ Titulky](https://prehraj.to/dvojity-milenec-2017-sd-cz-titulky-avi/ca730e0fead0c614) (ID 29992396) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.555575+00:00 |
 | [Dvojník (2004) 1080p CZ Titulky](https://prehraj.to/dvojnik-2004-1080p-cz-titulky-mkv/eb3c864f93b3a884) (ID 31008718) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.572196+00:00 |
 | [Dvě ku jedné (2024) 1080p CZ Titulky](https://prehraj.to/dve-ku-jedne-2024-1080p-cz-titulky-mkv/f645dd41a5a68c81) (ID 30920388) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.569843+00:00 |
-| [Dvě čarodějnice (2021) SD CZ Titulky](https://prehraj.to/dve-carodejnice-2021-sd-cz-titulky-avi/a8083f044b52b223) (ID 29753485) | [Sdílej 22953239](https://sdilej.cz/22953239/two.witches.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:35:19.469283+00:00 |
 | [Dálniční hlídka (2019) 4K CZ Titulky](https://prehraj.to/dalnicni-hlidka-2019-4k-cz-titulky-mkv/2814e8c9b4087bcd) (ID 29400538) | [Sdílej 11927098](https://sdilej.cz/11927098/the.highwaymen.2019.2160p.webrip.x264-deflate.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:11.928177+00:00 |
 | [Dárek do cely č.7 (2013) SD CZ Titulky](https://prehraj.to/darek-do-cely-c-7-2013-sd-cz-titulky-mp4/36cd0be6d58aeac3) (ID 29219731) | [Sdílej 34710882](https://sdilej.cz/34710882/darek-do-cely-c.7-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:44:53.483986+00:00 |
 | [Dávné rituály (2021) 1080p CZ Titulky](https://prehraj.to/davne-ritualy-2021-1080p-cz-titulky-avi/8b466b49d748f701) (ID 29755108) | [Sdílej 32107662](https://sdilej.cz/32107662/davne-ritualy-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:36:17.060820+00:00 |
@@ -2741,6 +2740,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-11-20T13:29:40.207466+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-11-20T13:29:51.088576+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-11-20T13:29:21.586398+00:00 |
+| [Dvě čarodějnice (2021) SD CZ Titulky](https://prehraj.to/dve-carodejnice-2021-sd-cz-titulky-avi/a8083f044b52b223) (ID 29753485) | [Sdílej 22953239](https://sdilej.cz/22953239/two.witches.avi) | source_unavailable | 2026-11-20T22:58:06.277407+00:00 |
 | [Injustice (2021) 720p CZ Titulky](https://prehraj.to/injustice-2021-720p-cz-titulky-mkv/ffb5bc712c4a71b6) (ID 29268748) | [Sdílej 18465092](https://sdilej.cz/18465092/injustice.2021.720p.bluray.x264.dts-mt.mkv) | target_unavailable | 2026-11-20T13:27:48.482551+00:00 |
 | [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-11-20T13:30:02.111990+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-11-20T13:29:28.798394+00:00 |
