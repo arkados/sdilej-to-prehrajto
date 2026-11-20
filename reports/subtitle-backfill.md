@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:42:17.475963+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:42:39.354631+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -869,7 +869,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Haunt (2013) SD CZ Titulky](https://prehraj.to/haunt-2013-sd-cz-titulky-avi/2ebf6f74d95b09a8) (ID 29933256) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.302118+00:00 |
 | [Havenhurst (2016) SD CZ Titulky](https://prehraj.to/havenhurst-2016-sd-cz-titulky-avi/f6d827dc77a0deb0) (ID 29733359) | [Sdílej 35027491](https://sdilej.cz/35027491/havenhurst-horor-2016-cz.titulky-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:59:56.717501+00:00 |
 | [Hayride 2 (2015) SD CZ Titulky](https://prehraj.to/hayride-2-2015-sd-cz-titulky-avi/de9b2b5b93a63784) (ID 29707155) | [Sdílej 18964980](https://sdilej.cz/18964980/hayride-2-akcni-horor-2015-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:46:26.194697+00:00 |
-| [He's Out There (2018) 1080p CZ Titulky](https://prehraj.to/he-s-out-there-2018-1080p-cz-titulky-avi/d64dfe30a3b0c704) (ID 29732481) | [Sdílej 11707849](https://sdilej.cz/11707849/he-s-out-there-scarecrow-2018-hc.titulky.cz-1080p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:58:35.597534+00:00 |
+| [He's Out There (2018) 1080p CZ Titulky](https://prehraj.to/he-s-out-there-2018-1080p-cz-titulky-avi/d64dfe30a3b0c704) (ID 29732481) | [Sdílej 11707849](https://sdilej.cz/11707849/he-s-out-there-scarecrow-2018-hc.titulky.cz-1080p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:42:39.354483+00:00 |
 | [Heartless Outlaws (2023) 720p CZ Titulky](https://prehraj.to/heartless-outlaws-2023-720p-cz-titulky-mp4/a04872ff54204108) (ID 30911790) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.320108+00:00 |
 | [Hedda (2025) 1080p CZ Titulky](https://prehraj.to/hedda-2025-1080p-cz-titulky-mkv/e95f30483f724d65) (ID 30869717) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.318564+00:00 |
 | [Heidi (2005) 1080p CZ Titulky](https://prehraj.to/heidi-2005-1080p-cz-titulky-mkv/e49d6c92c5079efb) (ID 30902766) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.319595+00:00 |
