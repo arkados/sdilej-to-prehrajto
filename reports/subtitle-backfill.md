@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:09:45.024089+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:09:54.601679+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -1482,7 +1482,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Neviditelná (2019) 1080p CZ Titulky](https://prehraj.to/neviditelna-2019-1080p-cz-titulky-mp4/ca19f44dca4f7818) (ID 29983357) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.004079+00:00 |
 | [Neviditelný (2020) 4K CZ Titulky](https://prehraj.to/neviditelny-2020-4k-cz-titulky-mkv/7f6967d401485d25) (ID 31032014) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.021062+00:00 |
 | [Neviňátka (1961) 1080p CZ Titulky](https://prehraj.to/nevinatka-1961-1080p-cz-titulky-mkv/933f47c2df417454) (ID 29397058) | [Sdílej 33293130](https://sdilej.cz/33293130/the-innocents-1961-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:26:50.492728+00:00 |
-| [Nevídaní (2019) 1080p CZ Titulky](https://prehraj.to/nevidani-2019-1080p-cz-titulky-mp4/d2acbf292d23f391) (ID 29295845) | [Sdílej 34734064](https://sdilej.cz/34734064/nevidani-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:31:40.179672+00:00 |
+| [Nevídaní (2019) 1080p CZ Titulky](https://prehraj.to/nevidani-2019-1080p-cz-titulky-mp4/d2acbf292d23f391) (ID 29295845) | [Sdílej 34734064](https://sdilej.cz/34734064/nevidani-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:09:54.601539+00:00 |
 | [Nevěstinec (2011) 1080p CZ Titulky](https://prehraj.to/nevestinec-2011-1080p-cz-titulky-mkv/1ca84da9d8e002b6) (ID 30682765) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.011815+00:00 |
 | [Nezapomenutelné dětství (2004) 720p CZ Titulky](https://prehraj.to/nezapomenutelne-detstvi-2004-720p-cz-titulky-mkv/7ebe37f37b10426d) (ID 29443371) | [Sdílej 34871247](https://sdilej.cz/34871247/nezapomenutelne-detstvi-robin-williams-2004-czdab.hd.bluray.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:45:45.912852+00:00 |
 | [Nezha (2019) 1080p CZ Titulky](https://prehraj.to/nezha-2019-1080p-cz-titulky-mkv/96cc6db64b6367db) (ID 30490950) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.010586+00:00 |
