@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:34:50.945785+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:34:57.463329+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1131,7 +1131,7 @@ Kontrol: 56; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Kokuhaku (2010) 1080p CZ Titulky](https://prehraj.to/kokuhaku-2010-1080p-cz-titulky-mkv/b2c99d3e607ebcba) (ID 29560872) | [Sdílej 7861515](https://sdilej.cz/7861515/kokuhaku-confessions.2010.1080p.bluray.x264.dts-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:19.548205+00:00 |
 | [Kolonie (2026) 1080p CZ Titulky](https://prehraj.to/kolonie-2026-1080p-cz-titulky-mp4/4246b6413f182b42) (ID 30576681) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.612989+00:00 |
 | [Kolonisté (2024) 1080p CZ Titulky](https://prehraj.to/koloniste-2024-1080p-cz-titulky-mp4/1e8ecc9837431984) (ID 30908634) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.615174+00:00 |
-| [Kolíska (1964) 1080p CZ Titulky](https://prehraj.to/koliska-1964-1080p-cz-titulky-mp4/492915f44a5f75e5) (ID 29516246) | [Sdílej 34758296](https://sdilej.cz/34758296/koliska-1964-sk-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:45:22.133083+00:00 |
+| [Kolíska (1964) 1080p CZ Titulky](https://prehraj.to/koliska-1964-1080p-cz-titulky-mp4/492915f44a5f75e5) (ID 29516246) | [Sdílej 34758296](https://sdilej.cz/34758296/koliska-1964-sk-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:34:57.463213+00:00 |
 | [Komando postradatelných (2012) SD CZ Titulky](https://prehraj.to/komando-postradatelnych-2012-sd-cz-titulky-avi/dc45ab4bbb0ccbe7) (ID 30638146) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.613451+00:00 |
 | [Komplic (2020) 1080p CZ Titulky](https://prehraj.to/komplic-2020-1080p-cz-titulky-mp4/94284e0ee73a4aa2) (ID 29257529) | [Sdílej 34733076](https://sdilej.cz/34733076/komplic-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:31:15.983750+00:00 |
 | [Kompromat (2022) 1080p CZ Titulky](https://prehraj.to/kompromat-2022-1080p-cz-titulky-mkv/82e169bd742a763d) (ID 30573501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.612930+00:00 |
