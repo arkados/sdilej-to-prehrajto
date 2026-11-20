@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:05:42.937564+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:05:50.185722+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -2381,7 +2381,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Traja chrobáci (1976) SD CZ Titulky](https://prehraj.to/traja-chrobaci-1976-sd-cz-titulky-avi/652864e4cb07a5d2) (ID 31158094) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.023020+00:00 |
 | [Transdarinka (2015) SD CZ Titulky](https://prehraj.to/transdarinka-2015-sd-cz-titulky-mp4/f2cb0e1590430288) (ID 30677038) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.011777+00:00 |
 | [Traumfrauen (2015) 720p CZ Titulky](https://prehraj.to/traumfrauen-2015-720p-cz-titulky-mkv/6cd0970920d69774) (ID 29648576) | [Sdílej 11544703](https://sdilej.cz/11544703/traumfrauen.2015.720p.bluray.dd5.1.x264-crisc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:26:10.502923+00:00 |
-| [Travis Scott: Koukej, mami, létám (2019) 1080p CZ Titulky](https://prehraj.to/travis-scott-koukej-mami-letam-2019-1080p-cz-titulky-mp4/9c55665abc1d9268) (ID 29287746) | [Sdílej 34709233](https://sdilej.cz/34709233/travis-scott-koukej-mami-letam-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T04:26:41.001333+00:00 |
+| [Travis Scott: Koukej, mami, létám (2019) 1080p CZ Titulky](https://prehraj.to/travis-scott-koukej-mami-letam-2019-1080p-cz-titulky-mp4/9c55665abc1d9268) (ID 29287746) | [Sdílej 34709233](https://sdilej.cz/34709233/travis-scott-koukej-mami-letam-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:05:50.185611+00:00 |
 | [Tremors: Shrieker Island (2020) 720p CZ Titulky](https://prehraj.to/tremors-shrieker-island-2020-720p-cz-titulky-mp4/291040b4876c077b) (ID 29915544) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.002523+00:00 |
 | [Trench 11 (2017) SD CZ Titulky](https://prehraj.to/trench-11-2017-sd-cz-titulky-avi/1aae0d02ef599c80) (ID 29912109) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.002070+00:00 |
 | [Tribhanga – cikcak na třetí (2021) 1080p CZ Titulky](https://prehraj.to/tribhanga-cikcak-na-treti-2021-1080p-cz-titulky-mkv/f906bafca1efdc08) (ID 30718433) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.011970+00:00 |
