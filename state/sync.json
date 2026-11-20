@@ -445939,13 +445939,6 @@
           "source_id": "14679615",
           "target_video_id": "30436843",
           "permanent": false,
-          "attempted_at": "2026-11-20T09:51:12.238873+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14679615",
-          "target_video_id": "30436843",
-          "permanent": false,
           "attempted_at": "2026-11-20T12:51:34.242971+00:00"
         },
         {
@@ -445954,12 +445947,20 @@
           "target_video_id": "30436843",
           "permanent": false,
           "attempted_at": "2026-11-20T16:21:41.184003+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "14679615",
+          "target_video_id": "30436843",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-20T21:37:19.143974+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14679615",
         "display_name": "Síla úderu (2006) SD CZ Dabing",
-        "planned_at": "2026-11-20T16:21:31.626700+00:00"
+        "planned_at": "2026-11-20T21:36:05.487738+00:00"
       },
       "previous_target_id": "30436843",
       "prepared": {
@@ -446178,7 +446179,7 @@
       "last_plan": {
         "source_id": "26256788",
         "display_name": "Vymítač ďábla 2: Kacíř (1977) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T16:21:31.885791+00:00"
+        "planned_at": "2026-11-20T21:36:05.730707+00:00"
       },
       "previous_target_id": "30437671",
       "prepared": {
@@ -446369,7 +446370,7 @@
       "last_plan": {
         "source_id": "12927800",
         "display_name": "Sám doma 5: Vánoční loupež (2012) SD CZ Dabing",
-        "planned_at": "2026-11-20T16:21:32.136876+00:00"
+        "planned_at": "2026-11-20T21:36:05.978503+00:00"
       },
       "previous_target_id": "30438538",
       "prepared": {
@@ -446521,7 +446522,7 @@
       "last_plan": {
         "source_id": "12153141",
         "display_name": "Bucky Larson: Zrozen být hvězdou (2011) SD CZ Dabing",
-        "planned_at": "2026-11-20T16:21:32.374845+00:00"
+        "planned_at": "2026-11-20T21:36:06.228976+00:00"
       },
       "previous_target_id": "30439020",
       "prepared": {
@@ -447082,7 +447083,7 @@
       "last_plan": {
         "source_id": "28366845",
         "display_name": "Chladný jako led (1991) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T16:22:03.345043+00:00"
+        "planned_at": "2026-11-20T21:36:06.471619+00:00"
       },
       "previous_target_id": "30440215",
       "prepared": {
@@ -449316,5 +449317,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T21:35:49.464531+00:00"
+  "updated_at": "2026-11-20T21:37:19.144009+00:00"
 }
