@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:18:32.822740+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:18:43.166447+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1800,7 +1800,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Rande na oko (2020) 1080p CZ Titulky](https://prehraj.to/rande-na-oko-2020-1080p-cz-titulky-mp4/b312d76d695945f4) (ID 29430070) | [Sdílej 31626274](https://sdilej.cz/31626274/rande-na-oko-2020-en-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:26:08.685421+00:00 |
 | [Randál (2023) 1080p CZ Titulky](https://prehraj.to/randal-2023-1080p-cz-titulky-mkv/03b892ae7ac5f842) (ID 30430090) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.671974+00:00 |
 | [Raptus (2025) 1080p CZ Titulky](https://prehraj.to/raptus-2025-1080p-cz-titulky-mkv/8ffdc6b86c70be4a) (ID 30573775) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.674240+00:00 |
-| [Ravage (2020) 720p CZ Titulky](https://prehraj.to/ravage-2020-720p-cz-titulky-mp4/17fab1c1a9869c06) (ID 29659107) | [Sdílej 34732167](https://sdilej.cz/34732167/ravage-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:31:24.635121+00:00 |
+| [Ravage (2020) 720p CZ Titulky](https://prehraj.to/ravage-2020-720p-cz-titulky-mp4/17fab1c1a9869c06) (ID 29659107) | [Sdílej 34732167](https://sdilej.cz/34732167/ravage-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:18:43.166286+00:00 |
 | [Ray a Liz (2018) 1080p CZ Titulky](https://prehraj.to/ray-a-liz-2018-1080p-cz-titulky-mp4/044007f8645bfba2) (ID 31033984) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.683175+00:00 |
 | [Raymond & Ray (2022) 1080p CZ Titulky](https://prehraj.to/raymond-ray-2022-1080p-cz-titulky-mkv/9681752b725c0ee7) (ID 29579297) | [Sdílej 23454392](https://sdilej.cz/23454392/raymond-a-ray-2022-cz-sub.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:44.023747+00:00 |
 | [Rašómon (1950) 720p CZ Titulky](https://prehraj.to/rasomon-1950-720p-cz-titulky-avi/b95b2e19764ace87) (ID 30942109) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.681310+00:00 |
