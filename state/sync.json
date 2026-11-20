@@ -41878,7 +41878,7 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T15:00:48.793021+00:00"
+        "planned_at": "2026-11-20T18:35:56.357277+00:00"
       },
       "previous_target_id": "29806915",
       "prepared": {
@@ -129529,7 +129529,7 @@
       "last_plan": {
         "source_id": "23221863",
         "display_name": "Ten svetr si nesvlíkej (1981) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T15:00:49.618206+00:00"
+        "planned_at": "2026-11-20T18:35:56.860460+00:00"
       },
       "prepared": {
         "target_video_id": "29276356",
@@ -131430,13 +131430,6 @@
           "source_id": "32557568",
           "target_video_id": "29132740",
           "permanent": false,
-          "attempted_at": "2026-11-20T08:35:09.693119+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32557568",
-          "target_video_id": "29132740",
-          "permanent": false,
           "attempted_at": "2026-11-20T11:42:41.139629+00:00"
         },
         {
@@ -131445,12 +131438,20 @@
           "target_video_id": "29132740",
           "permanent": false,
           "attempted_at": "2026-11-20T15:00:53.968675+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32557568",
+          "target_video_id": "29132740",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-20T18:37:30.294546+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32557568",
         "display_name": "Tony má plán (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T15:00:48.376962+00:00"
+        "planned_at": "2026-11-20T18:35:56.109521+00:00"
       },
       "prepared": {
         "target_video_id": "29132740",
@@ -133869,7 +133870,7 @@
       "last_plan": {
         "source_id": "31451425",
         "display_name": "Pan Tau (1988) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T15:00:49.206089+00:00"
+        "planned_at": "2026-11-20T18:35:56.606748+00:00"
       },
       "previous_target_id": "29701752",
       "prepared": {
@@ -158442,7 +158443,20 @@
       }
     },
     "14428": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34686259",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-20T18:36:17.503251+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34686259",
+        "display_name": "Jak se točí film (2010) 1080p CZ Dabing",
+        "planned_at": "2026-11-20T18:35:55.814964+00:00"
+      }
     },
     "21306": {
       "attempts": []
@@ -449078,5 +449092,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T18:35:39.135883+00:00"
+  "updated_at": "2026-11-20T18:37:30.294565+00:00"
 }
