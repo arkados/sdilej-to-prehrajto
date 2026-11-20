@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:40:36.092614+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:41:00.734696+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1438,7 +1438,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 520. Dů
 | [Naked Cannibal Campers (2020) 1080p CZ Titulky](https://prehraj.to/naked-cannibal-campers-2020-1080p-cz-titulky-mp4/fa41e96baba70977) (ID 30920198) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.358766+00:00 |
 | [Naked Soldier (2012) 720p CZ Titulky](https://prehraj.to/naked-soldier-2012-720p-cz-titulky-mp4/11450c72f4c04eb8) (ID 29575110) | [Sdílej 31961981](https://sdilej.cz/31961981/naked-soldier-tit-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:02:38.396851+00:00 |
 | [Nalijme si čistého vína (2020) 1080p CZ Titulky](https://prehraj.to/nalijme-si-cisteho-vina-2020-1080p-cz-titulky-mp4/825d76a87813fa42) (ID 30584015) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.352697+00:00 |
-| [Naneživo (2017) 1080p CZ Titulky](https://prehraj.to/nanezivo-2017-1080p-cz-titulky-avi/83270e62569f7115) (ID 29559289) | [Sdílej 32272446](https://sdilej.cz/32272446/nanezivo-kamera-o-tomeru-na-2017-komedie-horor-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:54:04.718134+00:00 |
+| [Naneživo (2017) 1080p CZ Titulky](https://prehraj.to/nanezivo-2017-1080p-cz-titulky-avi/83270e62569f7115) (ID 29559289) | [Sdílej 32272446](https://sdilej.cz/32272446/nanezivo-kamera-o-tomeru-na-2017-komedie-horor-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:41:00.734548+00:00 |
 | [Nanga Parbat (1953) SD CZ Titulky](https://prehraj.to/nanga-parbat-1953-sd-cz-titulky-mp4/cd008ad65bd6b2c6) (ID 30890850) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.357785+00:00 |
 | [Nanking! Nanking! (2009) 720p CZ Titulky](https://prehraj.to/nanking-nanking-2009-720p-cz-titulky-mp4/84a412e89dc0ac37) (ID 29560066) | [Sdílej 34698292](https://sdilej.cz/34698292/nanking-nanking-2009-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:54:43.124164+00:00 |
 | [Napoleon (2023) 4K CZ Titulky](https://prehraj.to/napoleon-2023-4k-cz-titulky-mkv/d1359a3e8b8e63b1) (ID 31042247) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.362311+00:00 |
