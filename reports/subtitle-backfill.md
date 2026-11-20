@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:03:23.081884+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:03:34.693864+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -2659,7 +2659,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Zvrhlost (2019) 1080p CZ Titulky](https://prehraj.to/zvrhlost-2019-1080p-cz-titulky-mkv/09ff45c8c45e2169) (ID 30688287) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.676123+00:00 |
 | [Záchrana (2021) 720p CZ Titulky](https://prehraj.to/zachrana-2021-720p-cz-titulky-mp4/dcd8073fca102f6f) (ID 30904031) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.679580+00:00 |
 | [Záhada Silver Lake (2018) 1080p CZ Titulky](https://prehraj.to/zahada-silver-lake-2018-1080p-cz-titulky-mkv/6ef30de450795ac7) (ID 30582830) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.674601+00:00 |
-| [Záhadná bouře (2018) 1080p CZ Titulky](https://prehraj.to/zahadna-boure-2018-1080p-cz-titulky-mp4/26c7c9d938a5f0fd) (ID 29629764) | [Sdílej 34851162](https://sdilej.cz/34851162/zahadna-boure-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:16:18.552560+00:00 |
+| [Záhadná bouře (2018) 1080p CZ Titulky](https://prehraj.to/zahadna-boure-2018-1080p-cz-titulky-mp4/26c7c9d938a5f0fd) (ID 29629764) | [Sdílej 34851162](https://sdilej.cz/34851162/zahadna-boure-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:03:34.693726+00:00 |
 | [Zákeřná setkání (2020) 1080p CZ Titulky](https://prehraj.to/zakerna-setkani-2020-1080p-cz-titulky-mp4/139f13f80336e6c7) (ID 30409980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.671381+00:00 |
 | [Zásadní změna (2018) SD CZ Titulky](https://prehraj.to/zasadni-zmena-2018-sd-cz-titulky-mp4/239bc12ee388fce7) (ID 29319501) | [Sdílej 13048286](https://sdilej.cz/13048286/the-game-changers-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:14:59.817130+00:00 |
 | [Zátopek (2021) 1080p CZ Titulky](https://prehraj.to/zatopek-2021-1080p-cz-titulky-mp4/0f86a21db8f0145e) (ID 30777857) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.677555+00:00 |
