@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:57:26.309097+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:57:34.859256+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1573,7 +1573,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 520. Dů
 | [One-Armed Boxer (1972) SD CZ Titulky](https://prehraj.to/one-armed-boxer-1972-sd-cz-titulky-mp4/8d41005671e4be1f) (ID 29680194) | [Sdílej 34755878](https://sdilej.cz/34755878/one-armed-boxer-1972-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:37:21.880756+00:00 |
 | [One-Eyed Jacks (1961) SD CZ Titulky](https://prehraj.to/one-eyed-jacks-1961-sd-cz-titulky-mkv/dc379f14dd58488d) (ID 29174940) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.334770+00:00 |
 | [Ong Bak 3 (2010) SD CZ Titulky](https://prehraj.to/ong-bak-3-2010-sd-cz-titulky-mkv/c3edc81ad7e75e4a) (ID 31179933) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.363608+00:00 |
-| [Only for One Night (2016) 1080p CZ Titulky](https://prehraj.to/only-for-one-night-2016-1080p-cz-titulky-mp4/d68892f623b81df3) (ID 29611864) | [Sdílej 34775081](https://sdilej.cz/34775081/only-for-one-night-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:12:09.196785+00:00 |
+| [Only for One Night (2016) 1080p CZ Titulky](https://prehraj.to/only-for-one-night-2016-1080p-cz-titulky-mp4/d68892f623b81df3) (ID 29611864) | [Sdílej 34775081](https://sdilej.cz/34775081/only-for-one-night-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:57:34.859117+00:00 |
 | [Ono (2022) 1080p CZ Titulky](https://prehraj.to/ono-2022-1080p-cz-titulky-avi/1d8eed4750975295) (ID 29527939) | [Sdílej 25971488](https://sdilej.cz/25971488/hatching-pahanhautoja-webrip-hd-sk-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:38:01.247820+00:00 |
 | [Open 24 Hours (2018) 1080p CZ Titulky](https://prehraj.to/open-24-hours-2018-1080p-cz-titulky-mkv/d9508402315fc510) (ID 29968991) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.342543+00:00 |
 | [Open Grave (2013) SD CZ Titulky](https://prehraj.to/open-grave-2013-sd-cz-titulky-mp4/d683debde23e65f8) (ID 30929764) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.359374+00:00 |
