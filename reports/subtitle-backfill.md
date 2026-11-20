@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:10:20.161483+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:10:36.717295+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1471,7 +1471,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Neopouštěj mě (2022) 720p CZ Titulky](https://prehraj.to/neopoustej-me-2022-720p-cz-titulky-mp4/6ae09f84cf842e52) (ID 30516540) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.673454+00:00 |
 | [Neporazitelný: Návrat krále (2016) 1080p CZ Titulky](https://prehraj.to/neporazitelny-navrat-krale-2016-1080p-cz-titulky-mkv/2fd8fe13f866c69d) (ID 31043862) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.683549+00:00 |
 | [Neposkvrněná (2024) 1080p CZ Titulky](https://prehraj.to/neposkvrnena-2024-1080p-cz-titulky-mkv/57cfc22d0a7422a7) (ID 29970115) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.665059+00:00 |
-| [Nepoužitelní (2012) SD CZ Titulky](https://prehraj.to/nepouzitelni-2012-sd-cz-titulky-avi/e45aef931c33e8ac) (ID 29646431) | [Sdílej 9530991](https://sdilej.cz/9530991/nepouzitelni-2012-titulky-richieall-sk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:23:04.618199+00:00 |
+| [Nepoužitelní (2012) SD CZ Titulky](https://prehraj.to/nepouzitelni-2012-sd-cz-titulky-avi/e45aef931c33e8ac) (ID 29646431) | [Sdílej 9530991](https://sdilej.cz/9530991/nepouzitelni-2012-titulky-richieall-sk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:10:36.717165+00:00 |
 | [Nepředstavitelné (2018) 1080p CZ Titulky](https://prehraj.to/nepredstavitelne-2018-1080p-cz-titulky-mp4/40570ec60d69a10e) (ID 30908414) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.679758+00:00 |
 | [Nepřivolávej nic zlého (2022) 720p CZ Titulky](https://prehraj.to/neprivolavej-nic-zleho-2022-720p-cz-titulky-mkv/06ca86c144bcaa76) (ID 30138842) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.667050+00:00 |
 | [Nepřátelé (2025) 1080p CZ Titulky](https://prehraj.to/nepratele-2025-1080p-cz-titulky-mp4/91c652c6c1dbe4c7) (ID 29468794) | [Sdílej 31685263](https://sdilej.cz/31685263/enemigos.2025.1080p.amzn.web-dl.ddp5.1.h.264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:31:56.592494+00:00 |
