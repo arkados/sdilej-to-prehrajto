@@ -370935,17 +370935,19 @@
       "attempts": []
     },
     "31603": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31095175",
+          "target_video_id": "31212738",
+          "permanent": false,
+          "attempted_at": "2026-11-20T20:27:30.537710+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31095175",
         "display_name": "Spaced Invaders (1990) SD CZ Dabing",
         "planned_at": "2026-11-20T20:25:00.808480+00:00"
-      },
-      "claim": {
-        "worker_id": "788a5e29e52845679d4cdf212079680f-shard-0",
-        "claimed_at": "2026-11-20T20:25:02.111326+00:00",
-        "lease_expires_at": "2026-11-21T02:25:02.111326+00:00",
-        "run_id": "44741073267"
       },
       "previous_target_id": "31212738",
       "prepared": {
@@ -449246,5 +449248,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T20:25:06.634685+00:00"
+  "updated_at": "2026-11-20T20:27:30.537725+00:00"
 }
