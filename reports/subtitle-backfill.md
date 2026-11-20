@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:48:05.458660+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:48:22.637795+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -2559,7 +2559,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 520. Dů
 | [When We First Met (2018) SD CZ Titulky](https://prehraj.to/when-we-first-met-2018-sd-cz-titulky-avi/14a974c9e8bddcbc) (ID 30282576) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.346239+00:00 |
 | [When the Lights Went Out (2012) SD CZ Titulky](https://prehraj.to/when-the-lights-went-out-2012-sd-cz-titulky-avi/8d328ff80349e2fa) (ID 29750671) | [Sdílej 26715369](https://sdilej.cz/26715369/when-the-lights-went-out-kdyz-jsou-svetla-mimo-horor.thriller-2012-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:33:38.630005+00:00 |
 | [Whiskey zloděj (2017) SD CZ Titulky](https://prehraj.to/whiskey-zlodej-2017-sd-cz-titulky-mkv/6627ffd9aaf7733d) (ID 29308502) | [Sdílej 12073116](https://sdilej.cz/12073116/a-viszkis-the-whiskey-bandit-bdrip.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:50.223039+00:00 |
-| [White Bird in a Blizzard (2014) 720p CZ Titulky](https://prehraj.to/white-bird-in-a-blizzard-2014-720p-cz-titulky-avi/2088dfd98a9787af) (ID 29574916) | [Sdílej 3679154](https://sdilej.cz/3679154/white-bird-in-a-blizzard-2014-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:02:17.478215+00:00 |
+| [White Bird in a Blizzard (2014) 720p CZ Titulky](https://prehraj.to/white-bird-in-a-blizzard-2014-720p-cz-titulky-avi/2088dfd98a9787af) (ID 29574916) | [Sdílej 3679154](https://sdilej.cz/3679154/white-bird-in-a-blizzard-2014-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:48:22.637664+00:00 |
 | [White Girl Apokalypse (2021) 1080p CZ Titulky](https://prehraj.to/white-girl-apokalypse-2021-1080p-cz-titulky-mp4/dcac5428deb73bb1) (ID 30144975) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.343890+00:00 |
 | [White Snake (2019) SD CZ Titulky](https://prehraj.to/white-snake-2019-sd-cz-titulky-mp4/5974bf55b217e800) (ID 30682613) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.354209+00:00 |
 | [Whitney: Být sama sebou (2017) SD CZ Titulky](https://prehraj.to/whitney-byt-sama-sebou-2017-sd-cz-titulky-mp4/32b4e64c7034fe55) (ID 30070747) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.343248+00:00 |
