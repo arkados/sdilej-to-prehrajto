@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:02:47.340791+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:02:56.397595+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -776,7 +776,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Frankenstein Created Woman (1967) 1080p CZ Titulky](https://prehraj.to/frankenstein-created-woman-1967-1080p-cz-titulky-mkv/5c740785cfebb971) (ID 30919664) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.680223+00:00 |
 | [Frankensteinova armáda (2013) 720p CZ Titulky](https://prehraj.to/frankensteinova-armada-2013-720p-cz-titulky-mkv/89ab7e79bc07539c) (ID 30547900) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.673804+00:00 |
 | [Frankensteinova kletba (1957) 1080p CZ Titulky](https://prehraj.to/frankensteinova-kletba-1957-1080p-cz-titulky-mkv/882b52dfb4fba200) (ID 31190073) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.684844+00:00 |
-| [Frankie (2019) 1080p CZ Titulky](https://prehraj.to/frankie-2019-1080p-cz-titulky-mp4/5a4cbfdb36cce1ae) (ID 29616500) | [Sdílej 34734417](https://sdilej.cz/34734417/frankie-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:14:13.058279+00:00 |
+| [Frankie (2019) 1080p CZ Titulky](https://prehraj.to/frankie-2019-1080p-cz-titulky-mp4/5a4cbfdb36cce1ae) (ID 29616500) | [Sdílej 34734417](https://sdilej.cz/34734417/frankie-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:02:56.397458+00:00 |
 | [Freaks: Jedni z nás (2020) SD CZ Titulky](https://prehraj.to/freaks-jedni-z-nas-2020-sd-cz-titulky-mp4/7f3177d3f54460b8) (ID 29936552) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.664586+00:00 |
 | [Freaky Friday (1995) SD CZ Titulky](https://prehraj.to/freaky-friday-1995-sd-cz-titulky-mp4/8906855391a754da) (ID 29313961) | [Sdílej 34785134](https://sdilej.cz/34785134/freaky-friday-1995-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:13:37.581139+00:00 |
 | [Freaky Tales (2024) 1080p CZ Titulky](https://prehraj.to/freaky-tales-2024-1080p-cz-titulky-mkv/a16e20b6489759aa) (ID 30483963) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.673110+00:00 |
