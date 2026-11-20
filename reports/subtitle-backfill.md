@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:05:16.983614+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:05:25.426246+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1543,7 +1543,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [ONE PIECE STAMPEDE (2019) SD CZ Titulky](https://prehraj.to/one-piece-stampede-2019-sd-cz-titulky-mkv/3d846d84c01258fb) (ID 29901446) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.661623+00:00 |
 | [OSS 117 - Milostné pozdravy z Afriky (2021) SD CZ Titulky](https://prehraj.to/oss-117-milostne-pozdravy-z-afriky-2021-sd-cz-titulky-mp4/4b2ae12d2591439c) (ID 29904732) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.661722+00:00 |
 | [OUTsideři (2014) SD CZ Titulky](https://prehraj.to/outsideri-2014-sd-cz-titulky-avi/036b6d6f32a892b2) (ID 29562375) | [Sdílej 8173680](https://sdilej.cz/8173680/outsideri-the-road-within-2014-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:43:33.902668+00:00 |
-| [Obludárium (2017) 720p CZ Titulky](https://prehraj.to/obludarium-2017-720p-cz-titulky-mp4/ef02ba88d2c726dc) (ID 29632887) | [Sdílej 34737337](https://sdilej.cz/34737337/obludarium-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:18:11.199873+00:00 |
+| [Obludárium (2017) 720p CZ Titulky](https://prehraj.to/obludarium-2017-720p-cz-titulky-mp4/ef02ba88d2c726dc) (ID 29632887) | [Sdílej 34737337](https://sdilej.cz/34737337/obludarium-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:05:25.426113+00:00 |
 | [Obviněný (2005) 720p CZ Titulky](https://prehraj.to/obvineny-2005-720p-cz-titulky-mp4/4bb7a750bf800f2d) (ID 29587306) | [Sdílej 33564212](https://sdilej.cz/33564212/obvineny-2005-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:52:03.461814+00:00 |
 | [Obzor (2022) 1080p CZ Titulky](https://prehraj.to/obzor-2022-1080p-cz-titulky-mp4/13302b649aeb7cbe) (ID 30914183) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.680027+00:00 |
 | [Occupation (2018) 1080p CZ Titulky](https://prehraj.to/occupation-2018-1080p-cz-titulky-mkv/ee6ab4b61c605334) (ID 30420799) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.671745+00:00 |
