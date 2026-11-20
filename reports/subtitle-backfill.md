@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:12:45.462381+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:13:04.813589+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1193,7 +1193,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Labyrint podle Davea (2017) 1080p CZ Titulky](https://prehraj.to/labyrint-podle-davea-2017-1080p-cz-titulky-avi/fb85e0700ab54ce8) (ID 29567534) | [Sdílej 11112400](https://sdilej.cz/11112400/labyrint-podle-davea-dave-made-a-maze-2017-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:46:26.229397+00:00 |
 | [Lancaster Skies (2019) 1080p CZ Titulky](https://prehraj.to/lancaster-skies-2019-1080p-cz-titulky-mp4/18e104799b6ab15f) (ID 31157997) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.684469+00:00 |
 | [Larva: Kouzelný přívěsek (2022) 1080p CZ Titulky](https://prehraj.to/larva-kouzelny-privesek-2022-1080p-cz-titulky-mp4/5f8ece86f24ceb9c) (ID 31023683) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.682806+00:00 |
-| [Last Radio Call (2022) 1080p CZ Titulky](https://prehraj.to/last-radio-call-2022-1080p-cz-titulky-avi/3010ce71359a4470) (ID 29648411) | [Sdílej 21709810](https://sdilej.cz/21709810/last-radio-call-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:25:52.684070+00:00 |
+| [Last Radio Call (2022) 1080p CZ Titulky](https://prehraj.to/last-radio-call-2022-1080p-cz-titulky-avi/3010ce71359a4470) (ID 29648411) | [Sdílej 21709810](https://sdilej.cz/21709810/last-radio-call-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:13:04.813456+00:00 |
 | [Last Sentinel (2023) SD CZ Titulky](https://prehraj.to/last-sentinel-2023-sd-cz-titulky-avi/134282292586006b) (ID 30400063) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.671086+00:00 |
 | [Last Straw (2023) 1080p CZ Titulky](https://prehraj.to/last-straw-2023-1080p-cz-titulky-mkv/203de5218c5f9692) (ID 29720485) | [Sdílej 29855453](https://sdilej.cz/29855453/last.straw.2023.1080p.amzn.web-dl.ddp5.1.h.264-leon.-en-subssk-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:01.033048+00:00 |
 | [Late Night with the Devil (2023) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29491175) | [Sdílej 28718234](https://sdilej.cz/28718234/late.night.with.the.devil.2023.1080p.10bit.webrip.6ch.x265.hevc-psa.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-20T13:28:52.186506+00:00 |
