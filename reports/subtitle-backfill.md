@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:59:31.910956+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:59:38.534795+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -159,7 +159,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Asylum (1972) 720p CZ Titulky](https://prehraj.to/asylum-1972-720p-cz-titulky-mp4/7259bca26a5d32e4) (ID 30716577) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.564829+00:00 |
 | [Atentát (1965) 1080p CZ Titulky](https://prehraj.to/atentat-1965-1080p-cz-titulky-mkv/cf5b4b58cb006f6d) (ID 30888060) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.568807+00:00 |
 | [Aterrados (2017) 1080p CZ Titulky](https://prehraj.to/aterrados-2017-1080p-cz-titulky-avi/16e4b387bb85239f) (ID 30580909) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.563027+00:00 |
-| [Atletka A (2020) 1080p CZ Titulky](https://prehraj.to/atletka-a-2020-1080p-cz-titulky-mp4/1710e7b2ccc77015) (ID 29788237) | [Sdílej 34733422](https://sdilej.cz/34733422/atletka-a-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:37:13.376377+00:00 |
+| [Atletka A (2020) 1080p CZ Titulky](https://prehraj.to/atletka-a-2020-1080p-cz-titulky-mp4/1710e7b2ccc77015) (ID 29788237) | [Sdílej 34733422](https://sdilej.cz/34733422/atletka-a-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:59:38.534657+00:00 |
 | [Atomica (2017) SD CZ Titulky](https://prehraj.to/atomica-2017-sd-cz-titulky-avi/39b65aa72bf79f7c) (ID 29748370) | [Sdílej 8005043](https://sdilej.cz/8005043/deep-burial-atomica-2017-hc.titulky.cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:54:36.495345+00:00 |
 | [Attack of the Unknown (2020) 1080p CZ Titulky](https://prehraj.to/attack-of-the-unknown-2020-1080p-cz-titulky-mkv/4c86eca955e14e84) (ID 30435735) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.561266+00:00 |
 | [Audrey (2020) 1080p CZ Titulky](https://prehraj.to/audrey-2020-1080p-cz-titulky-mp4/51f86a89be6d8216) (ID 29429913) | [Sdílej 34773457](https://sdilej.cz/34773457/audrey-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:25:54.896516+00:00 |
