@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:13:15.663793+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:13:30.171101+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -1572,7 +1572,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Open Grave (2013) SD CZ Titulky](https://prehraj.to/open-grave-2013-sd-cz-titulky-mp4/d683debde23e65f8) (ID 30929764) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.017691+00:00 |
 | [Operace Brothers (2019) 1080p CZ Titulky](https://prehraj.to/operace-brothers-2019-1080p-cz-titulky-mp4/5c338c24cf2dc0b9) (ID 29735386) | [Sdílej 12061134](https://sdilej.cz/12061134/the.red.sea.diving.resort.2019.1080p.webrip.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:02:13.474274+00:00 |
 | [Operace „Blue Sky“ (1994) 1080p CZ Titulky](https://prehraj.to/operace-blue-sky-1994-1080p-cz-titulky-mp4/20c6be7414d517b3) (ID 29392813) | [Sdílej 32752502](https://sdilej.cz/32752502/blue-sky-1994-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T15:28:19.711836+00:00 |
-| [Operator (2015) SD CZ Titulky](https://prehraj.to/operator-2015-sd-cz-titulky-avi/f883e15297a21a9a) (ID 29313124) | [Sdílej 6242213](https://sdilej.cz/6242213/operator-2015-brrip-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:28:30.845670+00:00 |
+| [Operator (2015) SD CZ Titulky](https://prehraj.to/operator-2015-sd-cz-titulky-avi/f883e15297a21a9a) (ID 29313124) | [Sdílej 6242213](https://sdilej.cz/6242213/operator-2015-brrip-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:13:30.170984+00:00 |
 | [Opičí Král 2 (2016) SD CZ Titulky](https://prehraj.to/opici-kral-2-2016-sd-cz-titulky-mp4/fe8fd3411741f183) (ID 29934306) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.003687+00:00 |
 | [Orlando (1992) 1080p CZ Titulky](https://prehraj.to/orlando-1992-1080p-cz-titulky-mp4/8eb23d1a316941cc) (ID 31028382) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.020870+00:00 |
 | [Osamělí vlci (2019) 1080p CZ Titulky](https://prehraj.to/osameli-vlci-2019-1080p-cz-titulky-mkv/485b0ab0d1f3f27b) (ID 29655964) | [Sdílej 17308103](https://sdilej.cz/17308103/osameli-vlci-lone-wolves-2019-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:29:40.007465+00:00 |
