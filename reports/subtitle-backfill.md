@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:23:00.410872+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:23:13.581845+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -977,7 +977,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Imaginární lásky (2010) SD CZ Titulky](https://prehraj.to/imaginarni-lasky-2010-sd-cz-titulky-mkv/90110a39fb1d89ea) (ID 29628654) | [Sdílej 7223331](https://sdilej.cz/7223331/imaginarni-lasky-les-amours-imaginaires-2010-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:27.405059+00:00 |
 | [Immanence (2022) 1080p CZ Titulky](https://prehraj.to/immanence-2022-1080p-cz-titulky-mp4/3698c678aa15f46b) (ID 30369784) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.009263+00:00 |
 | [In Cold Light (2025) 720p CZ Titulky](https://prehraj.to/in-cold-light-2025-720p-cz-titulky-mp4/1bb66be37dce2f05) (ID 30923526) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.017079+00:00 |
-| [In Praise of Older Women (1978) SD CZ Titulky](https://prehraj.to/in-praise-of-older-women-1978-sd-cz-titulky-avi/deec8f83f528ca0c) (ID 29372496) | [Sdílej 25839274](https://sdilej.cz/25839274/in-praise-of-older-women-1978-can-drama.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:30:51.001805+00:00 |
+| [In Praise of Older Women (1978) SD CZ Titulky](https://prehraj.to/in-praise-of-older-women-1978-sd-cz-titulky-avi/deec8f83f528ca0c) (ID 29372496) | [Sdílej 25839274](https://sdilej.cz/25839274/in-praise-of-older-women-1978-can-drama.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:23:13.581736+00:00 |
 | [In Vitro (2024) SD CZ Titulky](https://prehraj.to/in-vitro-2024-sd-cz-titulky-mkv/729ddf969af7c926) (ID 31052251) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.022430+00:00 |
 | [In Your Eyes (2014) 1080p CZ Titulky](https://prehraj.to/in-your-eyes-2014-1080p-cz-titulky-mp4/4ca7257a996ad0b1) (ID 29373572) | [Sdílej 32965271](https://sdilej.cz/32965271/in-your-eyes-2014-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:31:31.212433+00:00 |
 | [In the Grey (2026) 4K CZ Titulky](https://prehraj.to/in-the-grey-2026-4k-cz-titulky-mkv/8ea3447923a9f9d4) (ID 30299033) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.007519+00:00 |
