@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T23:05:19.349202+00:00
+Poslední aktualizace (UTC): 2026-11-20T23:05:26.341890+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -1839,7 +1839,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Robin Hood: The Rebellion (2018) 720p CZ Titulky](https://prehraj.to/robin-hood-the-rebellion-2018-720p-cz-titulky-mp4/588a326395314f49) (ID 29910820) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.552837+00:00 |
 | [Rodinná oslava (1998) 720p CZ Titulky](https://prehraj.to/rodinna-oslava-1998-720p-cz-titulky-mp4/3765dffa23fc26a0) (ID 29175650) | [Sdílej 34579511](https://sdilej.cz/34579511/rodinna-oslava-1998-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:22:34.899327+00:00 |
 | [Rodinný krb (1970) SD CZ Titulky](https://prehraj.to/rodinny-krb-1970-sd-cz-titulky-mp4/eca664652afc269e) (ID 30486498) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.562089+00:00 |
-| [Rodinný sraz na Vánoce (2019) 1080p CZ Titulky](https://prehraj.to/rodinny-sraz-na-vanoce-2019-1080p-cz-titulky-mp4/7345ddbe4c143bcf) (ID 29218934) | [Sdílej 34733897](https://sdilej.cz/34733897/rodinny-sraz-na-vanoce-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:44:02.292349+00:00 |
+| [Rodinný sraz na Vánoce (2019) 1080p CZ Titulky](https://prehraj.to/rodinny-sraz-na-vanoce-2019-1080p-cz-titulky-mp4/7345ddbe4c143bcf) (ID 29218934) | [Sdílej 34733897](https://sdilej.cz/34733897/rodinny-sraz-na-vanoce-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:05:26.341781+00:00 |
 | [Rodná zem (1954) SD CZ Titulky](https://prehraj.to/rodna-zem-1954-sd-cz-titulky-avi/a2359d7c9edf66f2) (ID 30891074) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.568941+00:00 |
 | [Roger Waters: The Wall (2014) 1080p CZ Titulky](https://prehraj.to/roger-waters-the-wall-2014-1080p-cz-titulky-avi/9386ceb9b629f18b) (ID 31050107) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.573564+00:00 |
 | [Rogue Hostage (2021) SD CZ Titulky](https://prehraj.to/rogue-hostage-2021-sd-cz-titulky-mkv/f1f67d27465998cc) (ID 30633004) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.563871+00:00 |
