@@ -54477,17 +54477,19 @@
       "attempts": []
     },
     "24668": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30687380",
+          "target_video_id": "31204746",
+          "permanent": false,
+          "attempted_at": "2026-11-20T12:56:57.669076+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30687380",
         "display_name": "Chameleon: Souboj vyvolených (2001) SD CZ Dabing",
         "planned_at": "2026-11-20T12:56:07.709797+00:00"
-      },
-      "claim": {
-        "worker_id": "f7ba755409e54f568513d5cc613291a5-shard-0",
-        "claimed_at": "2026-11-20T12:56:09.880206+00:00",
-        "lease_expires_at": "2026-11-20T18:56:09.880206+00:00",
-        "run_id": "44713911438"
       },
       "previous_target_id": "31204746",
       "prepared": {
@@ -448843,5 +448845,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T12:56:13.556667+00:00"
+  "updated_at": "2026-11-20T12:56:57.669093+00:00"
 }
