@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:09:26.932906+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:09:36.598941+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -1150,7 +1150,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Krtek a hodiny (1994) 720p CZ Titulky](https://prehraj.to/krtek-a-hodiny-1994-720p-cz-titulky-mp4/30048ca8b92eac28) (ID 31051720) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.022385+00:00 |
 | [Krtek ve snu (1984) 1080p CZ Titulky](https://prehraj.to/krtek-ve-snu-1984-1080p-cz-titulky-mkv/0bcc261b6b73ea68) (ID 31157096) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.022977+00:00 |
 | [Kruťas od přírody (2024) 4K CZ Titulky](https://prehraj.to/krutas-od-prirody-2024-4k-cz-titulky-mkv/1ef913bb5891708a) (ID 31037269) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.021427+00:00 |
-| [Krvavá hra (1990) 1080p CZ Titulky](https://prehraj.to/krvava-hra-1990-1080p-cz-titulky-mp4/a09a2587697790f2) (ID 29295752) | [Sdílej 13703472](https://sdilej.cz/13703472/blood.games.1990.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:31:21.466481+00:00 |
+| [Krvavá hra (1990) 1080p CZ Titulky](https://prehraj.to/krvava-hra-1990-1080p-cz-titulky-mp4/a09a2587697790f2) (ID 29295752) | [Sdílej 13703472](https://sdilej.cz/13703472/blood.games.1990.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:09:36.598798+00:00 |
 | [Krvavá nevěsta: Hra začíná (2026) 4K CZ Titulky](https://prehraj.to/krvava-nevesta-hra-zacina-2026-4k-cz-titulky-mkv/bc059d0f7e243f96) (ID 31034450) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.021273+00:00 |
 | [Krvavé housle (1998) 1080p CZ Titulky](https://prehraj.to/krvave-housle-1998-1080p-cz-titulky-mp4/f40a18ddb5e19ef4) (ID 29559302) | [Sdílej 33219259](https://sdilej.cz/33219259/the-red-violin-1998-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:03:31.737316+00:00 |
 | [Krvavý trůn (1957) SD CZ Titulky](https://prehraj.to/krvavy-trun-1957-sd-cz-titulky-mp4/bd724eb10c63a016) (ID 30905266) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.015954+00:00 |
