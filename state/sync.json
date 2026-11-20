@@ -103067,24 +103067,22 @@
       }
     },
     "1667": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "13401820",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "31200234",
+          "attempted_at": "2026-11-20T08:54:29.625102+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13401820",
         "display_name": "Pat a Mat: Kutilské trampoty (2019) 1080p CZ Titulky",
         "planned_at": "2026-11-20T08:46:52.047412+00:00"
       },
-      "claim": {
-        "worker_id": "530f3a4db68b4e96897de57e6eaa882a-shard-0",
-        "claimed_at": "2026-11-20T08:46:54.446046+00:00",
-        "lease_expires_at": "2026-11-20T14:46:54.446046+00:00",
-        "run_id": "44668186527"
-      },
-      "previous_target_id": "31200234",
-      "prepared": {
-        "target_video_id": "31200234",
-        "size_bytes": 1717939964,
-        "prepared_at": "2026-11-20T08:46:58.341491+00:00"
-      }
+      "previous_target_id": "31200234"
     },
     "37185": {
       "attempts": [
@@ -448685,5 +448683,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T08:46:58.341509+00:00"
+  "updated_at": "2026-11-20T08:54:29.625123+00:00"
 }
