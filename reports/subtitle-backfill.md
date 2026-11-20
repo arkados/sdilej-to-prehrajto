@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:20:22.567784+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:20:29.928641+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1935,7 +1935,7 @@ Kontrol: 56; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Shaandaar (2015) SD CZ Titulky](https://prehraj.to/shaandaar-2015-sd-cz-titulky-mp4/45555a241daa5f9c) (ID 30898335) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.614970+00:00 |
 | [Shadows (2024) 1080p CZ Titulky](https://prehraj.to/shadows-2024-1080p-cz-titulky-mkv/1f14c8312d3af211) (ID 30650391) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.613498+00:00 |
 | [Shake Hands with the Devil (2007) 720p CZ Titulky](https://prehraj.to/shake-hands-with-the-devil-2007-720p-cz-titulky-mp4/f5836061dc777a34) (ID 29318910) | [Sdílej 34751222](https://sdilej.cz/34751222/shake-hands-with-the-devil-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:14:31.140330+00:00 |
-| [Shane (2022) 1080p CZ Titulky](https://prehraj.to/shane-2022-1080p-cz-titulky-mp4/f15b64329d7bc8b1) (ID 29400954) | [Sdílej 34772205](https://sdilej.cz/34772205/shane-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:28:56.187384+00:00 |
+| [Shane (2022) 1080p CZ Titulky](https://prehraj.to/shane-2022-1080p-cz-titulky-mp4/f15b64329d7bc8b1) (ID 29400954) | [Sdílej 34772205](https://sdilej.cz/34772205/shane-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:20:29.928503+00:00 |
 | [Shaolin vs. Ninja (1983) SD CZ Titulky](https://prehraj.to/shaolin-vs-ninja-1983-sd-cz-titulky-mp4/375cda253ae942c1) (ID 30545435) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.612757+00:00 |
 | [Shark Bait (2022) 1080p CZ Titulky](https://prehraj.to/shark-bait-2022-1080p-cz-titulky-avi/099868e2e5a917dd) (ID 30939892) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.616476+00:00 |
 | [Sharktopus (2010) SD CZ Titulky](https://prehraj.to/sharktopus-2010-sd-cz-titulky-avi/4db44d9956bb9131) (ID 30439481) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.612191+00:00 |
