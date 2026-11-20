@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:42:09.258858+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:42:17.475963+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -98,7 +98,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Alpha Rift (2021) 720p CZ Titulky](https://prehraj.to/alpha-rift-2021-720p-cz-titulky-mp4/02e83edbc35871a1) (ID 29723911) | [Sdílej 34731662](https://sdilej.cz/34731662/alpha-rift-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:40:24.956655+00:00 |
 | [Amandla (2022) 1080p CZ Titulky](https://prehraj.to/amandla-2022-1080p-cz-titulky-mkv/87d445432af21800) (ID 30565379) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.313787+00:00 |
 | [Amber Alert (2024) 1080p CZ Titulky](https://prehraj.to/amber-alert-2024-1080p-cz-titulky-mkv/d7cb2bebe73627ff) (ID 31045248) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.324198+00:00 |
-| [American Hero (2015) SD CZ Titulky](https://prehraj.to/american-hero-2015-sd-cz-titulky-mp4/71b9375dfb28cc09) (ID 29732275) | [Sdílej 34776116](https://sdilej.cz/34776116/american-hero-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:58:12.685721+00:00 |
+| [American Hero (2015) SD CZ Titulky](https://prehraj.to/american-hero-2015-sd-cz-titulky-mp4/71b9375dfb28cc09) (ID 29732275) | [Sdílej 34776116](https://sdilej.cz/34776116/american-hero-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:42:17.475826+00:00 |
 | [American Satan (2017) SD CZ Titulky](https://prehraj.to/american-satan-2017-sd-cz-titulky-avi/df146b915e883159) (ID 29911940) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.300718+00:00 |
 | [Amigo (2010) SD CZ Titulky](https://prehraj.to/amigo-2010-sd-cz-titulky-mkv/cdcc06bdec23cb74) (ID 30782248) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.317509+00:00 |
 | [Amina: Bojovnice (2021) 1080p CZ Titulky](https://prehraj.to/amina-bojovnice-2021-1080p-cz-titulky-mp4/18d37323c5762745) (ID 30962362) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.322538+00:00 |
