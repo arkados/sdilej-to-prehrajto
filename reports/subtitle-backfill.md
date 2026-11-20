@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T23:01:59.944980+00:00
+Poslední aktualizace (UTC): 2026-11-20T23:02:06.983857+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -600,7 +600,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [El desconocido (2015) SD CZ Titulky](https://prehraj.to/el-desconocido-2015-sd-cz-titulky-mp4/ff96c31f2937ef06) (ID 30549616) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.562569+00:00 |
 | [El pacto (2018) SD CZ Titulky](https://prehraj.to/el-pacto-2018-sd-cz-titulky-avi/c99abde04e9a057c) (ID 29998055) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.555797+00:00 |
 | [Elektra Luxx (2011) SD CZ Titulky](https://prehraj.to/elektra-luxx-2011-sd-cz-titulky-avi/927856fdad31cbb1) (ID 29934863) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.554571+00:00 |
-| [Elephant (2020) 720p CZ Titulky](https://prehraj.to/elephant-2020-720p-cz-titulky-mp4/9c337ea2491fa134) (ID 29828611) | [Sdílej 34773343](https://sdilej.cz/34773343/elephant-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:39:58.547683+00:00 |
+| [Elephant (2020) 720p CZ Titulky](https://prehraj.to/elephant-2020-720p-cz-titulky-mp4/9c337ea2491fa134) (ID 29828611) | [Sdílej 34773343](https://sdilej.cz/34773343/elephant-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:02:06.983712+00:00 |
 | [Eliminators (1986) SD CZ Titulky](https://prehraj.to/eliminators-1986-sd-cz-titulky-mp4/fe11e925d112d972) (ID 29720595) | [Sdílej 30090091](https://sdilej.cz/30090091/eliminators.1986.vhsrip-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:38:07.699166+00:00 |
 | [Elisa a Marcela (2019) 1080p CZ Titulky](https://prehraj.to/elisa-a-marcela-2019-1080p-cz-titulky-avi/909b92102766fa09) (ID 29848461) | [Sdílej 11824610](https://sdilej.cz/11824610/elisa-y-marcela-2019-hc.titulky.cz-1080p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:41:15.097383+00:00 |
 | [Elita armády (2005) 1080p CZ Titulky](https://prehraj.to/elita-armady-2005-1080p-cz-titulky-mp4/046814d690cc33d8) (ID 29936811) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.554755+00:00 |
