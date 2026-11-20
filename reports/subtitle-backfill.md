@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:21:19.243043+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:21:28.310021+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -955,7 +955,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Hush (2016) SD CZ Titulky](https://prehraj.to/hush-2016-sd-cz-titulky-avi/213595f4ca53b6ee) (ID 30566466) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.674072+00:00 |
 | [Hustler White (1996) 1080p CZ Titulky](https://prehraj.to/hustler-white-1996-1080p-cz-titulky-mp4/86cf852c3a99f4b2) (ID 29278231) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.657620+00:00 |
 | [Hvězda kriminálu (2014) SD CZ Titulky](https://prehraj.to/hvezda-kriminalu-2014-sd-cz-titulky-avi/7cdc1ab093f1e446) (ID 30029383) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.665773+00:00 |
-| [Hyacint (2021) 1080p CZ Titulky](https://prehraj.to/hyacint-2021-1080p-cz-titulky-mp4/8d1b8e7b27fa7a94) (ID 29673745) | [Sdílej 34730772](https://sdilej.cz/34730772/hyacint-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:34:05.883143+00:00 |
+| [Hyacint (2021) 1080p CZ Titulky](https://prehraj.to/hyacint-2021-1080p-cz-titulky-mp4/8d1b8e7b27fa7a94) (ID 29673745) | [Sdílej 34730772](https://sdilej.cz/34730772/hyacint-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:21:28.309892+00:00 |
 | [Hyena Road (2015) SD CZ Titulky](https://prehraj.to/hyena-road-2015-sd-cz-titulky-avi/bb09b84f9562c18b) (ID 29299434) | [Sdílej 27004212](https://sdilej.cz/27004212/hyena-road-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:11:10.429804+00:00 |
 | [Hříšná hudba (2019) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29272205) | [Sdílej 34958189](https://sdilej.cz/34958189/dirt.music.2019.1080p.webrip.dl.eac3.x264-majo.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-20T13:28:32.465834+00:00 |
 | [I Am Bolt (2016) 1080p CZ Titulky](https://prehraj.to/i-am-bolt-2016-1080p-cz-titulky-mkv/2c794edfdf138bad) (ID 29560544) | [Sdílej 7002430](https://sdilej.cz/7002430/i-am-bolt.2016.1080p.bluray.5.1.x264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:23.718214+00:00 |
