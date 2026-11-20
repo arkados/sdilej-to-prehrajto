@@ -618974,15 +618974,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-13T15:24:20.607234+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-15T09:59:27.618027+00:00"
         },
         {
@@ -618993,6 +618984,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T14:59:20.766891+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before verification completed",
+          "attempted_at": "2026-11-20T21:27:15.337398+00:00"
         }
       ]
     },
@@ -722737,5 +722735,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-20T21:25:13.223867+00:00"
+  "updated_at": "2026-11-20T21:27:15.337419+00:00"
 }
