@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:54:36.495460+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:54:49.093912+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -1945,7 +1945,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Sharper (2023) 4K CZ Titulky](https://prehraj.to/sharper-2023-4k-cz-titulky-mkv/1802444dc104defb) (ID 30540312) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.562471+00:00 |
 | [Shawn Mendes: In Wonder (2020) 1080p CZ Titulky](https://prehraj.to/shawn-mendes-in-wonder-2020-1080p-cz-titulky-mp4/50f02a5b43b3dd15) (ID 30916440) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.569708+00:00 |
 | [She Dies Tomorrow (2020) SD CZ Titulky](https://prehraj.to/she-dies-tomorrow-2020-sd-cz-titulky-mkv/056c830ba1ca5093) (ID 31035374) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.572850+00:00 |
-| [Shelby Oaks (2024) 1080p CZ Titulky](https://prehraj.to/shelby-oaks-2024-1080p-cz-titulky-mkv/6ef2aef2076ba5bb) (ID 29748440) | [Sdílej 32452776](https://sdilej.cz/32452776/shelby-oaks-2024-1080p.-sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:31:12.586190+00:00 |
+| [Shelby Oaks (2024) 1080p CZ Titulky](https://prehraj.to/shelby-oaks-2024-1080p-cz-titulky-mkv/6ef2aef2076ba5bb) (ID 29748440) | [Sdílej 32452776](https://sdilej.cz/32452776/shelby-oaks-2024-1080p.-sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:54:49.093796+00:00 |
 | [Shelter in Place (2021) 1080p CZ Titulky](https://prehraj.to/shelter-in-place-2021-1080p-cz-titulky-avi/67592324b432883c) (ID 30944617) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.571001+00:00 |
 | [Shepherd (2021) 1080p CZ Titulky](https://prehraj.to/shepherd-2021-1080p-cz-titulky-mp4/e0a80b92f9e07742) (ID 31040440) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.573000+00:00 |
 | [Shin Godzilla (2016) SD CZ Titulky](https://prehraj.to/shin-godzilla-2016-sd-cz-titulky-mkv/ab9c6558d5220783) (ID 29884840) | [Sdílej 34823880](https://sdilej.cz/34823880/shin.godzilla.2016.japanese.720p.brri-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:33.831714+00:00 |
