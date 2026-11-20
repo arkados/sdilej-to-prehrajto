@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:34:00.528572+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:34:08.603934+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -344,7 +344,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Camp X-ray (2014) SD CZ Titulky](https://prehraj.to/camp-x-ray-2014-sd-cz-titulky-avi/d4b52a9c868e852f) (ID 30991307) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.322852+00:00 |
 | [Candy Corn (2019) 1080p CZ Titulky.mkv](https://prehraj.to/candy-corn-2019-1080p-cz-titulky-mkv/8c96c1c5cfe58167) (ID 29736310) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.299136+00:00 |
 | [Candy Land (2022) 720p CZ Titulky](https://prehraj.to/candy-land-2022-720p-cz-titulky-mp4/b70ec660d8a4ea7a) (ID 29721061) | [Sdílej 25002521](https://sdilej.cz/25002521/candy-land-2022-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:54:03.447758+00:00 |
-| [Cannibal Diner (2012) SD CZ Titulky](https://prehraj.to/cannibal-diner-2012-sd-cz-titulky-mp4/7167a7ce00ce3385) (ID 29712651) | [Sdílej 34780137](https://sdilej.cz/34780137/cannibal-diner-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:49:28.751582+00:00 |
+| [Cannibal Diner (2012) SD CZ Titulky](https://prehraj.to/cannibal-diner-2012-sd-cz-titulky-mp4/7167a7ce00ce3385) (ID 29712651) | [Sdílej 34780137](https://sdilej.cz/34780137/cannibal-diner-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:34:08.603755+00:00 |
 | [Cannibal Troll (2021) SD CZ Titulky](https://prehraj.to/cannibal-troll-2021-sd-cz-titulky-mp4/4d20b53c6ecf49c3) (ID 29609349) | [Sdílej 34761592](https://sdilej.cz/34761592/cannibal-troll-2021-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:55:42.787167+00:00 |
 | [Captain Hook: The Cursed Tides (2025) 720p CZ Titulky](https://prehraj.to/captain-hook-the-cursed-tides-2025-720p-cz-titulky-mp4/678ec1e2332eede9) (ID 31042082) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.324097+00:00 |
 | [Captive State (2019) 4K CZ Titulky](https://prehraj.to/captive-state-2019-4k-cz-titulky-mkv/4bc67c083ffe4295) (ID 31036301) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.323925+00:00 |
