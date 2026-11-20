@@ -155944,17 +155944,19 @@
       }
     },
     "15551": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33958999",
+          "target_video_id": "31210781",
+          "permanent": false,
+          "attempted_at": "2026-11-20T18:17:03.234065+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33958999",
         "display_name": "Maličké (2022) 720p CZ Dabing",
         "planned_at": "2026-11-20T18:11:38.500393+00:00"
-      },
-      "claim": {
-        "worker_id": "5272e4c82e494ff987e2069c69c6ca5d-shard-0",
-        "claimed_at": "2026-11-20T18:11:39.875111+00:00",
-        "lease_expires_at": "2026-11-21T00:11:39.875111+00:00",
-        "run_id": "44741073267"
       },
       "previous_target_id": "31210781",
       "prepared": {
@@ -449052,5 +449054,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T18:11:43.314287+00:00"
+  "updated_at": "2026-11-20T18:17:03.234084+00:00"
 }
