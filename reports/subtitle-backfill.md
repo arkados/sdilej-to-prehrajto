@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T03:34:24.718264+00:00
+Poslední aktualizace (UTC): 2026-11-20T03:34:32.269745+00:00
 
 Zkontrolováno videí: 3289. Další stránka kontroly: 0.
 
@@ -1894,7 +1894,7 @@ Kontrol: 15; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Screwball (2018) 1080p CZ Titulky](https://prehraj.to/screwball-2018-1080p-cz-titulky-mp4/d26abda79658771c) (ID 29464990) | [Sdílej 34736814](https://sdilej.cz/34736814/screwball-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:40:31.909955+00:00 |
 | [Scurry (2024) 1080p CZ Titulky](https://prehraj.to/scurry-2024-1080p-cz-titulky-mkv/7f7c1330352d953c) (ID 31021290) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.373642+00:00 |
 | [Se min kjole (2009) 1080p CZ Titulky](https://prehraj.to/se-min-kjole-2009-1080p-cz-titulky-mp4/1121be52ba5134ec) (ID 30154744) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.353518+00:00 |
-| [Seaspiracy: Pravá tvář udržitelného rybolovu (2021) 720p CZ Titulky](https://prehraj.to/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-720p-cz-titulky-mp4/9024bad222d351b4) (ID 29278983) | [Sdílej 34728689](https://sdilej.cz/34728689/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T02:32:41.047040+00:00 |
+| [Seaspiracy: Pravá tvář udržitelného rybolovu (2021) 720p CZ Titulky](https://prehraj.to/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-720p-cz-titulky-mp4/9024bad222d351b4) (ID 29278983) | [Sdílej 34728689](https://sdilej.cz/34728689/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:34:32.269634+00:00 |
 | [Sebastian (2024) 1080p CZ Titulky](https://prehraj.to/sebastian-2024-1080p-cz-titulky-mkv/8873a3986b8be1da) (ID 29604868) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.347000+00:00 |
 | [Sebelum Iblis Menjemput (2018) 1080p CZ Titulky](https://prehraj.to/sebelum-iblis-menjemput-2018-1080p-cz-titulky-mkv/3253eee6bbabb935) (ID 30951576) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.372032+00:00 |
 | [Sebeobrana: Příběh Cyntoie Brown (2020) 1080p CZ Titulky](https://prehraj.to/sebeobrana-pribeh-cyntoie-brown-2020-1080p-cz-titulky-mp4/8efdf1725b704e4f) (ID 30572076) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T03:28:07.361385+00:00 |
