@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T23:03:48.975780+00:00
+Poslední aktualizace (UTC): 2026-11-20T23:04:01.292544+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -1413,7 +1413,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [My Soul to Keep (2019) 1080p CZ Titulky](https://prehraj.to/my-soul-to-keep-2019-1080p-cz-titulky-mkv/2d9acfdacc12a194) (ID 29573170) | [Sdílej 12388992](https://sdilej.cz/12388992/my.soul.to.keep.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:35.787012+00:00 |
 | [My Teacher (2017) 720p CZ Titulky](https://prehraj.to/my-teacher-2017-720p-cz-titulky-mkv/e034effed2c3a255) (ID 30562524) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.562698+00:00 |
 | [My Teacher, My Obsession (2018) 1080p CZ Titulky](https://prehraj.to/my-teacher-my-obsession-2018-1080p-cz-titulky-mkv/9379a804dc0d25be) (ID 29933231) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.554470+00:00 |
-| [My Way (2011) 720p CZ Titulky](https://prehraj.to/my-way-2011-720p-cz-titulky-mp4/3a8e3777d5629552) (ID 29883530) | [Sdílej 34780492](https://sdilej.cz/34780492/my-way-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:42:25.532625+00:00 |
+| [My Way (2011) 720p CZ Titulky](https://prehraj.to/my-way-2011-720p-cz-titulky-mp4/3a8e3777d5629552) (ID 29883530) | [Sdílej 34780492](https://sdilej.cz/34780492/my-way-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:04:01.292420+00:00 |
 | [Mylène Farmer: Timeless  - Le Film (2014) SD CZ Titulky](https://prehraj.to/mylene-farmer-timeless-le-film-2014-sd-cz-titulky-mp4/2acafb362579651d) (ID 30888987) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.568837+00:00 |
 | [Májové hvězdy (1959) 1080p CZ Titulky](https://prehraj.to/majove-hvezdy-1959-1080p-cz-titulky-mkv/82f7991c0b09dc6f) (ID 29697994) | [Sdílej 34751185](https://sdilej.cz/34751185/majove-hvezdy-1959-pro-pametniky-valecny-povidkovy-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:29:24.292146+00:00 |
 | [Máme hlas (2020) 1080p CZ Titulky](https://prehraj.to/mame-hlas-2020-1080p-cz-titulky-mp4/083728def9b5757a) (ID 29302313) | [Sdílej 34732954](https://sdilej.cz/34732954/mame-hlas-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:12:06.940180+00:00 |
