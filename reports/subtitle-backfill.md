@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:19:06.435799+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:19:19.312299+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -807,7 +807,7 @@ Kontrol: 56; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Ghostland (2018) 1080p CZ Titulky](https://prehraj.to/ghostland-2018-1080p-cz-titulky-mkv/8f5389c97de7c084) (ID 30281178) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.610920+00:00 |
 | [Ghosts of War (2020) SD CZ Titulky](https://prehraj.to/ghosts-of-war-2020-sd-cz-titulky-mp4/f9701cab272c9d43) (ID 30448879) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.612288+00:00 |
 | [Gigi (1958) SD CZ Titulky](https://prehraj.to/gigi-1958-sd-cz-titulky-mp4/6acf90e747750d2b) (ID 30197996) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.610424+00:00 |
-| [Gimme Shelter (2013) SD CZ Titulky](https://prehraj.to/gimme-shelter-2013-sd-cz-titulky-avi/d9f5806ef446e581) (ID 29398786) | [Sdílej 3367570](https://sdilej.cz/3367570/gimme-shelter-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:27:40.045860+00:00 |
+| [Gimme Shelter (2013) SD CZ Titulky](https://prehraj.to/gimme-shelter-2013-sd-cz-titulky-avi/d9f5806ef446e581) (ID 29398786) | [Sdílej 3367570](https://sdilej.cz/3367570/gimme-shelter-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:19:19.312177+00:00 |
 | [Girl in Woods (2016) SD CZ Titulky](https://prehraj.to/girl-in-woods-2016-sd-cz-titulky-avi/65ff2352bff5b31d) (ID 30921512) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.615667+00:00 |
 | [Girl on the Third Floor (2019) 1080p CZ Titulky](https://prehraj.to/girl-on-the-third-floor-2019-1080p-cz-titulky-mp4/8e2007ffdb8bce55) (ID 30416260) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.611966+00:00 |
 | [Girlhouse (2014) SD CZ Titulky](https://prehraj.to/girlhouse-2014-sd-cz-titulky-mkv/bdb1432d3bb4e544) (ID 30773758) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.614102+00:00 |
