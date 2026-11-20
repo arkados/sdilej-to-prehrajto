@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:53:24.580144+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:53:31.743946+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -2381,7 +2381,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Tomyho zápisník (2020) 1080p CZ Titulky](https://prehraj.to/tomyho-zapisnik-2020-1080p-cz-titulky-mkv/191cfb38e9e0d127) (ID 30539232) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.562439+00:00 |
 | [Tormento (2025) 1080p CZ Titulky](https://prehraj.to/tormento-2025-1080p-cz-titulky-mkv/705c0f60a3e4149c) (ID 30253861) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.558388+00:00 |
 | [Touha (2024) 1080p CZ Titulky](https://prehraj.to/touha-2024-1080p-cz-titulky-mkv/e852f0b12670fb5c) (ID 30992865) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.571972+00:00 |
-| [Touha po životě (2015) SD CZ Titulky](https://prehraj.to/touha-po-zivote-2015-sd-cz-titulky-mp4/4dc83bc924b81ed7) (ID 29411882) | [Sdílej 34697611](https://sdilej.cz/34697611/touha-po-zivote-2015-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:11:32.933446+00:00 |
+| [Touha po životě (2015) SD CZ Titulky](https://prehraj.to/touha-po-zivote-2015-sd-cz-titulky-mp4/4dc83bc924b81ed7) (ID 29411882) | [Sdílej 34697611](https://sdilej.cz/34697611/touha-po-zivote-2015-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:53:31.743843+00:00 |
 | [Touhy žen (2025) 1080p CZ Titulky](https://prehraj.to/touhy-zen-2025-1080p-cz-titulky-mkv/7910e6c5035210c9) (ID 30102893) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.557112+00:00 |
 | [Toxický mstitel (1984) 1080p CZ Titulky](https://prehraj.to/toxicky-mstitel-1984-1080p-cz-titulky-mkv/2b33ba9e7565fd93) (ID 30775640) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.566568+00:00 |
 | [Traded (2016) SD CZ Titulky](https://prehraj.to/traded-2016-sd-cz-titulky-avi/2f2e2f16c81cc25f) (ID 29751271) | [Sdílej 34776246](https://sdilej.cz/34776246/western-cz-dab-traded-2016-hc.titulky.cz-western.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:34:00.746690+00:00 |
