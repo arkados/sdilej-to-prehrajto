@@ -138395,7 +138395,7 @@
       "last_plan": {
         "source_id": "26750455",
         "display_name": "Kantor ideál (1932) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T15:05:51.580544+00:00"
+        "planned_at": "2026-11-20T18:57:37.023680+00:00"
       },
       "previous_target_id": "29663032",
       "prepared": {
@@ -141575,13 +141575,6 @@
           "source_id": "29201504",
           "target_video_id": "29504151",
           "permanent": false,
-          "attempted_at": "2026-11-20T08:36:56.555013+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29201504",
-          "target_video_id": "29504151",
-          "permanent": false,
           "attempted_at": "2026-11-20T11:44:19.655388+00:00"
         },
         {
@@ -141590,12 +141583,20 @@
           "target_video_id": "29504151",
           "permanent": false,
           "attempted_at": "2026-11-20T15:05:56.917056+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29201504",
+          "target_video_id": "29504151",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-20T18:59:11.687784+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29201504",
         "display_name": "Průlom (1946) SD CZ Dabing",
-        "planned_at": "2026-11-20T15:05:50.756648+00:00"
+        "planned_at": "2026-11-20T18:57:36.539354+00:00"
       },
       "prepared": {
         "target_video_id": "29504151",
@@ -143951,7 +143952,7 @@
       "last_plan": {
         "source_id": "34850592",
         "display_name": "Jako nikdy (2013) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T15:05:51.989230+00:00"
+        "planned_at": "2026-11-20T18:57:37.272754+00:00"
       },
       "previous_target_id": "29715709",
       "prepared": {
@@ -144357,7 +144358,7 @@
       "last_plan": {
         "source_id": "34451753",
         "display_name": "Školní tajemství (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T15:05:51.172912+00:00"
+        "planned_at": "2026-11-20T18:57:36.783433+00:00"
       },
       "prepared": {
         "target_video_id": "29448179",
@@ -298503,7 +298504,20 @@
       }
     },
     "26996": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31468352",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-20T18:57:57.895648+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "31468352",
+        "display_name": "Turno nocturno (2024) 1080p CZ Titulky",
+        "planned_at": "2026-11-20T18:57:36.269275+00:00"
+      }
     },
     "17077": {
       "attempts": [
@@ -449146,5 +449160,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T18:57:21.718796+00:00"
+  "updated_at": "2026-11-20T18:59:11.687803+00:00"
 }
