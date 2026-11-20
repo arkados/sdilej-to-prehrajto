@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:02:56.397595+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:03:05.182588+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1079,7 +1079,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Justice League vs. the Fatal Five (2019) 1080p CZ Titulky](https://prehraj.to/justice-league-vs-the-fatal-five-2019-1080p-cz-titulky-mp4/a479e0605888bef7) (ID 30576111) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.674330+00:00 |
 | [Justice Society: World War II (2021) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29269710) | [Sdílej 16889647](https://sdilej.cz/16889647/justice.society.world.war.ii.2021.1080p.webrip.dd5.1.x264.cz.tit.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-20T13:28:29.211381+00:00 |
 | [Justin Bieber: Náš svět (2021) 720p CZ Titulky](https://prehraj.to/justin-bieber-nas-svet-2021-720p-cz-titulky-mp4/7cf7cec94fcdb58b) (ID 30962239) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.682105+00:00 |
-| [Já a můj terapeut (2024) 720p CZ Titulky](https://prehraj.to/ja-a-muj-terapeut-2024-720p-cz-titulky-mp4/44c8713a06a38bee) (ID 29616776) | [Sdílej 34724968](https://sdilej.cz/34724968/ja-a-muj-terapeut-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:14:21.328542+00:00 |
+| [Já a můj terapeut (2024) 720p CZ Titulky](https://prehraj.to/ja-a-muj-terapeut-2024-720p-cz-titulky-mp4/44c8713a06a38bee) (ID 29616776) | [Sdílej 34724968](https://sdilej.cz/34724968/ja-a-muj-terapeut-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:03:05.182425+00:00 |
 | [Já, hrdina (2016) SD CZ Titulky](https://prehraj.to/ja-hrdina-2016-sd-cz-titulky-avi/92fb648300d7b966) (ID 30527094) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.673616+00:00 |
 | [Jízda života (2022) 720p CZ Titulky](https://prehraj.to/jizda-zivota-2022-720p-cz-titulky-mkv/24b5e64f77800155) (ID 29237320) | [Sdílej 34704949](https://sdilej.cz/34704949/joyride.2022.720p.hmax.web-dl.dd5.1.h.264.hun-no1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:43.399033+00:00 |
 | [K smrti odsouzený uprchl (1956) SD CZ Titulky](https://prehraj.to/k-smrti-odsouzeny-uprchl-1956-sd-cz-titulky-avi/4ea43a9f8ed6c06b) (ID 30905007) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.679609+00:00 |
