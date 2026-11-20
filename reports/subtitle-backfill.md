@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:16:02.992187+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:16:11.636118+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1967,7 +1967,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Simple Plan: The Kids in the Crowd (2025) 1080p CZ Titulky](https://prehraj.to/simple-plan-the-kids-in-the-crowd-2025-1080p-cz-titulky-mp4/eca73ecc69f92e3a) (ID 30051803) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.666278+00:00 |
 | [Sing Street (2016) SD CZ Titulky](https://prehraj.to/sing-street-2016-sd-cz-titulky-mp4/c3894a4ddc1e027f) (ID 29290332) | [Sdílej 34774971](https://sdilej.cz/34774971/sing-street-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:06:43.746413+00:00 |
 | [Singham (2011) SD CZ Titulky](https://prehraj.to/singham-2011-sd-cz-titulky-mp4/9a63edd9bd9cea5e) (ID 29445959) | [Sdílej 34746723](https://sdilej.cz/34746723/singham-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:29:20.240200+00:00 |
-| [Singl na vdávání (2020) 1080p CZ Titulky](https://prehraj.to/singl-na-vdavani-2020-1080p-cz-titulky-mp4/993832c164970b56) (ID 29653123) | [Sdílej 34732130](https://sdilej.cz/34732130/singl-na-vdavani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:29:00.065974+00:00 |
+| [Singl na vdávání (2020) 1080p CZ Titulky](https://prehraj.to/singl-na-vdavani-2020-1080p-cz-titulky-mp4/993832c164970b56) (ID 29653123) | [Sdílej 34732130](https://sdilej.cz/34732130/singl-na-vdavani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:16:11.636004+00:00 |
 | [Sir Alex Ferguson: Nikdy se nevzdej (2021) 720p CZ Titulky](https://prehraj.to/sir-alex-ferguson-nikdy-se-nevzdej-2021-720p-cz-titulky-mp4/1ac1cd302d83495f) (ID 29337463) | [Sdílej 34699238](https://sdilej.cz/34699238/sir-alex-ferguson-nikdy-se-nevzdej-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:17:26.225318+00:00 |
 | [Sirius (2013) SD CZ Titulky](https://prehraj.to/sirius-2013-sd-cz-titulky-avi/c552939e2e21f3d1) (ID 29234030) | [Sdílej 11779816](https://sdilej.cz/11779816/sirius-odhaleni-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:31:16.403763+00:00 |
 | [Sisu (2022) 1080p CZ Titulky](https://prehraj.to/sisu-2022-1080p-cz-titulky-mkv/f8a2dbc6ff9eb7a8) (ID 31032292) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.683130+00:00 |
