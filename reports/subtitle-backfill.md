@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:46:35.395713+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:46:46.754102+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -782,7 +782,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Freaky Tales (2024) 1080p CZ Titulky](https://prehraj.to/freaky-tales-2024-1080p-cz-titulky-mkv/a16e20b6489759aa) (ID 30483963) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.312681+00:00 |
 | [Friends & Family Christmas (2023) 1080p CZ Titulky](https://prehraj.to/friends-family-christmas-2023-1080p-cz-titulky-mp4/ff224258667637d1) (ID 30717202) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.316482+00:00 |
 | [Frigo jako Sherlock Holmes (1924) 1080p CZ Titulky](https://prehraj.to/frigo-jako-sherlock-holmes-1924-1080p-cz-titulky-mp4/0bc9ca76f3009a5c) (ID 31155377) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.325110+00:00 |
-| [Fuck the Prom (2017) SD CZ Titulky](https://prehraj.to/fuck-the-prom-2017-sd-cz-titulky-mp4/78e11a3cfac955c8) (ID 29736118) | [Sdílej 8243450](https://sdilej.cz/8243450/f.the.prom.2017.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:03:12.457134+00:00 |
+| [Fuck the Prom (2017) SD CZ Titulky](https://prehraj.to/fuck-the-prom-2017-sd-cz-titulky-mp4/78e11a3cfac955c8) (ID 29736118) | [Sdílej 8243450](https://sdilej.cz/8243450/f.the.prom.2017.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:46:46.753961+00:00 |
 | [Furie (2019) 1080p CZ Titulky](https://prehraj.to/furie-2019-1080p-cz-titulky-mkv/cdee9e08ae043518) (ID 30272152) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.307310+00:00 |
 | [Futurologický kongres (2013) SD CZ Titulky](https://prehraj.to/futurologicky-kongres-2013-sd-cz-titulky-mkv/86fe3f83e61faadd) (ID 29229721) | [Sdílej 29868396](https://sdilej.cz/29868396/futurologicky-kongres-the-congress-2013-eng.ge.fr-sktit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:35.216695+00:00 |
 | [GANTZ:O (2016) 720p CZ Titulky](https://prehraj.to/gantz-o-2016-720p-cz-titulky-avi/707874c3999f7b39) (ID 30886257) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.319137+00:00 |
