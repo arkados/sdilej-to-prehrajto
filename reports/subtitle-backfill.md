@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:11:40.841674+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:12:01.933298+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1301,7 +1301,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Malířka a zloděj (2020) 1080p CZ Titulky](https://prehraj.to/malirka-a-zlodej-2020-1080p-cz-titulky-mp4/889164df258a0aa2) (ID 31151460) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.684319+00:00 |
 | [Malý mluvka (2021) 720p CZ Titulky](https://prehraj.to/maly-mluvka-2021-720p-cz-titulky-mp4/f364c788c835f9f2) (ID 30809271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.677944+00:00 |
 | [Man Down (2015) 1080p CZ Titulky](https://prehraj.to/man-down-2015-1080p-cz-titulky-mkv/f519cad1c42580be) (ID 30617145) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.675168+00:00 |
-| [Mandrake (2022) 1080p CZ Titulky](https://prehraj.to/mandrake-2022-1080p-cz-titulky-avi/2d6ad139543d96e3) (ID 29648019) | [Sdílej 24246046](https://sdilej.cz/24246046/mandrake-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:24:33.410877+00:00 |
+| [Mandrake (2022) 1080p CZ Titulky](https://prehraj.to/mandrake-2022-1080p-cz-titulky-avi/2d6ad139543d96e3) (ID 29648019) | [Sdílej 24246046](https://sdilej.cz/24246046/mandrake-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:12:01.933174+00:00 |
 | [Mandy - Kult pomsty (2018) 1080p CZ Titulky](https://prehraj.to/mandy-kult-pomsty-2018-1080p-cz-titulky-mkv/b4dfaeaf73ecbada) (ID 31022220) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.682761+00:00 |
 | [Maneater (2022) SD CZ Titulky](https://prehraj.to/maneater-2022-sd-cz-titulky-avi/a32df1b386b14f61) (ID 30636959) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.675584+00:00 |
 | [Manhunt (2017) SD CZ Titulky](https://prehraj.to/manhunt-2017-sd-cz-titulky-mp4/492e172d52bf5783) (ID 29968850) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.665013+00:00 |
