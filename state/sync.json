@@ -394632,17 +394632,19 @@
       }
     },
     "33330": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31045716",
+          "target_video_id": "31196433",
+          "permanent": false,
+          "attempted_at": "2026-11-20T04:17:54.260291+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31045716",
         "display_name": "Psycho IV: Začátek (1990) SD CZ Dabing",
         "planned_at": "2026-11-20T04:15:50.474889+00:00"
-      },
-      "claim": {
-        "worker_id": "75183be245ed418d9b32b0d3f4457aea-shard-0",
-        "claimed_at": "2026-11-20T04:15:52.308301+00:00",
-        "lease_expires_at": "2026-11-20T10:15:52.308301+00:00",
-        "run_id": "44626656824"
       },
       "previous_target_id": "31196433",
       "prepared": {
@@ -448577,5 +448579,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T04:15:55.425142+00:00"
+  "updated_at": "2026-11-20T04:17:54.260310+00:00"
 }
