@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:20:13.073814+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:20:22.567784+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1163,7 +1163,7 @@ Kontrol: 56; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Krysař (1986) 1080p CZ Titulky](https://prehraj.to/krysar-1986-1080p-cz-titulky-mp4/484462b1896e588f) (ID 31153038) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.619206+00:00 |
 | [Krystal (2017) SD CZ Titulky](https://prehraj.to/krystal-2017-sd-cz-titulky-avi/eec4393e55f96908) (ID 30775617) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.614159+00:00 |
 | [Král Kobra (2016) SD CZ Titulky](https://prehraj.to/kral-kobra-2016-sd-cz-titulky-avi/624ec9fa66264b17) (ID 29714249) | [Sdílej 11544620](https://sdilej.cz/11544620/king-cobra-2016-cz-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:50:15.315467+00:00 |
-| [Král psanec (2018) 1080p CZ Titulky](https://prehraj.to/kral-psanec-2018-1080p-cz-titulky-mp4/53bd48e5c110bd89) (ID 29400578) | [Sdílej 25113745](https://sdilej.cz/25113745/kral-psanec-2018.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:28:47.370476+00:00 |
+| [Král psanec (2018) 1080p CZ Titulky](https://prehraj.to/kral-psanec-2018-1080p-cz-titulky-mp4/53bd48e5c110bd89) (ID 29400578) | [Sdílej 25113745](https://sdilej.cz/25113745/kral-psanec-2018.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:20:22.567669+00:00 |
 | [Král Škorpion 2 - Vzestup říše (2008) 1080p CZ Titulky](https://prehraj.to/kral-skorpion-2-vzestup-rise-2008-1080p-cz-titulky-mkv/843320655f2159e3) (ID 30435346) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.612137+00:00 |
 | [Královna banditů (1994) SD CZ Titulky](https://prehraj.to/kralovna-banditu-1994-sd-cz-titulky-mp4/d515b251f4b3718b) (ID 30016219) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.609187+00:00 |
 | [Královská záměna (2015) 720p CZ Titulky](https://prehraj.to/kralovska-zamena-2015-720p-cz-titulky-mp4/0e5d31d820ec1402) (ID 30423961) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:15:07.612073+00:00 |
