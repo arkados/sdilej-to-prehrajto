@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:13:41.190928+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:13:48.802992+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1231,7 +1231,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Liger (2022) 720p CZ Titulky](https://prehraj.to/liger-2022-720p-cz-titulky-mp4/7ccabdf375a537a6) (ID 31051930) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.684047+00:00 |
 | [Lights, Camera, Christmas! (2022) 1080p CZ Titulky](https://prehraj.to/lights-camera-christmas-2022-1080p-cz-titulky-mp4/7ea242ba37982fe8) (ID 30107279) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.666829+00:00 |
 | [Likvidátoři (2013) SD CZ Titulky](https://prehraj.to/likvidatori-2013-sd-cz-titulky-mp4/accb7e257bb02de1) (ID 30456653) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.672629+00:00 |
-| [Lillian (2019) 1080p CZ Titulky](https://prehraj.to/lillian-2019-1080p-cz-titulky-mkv/8de6a16d12076fda) (ID 29649257) | [Sdílej 13568885](https://sdilej.cz/13568885/lillian-2019-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:26:36.209548+00:00 |
+| [Lillian (2019) 1080p CZ Titulky](https://prehraj.to/lillian-2019-1080p-cz-titulky-mkv/8de6a16d12076fda) (ID 29649257) | [Sdílej 13568885](https://sdilej.cz/13568885/lillian-2019-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:13:48.802873+00:00 |
 | [Linkin Park: Road to Revolution - Live at Milton Keynes (2008) SD CZ Titulky](https://prehraj.to/linkin-park-road-to-revolution-live-at-milton-keynes-2008-sd-cz-titulky-mp4/e2901d572608d1bf) (ID 31028079) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.682937+00:00 |
 | [Linoleum (2022) 720p CZ Titulky](https://prehraj.to/linoleum-2022-720p-cz-titulky-mkv/06c75b42d2e93ba9) (ID 29344175) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.657893+00:00 |
 | [Lisztomania (1975) SD CZ Titulky](https://prehraj.to/lisztomania-1975-sd-cz-titulky-mp4/4e5497aab17eb703) (ID 29242713) | [Sdílej 34787708](https://sdilej.cz/34787708/lisztomania-1975-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:29:29.770178+00:00 |
