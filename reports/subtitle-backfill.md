@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T23:03:35.061331+00:00
+Poslední aktualizace (UTC): 2026-11-20T23:03:42.261503+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -1028,7 +1028,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Jackass 3.5 (2011) SD CZ Titulky](https://prehraj.to/jackass-3-5-2011-sd-cz-titulky-avi/84250fec238b032c) (ID 30823564) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.567456+00:00 |
 | [Jackdaw (2023) 4K CZ Titulky](https://prehraj.to/jackdaw-2023-4k-cz-titulky-mkv/9458759efe3db7e3) (ID 30485715) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.562057+00:00 |
 | [Jagga Jasoos (2017) SD CZ Titulky](https://prehraj.to/jagga-jasoos-2017-sd-cz-titulky-mp4/f1ab7ddc1615a2da) (ID 30932423) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.570512+00:00 |
-| [Jai Bhim (2021) 720p CZ Titulky](https://prehraj.to/jai-bhim-2021-720p-cz-titulky-mp4/79257e06c559044f) (ID 29882898) | [Sdílej 34730753](https://sdilej.cz/34730753/jai-bhim-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:42:06.134937+00:00 |
+| [Jai Bhim (2021) 720p CZ Titulky](https://prehraj.to/jai-bhim-2021-720p-cz-titulky-mp4/79257e06c559044f) (ID 29882898) | [Sdílej 34730753](https://sdilej.cz/34730753/jai-bhim-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:03:42.261395+00:00 |
 | [Jak jsem se stal gangsterem (2019) 1080p CZ Titulky](https://prehraj.to/jak-jsem-se-stal-gangsterem-2019-1080p-cz-titulky-mp4/324af92328cc761f) (ID 30064961) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.556845+00:00 |
 | [Jak se natáčel Dámský gambit (2021) 1080p CZ Titulky](https://prehraj.to/jak-se-natacel-damsky-gambit-2021-1080p-cz-titulky-mp4/864840362f92c3de) (ID 29434054) | [Sdílej 34730712](https://sdilej.cz/34730712/jak-se-natacel-damsky-gambit-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:26:38.648462+00:00 |
 | [Jak ukrást bizona (1996) SD CZ Titulky](https://prehraj.to/jak-ukrast-bizona-1996-sd-cz-titulky-avi/afc73f4700bd9805) (ID 29614018) | [Sdílej 35072272](https://sdilej.cz/35072272/jak-ukrast-bizona-dustin-hoffman-dennis-franz-1996-drama-hdrip.-1080p.-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:51:44.076829+00:00 |
