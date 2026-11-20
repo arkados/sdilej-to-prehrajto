@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:06:03.370889+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:06:14.204697+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -974,7 +974,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Ice Storm (2023) SD CZ Titulky](https://prehraj.to/ice-storm-2023-sd-cz-titulky-mp4/d0996c006ed31c47) (ID 29636715) | [Sdílej 34725616](https://sdilej.cz/34725616/ice-storm-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:19:54.962252+00:00 |
 | [Iceman (2014) SD CZ Titulky](https://prehraj.to/iceman-2014-sd-cz-titulky-avi/5fbc51a6090132ea) (ID 30372515) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.670337+00:00 |
 | [Ichi the Killer (2001) 1080p CZ Titulky](https://prehraj.to/ichi-the-killer-2001-1080p-cz-titulky-avi/f1dd678349c46df9) (ID 29142691) | [Sdílej 11740156](https://sdilej.cz/11740156/ichi-the-killer-koroshiya-1-2001-hc.titulky.cz-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:21:24.607686+00:00 |
-| [Ida (2013) 720p CZ Titulky](https://prehraj.to/ida-2013-720p-cz-titulky-mp4/487c2cd46e0b073c) (ID 29634738) | [Sdílej 33614636](https://sdilej.cz/33614636/ida-2013-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:18:57.211567+00:00 |
+| [Ida (2013) 720p CZ Titulky](https://prehraj.to/ida-2013-720p-cz-titulky-mp4/487c2cd46e0b073c) (ID 29634738) | [Sdílej 33614636](https://sdilej.cz/33614636/ida-2013-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:06:14.204584+00:00 |
 | [Ideální domov (2018) 1080p CZ Titulky](https://prehraj.to/idealni-domov-2018-1080p-cz-titulky-mkv/80427d1871691e6a) (ID 30254872) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.668149+00:00 |
 | [Idioti (1998) 1080p CZ Titulky](https://prehraj.to/idioti-1998-1080p-cz-titulky-mkv/08ad89ca9eb8ecfe) (ID 30540162) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.673709+00:00 |
 | [Il filo invisibile (2022) 1080p CZ Titulky](https://prehraj.to/il-filo-invisibile-2022-1080p-cz-titulky-mp4/bedcce1c23ecb1ee) (ID 29486927) | [Sdílej 34727277](https://sdilej.cz/34727277/il-filo-invisibile-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:32:22.392561+00:00 |
