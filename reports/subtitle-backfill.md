@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:48:07.889497+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:48:17.768211+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -824,7 +824,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Good Mourning (2022) 1080p CZ Titulky](https://prehraj.to/good-mourning-2022-1080p-cz-titulky-mkv/d885da73a9e7ff22) (ID 29910271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.300476+00:00 |
 | [Good Samaritans (2020) 1080p CZ Titulky](https://prehraj.to/good-samaritans-2020-1080p-cz-titulky-mp4/95ca7cf81626edc5) (ID 29331141) | [Sdílej 34733179](https://sdilej.cz/34733179/good-samaritans-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:16:48.164663+00:00 |
 | [Goon: Last of the Enforcers (2017) 1080p CZ Titulky](https://prehraj.to/goon-last-of-the-enforcers-2017-1080p-cz-titulky-avi/389f8500bdc202e2) (ID 29922980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.301465+00:00 |
-| [Grande école (2004) SD CZ Titulky](https://prehraj.to/grande-ecole-2004-sd-cz-titulky-mkv/bf868ffd5f25ff4d) (ID 29608294) | [Sdílej 31089246](https://sdilej.cz/31089246/grande-ecole-2004-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:04:48.827479+00:00 |
+| [Grande école (2004) SD CZ Titulky](https://prehraj.to/grande-ecole-2004-sd-cz-titulky-mkv/bf868ffd5f25ff4d) (ID 29608294) | [Sdílej 31089246](https://sdilej.cz/31089246/grande-ecole-2004-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:48:17.767959+00:00 |
 | [Grave (2017) 1080p CZ Titulky](https://prehraj.to/grave-2017-1080p-cz-titulky-avi/00dd36044bfb25c5) (ID 30779368) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.317438+00:00 |
 | [Grave Encounters (2011) 1080p CZ Titulky](https://prehraj.to/grave-encounters-2011-1080p-cz-titulky-mp4/317925391ea762af) (ID 30742432) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.316710+00:00 |
 | [Grave Encounters 2 (2012) SD CZ Titulky](https://prehraj.to/grave-encounters-2-2012-sd-cz-titulky-avi/da8dea045daaafcb) (ID 30410016) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.310704+00:00 |
