@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:57:54.897261+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:58:02.032519+00:00
 
 Zkontrolováno videí: 3301. Další stránka kontroly: 0.
 
@@ -1597,7 +1597,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Dů
 | [Our Godfather (2019) SD CZ Titulky](https://prehraj.to/our-godfather-2019-sd-cz-titulky-mp4/e763c63f9511ff67) (ID 29562884) | [Sdílej 34733987](https://sdilej.cz/34733987/our-godfather-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:44:47.741478+00:00 |
 | [Out of Darkness (2022) 1080p CZ Titulky](https://prehraj.to/out-of-darkness-2022-1080p-cz-titulky-mkv/c650a7d37c6afe72) (ID 31165119) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.574163+00:00 |
 | [Out of Death (2021) 720p CZ Titulky](https://prehraj.to/out-of-death-2021-720p-cz-titulky-avi/9dbce487d8a4df83) (ID 29089541) | [Sdílej 17416471](https://sdilej.cz/17416471/out-of-death-2021-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:18:48.514854+00:00 |
-| [Out of the Blue (2022) 1080p CZ Titulky](https://prehraj.to/out-of-the-blue-2022-1080p-cz-titulky-mp4/7bf1f342c661dcf8) (ID 29753390) | [Sdílej 34726934](https://sdilej.cz/34726934/out-of-the-blue-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:35:05.507072+00:00 |
+| [Out of the Blue (2022) 1080p CZ Titulky](https://prehraj.to/out-of-the-blue-2022-1080p-cz-titulky-mp4/7bf1f342c661dcf8) (ID 29753390) | [Sdílej 34726934](https://sdilej.cz/34726934/out-of-the-blue-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:58:02.032394+00:00 |
 | [Outback (2019) SD CZ Titulky](https://prehraj.to/outback-2019-sd-cz-titulky-mkv/9ad1c366c7605f1f) (ID 29914704) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.553306+00:00 |
 | [Outlaws (2017) 1080p CZ Titulky](https://prehraj.to/outlaws-2017-1080p-cz-titulky-mp4/54193e48acf32873) (ID 30737080) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.565321+00:00 |
 | [Outpost 37 (2014) 720p CZ Titulky](https://prehraj.to/outpost-37-2014-720p-cz-titulky-avi/c0e9331e11006591) (ID 30407390) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:49:23.560706+00:00 |
