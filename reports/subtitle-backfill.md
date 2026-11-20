@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T21:38:33.613434+00:00
+Poslední aktualizace (UTC): 2026-11-20T21:38:42.025237+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1949,7 +1949,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 520. Dů
 | [Shelter in Place (2021) 1080p CZ Titulky](https://prehraj.to/shelter-in-place-2021-1080p-cz-titulky-avi/67592324b432883c) (ID 30944617) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.360056+00:00 |
 | [Shepherd (2021) 1080p CZ Titulky](https://prehraj.to/shepherd-2021-1080p-cz-titulky-mp4/e0a80b92f9e07742) (ID 31040440) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.362231+00:00 |
 | [Shin Godzilla (2016) SD CZ Titulky](https://prehraj.to/shin-godzilla-2016-sd-cz-titulky-mkv/ab9c6558d5220783) (ID 29884840) | [Sdílej 34823880](https://sdilej.cz/34823880/shin.godzilla.2016.japanese.720p.brri-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:33.831714+00:00 |
-| [Shirley (2020) 1080p CZ Titulky](https://prehraj.to/shirley-2020-1080p-cz-titulky-mkv/1cf529a63914c19b) (ID 29530075) | [Sdílej 13635231](https://sdilej.cz/13635231/shirley.2020.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:47:00.427286+00:00 |
+| [Shirley (2020) 1080p CZ Titulky](https://prehraj.to/shirley-2020-1080p-cz-titulky-mkv/1cf529a63914c19b) (ID 29530075) | [Sdílej 13635231](https://sdilej.cz/13635231/shirley.2020.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:38:42.025111+00:00 |
 | [Shivaay (2016) SD CZ Titulky](https://prehraj.to/shivaay-2016-sd-cz-titulky-mp4/2802241453a780e0) (ID 31161260) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.363400+00:00 |
 | [Shoah (1985) SD CZ Titulky](https://prehraj.to/shoah-1985-sd-cz-titulky-avi/2f1e581129222123) (ID 28926274) | [Sdílej 19964679](https://sdilej.cz/19964679/soa-shoah-1985-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:15:49.728190+00:00 |
 | [Shorta (2020) 1080p CZ Titulky](https://prehraj.to/shorta-2020-1080p-cz-titulky-mkv/b30c1f06fe8c9538) (ID 30712049) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:35:46.354502+00:00 |
