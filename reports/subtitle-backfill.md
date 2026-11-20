@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:29:45.491449+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:29:57.966770+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -188,7 +188,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Backtrack (2015) SD CZ Titulky](https://prehraj.to/backtrack-2015-sd-cz-titulky-avi/67b91599b6924e42) (ID 31045646) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.324250+00:00 |
 | [Bacurau (2019) 720p CZ Titulky](https://prehraj.to/bacurau-2019-720p-cz-titulky-mp4/1eaf04a92d1a4314) (ID 30867007) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.318479+00:00 |
 | [Bad Hair (2020) SD CZ Titulky](https://prehraj.to/bad-hair-2020-sd-cz-titulky-mkv/7a3027a9bed47828) (ID 29652733) | [Sdílej 16446524](https://sdilej.cz/16446524/bad-hair-2020-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:27.365328+00:00 |
-| [Bad Man (2025) 1080p CZ Titulky](https://prehraj.to/bad-man-2025-1080p-cz-titulky-mp4/0a3f65ed0547691d) (ID 29704195) | [Sdílej 32146338](https://sdilej.cz/32146338/bad-man-2025-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:44:54.661013+00:00 |
+| [Bad Man (2025) 1080p CZ Titulky](https://prehraj.to/bad-man-2025-1080p-cz-titulky-mp4/0a3f65ed0547691d) (ID 29704195) | [Sdílej 32146338](https://sdilej.cz/32146338/bad-man-2025-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:29:57.966625+00:00 |
 | [Badh (2025) 1080p CZ Titulky](https://prehraj.to/badh-2025-1080p-cz-titulky-mkv/4402c5b033d856af) (ID 30293376) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.307816+00:00 |
 | [Badland (2019) 1080p CZ Titulky](https://prehraj.to/badland-2019-1080p-cz-titulky-mkv/568000c5d80e1725) (ID 29922148) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.301429+00:00 |
 | [Badrinath Ki Dulhania (2017) SD CZ Titulky](https://prehraj.to/badrinath-ki-dulhania-2017-sd-cz-titulky-mp4/ae1bbefe2f26d754) (ID 29611698) | [Sdílej 34737525](https://sdilej.cz/34737525/badrinath-ki-dulhania-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:57:26.308954+00:00 |
