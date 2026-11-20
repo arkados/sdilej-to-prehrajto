@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:15:08.312066+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:15:15.706599+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -76,7 +76,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [After We Leave (2019) 720p CZ Titulky](https://prehraj.to/after-we-leave-2019-720p-cz-titulky-mp4/eba52f02b8676c13) (ID 29572616) | [Sdílej 34734835](https://sdilej.cz/34734835/after-we-leave-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:01:08.610273+00:00 |
 | [Agatha a půlnoční vraždy (2020) 1080p CZ Titulky](https://prehraj.to/agatha-a-pulnocni-vrazdy-2020-1080p-cz-titulky-mkv/7874a76382fc42e3) (ID 30616410) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.011432+00:00 |
 | [Agent Game (2022) 1080p CZ Titulky](https://prehraj.to/agent-game-2022-1080p-cz-titulky-avi/d9f07e78ab834281) (ID 29734967) | [Sdílej 23674241](https://sdilej.cz/23674241/agent-game-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:01:51.041074+00:00 |
-| [Aguirre, hněv Boží (1972) SD CZ Titulky](https://prehraj.to/aguirre-hnev-bozi-1972-sd-cz-titulky-mp4/13b99af3c13dad1c) (ID 29320765) | [Sdílej 34700707](https://sdilej.cz/34700707/aguirre-hnev-bozi-1972-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:30:37.848809+00:00 |
+| [Aguirre, hněv Boží (1972) SD CZ Titulky](https://prehraj.to/aguirre-hnev-bozi-1972-sd-cz-titulky-mp4/13b99af3c13dad1c) (ID 29320765) | [Sdílej 34700707](https://sdilej.cz/34700707/aguirre-hnev-bozi-1972-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:15:15.706466+00:00 |
 | [Ahoj, já jsem Doris (2015) SD CZ Titulky](https://prehraj.to/ahoj-ja-jsem-doris-2015-sd-cz-titulky-avi/c1ec925b313e9d78) (ID 30925874) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.017294+00:00 |
 | [Air Bud - Fotbalista (2000) 1080p CZ Titulky](https://prehraj.to/air-bud-fotbalista-2000-1080p-cz-titulky-mp4/27c81f6c018f3822) (ID 29933860) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.003680+00:00 |
 | [Ajin: Demi-Human (2017) SD CZ Titulky](https://prehraj.to/ajin-demi-human-2017-sd-cz-titulky-mkv/aa0a367912baacff) (ID 30561970) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.010900+00:00 |
