@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:48:26.709044+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:48:37.345315+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -2144,7 +2144,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Taken from Rio Bravo (2024) SD CZ Titulky](https://prehraj.to/taken-from-rio-bravo-2024-sd-cz-titulky-mp4/05fb6b6ce5042ef4) (ID 29607659) | [Sdílej 34724748](https://sdilej.cz/34724748/taken-from-rio-bravo-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:47:52.130525+00:00 |
 | [Takové maličkosti (2024) 1080p CZ Titulky](https://prehraj.to/takove-malickosti-2024-1080p-cz-titulky-mp4/632df2c39f85e34d) (ID 31034234) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.323763+00:00 |
 | [Talaash (2012) SD CZ Titulky](https://prehraj.to/talaash-2012-sd-cz-titulky-mp4/29245b4ff4b56783) (ID 30878081) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.318916+00:00 |
-| [Tales of Halloween (2015) SD CZ Titulky](https://prehraj.to/tales-of-halloween-2015-sd-cz-titulky-mp4/cc836cc47e762493) (ID 29736454) | [Sdílej 13554704](https://sdilej.cz/13554704/tales.of.halloween.2015.web-dl.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:05:08.636824+00:00 |
+| [Tales of Halloween (2015) SD CZ Titulky](https://prehraj.to/tales-of-halloween-2015-sd-cz-titulky-mp4/cc836cc47e762493) (ID 29736454) | [Sdílej 13554704](https://sdilej.cz/13554704/tales.of.halloween.2015.web-dl.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:48:37.345155+00:00 |
 | [Tallulah (2016) 720p CZ Titulky](https://prehraj.to/tallulah-2016-720p-cz-titulky-mkv/26692e31a3b5f805) (ID 30533248) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.313298+00:00 |
 | [Tamasha (2015) SD CZ Titulky](https://prehraj.to/tamasha-2015-sd-cz-titulky-mp4/e11ceddd4b37b21a) (ID 30481928) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T22:25:55.312646+00:00 |
 | [Tanec s vlky (1990) 1080p CZ Titulky](https://prehraj.to/tanec-s-vlky-1990-1080p-cz-titulky-mkv/7db493d40ae81eff) (ID 29181024) | [Sdílej 24747285](https://sdilej.cz/24747285/tanec-s-vlky-1990-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:23:43.271388+00:00 |
