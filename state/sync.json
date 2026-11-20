@@ -447613,13 +447613,6 @@
           "source_id": "34401052",
           "target_video_id": "30765715",
           "permanent": false,
-          "attempted_at": "2026-11-20T09:51:46.598605+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34401052",
-          "target_video_id": "30765715",
-          "permanent": false,
           "attempted_at": "2026-11-20T12:52:08.005913+00:00"
         },
         {
@@ -447628,12 +447621,20 @@
           "target_video_id": "30765715",
           "permanent": false,
           "attempted_at": "2026-11-20T16:22:16.397893+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34401052",
+          "target_video_id": "30765715",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-20T21:43:59.017730+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34401052",
         "display_name": "Trávníkář 2: Odvrácená strana vesmíru (1996) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T16:22:03.588145+00:00"
+        "planned_at": "2026-11-20T21:42:45.381956+00:00"
       },
       "previous_target_id": "30765715",
       "prepared": {
@@ -447764,7 +447765,7 @@
       "last_plan": {
         "source_id": "23137056",
         "display_name": "Jeepers Creepers: Reborn (2022) 1440p CZ Titulky",
-        "planned_at": "2026-11-20T16:22:03.827134+00:00"
+        "planned_at": "2026-11-20T21:42:45.631405+00:00"
       },
       "previous_target_id": "30442112",
       "prepared": {
@@ -447867,7 +447868,7 @@
       "last_plan": {
         "source_id": "26254015",
         "display_name": "Tohle je Sparta! (2008) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T16:22:04.066574+00:00"
+        "planned_at": "2026-11-20T21:42:45.882896+00:00"
       },
       "previous_target_id": "30442240",
       "prepared": {
@@ -448027,7 +448028,7 @@
       "last_plan": {
         "source_id": "32817967",
         "display_name": "Maska Junior (2005) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T16:22:04.306228+00:00"
+        "planned_at": "2026-11-20T21:42:46.133656+00:00"
       },
       "previous_target_id": "30648990",
       "prepared": {
@@ -448625,7 +448626,7 @@
       "last_plan": {
         "source_id": "26985764",
         "display_name": "Shadow (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-20T16:22:40.156932+00:00"
+        "planned_at": "2026-11-20T21:42:46.387852+00:00"
       },
       "previous_target_id": "30442613",
       "prepared": {
@@ -449320,5 +449321,5 @@
       }
     }
   },
-  "updated_at": "2026-11-20T21:42:28.227142+00:00"
+  "updated_at": "2026-11-20T21:43:59.017750+00:00"
 }
