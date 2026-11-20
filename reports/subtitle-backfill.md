@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T13:15:24.126407+00:00
+Poslední aktualizace (UTC): 2026-11-20T13:15:33.972830+00:00
 
 Zkontrolováno videí: 3292. Další stránka kontroly: 0.
 
@@ -1653,7 +1653,7 @@ Kontrol: 93; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Pistolnice Jane (2015) 1080p CZ Titulky](https://prehraj.to/pistolnice-jane-2015-1080p-cz-titulky-avi/88fda35973552120) (ID 30354584) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.008847+00:00 |
 | [Pitbull. Niebezpieczne kobiety (2016) SD CZ Titulky](https://prehraj.to/pitbull-niebezpieczne-kobiety-2016-sd-cz-titulky-mp4/8f5e91a4277d989f) (ID 30610697) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.011386+00:00 |
 | [Playboy: Playmate Playoffs (1986) SD CZ Titulky](https://prehraj.to/playboy-playmate-playoffs-1986-sd-cz-titulky-mp4/4e268a6be1538dbb) (ID 29354037) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:29.997523+00:00 |
-| [Playtime (1967) 720p CZ Titulky](https://prehraj.to/playtime-1967-720p-cz-titulky-mp4/f06d6d9c673d5e42) (ID 29325122) | [Sdílej 30754860](https://sdilej.cz/30754860/playtime-1967-fr-tvrip-hevc-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:31:01.313012+00:00 |
+| [Playtime (1967) 720p CZ Titulky](https://prehraj.to/playtime-1967-720p-cz-titulky-mp4/f06d6d9c673d5e42) (ID 29325122) | [Sdílej 30754860](https://sdilej.cz/30754860/playtime-1967-fr-tvrip-hevc-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:15:33.972699+00:00 |
 | [Plivu na tvůj hrob (1978) 1080p CZ Titulky](https://prehraj.to/plivu-na-tvuj-hrob-1978-1080p-cz-titulky-mkv/b8a5a41c2df5c6ff) (ID 29916548) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.002657+00:00 |
 | [Plivu na váš hrob 3 (2015) 1080p CZ Titulky](https://prehraj.to/plivu-na-vas-hrob-3-2015-1080p-cz-titulky-mkv/c116bffac22a0844) (ID 30400424) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.009616+00:00 |
 | [Plán pro rodinu (2023) 4K CZ Titulky](https://prehraj.to/plan-pro-rodinu-2023-4k-cz-titulky-mkv/a38db1b322c22070) (ID 30303685) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T13:05:30.007680+00:00 |
