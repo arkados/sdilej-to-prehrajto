@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-20T22:07:31.950066+00:00
+Poslední aktualizace (UTC): 2026-11-20T22:07:40.892006+00:00
 
 Zkontrolováno videí: 3300. Další stránka kontroly: 0.
 
@@ -1774,7 +1774,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 400. Dů
 | [Příběh Rudého zla (2008) SD CZ Titulky](https://prehraj.to/pribeh-rudeho-zla-2008-sd-cz-titulky-mp4/a1e981fb5247c199) (ID 29564996) | [Sdílej 34781192](https://sdilej.cz/34781192/pribeh-rudeho-zla-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:45:04.213117+00:00 |
 | [Příběh o princezně Kaguje (2013) 1080p CZ Titulky](https://prehraj.to/pribeh-o-princezne-kaguje-2013-1080p-cz-titulky-mp4/3dbe2cbff6508324) (ID 29884285) | [Sdílej 34716102](https://sdilej.cz/34716102/pribeh-o-princezne-kaguje-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:42:42.628328+00:00 |
 | [Příběh z Tokia (1953) SD CZ Titulky](https://prehraj.to/pribeh-z-tokia-1953-sd-cz-titulky-avi/6aac07c152906537) (ID 29878868) | [Sdílej 32251531](https://sdilej.cz/32251531/pribeh-z-tokia-1953-cz-dab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:41:34.620379+00:00 |
-| [Příběhy Cheeche a Chonga (1980) 720p CZ Titulky](https://prehraj.to/pribehy-cheeche-a-chonga-1980-720p-cz-titulky-mp4/c5dd28873f15c3bd) (ID 29637882) | [Sdílej 34755727](https://sdilej.cz/34755727/pribehy-cheeche-a-chonga-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:20:12.231503+00:00 |
+| [Příběhy Cheeche a Chonga (1980) 720p CZ Titulky](https://prehraj.to/pribehy-cheeche-a-chonga-1980-720p-cz-titulky-mp4/c5dd28873f15c3bd) (ID 29637882) | [Sdílej 34755727](https://sdilej.cz/34755727/pribehy-cheeche-a-chonga-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:07:40.891876+00:00 |
 | [Příliš blízko (2019) 1080p CZ Titulky](https://prehraj.to/prilis-blizko-2019-1080p-cz-titulky-avi/0c8ae16671cfb793) (ID 31047572) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-20T21:59:44.683728+00:00 |
 | [Případ Kim Bok-Nam (2010) SD CZ Titulky](https://prehraj.to/pripad-kim-bok-nam-2010-sd-cz-titulky-mp4/bcf091365ba6d88a) (ID 29409799) | [Sdílej 34710041](https://sdilej.cz/34710041/pripad-kim-bok-nam-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:21:47.114438+00:00 |
 | [Případ ztracené kozy (2021) 720p CZ Titulky](https://prehraj.to/pripad-ztracene-kozy-2021-720p-cz-titulky-mp4/79697781d4793526) (ID 29239233) | [Sdílej 34728895](https://sdilej.cz/34728895/pripad-ztracene-kozy-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:28:41.465037+00:00 |
