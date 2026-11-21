@@ -221843,17 +221843,19 @@
       }
     },
     "16005": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30573139",
+          "target_video_id": "31220236",
+          "permanent": false,
+          "attempted_at": "2026-11-21T04:48:08.811970+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30573139",
         "display_name": "Svatba na přání (2023) 1080p CZ Dabing",
         "planned_at": "2026-11-21T04:43:43.777817+00:00"
-      },
-      "claim": {
-        "worker_id": "0141f299adc14fb8ae8ebb60a302a080-shard-0",
-        "claimed_at": "2026-11-21T04:43:45.823655+00:00",
-        "lease_expires_at": "2026-11-21T10:43:45.823655+00:00",
-        "run_id": "44818532852"
       },
       "previous_target_id": "31220236",
       "prepared": {
@@ -449730,5 +449732,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T04:43:49.124377+00:00"
+  "updated_at": "2026-11-21T04:48:08.811984+00:00"
 }
