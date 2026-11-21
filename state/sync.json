@@ -177675,17 +177675,19 @@
       "attempts": []
     },
     "14064": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28542579",
+          "target_video_id": "31238588",
+          "permanent": false,
+          "attempted_at": "2026-11-21T23:15:41.295260+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28542579",
         "display_name": "Planina v ohni (2008) 1080p CZ Dabing",
         "planned_at": "2026-11-21T23:09:39.588079+00:00"
-      },
-      "claim": {
-        "worker_id": "e8589dc4818142a489f35beb4317b8c1-shard-0",
-        "claimed_at": "2026-11-21T23:09:40.973367+00:00",
-        "lease_expires_at": "2026-11-22T05:09:40.973367+00:00",
-        "run_id": "44940753230"
       },
       "previous_target_id": "31238588",
       "prepared": {
@@ -451397,5 +451399,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T23:09:46.890601+00:00"
+  "updated_at": "2026-11-21T23:15:41.295281+00:00"
 }
