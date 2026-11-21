@@ -182302,17 +182302,19 @@
       }
     },
     "19417": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31337203",
+          "target_video_id": "31223197",
+          "permanent": false,
+          "attempted_at": "2026-11-21T07:55:14.632536+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31337203",
         "display_name": "Na plný pecky (1995) 1080p CZ Titulky",
         "planned_at": "2026-11-21T07:49:01.998811+00:00"
-      },
-      "claim": {
-        "worker_id": "81771449b3bb4fa380302c31b72a7b77-shard-0",
-        "claimed_at": "2026-11-21T07:49:04.050138+00:00",
-        "lease_expires_at": "2026-11-21T13:49:04.050138+00:00",
-        "run_id": "44818532852"
       },
       "previous_target_id": "31223197",
       "prepared": {
@@ -450075,5 +450077,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T07:49:07.433331+00:00"
+  "updated_at": "2026-11-21T07:55:14.632556+00:00"
 }
