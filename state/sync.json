@@ -9545,13 +9545,6 @@
           "permanent": false,
           "source_id": "32738700",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-21T16:32:25.853777+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32738700",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T16:37:54.817362+00:00"
         },
         {
@@ -9560,12 +9553,19 @@
           "source_id": "32738700",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T16:43:51.743718+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32738700",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T16:55:04.690534+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32738700",
         "display_name": "Místo u moře (2016) 1080p CZ Titulky",
-        "planned_at": "2026-11-21T16:43:09.751200+00:00"
+        "planned_at": "2026-11-21T16:54:22.709597+00:00"
       }
     },
     "518": {
@@ -66427,7 +66427,7 @@
       "last_plan": {
         "source_id": "31393436",
         "display_name": "Běž, chlapče, běž (2013) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:11:26.676447+00:00"
+        "planned_at": "2026-11-21T16:54:23.464564+00:00"
       },
       "prepared": {
         "target_video_id": "29440773",
@@ -68275,7 +68275,7 @@
       "last_plan": {
         "source_id": "34059084",
         "display_name": "Maska (1994) 4K CZ Dabing",
-        "planned_at": "2026-11-21T12:11:26.427164+00:00"
+        "planned_at": "2026-11-21T16:54:23.215923+00:00"
       },
       "prepared": {
         "target_video_id": "29482462",
@@ -73564,13 +73564,6 @@
           "source_id": "28405585",
           "target_video_id": "29204705",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:17:18.582987+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28405585",
-          "target_video_id": "29204705",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:07:52.941917+00:00"
         },
         {
@@ -73579,12 +73572,20 @@
           "target_video_id": "29204705",
           "permanent": false,
           "attempted_at": "2026-11-21T12:11:36.817829+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28405585",
+          "target_video_id": "29204705",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T16:56:17.923874+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28405585",
         "display_name": "Miss Potter (2006) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:11:26.168721+00:00"
+        "planned_at": "2026-11-21T16:54:22.966476+00:00"
       },
       "prepared": {
         "target_video_id": "29204705",
@@ -82444,12 +82445,19 @@
           "source_id": "28156616",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T16:43:31.123030+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28156616",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T16:54:44.079836+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28156616",
         "display_name": "Putin versus Navalnyj (2021) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T16:43:09.482836+00:00"
+        "planned_at": "2026-11-21T16:54:22.461689+00:00"
       }
     },
     "15121": {
@@ -450640,5 +450648,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T16:54:09.425088+00:00"
+  "updated_at": "2026-11-21T16:56:17.923888+00:00"
 }
