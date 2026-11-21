@@ -9546,12 +9546,19 @@
           "source_id": "32738700",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T16:32:25.853777+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32738700",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T16:37:54.817362+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32738700",
         "display_name": "Místo u moře (2016) 1080p CZ Titulky",
-        "planned_at": "2026-11-21T16:32:04.205490+00:00"
+        "planned_at": "2026-11-21T16:37:33.199519+00:00"
       }
     },
     "518": {
@@ -65310,7 +65317,7 @@
       "last_plan": {
         "source_id": "30458167",
         "display_name": "Můj kamarád gepard (2005) SD CZ Dabing",
-        "planned_at": "2026-11-21T12:10:20.008597+00:00"
+        "planned_at": "2026-11-21T16:37:33.708534+00:00"
       },
       "prepared": {
         "target_video_id": "29439418",
@@ -65434,13 +65441,6 @@
           "source_id": "33855046",
           "target_video_id": "29439510",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:16:06.207278+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33855046",
-          "target_video_id": "29439510",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:06:34.673267+00:00"
         },
         {
@@ -65449,12 +65449,20 @@
           "target_video_id": "29439510",
           "permanent": false,
           "attempted_at": "2026-11-21T12:10:24.797071+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33855046",
+          "target_video_id": "29439510",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T16:39:07.266024+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33855046",
         "display_name": "Skunk (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:10:19.753104+00:00"
+        "planned_at": "2026-11-21T16:37:33.469145+00:00"
       },
       "prepared": {
         "target_video_id": "29439510",
@@ -66692,7 +66700,7 @@
       "last_plan": {
         "source_id": "14853845",
         "display_name": "Lessie se vrací (1943) SD CZ Dabing",
-        "planned_at": "2026-11-21T12:10:20.266950+00:00"
+        "planned_at": "2026-11-21T16:37:33.956266+00:00"
       },
       "prepared": {
         "target_video_id": "29198848",
@@ -67480,7 +67488,7 @@
       "last_plan": {
         "source_id": "34710258",
         "display_name": "Delta Okavanga: Kousek ráje (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:10:20.515642+00:00"
+        "planned_at": "2026-11-21T16:37:34.198464+00:00"
       },
       "prepared": {
         "target_video_id": "29255540",
@@ -450601,5 +450609,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T16:37:20.987891+00:00"
+  "updated_at": "2026-11-21T16:39:07.266040+00:00"
 }
