@@ -97154,7 +97154,7 @@
       "last_plan": {
         "source_id": "30884676",
         "display_name": "Baron Prášil (1940) SD CZ Dabing",
-        "planned_at": "2026-11-21T12:25:17.347036+00:00"
+        "planned_at": "2026-11-21T19:39:39.786025+00:00"
       },
       "prepared": {
         "target_video_id": "29262068",
@@ -98640,7 +98640,7 @@
       "last_plan": {
         "source_id": "34903952",
         "display_name": "Louka: Ztracený ráj (2019) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:25:17.604768+00:00"
+        "planned_at": "2026-11-21T19:39:40.197923+00:00"
       },
       "previous_target_id": "29586686",
       "prepared": {
@@ -102639,13 +102639,6 @@
           "source_id": "34787038",
           "target_video_id": "29578819",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:28:26.962392+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34787038",
-          "target_video_id": "29578819",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:19:21.495107+00:00"
         },
         {
@@ -102654,12 +102647,20 @@
           "target_video_id": "29578819",
           "permanent": false,
           "attempted_at": "2026-11-21T12:25:27.712311+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34787038",
+          "target_video_id": "29578819",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T19:41:35.563591+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34787038",
         "display_name": "Československá spartakiáda 1980 (1980) SD CZ Dabing",
-        "planned_at": "2026-11-21T12:25:17.088965+00:00"
+        "planned_at": "2026-11-21T19:39:39.364933+00:00"
       },
       "previous_target_id": "29578819",
       "prepared": {
@@ -166947,12 +166948,19 @@
           "source_id": "32718630",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:30:30.290975+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32718630",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:40:01.179324+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32718630",
         "display_name": "Sneh (2022) 1080p CZ Titulky",
-        "planned_at": "2026-11-21T19:30:07.601040+00:00"
+        "planned_at": "2026-11-21T19:39:38.506264+00:00"
       }
     },
     "16099": {
@@ -176531,12 +176539,19 @@
           "source_id": "34376817",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:30:51.289055+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34376817",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:40:22.188648+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34376817",
         "display_name": "Neklid (2011) 720p CZ Dabing",
-        "planned_at": "2026-11-21T19:30:08.019830+00:00"
+        "planned_at": "2026-11-21T19:39:38.919921+00:00"
       }
     },
     "14880": {
@@ -450929,5 +450944,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T19:39:24.638798+00:00"
+  "updated_at": "2026-11-21T19:41:35.563610+00:00"
 }
