@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-21T02:30:05.933962+00:00
+Poslední aktualizace (UTC): 2026-11-21T02:30:09.480386+00:00
 
 Zkontrolováno videí: 3306. Další stránka kontroly: 0.
 
@@ -2742,7 +2742,7 @@ Kontrol: 42; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Apatykář Melchior: Tajemství tallinského vězně (2022) SD CZ Titulky](https://prehraj.to/apatykar-melchior-tajemstvi-tallinskeho-vezne-2022-sd-cz-titulky-mkv/10c20fb482ae660a) (ID 29070182) | [Sdílej 25511238](https://sdilej.cz/25511238/apteeker-melchior-2022--estonsky-vondruska.mkv) | source_unavailable | 2026-11-20T23:10:07.963716+00:00 |
 | [Banderovci (2011) SD CZ Titulky](https://prehraj.to/banderovci-2011-sd-cz-titulky-avi/f3c40697e5f7d124) (ID 29560814) | [Sdílej 33822298](https://sdilej.cz/33822298/banderovci-dokument-.avi) | source_unavailable | 2026-11-20T23:08:09.831941+00:00 |
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-11-20T23:09:07.730077+00:00 |
-| [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-11-20T23:12:21.692024+00:00 |
+| [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-11-21T02:30:09.480329+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-11-20T23:12:36.145502+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-11-21T02:29:51.467571+00:00 |
 | [Dokud se tančí (2019) 1080p CZ Titulky](https://prehraj.to/dokud-se-tanci-2019-1080p-cz-titulky-mp4/54645d6125d9cfe5) (ID 29886077) | [Sdílej 34647076](https://sdilej.cz/34647076/dokud-se-tanci-2019-cz.mp4) | source_unavailable | 2026-11-20T23:04:34.554322+00:00 |
