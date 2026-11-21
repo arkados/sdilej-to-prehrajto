@@ -429313,17 +429313,19 @@
       }
     },
     "12619": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30249428",
+          "target_video_id": "31228023",
+          "permanent": false,
+          "attempted_at": "2026-11-21T12:15:10.411966+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30249428",
         "display_name": "Ďábel přichází (2000) SD CZ Titulky",
         "planned_at": "2026-11-21T12:13:05.298713+00:00"
-      },
-      "claim": {
-        "worker_id": "bfac47de9295481d94d32f126e532753-shard-0",
-        "claimed_at": "2026-11-21T12:13:06.551644+00:00",
-        "lease_expires_at": "2026-11-21T18:13:06.551644+00:00",
-        "run_id": "44898474766"
       },
       "previous_target_id": "31228023",
       "prepared": {
@@ -450198,5 +450200,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T12:13:09.957535+00:00"
+  "updated_at": "2026-11-21T12:15:10.411983+00:00"
 }
