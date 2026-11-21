@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-21T11:19:36.979895+00:00
+Poslední aktualizace (UTC): 2026-11-21T11:19:46.397410+00:00
 
 Zkontrolováno videí: 3313. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 527, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 840, `source_provenance_missing`: 1744, `source_unavailable`: 19, `target_detail_url_missing`: 16, `target_unavailable`: 24
+Stavy: `already_has_czech`: 527, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 841, `source_provenance_missing`: 1744, `source_unavailable`: 18, `target_detail_url_missing`: 16, `target_unavailable`: 24
 
 ## Poslední dávka
 
@@ -540,6 +540,7 @@ Kontrol: 43; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Dokonalý pacient (2019) 1080p CZ Titulky](https://prehraj.to/dokonaly-pacient-2019-1080p-cz-titulky-mkv/6d0519cb168bdb70) (ID 29566856) | [Sdílej 13084550](https://sdilej.cz/13084550/quick.2019.nordic.1080p.web-dl.h.264.dd5.1-twa.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:31.676491+00:00 |
 | [Dokud budu žít (2012) SD CZ Titulky](https://prehraj.to/dokud-budu-zit-2012-sd-cz-titulky-mp4/5587b99081c4a661) (ID 29258833) | [Sdílej 34780119](https://sdilej.cz/34780119/dokud-budu-zit-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:31:23.154708+00:00 |
 | [Dokud nás vražda nerozdělí (2020) 1080p CZ Titulky](https://prehraj.to/dokud-nas-vrazda-nerozdeli-2020-1080p-cz-titulky-mkv/b9e617e7b9e099d8) (ID 30740233) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-21T11:19:34.260018+00:00 |
+| [Dokud se tančí (2019) 1080p CZ Titulky](https://prehraj.to/dokud-se-tanci-2019-1080p-cz-titulky-mp4/54645d6125d9cfe5) (ID 29886077) | [Sdílej 34647076](https://sdilej.cz/34647076/dokud-se-tanci-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-21T11:19:46.397279+00:00 |
 | [Dolly (2025) 1080p CZ Titulky](https://prehraj.to/dolly-2025-1080p-cz-titulky-mp4/bcb6cb2c8eff9328) (ID 30467869) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-21T11:19:34.258008+00:00 |
 | [Dolphin Reef (2018) 720p CZ Titulky](https://prehraj.to/dolphin-reef-2018-720p-cz-titulky-mp4/a82632e299708527) (ID 29749298) | [Sdílej 34774320](https://sdilej.cz/34774320/dolphin-reef-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:55:53.302418+00:00 |
 | [Dom dobry (2025) 1080p CZ Titulky](https://prehraj.to/dom-dobry-2025-1080p-cz-titulky-mkv/7cb3005a81644f75) (ID 29315676) | [Sdílej 34821668](https://sdilej.cz/34821668/dom-dobry-2025-1080p-web-dl-hevc-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:13:52.756889+00:00 |
@@ -2752,7 +2753,6 @@ Kontrol: 43; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-11-21T02:30:09.480329+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-11-21T02:30:23.309261+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-11-21T02:29:51.467571+00:00 |
-| [Dokud se tančí (2019) 1080p CZ Titulky](https://prehraj.to/dokud-se-tanci-2019-1080p-cz-titulky-mp4/54645d6125d9cfe5) (ID 29886077) | [Sdílej 34647076](https://sdilej.cz/34647076/dokud-se-tanci-2019-cz.mp4) | source_unavailable | 2026-11-20T23:04:34.554322+00:00 |
 | [Injustice (2021) 720p CZ Titulky](https://prehraj.to/injustice-2021-720p-cz-titulky-mkv/ffb5bc712c4a71b6) (ID 29268748) | [Sdílej 18465092](https://sdilej.cz/18465092/injustice.2021.720p.bluray.x264.dts-mt.mkv) | target_unavailable | 2026-11-21T02:28:14.032118+00:00 |
 | [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-11-21T02:30:34.306757+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-11-21T02:29:58.736777+00:00 |
