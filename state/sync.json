@@ -166962,13 +166962,6 @@
           "permanent": false,
           "source_id": "32718630",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-21T19:40:01.179324+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32718630",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:49:37.032543+00:00"
         },
         {
@@ -166977,18 +166970,19 @@
           "source_id": "32718630",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:59:18.618823+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32718630",
+          "target_video_id": "31235683",
+          "permanent": false,
+          "attempted_at": "2026-11-21T20:15:04.990963+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32718630",
         "display_name": "Sneh (2022) 1080p CZ Titulky",
         "planned_at": "2026-11-21T20:06:13.776407+00:00"
-      },
-      "claim": {
-        "worker_id": "b3925137e63c4f82821a2f359570b8b8-shard-0",
-        "claimed_at": "2026-11-21T20:06:15.847117+00:00",
-        "lease_expires_at": "2026-11-22T02:06:15.847117+00:00",
-        "run_id": "44928170254"
       },
       "previous_target_id": "31235683",
       "prepared": {
@@ -451006,5 +451000,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T20:06:22.560582+00:00"
+  "updated_at": "2026-11-21T20:15:04.990981+00:00"
 }
