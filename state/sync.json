@@ -442241,17 +442241,19 @@
       "attempts": []
     },
     "30050": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28227835",
+          "target_video_id": "31226210",
+          "permanent": false,
+          "attempted_at": "2026-11-21T10:38:45.717485+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28227835",
         "display_name": "Cela 2 (2009) SD CZ Dabing",
         "planned_at": "2026-11-21T10:37:05.035664+00:00"
-      },
-      "claim": {
-        "worker_id": "1d6781ee9c634590bbf7ea16085ced90-shard-0",
-        "claimed_at": "2026-11-21T10:37:06.887856+00:00",
-        "lease_expires_at": "2026-11-21T16:37:06.887856+00:00",
-        "run_id": "44882723312"
       },
       "previous_target_id": "31226210",
       "prepared": {
@@ -450048,5 +450050,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T10:37:10.763639+00:00"
+  "updated_at": "2026-11-21T10:38:45.717506+00:00"
 }
