@@ -96212,7 +96212,7 @@
       "last_plan": {
         "source_id": "34910979",
         "display_name": "Ikarie XB 1 (1963) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:24:44.252203+00:00"
+        "planned_at": "2026-11-21T19:30:08.897296+00:00"
       },
       "previous_target_id": "29608889",
       "prepared": {
@@ -96275,13 +96275,6 @@
           "source_id": "14813999",
           "target_video_id": "29561592",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:27:48.320066+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14813999",
-          "target_video_id": "29561592",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:18:42.684427+00:00"
         },
         {
@@ -96290,12 +96283,20 @@
           "target_video_id": "29561592",
           "permanent": false,
           "attempted_at": "2026-11-21T12:24:52.702794+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "14813999",
+          "target_video_id": "29561592",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T19:32:04.406280+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14813999",
         "display_name": "Sedmero krkavců (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:24:43.992389+00:00"
+        "planned_at": "2026-11-21T19:30:08.481786+00:00"
       },
       "previous_target_id": "29561592",
       "prepared": {
@@ -98287,7 +98288,7 @@
       "last_plan": {
         "source_id": "12024103",
         "display_name": "Bernský vyslanec (2014) 720p CZ Dabing",
-        "planned_at": "2026-11-21T12:24:44.506934+00:00"
+        "planned_at": "2026-11-21T19:30:09.306141+00:00"
       },
       "prepared": {
         "target_video_id": "29216460",
@@ -166934,7 +166935,20 @@
       "attempts": []
     },
     "36901": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32718630",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:30:30.290975+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32718630",
+        "display_name": "Sneh (2022) 1080p CZ Titulky",
+        "planned_at": "2026-11-21T19:30:07.601040+00:00"
+      }
     },
     "16099": {
       "attempts": [
@@ -176505,7 +176519,20 @@
       }
     },
     "3520": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34376817",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:30:51.289055+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34376817",
+        "display_name": "Neklid (2011) 720p CZ Dabing",
+        "planned_at": "2026-11-21T19:30:08.019830+00:00"
+      }
     },
     "14880": {
       "attempts": [
@@ -450877,5 +450904,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T19:29:53.401433+00:00"
+  "updated_at": "2026-11-21T19:32:04.406300+00:00"
 }
