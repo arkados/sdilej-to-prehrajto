@@ -1716,17 +1716,19 @@
       }
     },
     "36600": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33968860",
+          "target_video_id": "31220847",
+          "permanent": false,
+          "attempted_at": "2026-11-21T05:23:59.547258+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33968860",
         "display_name": "Vrah mezi námi (1931) SD CZ Dabing",
         "planned_at": "2026-11-21T05:23:08.990039+00:00"
-      },
-      "claim": {
-        "worker_id": "7bf7e85db0be41649f82c1df659774f8-shard-0",
-        "claimed_at": "2026-11-21T05:23:11.049216+00:00",
-        "lease_expires_at": "2026-11-21T11:23:11.049216+00:00",
-        "run_id": "44818532852"
       },
       "previous_target_id": "31220847",
       "prepared": {
@@ -449830,5 +449832,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T05:23:14.501822+00:00"
+  "updated_at": "2026-11-21T05:23:59.547270+00:00"
 }
