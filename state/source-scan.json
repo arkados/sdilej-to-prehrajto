@@ -60277,13 +60277,6 @@
     "20632": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate limit reached before verification completed",
-          "attempted_at": "2026-11-18T00:58:38.689310+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "discovery_complete": true,
@@ -60298,6 +60291,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-20T22:18:57.805779+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Kamenne Srdce 2016 online | Sdilej.cz'; bytes=188469; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T09:57:08.683269+00:00"
         }
       ]
     },
@@ -89842,13 +89842,6 @@
           "status": "source_deep_scan_failed",
           "permanent": false,
           "selection_policy": "compact-quality-v13",
-          "reason": "Candidate verification failed; no source was ruled out conclusively",
-          "attempted_at": "2026-11-19T21:02:04.648593+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Na Zapadni Fronte Klid 1979 online | Sdilej.cz'; bytes=188658; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-11-20T07:58:44.908801+00:00"
         },
@@ -89858,6 +89851,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-20T21:19:29.599704+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Na Zapadni Fronte Klid 1979 online | Sdilej.cz'; bytes=188658; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T09:57:09.425198+00:00"
         }
       ]
     },
@@ -117202,13 +117202,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
-          "attempted_at": "2026-11-19T21:10:28.457705+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-20T08:29:59.177316+00:00"
         },
         {
@@ -117217,6 +117210,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-20T21:51:03.993173+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='A Dychejte Klidne 2018 online | Sdilej.cz'; bytes=188553; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T10:12:25.969060+00:00"
         }
       ]
     },
@@ -312131,15 +312131,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-13T23:55:56.984109+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-15T19:41:08.492018+00:00"
         },
         {
@@ -312150,6 +312141,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T22:52:30.503671+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Masakr V Rime 1973 online | Sdilej.cz'; bytes=188469; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T10:12:25.224803+00:00"
         }
       ]
     },
@@ -319229,15 +319227,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-13T23:55:19.444346+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-15T19:40:19.925529+00:00"
         },
         {
@@ -319248,6 +319237,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T22:52:00.440251+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Cestujici V Desti 1970 online | Sdilej.cz'; bytes=188553; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T10:02:13.664905+00:00"
         }
       ]
     },
@@ -329851,15 +329847,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-15T10:35:00.616222+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T15:34:16.110737+00:00"
         },
         {
@@ -329868,6 +329855,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-20T22:22:47.337644+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Boure 2022 online | Sdilej.cz'; bytes=188301; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T10:07:20.993347+00:00"
         }
       ]
     },
@@ -355053,15 +355047,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-13T23:55:16.228933+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-15T19:40:14.940430+00:00"
         },
         {
@@ -355072,6 +355057,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T22:51:43.692732+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Zazraky Se Deji Na Vanoce 2013 online | Sdilej.cz'; bytes=188721; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T09:57:07.933837+00:00"
         }
       ]
     },
@@ -528167,13 +528159,6 @@
     "22037": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Discovery deadline expired before verification completed",
-          "attempted_at": "2026-11-15T09:29:55.248368+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "discovery_complete": true,
@@ -528190,6 +528175,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T22:51:01.886993+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Studeny Pot 1970 online | Sdilej.cz'; bytes=188427; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T09:52:02.211179+00:00"
         }
       ]
     },
@@ -578364,15 +578356,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-15T10:36:46.254514+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T15:36:03.816187+00:00"
         },
         {
@@ -578381,6 +578364,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-20T22:24:44.976311+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Blood Quantum 2019 online | Sdilej.cz'; bytes=188469; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T10:12:26.725703+00:00"
         }
       ]
     },
@@ -581970,15 +581960,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-15T10:31:08.007252+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T15:29:30.116974+00:00"
         },
         {
@@ -581987,6 +581968,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-20T22:15:39.920181+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Beezel 2024 online | Sdilej.cz'; bytes=188322; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T09:52:02.960105+00:00"
         }
       ]
     },
@@ -599287,15 +599275,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-15T10:07:27.234299+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T15:06:14.975078+00:00"
         },
         {
@@ -599304,6 +599283,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-20T21:44:27.393467+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Bejvalek Se Nezbavis 2009 online | Sdilej.cz'; bytes=188616; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T10:07:20.234572+00:00"
         }
       ]
     },
@@ -606859,15 +606845,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-15T09:52:04.661811+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T14:48:47.981094+00:00"
         },
         {
@@ -606876,6 +606853,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-20T21:13:59.184280+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Vesely Prachy 2006 online | Sdilej.cz'; bytes=188469; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T09:52:03.710141+00:00"
         }
       ]
     },
@@ -615769,15 +615753,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-15T10:07:02.233019+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T15:06:03.555390+00:00"
         },
         {
@@ -615786,6 +615761,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-20T21:43:45.106223+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Pisecna Smrt 2009 online | Sdilej.cz'; bytes=188448; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T10:02:15.169079+00:00"
         }
       ]
     },
@@ -635339,15 +635321,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-13T23:56:15.609199+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-15T19:40:54.011337+00:00"
         },
         {
@@ -635358,6 +635331,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T22:52:20.800259+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Lupic 1987 online | Sdilej.cz'; bytes=188301; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T10:07:19.487290+00:00"
         }
       ]
     },
@@ -636598,15 +636578,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-15T10:33:12.179925+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-18T15:32:15.985341+00:00"
         },
         {
@@ -636615,6 +636586,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-20T22:20:53.769075+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Zkratka Ke Smrti 2009 online | Sdilej.cz'; bytes=188532; notice=Kvalita Vše 4K 1080p+ 720p+",
+          "attempted_at": "2026-11-21T10:02:14.420566+00:00"
         }
       ]
     },
@@ -722449,5 +722427,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-21T09:46:57.980104+00:00"
+  "updated_at": "2026-11-21T10:12:26.725723+00:00"
 }
