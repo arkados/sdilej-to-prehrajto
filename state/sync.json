@@ -104816,13 +104816,6 @@
           "source_id": "24035589",
           "target_video_id": "29302790",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:29:42.405060+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24035589",
-          "target_video_id": "29302790",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:20:40.814825+00:00"
         },
         {
@@ -104831,12 +104824,20 @@
           "target_video_id": "29302790",
           "permanent": false,
           "attempted_at": "2026-11-21T12:26:35.799542+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "24035589",
+          "target_video_id": "29302790",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T20:00:54.324916+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24035589",
         "display_name": "Lucerna (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:26:17.989375+00:00"
+        "planned_at": "2026-11-21T19:58:56.808092+00:00"
       },
       "prepared": {
         "target_video_id": "29302790",
@@ -104897,7 +104898,7 @@
       "last_plan": {
         "source_id": "29792037",
         "display_name": "Jeanne Poisson, markýza de Pompadour (2006) SD CZ Dabing",
-        "planned_at": "2026-11-21T12:26:48.030433+00:00"
+        "planned_at": "2026-11-21T19:58:57.638402+00:00"
       },
       "previous_target_id": "29630583",
       "prepared": {
@@ -106256,7 +106257,7 @@
       "last_plan": {
         "source_id": "29021085",
         "display_name": "Jak ševci zvedli vojnu pro červenou sukni (1990) SD",
-        "planned_at": "2026-11-21T12:26:47.768274+00:00"
+        "planned_at": "2026-11-21T19:58:57.218422+00:00"
       },
       "previous_target_id": "29630600",
       "prepared": {
@@ -166958,13 +166959,6 @@
           "permanent": false,
           "source_id": "32718630",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-21T19:30:30.290975+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32718630",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:40:01.179324+00:00"
         },
         {
@@ -166973,12 +166967,19 @@
           "source_id": "32718630",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:49:37.032543+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32718630",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:59:18.618823+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32718630",
         "display_name": "Sneh (2022) 1080p CZ Titulky",
-        "planned_at": "2026-11-21T19:49:14.403343+00:00"
+        "planned_at": "2026-11-21T19:58:55.963633+00:00"
       }
     },
     "16099": {
@@ -176556,13 +176557,6 @@
           "permanent": false,
           "source_id": "34376817",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-21T19:30:51.289055+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34376817",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:40:22.188648+00:00"
         },
         {
@@ -176571,12 +176565,19 @@
           "source_id": "34376817",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:49:58.010679+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34376817",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:59:39.595929+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34376817",
         "display_name": "Neklid (2011) 720p CZ Dabing",
-        "planned_at": "2026-11-21T19:49:14.812064+00:00"
+        "planned_at": "2026-11-21T19:58:56.371857+00:00"
       }
     },
     "14880": {
@@ -450990,5 +450991,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T19:58:37.427814+00:00"
+  "updated_at": "2026-11-21T20:00:54.324933+00:00"
 }
