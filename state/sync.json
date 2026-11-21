@@ -1605,13 +1605,6 @@
           "source_id": "30793920",
           "target_video_id": "28928358",
           "permanent": false,
-          "attempted_at": "2026-11-21T03:58:10.384270+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30793920",
-          "target_video_id": "28928358",
-          "permanent": false,
           "attempted_at": "2026-11-21T07:26:45.834889+00:00"
         },
         {
@@ -1620,12 +1613,20 @@
           "target_video_id": "28928358",
           "permanent": false,
           "attempted_at": "2026-11-21T11:47:47.875206+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30793920",
+          "target_video_id": "28928358",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T16:01:27.067046+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30793920",
         "display_name": "Ponorka (1981) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T11:47:38.725285+00:00"
+        "planned_at": "2026-11-21T15:59:51.198027+00:00"
       },
       "prepared": {
         "target_video_id": "28928358",
@@ -3523,7 +3524,7 @@
       "last_plan": {
         "source_id": "32317767",
         "display_name": "Hotel Rwanda (2004) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T11:47:39.520509+00:00"
+        "planned_at": "2026-11-21T15:59:51.928429+00:00"
       },
       "prepared": {
         "target_video_id": "29122398",
@@ -4507,7 +4508,7 @@
       "last_plan": {
         "source_id": "33494074",
         "display_name": "Jean od Floretty (1986) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T11:47:39.271397+00:00"
+        "planned_at": "2026-11-21T15:59:51.689843+00:00"
       },
       "prepared": {
         "target_video_id": "29175005",
@@ -4901,7 +4902,7 @@
       "last_plan": {
         "source_id": "26239565",
         "display_name": "Krvavý diamant (2006) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T11:47:39.023893+00:00"
+        "planned_at": "2026-11-21T15:59:51.445890+00:00"
       },
       "prepared": {
         "target_video_id": "29124911",
@@ -71218,7 +71219,20 @@
       }
     },
     "31951": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30260924",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T16:00:12.530764+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30260924",
+        "display_name": "To je náš hit! (1996) SD CZ Dabing",
+        "planned_at": "2026-11-21T15:59:50.916875+00:00"
+      }
     },
     "2371": {
       "attempts": [
@@ -450460,5 +450474,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T15:59:34.380150+00:00"
+  "updated_at": "2026-11-21T16:01:27.067062+00:00"
 }
