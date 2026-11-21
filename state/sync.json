@@ -20669,17 +20669,19 @@
       }
     },
     "32506": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32862704",
+          "target_video_id": "31222829",
+          "permanent": false,
+          "attempted_at": "2026-11-21T07:30:35.431501+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32862704",
         "display_name": "Running on Empty (1988) 1080p CZ Titulky",
         "planned_at": "2026-11-21T07:27:47.297011+00:00"
-      },
-      "claim": {
-        "worker_id": "300e54bfe8ad44f09dbd396bcc47f3eb-shard-0",
-        "claimed_at": "2026-11-21T07:27:49.362931+00:00",
-        "lease_expires_at": "2026-11-21T13:27:49.362931+00:00",
-        "run_id": "44818532852"
       },
       "previous_target_id": "31222829",
       "prepared": {
@@ -450005,5 +450007,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T07:27:52.786447+00:00"
+  "updated_at": "2026-11-21T07:30:35.431516+00:00"
 }
