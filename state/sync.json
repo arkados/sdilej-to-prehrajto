@@ -166790,17 +166790,19 @@
       }
     },
     "11606": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29680002",
+          "target_video_id": "31220953",
+          "permanent": false,
+          "attempted_at": "2026-11-21T05:31:20.822721+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29680002",
         "display_name": "Angustia (1987) SD CZ Titulky",
         "planned_at": "2026-11-21T05:30:17.428569+00:00"
-      },
-      "claim": {
-        "worker_id": "9e233ed7d8d146cfaeb959db7e6306bf-shard-0",
-        "claimed_at": "2026-11-21T05:30:19.483666+00:00",
-        "lease_expires_at": "2026-11-21T11:30:19.483666+00:00",
-        "run_id": "44818532852"
       },
       "previous_target_id": "31220953",
       "prepared": {
@@ -449863,5 +449865,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T05:30:22.826349+00:00"
+  "updated_at": "2026-11-21T05:31:20.822737+00:00"
 }
