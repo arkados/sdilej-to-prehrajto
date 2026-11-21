@@ -340577,13 +340577,6 @@
           "source_id": "32366381",
           "target_video_id": "30984638",
           "permanent": false,
-          "attempted_at": "2026-11-21T02:46:10.055761+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32366381",
-          "target_video_id": "30984638",
-          "permanent": false,
           "attempted_at": "2026-11-21T06:35:13.844704+00:00"
         },
         {
@@ -340592,12 +340585,20 @@
           "target_video_id": "30984638",
           "permanent": false,
           "attempted_at": "2026-11-21T10:54:34.086891+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32366381",
+          "target_video_id": "30984638",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T14:45:57.734242+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32366381",
         "display_name": "Brouci v hlavě (2021) SD CZ Titulky",
-        "planned_at": "2026-11-21T10:54:13.915113+00:00"
+        "planned_at": "2026-11-21T14:44:44.534558+00:00"
       },
       "previous_target_id": "30984638",
       "prepared": {
@@ -378401,7 +378402,7 @@
       "last_plan": {
         "source_id": "34733772",
         "display_name": "The Great War (2019) 720p CZ Titulky",
-        "planned_at": "2026-11-21T10:54:46.903755+00:00"
+        "planned_at": "2026-11-21T14:44:44.789813+00:00"
       },
       "previous_target_id": "30984642",
       "prepared": {
@@ -383069,7 +383070,7 @@
       "last_plan": {
         "source_id": "29459322",
         "display_name": "Nájezdníci z Atlantidy (1983) 1080p CZ Titulky",
-        "planned_at": "2026-11-21T10:54:47.293417+00:00"
+        "planned_at": "2026-11-21T14:44:45.042300+00:00"
       },
       "previous_target_id": "30984648",
       "prepared": {
@@ -384543,7 +384544,7 @@
       "last_plan": {
         "source_id": "34252654",
         "display_name": "Madhouse (2004) SD CZ Dabing",
-        "planned_at": "2026-11-21T10:54:47.656489+00:00"
+        "planned_at": "2026-11-21T14:44:45.290966+00:00"
       },
       "previous_target_id": "30984652",
       "prepared": {
@@ -386916,7 +386917,7 @@
       "last_plan": {
         "source_id": "29340326",
         "display_name": "Strážci (2024) 4K CZ Dabing",
-        "planned_at": "2026-11-21T10:54:48.023882+00:00"
+        "planned_at": "2026-11-21T14:44:45.549710+00:00"
       },
       "previous_target_id": "30984657",
       "prepared": {
@@ -450344,5 +450345,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T14:44:31.774291+00:00"
+  "updated_at": "2026-11-21T14:45:57.734262+00:00"
 }
