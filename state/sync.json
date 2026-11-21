@@ -235178,13 +235178,6 @@
           "permanent": false,
           "source_id": "30197444",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-21T19:44:43.793645+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30197444",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:54:22.488379+00:00"
         },
         {
@@ -235193,18 +235186,19 @@
           "source_id": "30197444",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T20:04:03.151005+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30197444",
+          "target_video_id": "31235952",
+          "permanent": false,
+          "attempted_at": "2026-11-21T20:24:46.669763+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30197444",
         "display_name": "A zase jsou tu Vánoce (2007) SD CZ Dabing",
         "planned_at": "2026-11-21T20:20:18.579606+00:00"
-      },
-      "claim": {
-        "worker_id": "29924bd87faf435ba109a10c81b0bf58-shard-0",
-        "claimed_at": "2026-11-21T20:23:37.779603+00:00",
-        "lease_expires_at": "2026-11-22T02:23:37.779603+00:00",
-        "run_id": "44928170254"
       },
       "previous_target_id": "31235952",
       "prepared": {
@@ -451037,5 +451031,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T20:23:42.015700+00:00"
+  "updated_at": "2026-11-21T20:24:46.669782+00:00"
 }
