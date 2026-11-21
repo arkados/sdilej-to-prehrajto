@@ -167546,17 +167546,19 @@
       "attempts": []
     },
     "35220": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32338395",
+          "target_video_id": "31235912",
+          "permanent": false,
+          "attempted_at": "2026-11-21T20:23:30.893210+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32338395",
         "display_name": "Didi - Der Doppelgänger (1984) 720p CZ Dabing",
         "planned_at": "2026-11-21T20:20:18.117452+00:00"
-      },
-      "claim": {
-        "worker_id": "29924bd87faf435ba109a10c81b0bf58-shard-0",
-        "claimed_at": "2026-11-21T20:20:20.353418+00:00",
-        "lease_expires_at": "2026-11-22T02:20:20.353418+00:00",
-        "run_id": "44928170254"
       },
       "previous_target_id": "31235912",
       "prepared": {
@@ -451023,5 +451025,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T20:20:25.582058+00:00"
+  "updated_at": "2026-11-21T20:23:30.893226+00:00"
 }
