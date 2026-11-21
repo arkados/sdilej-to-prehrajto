@@ -205859,17 +205859,19 @@
       }
     },
     "6983": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32837904",
+          "target_video_id": "31231248",
+          "permanent": false,
+          "attempted_at": "2026-11-21T15:27:04.252991+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32837904",
         "display_name": "Chemo (2015) 720p CZ Dabing",
         "planned_at": "2026-11-21T15:24:58.449311+00:00"
-      },
-      "claim": {
-        "worker_id": "3e9bc05612404defb0a5c5c82cde485c-shard-0",
-        "claimed_at": "2026-11-21T15:24:59.710343+00:00",
-        "lease_expires_at": "2026-11-21T21:24:59.710343+00:00",
-        "run_id": "44898474766"
       },
       "previous_target_id": "31231248",
       "prepared": {
@@ -450419,5 +450421,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T15:25:02.956661+00:00"
+  "updated_at": "2026-11-21T15:27:04.253007+00:00"
 }
