@@ -99446,7 +99446,7 @@
       "last_plan": {
         "source_id": "33021699",
         "display_name": "Ještě krásnější (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:25:47.602861+00:00"
+        "planned_at": "2026-11-21T19:49:15.655258+00:00"
       },
       "previous_target_id": "29586750",
       "prepared": {
@@ -100289,7 +100289,7 @@
       "last_plan": {
         "source_id": "32999221",
         "display_name": "Vražda v hotelu Excelsior (1971) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:26:16.947506+00:00"
+        "planned_at": "2026-11-21T19:49:16.065462+00:00"
       },
       "prepared": {
         "target_video_id": "29214020",
@@ -103248,13 +103248,6 @@
           "source_id": "12755157",
           "target_video_id": "29302307",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:29:02.631912+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12755157",
-          "target_video_id": "29302307",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:20:00.502584+00:00"
         },
         {
@@ -103263,12 +103256,20 @@
           "target_video_id": "29302307",
           "permanent": false,
           "attempted_at": "2026-11-21T12:26:01.552205+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12755157",
+          "target_video_id": "29302307",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T19:51:12.877385+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12755157",
         "display_name": "Vražedná sezóna: Žlutý kosatec (2015) SD CZ Dabing",
-        "planned_at": "2026-11-21T12:25:47.340010+00:00"
+        "planned_at": "2026-11-21T19:49:15.250362+00:00"
       },
       "prepared": {
         "target_video_id": "29302307",
@@ -166960,12 +166961,19 @@
           "source_id": "32718630",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:40:01.179324+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32718630",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:49:37.032543+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32718630",
         "display_name": "Sneh (2022) 1080p CZ Titulky",
-        "planned_at": "2026-11-21T19:39:38.506264+00:00"
+        "planned_at": "2026-11-21T19:49:14.403343+00:00"
       }
     },
     "16099": {
@@ -176551,12 +176559,19 @@
           "source_id": "34376817",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:40:22.188648+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34376817",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:49:58.010679+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34376817",
         "display_name": "Neklid (2011) 720p CZ Dabing",
-        "planned_at": "2026-11-21T19:39:38.919921+00:00"
+        "planned_at": "2026-11-21T19:49:14.812064+00:00"
       }
     },
     "14880": {
@@ -450963,5 +450978,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T19:48:57.541129+00:00"
+  "updated_at": "2026-11-21T19:51:12.877403+00:00"
 }
