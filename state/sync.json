@@ -91700,13 +91700,6 @@
           "source_id": "34471665",
           "target_video_id": "29356052",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:26:24.699121+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34471665",
-          "target_video_id": "29356052",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:17:10.275750+00:00"
         },
         {
@@ -91715,12 +91708,20 @@
           "target_video_id": "29356052",
           "permanent": false,
           "attempted_at": "2026-11-21T12:23:29.848864+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34471665",
+          "target_video_id": "29356052",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T18:57:42.339963+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34471665",
         "display_name": "Muž beze spánku (1992) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:23:24.373586+00:00"
+        "planned_at": "2026-11-21T18:55:45.864635+00:00"
       },
       "prepared": {
         "target_video_id": "29356052",
@@ -96845,7 +96846,7 @@
       "last_plan": {
         "source_id": "32962082",
         "display_name": "Vypečené zločiny: Zakázané ovoce (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:23:24.893020+00:00"
+        "planned_at": "2026-11-21T18:55:46.688895+00:00"
       },
       "prepared": {
         "target_video_id": "29171374",
@@ -104760,7 +104761,7 @@
       "last_plan": {
         "source_id": "34979725",
         "display_name": "Čintamani & podvodník (1965) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:23:24.633902+00:00"
+        "planned_at": "2026-11-21T18:55:46.275788+00:00"
       },
       "previous_target_id": "29630582",
       "prepared": {
@@ -248109,7 +248110,20 @@
       }
     },
     "23057": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29214190",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T18:56:07.664869+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "29214190",
+        "display_name": "Dýka (1989) 1080p CZ Dabing",
+        "planned_at": "2026-11-21T18:55:44.995336+00:00"
+      }
     },
     "4234": {
       "attempts": []
@@ -389335,13 +389349,6 @@
           "permanent": false,
           "source_id": "31503553",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-21T18:38:47.085656+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31503553",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T18:44:37.340734+00:00"
         },
         {
@@ -389350,12 +389357,19 @@
           "source_id": "31503553",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T18:50:20.074493+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31503553",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T18:56:28.639895+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31503553",
         "display_name": "Arachnia: Nestvůry útočí (2003) SD CZ Dabing",
-        "planned_at": "2026-11-21T18:49:57.409018+00:00"
+        "planned_at": "2026-11-21T18:55:45.431879+00:00"
       }
     },
     "19662": {
@@ -450757,5 +450771,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T18:55:31.211888+00:00"
+  "updated_at": "2026-11-21T18:57:42.339979+00:00"
 }
