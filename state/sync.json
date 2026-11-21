@@ -270853,12 +270853,19 @@
           "source_id": "34376828",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T22:48:15.752743+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34376828",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T22:53:46.238395+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34376828",
         "display_name": "Otcové a matky (2022) 720p CZ Dabing",
-        "planned_at": "2026-11-21T22:47:54.033593+00:00"
+        "planned_at": "2026-11-21T22:53:24.557764+00:00"
       }
     },
     "16423": {
@@ -333146,13 +333153,6 @@
           "source_id": "25445321",
           "target_video_id": "29921576",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:55:07.166222+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25445321",
-          "target_video_id": "29921576",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:43:38.554570+00:00"
         },
         {
@@ -333161,12 +333161,20 @@
           "target_video_id": "29921576",
           "permanent": false,
           "attempted_at": "2026-11-21T13:31:15.428128+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "25445321",
+          "target_video_id": "29921576",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T22:54:58.603044+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25445321",
         "display_name": "Smlouva s ďáblem (2000) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T13:31:01.658948+00:00"
+        "planned_at": "2026-11-21T22:53:24.842572+00:00"
       },
       "previous_target_id": "29921576",
       "prepared": {
@@ -334351,7 +334359,7 @@
       "last_plan": {
         "source_id": "12903538",
         "display_name": "Příslib (2016) SD CZ Dabing",
-        "planned_at": "2026-11-21T13:31:30.976563+00:00"
+        "planned_at": "2026-11-21T22:53:25.358509+00:00"
       },
       "previous_target_id": "29921633",
       "prepared": {
@@ -334476,7 +334484,7 @@
       "last_plan": {
         "source_id": "11875608",
         "display_name": "Vražda na jachtě (2019) 4K CZ Dabing",
-        "planned_at": "2026-11-21T13:31:01.907378+00:00"
+        "planned_at": "2026-11-21T22:53:25.114967+00:00"
       },
       "previous_target_id": "29921637",
       "prepared": {
@@ -334724,7 +334732,7 @@
       "last_plan": {
         "source_id": "19124271",
         "display_name": "Všechny cesty vedou do hrobu (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T13:31:31.224452+00:00"
+        "planned_at": "2026-11-21T22:53:25.608237+00:00"
       },
       "previous_target_id": "29921719",
       "prepared": {
@@ -451339,5 +451347,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T22:53:11.906802+00:00"
+  "updated_at": "2026-11-21T22:54:58.603064+00:00"
 }
