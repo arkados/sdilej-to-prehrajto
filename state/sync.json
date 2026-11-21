@@ -232748,17 +232748,19 @@
       }
     },
     "13522": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34681223",
+          "target_video_id": "31232187",
+          "permanent": false,
+          "attempted_at": "2026-11-21T16:25:48.504057+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34681223",
         "display_name": "Turning Green (2005) 1080p CZ Dabing",
         "planned_at": "2026-11-21T16:23:15.752432+00:00"
-      },
-      "claim": {
-        "worker_id": "9b01a38d34b744d790d790b69e2398c9-shard-0",
-        "claimed_at": "2026-11-21T16:23:17.015497+00:00",
-        "lease_expires_at": "2026-11-21T22:23:17.015497+00:00",
-        "run_id": "44898474766"
       },
       "previous_target_id": "31232187",
       "prepared": {
@@ -450560,5 +450562,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T16:23:21.850079+00:00"
+  "updated_at": "2026-11-21T16:25:48.504072+00:00"
 }
