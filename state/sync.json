@@ -9539,7 +9539,20 @@
       }
     },
     "453": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32738700",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T16:32:25.853777+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32738700",
+        "display_name": "Místo u moře (2016) 1080p CZ Titulky",
+        "planned_at": "2026-11-21T16:32:04.205490+00:00"
+      }
     },
     "518": {
       "attempts": [
@@ -24187,13 +24200,6 @@
           "source_id": "34850732",
           "target_video_id": "29826795",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:15:36.799529+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34850732",
-          "target_video_id": "29826795",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:06:03.460527+00:00"
         },
         {
@@ -24202,12 +24208,20 @@
           "target_video_id": "29826795",
           "permanent": false,
           "attempted_at": "2026-11-21T12:09:56.374374+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34850732",
+          "target_video_id": "29826795",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T16:33:37.683857+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34850732",
         "display_name": "Mauritánec: Deník z Guantánama (2021) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:09:48.202404+00:00"
+        "planned_at": "2026-11-21T16:32:04.491805+00:00"
       },
       "previous_target_id": "29826795",
       "prepared": {
@@ -63493,7 +63507,7 @@
       "last_plan": {
         "source_id": "27678444",
         "display_name": "Asterix v Británii (1986) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:09:48.699959+00:00"
+        "planned_at": "2026-11-21T16:32:04.982830+00:00"
       },
       "prepared": {
         "target_video_id": "29174967",
@@ -64467,7 +64481,7 @@
       "last_plan": {
         "source_id": "32871806",
         "display_name": "Depeche Mode: M (2025) 1080p CZ Titulky",
-        "planned_at": "2026-11-21T12:09:48.450399+00:00"
+        "planned_at": "2026-11-21T16:32:04.733779+00:00"
       },
       "prepared": {
         "target_video_id": "29444344",
@@ -71088,7 +71102,7 @@
       "last_plan": {
         "source_id": "21693134",
         "display_name": "Na ostří nože (1997) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:09:48.964617+00:00"
+        "planned_at": "2026-11-21T16:32:05.232930+00:00"
       },
       "prepared": {
         "target_video_id": "29179786",
@@ -450584,5 +450598,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T16:31:52.073201+00:00"
+  "updated_at": "2026-11-21T16:33:37.683871+00:00"
 }
