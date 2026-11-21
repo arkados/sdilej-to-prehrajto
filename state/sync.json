@@ -90696,13 +90696,6 @@
           "source_id": "34253762",
           "target_video_id": "29215910",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:26:50.115541+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34253762",
-          "target_video_id": "29215910",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:17:37.528881+00:00"
         },
         {
@@ -90711,12 +90704,20 @@
           "target_video_id": "29215910",
           "permanent": false,
           "attempted_at": "2026-11-21T12:23:42.067982+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34253762",
+          "target_video_id": "29215910",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T19:02:12.138243+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34253762",
         "display_name": "Život a smrt Petera Sellerse (2004) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:23:25.156435+00:00"
+        "planned_at": "2026-11-21T19:00:45.855803+00:00"
       },
       "prepared": {
         "target_video_id": "29215910",
@@ -93626,7 +93627,7 @@
       "last_plan": {
         "source_id": "34968104",
         "display_name": "Habermannův mlýn (2010) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:23:25.413214+00:00"
+        "planned_at": "2026-11-21T19:00:46.273728+00:00"
       },
       "prepared": {
         "target_video_id": "29311126",
@@ -97715,7 +97716,7 @@
       "last_plan": {
         "source_id": "26060381",
         "display_name": "Kým sa skončí táto noc (1966) 720p CZ Dabing",
-        "planned_at": "2026-11-21T12:23:57.929537+00:00"
+        "planned_at": "2026-11-21T19:00:47.103400+00:00"
       },
       "prepared": {
         "target_video_id": "29275892",
@@ -101328,7 +101329,7 @@
       "last_plan": {
         "source_id": "34882942",
         "display_name": "Strnadovi (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:23:57.675751+00:00"
+        "planned_at": "2026-11-21T19:00:46.687959+00:00"
       },
       "previous_target_id": "29654092",
       "prepared": {
@@ -242329,7 +242330,20 @@
       }
     },
     "29984": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31539742",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:01:08.079993+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "31539742",
+        "display_name": "Rollerball (1975) SD CZ Dabing",
+        "planned_at": "2026-11-21T19:00:45.402397+00:00"
+      }
     },
     "17393": {
       "attempts": []
@@ -450773,5 +450787,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T19:00:20.248316+00:00"
+  "updated_at": "2026-11-21T19:02:12.138262+00:00"
 }
