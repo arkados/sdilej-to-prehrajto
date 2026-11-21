@@ -98313,13 +98313,6 @@
           "source_id": "33977351",
           "target_video_id": "29216512",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:28:37.677977+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33977351",
-          "target_video_id": "29216512",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:19:33.626752+00:00"
         },
         {
@@ -98328,12 +98321,20 @@
           "target_video_id": "29216512",
           "permanent": false,
           "attempted_at": "2026-11-21T12:25:51.361445+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33977351",
+          "target_video_id": "29216512",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T19:46:20.083982+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33977351",
         "display_name": "Potopa (2025) 4K CZ Dabing",
-        "planned_at": "2026-11-21T12:25:46.455445+00:00"
+        "planned_at": "2026-11-21T19:44:22.019364+00:00"
       },
       "prepared": {
         "target_video_id": "29216512",
@@ -98853,7 +98854,7 @@
       "last_plan": {
         "source_id": "34472783",
         "display_name": "Hvězdná brána: Pravdivý příběh (2006) SD CZ Dabing",
-        "planned_at": "2026-11-21T12:25:46.708254+00:00"
+        "planned_at": "2026-11-21T19:44:22.425795+00:00"
       },
       "previous_target_id": "29578142",
       "prepared": {
@@ -106515,7 +106516,7 @@
       "last_plan": {
         "source_id": "34393123",
         "display_name": "Černobyl (2021) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:25:46.978294+00:00"
+        "planned_at": "2026-11-21T19:44:22.830894+00:00"
       },
       "previous_target_id": "29567852",
       "prepared": {
@@ -235121,12 +235122,19 @@
           "source_id": "30197444",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:35:18.119884+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30197444",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:44:43.793645+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30197444",
         "display_name": "A zase jsou tu Vánoce (2007) SD CZ Dabing",
-        "planned_at": "2026-11-21T19:34:55.448643+00:00"
+        "planned_at": "2026-11-21T19:44:21.180274+00:00"
       }
     },
     "16351": {
@@ -323435,12 +323443,19 @@
           "source_id": "31610048",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:35:39.086733+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31610048",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:45:04.759675+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31610048",
         "display_name": "Horké pronásledování (1987) 1080p CZ Titulky",
-        "planned_at": "2026-11-21T19:34:55.875121+00:00"
+        "planned_at": "2026-11-21T19:44:21.588586+00:00"
       }
     },
     "18929": {
@@ -450946,5 +450961,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T19:44:07.716230+00:00"
+  "updated_at": "2026-11-21T19:46:20.083999+00:00"
 }
