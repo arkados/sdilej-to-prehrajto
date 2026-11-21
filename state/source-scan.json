@@ -104134,15 +104134,6 @@
     "28868": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-18T05:12:13.411495+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -104155,6 +104146,15 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Punisher Posledni Zuctovani 2026 online | Sdilej.cz'; bytes=188763; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-11-21T01:07:59.106045+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-21T14:10:05.924065+00:00"
         }
       ]
     },
@@ -257920,13 +257920,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "Discovery deadline expired before verification completed",
-          "attempted_at": "2026-11-20T01:44:25.109969+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Discovery deadline expired before verification completed",
           "attempted_at": "2026-11-20T14:43:59.319894+00:00"
         },
         {
@@ -257935,6 +257928,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Discovery deadline expired before verification completed",
           "attempted_at": "2026-11-21T03:41:11.114902+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before verification completed",
+          "attempted_at": "2026-11-21T14:12:12.238756+00:00"
         }
       ]
     },
@@ -722327,5 +722327,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-21T14:08:33.399859+00:00"
+  "updated_at": "2026-11-21T14:12:12.238771+00:00"
 }
