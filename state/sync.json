@@ -105306,13 +105306,6 @@
           "source_id": "30618962",
           "target_video_id": "29404187",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:31:18.865315+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30618962",
-          "target_video_id": "29404187",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:22:29.846482+00:00"
         },
         {
@@ -105321,12 +105314,20 @@
           "target_video_id": "29404187",
           "permanent": false,
           "attempted_at": "2026-11-21T12:28:18.731644+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30618962",
+          "target_video_id": "29404187",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T20:45:37.745254+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30618962",
         "display_name": "Jen o rodinných záležitostech (1991) SD CZ Dabing",
-        "planned_at": "2026-11-21T12:28:14.012801+00:00"
+        "planned_at": "2026-11-21T20:43:21.510349+00:00"
       },
       "prepared": {
         "target_video_id": "29404187",
@@ -109091,7 +109092,7 @@
       "last_plan": {
         "source_id": "28003976",
         "display_name": "Studentská máma (1935) SD CZ Dabing",
-        "planned_at": "2026-11-21T12:28:14.259966+00:00"
+        "planned_at": "2026-11-21T20:43:21.921428+00:00"
       },
       "prepared": {
         "target_video_id": "29468019",
@@ -150876,7 +150877,20 @@
       "attempts": []
     },
     "15892": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29333172",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T20:43:42.888017+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "29333172",
+        "display_name": "Země barbarů (2023) 1080p CZ Dabing",
+        "planned_at": "2026-11-21T20:43:20.200984+00:00"
+      }
     },
     "21389": {
       "attempts": [
@@ -183958,7 +183972,20 @@
       "attempts": []
     },
     "25023": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30651233",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T20:44:03.858136+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30651233",
+        "display_name": "Kauza CIA (2006) 1080p CZ Titulky",
+        "planned_at": "2026-11-21T20:43:20.633114+00:00"
+      }
     },
     "3380": {
       "attempts": [
@@ -249649,7 +249676,20 @@
       }
     },
     "15732": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34479284",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T20:44:24.831870+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34479284",
+        "display_name": "Nicky Deuce (2013) 720p CZ Dabing",
+        "planned_at": "2026-11-21T20:43:21.057047+00:00"
+      }
     },
     "4867": {
       "attempts": [
@@ -451040,5 +451080,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T20:43:06.649819+00:00"
+  "updated_at": "2026-11-21T20:45:37.745271+00:00"
 }
