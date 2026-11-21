@@ -70579,13 +70579,6 @@
           "source_id": "34492254",
           "target_video_id": "29255927",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:18:28.626960+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34492254",
-          "target_video_id": "29255927",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:09:11.523380+00:00"
         },
         {
@@ -70594,12 +70587,20 @@
           "target_video_id": "29255927",
           "permanent": false,
           "attempted_at": "2026-11-21T12:12:45.931461+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34492254",
+          "target_video_id": "29255927",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T18:03:36.143350+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34492254",
         "display_name": "Jak přicházejí sny (1998) 4K CZ Dabing",
-        "planned_at": "2026-11-21T12:12:29.727914+00:00"
+        "planned_at": "2026-11-21T18:02:15.844976+00:00"
       },
       "prepared": {
         "target_video_id": "29255927",
@@ -72316,7 +72317,7 @@
       "last_plan": {
         "source_id": "28771706",
         "display_name": "Servírka (2007) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:13:05.560609+00:00"
+        "planned_at": "2026-11-21T18:02:17.083810+00:00"
       },
       "prepared": {
         "target_video_id": "29158387",
@@ -73795,7 +73796,7 @@
       "last_plan": {
         "source_id": "34061037",
         "display_name": "Holubice (1960) 1080p CZ Titulky",
-        "planned_at": "2026-11-21T12:12:29.974913+00:00"
+        "planned_at": "2026-11-21T18:02:16.262308+00:00"
       },
       "prepared": {
         "target_video_id": "29459191",
@@ -76214,7 +76215,7 @@
       "last_plan": {
         "source_id": "30732810",
         "display_name": "Dva životy (2012) SD CZ Dabing",
-        "planned_at": "2026-11-21T12:13:05.810977+00:00"
+        "planned_at": "2026-11-21T18:02:17.491858+00:00"
       },
       "prepared": {
         "target_video_id": "29213387",
@@ -429809,7 +429810,7 @@
       "last_plan": {
         "source_id": "30249428",
         "display_name": "Ďábel přichází (2000) SD CZ Titulky",
-        "planned_at": "2026-11-21T12:13:05.298713+00:00"
+        "planned_at": "2026-11-21T18:02:16.672698+00:00"
       },
       "previous_target_id": "31228023",
       "prepared": {
@@ -450678,5 +450679,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T18:02:02.031673+00:00"
+  "updated_at": "2026-11-21T18:03:36.143369+00:00"
 }
