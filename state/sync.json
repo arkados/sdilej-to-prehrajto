@@ -142950,13 +142950,6 @@
           "source_id": "34850532",
           "target_video_id": "29607981",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:38:58.815856+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34850532",
-          "target_video_id": "29607981",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:30:44.613692+00:00"
         },
         {
@@ -142965,12 +142958,20 @@
           "target_video_id": "29607981",
           "permanent": false,
           "attempted_at": "2026-11-21T12:35:09.185456+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34850532",
+          "target_video_id": "29607981",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T21:53:20.648896+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34850532",
         "display_name": "Hodinu nevíš... (2009) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:34:57.524049+00:00"
+        "planned_at": "2026-11-21T21:52:06.066013+00:00"
       },
       "previous_target_id": "29607981",
       "prepared": {
@@ -148251,7 +148252,7 @@
       "last_plan": {
         "source_id": "27157122",
         "display_name": "Zatmění (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:35:28.152075+00:00"
+        "planned_at": "2026-11-21T21:52:07.712419+00:00"
       },
       "previous_target_id": "29585188",
       "prepared": {
@@ -149488,7 +149489,7 @@
       "last_plan": {
         "source_id": "33856066",
         "display_name": "Jan Palach (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:34:57.771992+00:00"
+        "planned_at": "2026-11-21T21:52:06.481004+00:00"
       },
       "previous_target_id": "29609823",
       "prepared": {
@@ -151350,7 +151351,7 @@
       "last_plan": {
         "source_id": "33850265",
         "display_name": "Doktorka Quinnová (1999) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:34:58.020770+00:00"
+        "planned_at": "2026-11-21T21:52:06.892879+00:00"
       },
       "previous_target_id": "29609835",
       "prepared": {
@@ -154229,7 +154230,7 @@
       "last_plan": {
         "source_id": "26751641",
         "display_name": "Katie Fforde: Bellino štěstí (2017) SD CZ Dabing",
-        "planned_at": "2026-11-21T12:35:27.898954+00:00"
+        "planned_at": "2026-11-21T21:52:07.303100+00:00"
       },
       "previous_target_id": "29655950",
       "prepared": {
@@ -451189,5 +451190,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T21:51:52.465396+00:00"
+  "updated_at": "2026-11-21T21:53:20.648914+00:00"
 }
