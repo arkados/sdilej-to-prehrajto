@@ -239075,17 +239075,20 @@
       }
     },
     "26133": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32760652",
+          "target_video_id": "31234837",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T19:25:36.930722+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32760652",
         "display_name": "Zajíček bez oušek (2007) SD CZ Dabing",
         "planned_at": "2026-11-21T19:21:05.455378+00:00"
-      },
-      "claim": {
-        "worker_id": "4e0be89ca0d74265ac758d2daf4439da-shard-0",
-        "claimed_at": "2026-11-21T19:21:07.596587+00:00",
-        "lease_expires_at": "2026-11-22T01:21:07.596587+00:00",
-        "run_id": "44928170254"
       },
       "previous_target_id": "31234837",
       "prepared": {
@@ -450863,5 +450866,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T19:21:12.885962+00:00"
+  "updated_at": "2026-11-21T19:25:36.930740+00:00"
 }
