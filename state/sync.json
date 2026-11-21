@@ -270860,12 +270860,19 @@
           "source_id": "34376828",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T22:53:46.238395+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34376828",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T22:59:17.309928+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34376828",
         "display_name": "Otcové a matky (2022) 720p CZ Dabing",
-        "planned_at": "2026-11-21T22:53:24.557764+00:00"
+        "planned_at": "2026-11-21T22:58:55.657323+00:00"
       }
     },
     "16423": {
@@ -361518,13 +361525,6 @@
           "source_id": "12212463",
           "target_video_id": "29924192",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:55:37.006443+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12212463",
-          "target_video_id": "29924192",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:43:54.931786+00:00"
         },
         {
@@ -361533,12 +361533,20 @@
           "target_video_id": "29924192",
           "permanent": false,
           "attempted_at": "2026-11-21T13:31:42.970610+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12212463",
+          "target_video_id": "29924192",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T23:00:29.423744+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12212463",
         "display_name": "V zajetí sněhu (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T13:31:31.474108+00:00"
+        "planned_at": "2026-11-21T22:58:55.932654+00:00"
       },
       "previous_target_id": "29924192",
       "prepared": {
@@ -363732,7 +363740,7 @@
       "last_plan": {
         "source_id": "33171560",
         "display_name": "Opice (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T13:31:31.716839+00:00"
+        "planned_at": "2026-11-21T22:58:56.180355+00:00"
       },
       "previous_target_id": "29924358",
       "prepared": {
@@ -374975,7 +374983,7 @@
       "last_plan": {
         "source_id": "35184227",
         "display_name": "Pravá ruka pomsty (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T13:31:31.963878+00:00"
+        "planned_at": "2026-11-21T22:58:56.430265+00:00"
       },
       "previous_target_id": "29925156",
       "prepared": {
@@ -378140,7 +378148,7 @@
       "last_plan": {
         "source_id": "35185566",
         "display_name": "Zloději a lháři (2019) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T13:32:01.676333+00:00"
+        "planned_at": "2026-11-21T22:58:56.680200+00:00"
       },
       "previous_target_id": "30456226",
       "prepared": {
@@ -451350,5 +451358,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T22:58:43.683131+00:00"
+  "updated_at": "2026-11-21T23:00:29.423765+00:00"
 }
