@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-21T11:22:41.248188+00:00
+Poslední aktualizace (UTC): 2026-11-21T11:22:44.861114+00:00
 
 Zkontrolováno videí: 3313. Další stránka kontroly: 0.
 
@@ -2742,7 +2742,7 @@ Kontrol: 43; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [3 Idioti (2009) 1080p CZ Titulky](https://prehraj.to/3-idioti-2009-1080p-cz-titulky-mkv/3a764e265186ea8a) (ID 28925211) | [Sdílej 26558986](https://sdilej.cz/26558986/3-idiots-tri-idioti-cztit-2009-.mkv) | target_unavailable | 2026-11-21T02:29:37.867200+00:00 |
+| [3 Idioti (2009) 1080p CZ Titulky](https://prehraj.to/3-idioti-2009-1080p-cz-titulky-mkv/3a764e265186ea8a) (ID 28925211) | [Sdílej 26558986](https://sdilej.cz/26558986/3-idiots-tri-idioti-cztit-2009-.mkv) | target_unavailable | 2026-11-21T11:22:44.861044+00:00 |
 | [3-Iron (2004) 1080p CZ Titulky](https://prehraj.to/3-iron-2004-1080p-cz-titulky-mkv/69231660aa56eea2) (ID 29209297) | [Sdílej 33870824](https://sdilej.cz/33870824/3.iron.2004.1080p.amzn.web-dl.ddp5.1.x264-blutonium.mkv) | source_unavailable | 2026-11-21T11:21:13.182033+00:00 |
 | [A Cinderella Story: Starstruck (2021) 720p CZ Titulky](https://prehraj.to/a-cinderella-story-starstruck-2021-720p-cz-titulky-avi/9af73b7cd5359066) (ID 29573005) | [Sdílej 25108769](https://sdilej.cz/25108769/a-cinderella-story-starstruck-webrip-hd-cz-titulky-2021.avi) | target_unavailable | 2026-11-21T02:30:37.929513+00:00 |
 | [Abracadabra (2017) 1080p CZ Titulky](https://prehraj.to/abracadabra-2017-1080p-cz-titulky-mkv/7efe374ac3054fef) (ID 29609377) | [Sdílej 30707980](https://sdilej.cz/30707980/abracadabra-2017-1080p-bluray-spanish-dts-x264-descargasmix.mkv) | source_unavailable | 2026-11-21T11:20:38.128613+00:00 |
