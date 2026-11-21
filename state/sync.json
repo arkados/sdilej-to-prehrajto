@@ -175509,17 +175509,19 @@
       "previous_target_id": "29167426"
     },
     "3203": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29958593",
+          "target_video_id": "31233740",
+          "permanent": false,
+          "attempted_at": "2026-11-21T18:11:49.871414+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29958593",
         "display_name": "Konferenční stolek (2022) 1080p CZ Titulky",
         "planned_at": "2026-11-21T18:07:55.649228+00:00"
-      },
-      "claim": {
-        "worker_id": "fa586726aa9745f8bd606078f487582e-shard-0",
-        "claimed_at": "2026-11-21T18:07:57.763543+00:00",
-        "lease_expires_at": "2026-11-22T00:07:57.763543+00:00",
-        "run_id": "44928170254"
       },
       "previous_target_id": "31233740",
       "prepared": {
@@ -450705,5 +450707,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T18:08:02.169574+00:00"
+  "updated_at": "2026-11-21T18:11:49.871430+00:00"
 }
