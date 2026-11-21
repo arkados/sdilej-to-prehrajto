@@ -344758,13 +344758,6 @@
           "source_id": "35113019",
           "target_video_id": "29915981",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:53:34.996825+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35113019",
-          "target_video_id": "29915981",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:41:58.295295+00:00"
         },
         {
@@ -344773,12 +344766,20 @@
           "target_video_id": "29915981",
           "permanent": false,
           "attempted_at": "2026-11-21T13:30:03.901065+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35113019",
+          "target_video_id": "29915981",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T22:34:08.485648+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35113019",
         "display_name": "Deník malého poseroutky: Rodrick je king (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T13:29:58.573165+00:00"
+        "planned_at": "2026-11-21T22:32:54.042437+00:00"
       },
       "previous_target_id": "29915981",
       "prepared": {
@@ -351959,7 +351960,7 @@
       "last_plan": {
         "source_id": "31770074",
         "display_name": "Chlupáčci (2021) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T13:29:59.325405+00:00"
+        "planned_at": "2026-11-21T22:32:55.287941+00:00"
       },
       "previous_target_id": "29917997",
       "prepared": {
@@ -352659,7 +352660,7 @@
       "last_plan": {
         "source_id": "30543079",
         "display_name": "Boot Hill (1969) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T13:29:58.826057+00:00"
+        "planned_at": "2026-11-21T22:32:54.464002+00:00"
       },
       "previous_target_id": "29916212",
       "prepared": {
@@ -383274,7 +383275,7 @@
       "last_plan": {
         "source_id": "29910570",
         "display_name": "Srdce lovce (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T13:29:59.076881+00:00"
+        "planned_at": "2026-11-21T22:32:54.877969+00:00"
       },
       "previous_target_id": "30655252",
       "prepared": {
@@ -410271,7 +410272,7 @@
       "last_plan": {
         "source_id": "33977351",
         "display_name": "Potopa světa (2025) 4K CZ Dabing",
-        "planned_at": "2026-11-21T13:29:59.571619+00:00"
+        "planned_at": "2026-11-21T22:32:55.703003+00:00"
       },
       "previous_target_id": "30450975",
       "prepared": {
@@ -451311,5 +451312,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T22:32:40.393880+00:00"
+  "updated_at": "2026-11-21T22:34:08.485667+00:00"
 }
