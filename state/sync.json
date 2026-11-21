@@ -85699,7 +85699,7 @@
       "last_plan": {
         "source_id": "27567617",
         "display_name": "Alpha Dog (2006) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:22:20.220661+00:00"
+        "planned_at": "2026-11-21T18:44:15.499843+00:00"
       },
       "prepared": {
         "target_video_id": "29141791",
@@ -90383,7 +90383,7 @@
       "last_plan": {
         "source_id": "21301450",
         "display_name": "Monster High: Boo York (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:22:51.884372+00:00"
+        "planned_at": "2026-11-21T18:44:16.348079+00:00"
       },
       "prepared": {
         "target_video_id": "29215846",
@@ -91870,13 +91870,6 @@
           "source_id": "18528523",
           "target_video_id": "29413408",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:25:41.464545+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18528523",
-          "target_video_id": "29413408",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:16:22.256036+00:00"
         },
         {
@@ -91885,12 +91878,20 @@
           "target_video_id": "29413408",
           "permanent": false,
           "attempted_at": "2026-11-21T12:22:31.720516+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "18528523",
+          "target_video_id": "29413408",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T18:45:59.358580+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18528523",
         "display_name": "Oscar a dáma v růžovém (2009) 720p CZ Dabing",
-        "planned_at": "2026-11-21T12:22:19.961158+00:00"
+        "planned_at": "2026-11-21T18:44:15.081104+00:00"
       },
       "prepared": {
         "target_video_id": "29413408",
@@ -91966,7 +91967,7 @@
       "last_plan": {
         "source_id": "10879629",
         "display_name": "Sweet Country (2017) SD CZ Dabing",
-        "planned_at": "2026-11-21T12:22:20.480941+00:00"
+        "planned_at": "2026-11-21T18:44:15.924299+00:00"
       },
       "prepared": {
         "target_video_id": "29413416",
@@ -389329,12 +389330,19 @@
           "source_id": "31503553",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T18:38:47.085656+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31503553",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T18:44:37.340734+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31503553",
         "display_name": "Arachnia: Nestvůry útočí (2003) SD CZ Dabing",
-        "planned_at": "2026-11-21T18:38:24.382223+00:00"
+        "planned_at": "2026-11-21T18:44:14.626547+00:00"
       }
     },
     "19662": {
@@ -450735,5 +450743,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T18:44:00.856161+00:00"
+  "updated_at": "2026-11-21T18:45:59.358597+00:00"
 }
