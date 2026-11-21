@@ -93354,13 +93354,6 @@
           "source_id": "11696652",
           "target_video_id": "29311434",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:27:23.087681+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11696652",
-          "target_video_id": "29311434",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:18:14.416744+00:00"
         },
         {
@@ -93369,6 +93362,14 @@
           "target_video_id": "29311434",
           "permanent": false,
           "attempted_at": "2026-11-21T12:24:28.198153+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11696652",
+          "target_video_id": "29311434",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T19:27:17.363827+00:00"
         }
       ],
       "last_plan": {
@@ -323356,7 +323357,15 @@
       }
     },
     "11693": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31610048",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:26:03.754173+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31610048",
         "display_name": "Horké pronásledování (1987) 1080p CZ Titulky",
@@ -450866,5 +450875,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T19:25:36.930740+00:00"
+  "updated_at": "2026-11-21T19:27:17.363843+00:00"
 }
