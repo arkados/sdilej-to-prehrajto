@@ -144133,17 +144133,19 @@
       "attempts": []
     },
     "12985": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34677495",
+          "target_video_id": "31218263",
+          "permanent": false,
+          "attempted_at": "2026-11-21T02:41:36.149342+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34677495",
         "display_name": "Noc klavíristy (1977) 1080p CZ Dabing",
         "planned_at": "2026-11-21T02:38:38.488922+00:00"
-      },
-      "claim": {
-        "worker_id": "e7439e4105b44069b5a17b27493db590-shard-0",
-        "claimed_at": "2026-11-21T02:38:40.543000+00:00",
-        "lease_expires_at": "2026-11-21T08:38:40.543000+00:00",
-        "run_id": "44818532852"
       },
       "previous_target_id": "31218263",
       "prepared": {
@@ -449642,5 +449644,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T02:38:44.237299+00:00"
+  "updated_at": "2026-11-21T02:41:36.149353+00:00"
 }
