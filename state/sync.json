@@ -9553,12 +9553,19 @@
           "source_id": "32738700",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T16:37:54.817362+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32738700",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T16:43:51.743718+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32738700",
         "display_name": "Místo u moře (2016) 1080p CZ Titulky",
-        "planned_at": "2026-11-21T16:37:33.199519+00:00"
+        "planned_at": "2026-11-21T16:43:09.751200+00:00"
       }
     },
     "518": {
@@ -66910,13 +66917,6 @@
           "source_id": "34912011",
           "target_video_id": "29427702",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:16:35.327052+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34912011",
-          "target_video_id": "29427702",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:06:51.455527+00:00"
         },
         {
@@ -66925,12 +66925,20 @@
           "target_video_id": "29427702",
           "permanent": false,
           "attempted_at": "2026-11-21T12:10:38.988319+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34912011",
+          "target_video_id": "29427702",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T16:45:04.649361+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34912011",
         "display_name": "Knoflíkáři (1997) 1080p CZ Titulky",
-        "planned_at": "2026-11-21T12:10:20.765576+00:00"
+        "planned_at": "2026-11-21T16:43:10.015474+00:00"
       },
       "prepared": {
         "target_video_id": "29427702",
@@ -67906,7 +67914,7 @@
       "last_plan": {
         "source_id": "34501428",
         "display_name": "Thor (2011) 4K CZ Dabing",
-        "planned_at": "2026-11-21T12:10:51.076294+00:00"
+        "planned_at": "2026-11-21T16:43:10.505001+00:00"
       },
       "prepared": {
         "target_video_id": "29482056",
@@ -70200,7 +70208,7 @@
       "last_plan": {
         "source_id": "12094326",
         "display_name": "Všem klukům, které jsem milovala (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:10:50.829553+00:00"
+        "planned_at": "2026-11-21T16:43:10.262798+00:00"
       },
       "prepared": {
         "target_video_id": "29255918",
@@ -82422,7 +82430,20 @@
       "attempts": []
     },
     "36878": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28156616",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T16:43:31.123030+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "28156616",
+        "display_name": "Putin versus Navalnyj (2021) 1080p CZ Dabing",
+        "planned_at": "2026-11-21T16:43:09.482836+00:00"
+      }
     },
     "15121": {
       "attempts": []
@@ -450612,5 +450633,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T16:42:57.241452+00:00"
+  "updated_at": "2026-11-21T16:45:04.649375+00:00"
 }
