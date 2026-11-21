@@ -101752,13 +101752,6 @@
           "source_id": "30581817",
           "target_video_id": "29214591",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:28:00.861502+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30581817",
-          "target_video_id": "29214591",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:18:54.530112+00:00"
         },
         {
@@ -101767,12 +101760,20 @@
           "target_video_id": "29214591",
           "permanent": false,
           "attempted_at": "2026-11-21T12:25:04.412050+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30581817",
+          "target_video_id": "29214591",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T19:36:53.103590+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30581817",
         "display_name": "Apatykář Melchior: Znamení čarodějnice (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:24:44.765529+00:00"
+        "planned_at": "2026-11-21T19:34:56.319262+00:00"
       },
       "prepared": {
         "target_video_id": "29214591",
@@ -105037,7 +105038,7 @@
       "last_plan": {
         "source_id": "30160689",
         "display_name": "Smrt černého krále (1972) 720p CZ Dabing",
-        "planned_at": "2026-11-21T12:25:16.830530+00:00"
+        "planned_at": "2026-11-21T19:34:57.153290+00:00"
       },
       "prepared": {
         "target_video_id": "29303068",
@@ -158259,7 +158260,7 @@
       "last_plan": {
         "source_id": "24507656",
         "display_name": "Unesená princezna (2020) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:25:16.570663+00:00"
+        "planned_at": "2026-11-21T19:34:56.740011+00:00"
       },
       "previous_target_id": "29847834",
       "prepared": {
@@ -235094,7 +235095,20 @@
       }
     },
     "25833": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30197444",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:35:18.119884+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30197444",
+        "display_name": "A zase jsou tu Vánoce (2007) SD CZ Dabing",
+        "planned_at": "2026-11-21T19:34:55.448643+00:00"
+      }
     },
     "16351": {
       "attempts": [
@@ -323395,12 +323409,19 @@
           "source_id": "31610048",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T19:26:03.754173+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31610048",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-21T19:35:39.086733+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31610048",
         "display_name": "Horké pronásledování (1987) 1080p CZ Titulky",
-        "planned_at": "2026-11-21T19:21:05.888051+00:00"
+        "planned_at": "2026-11-21T19:34:55.875121+00:00"
       }
     },
     "18929": {
@@ -450906,5 +450927,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T19:34:37.206093+00:00"
+  "updated_at": "2026-11-21T19:36:53.103606+00:00"
 }
