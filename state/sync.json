@@ -150896,13 +150896,6 @@
           "permanent": false,
           "source_id": "29333172",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-21T20:43:42.888017+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29333172",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T20:54:00.464431+00:00"
         },
         {
@@ -150911,18 +150904,19 @@
           "source_id": "29333172",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-21T21:04:30.533951+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29333172",
+          "target_video_id": "31236571",
+          "permanent": false,
+          "attempted_at": "2026-11-21T21:13:40.235219+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29333172",
         "display_name": "Země barbarů (2023) 1080p CZ Dabing",
         "planned_at": "2026-11-21T21:09:33.236422+00:00"
-      },
-      "claim": {
-        "worker_id": "e65e3de9bde247fd9f5fa4f72bda990f-shard-0",
-        "claimed_at": "2026-11-21T21:09:35.309802+00:00",
-        "lease_expires_at": "2026-11-22T03:09:35.309802+00:00",
-        "run_id": "44928170254"
       },
       "previous_target_id": "31236571",
       "prepared": {
@@ -451147,5 +451141,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T21:09:39.184078+00:00"
+  "updated_at": "2026-11-21T21:13:40.235235+00:00"
 }
