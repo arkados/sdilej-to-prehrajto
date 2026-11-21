@@ -379401,17 +379401,19 @@
       }
     },
     "31914": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32883960",
+          "target_video_id": "31225119",
+          "permanent": false,
+          "attempted_at": "2026-11-21T09:49:37.992054+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32883960",
         "display_name": "Dark Was the Night (2014) 1080p CZ Titulky",
         "planned_at": "2026-11-21T09:44:18.886945+00:00"
-      },
-      "claim": {
-        "worker_id": "60bc2d20533e455b811dc09ac6b69ecc-shard-0",
-        "claimed_at": "2026-11-21T09:45:34.697817+00:00",
-        "lease_expires_at": "2026-11-21T15:45:34.697817+00:00",
-        "run_id": "44882723312"
       },
       "previous_target_id": "31225119",
       "prepared": {
@@ -450076,5 +450078,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T09:45:38.871534+00:00"
+  "updated_at": "2026-11-21T09:49:37.992114+00:00"
 }
