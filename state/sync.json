@@ -446572,17 +446572,19 @@
       }
     },
     "13886": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32323602",
+          "target_video_id": "31223333",
+          "permanent": false,
+          "attempted_at": "2026-11-21T08:01:06.429395+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32323602",
         "display_name": "Jezero 2 (2007) SD CZ Dabing",
         "planned_at": "2026-11-21T07:59:32.003698+00:00"
-      },
-      "claim": {
-        "worker_id": "cb7d3df0fea64739b6d1150c314c4a1f-shard-0",
-        "claimed_at": "2026-11-21T07:59:33.833866+00:00",
-        "lease_expires_at": "2026-11-21T13:59:33.833866+00:00",
-        "run_id": "44882723312"
       },
       "previous_target_id": "31223333",
       "prepared": {
@@ -450094,5 +450096,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T07:59:37.919242+00:00"
+  "updated_at": "2026-11-21T08:01:06.429415+00:00"
 }
