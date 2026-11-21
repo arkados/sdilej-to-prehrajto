@@ -77064,13 +77064,6 @@
           "source_id": "32324471",
           "target_video_id": "29505996",
           "permanent": false,
-          "attempted_at": "2026-11-21T04:23:32.595962+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32324471",
-          "target_video_id": "29505996",
-          "permanent": false,
           "attempted_at": "2026-11-21T08:14:02.513169+00:00"
         },
         {
@@ -77079,12 +77072,20 @@
           "target_video_id": "29505996",
           "permanent": false,
           "attempted_at": "2026-11-21T12:20:28.684900+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32324471",
+          "target_video_id": "29505996",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-21T18:18:59.900651+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32324471",
         "display_name": "Johnny (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:20:13.390808+00:00"
+        "planned_at": "2026-11-21T18:17:42.576742+00:00"
       },
       "prepared": {
         "target_video_id": "29505996",
@@ -78009,7 +78010,7 @@
       "last_plan": {
         "source_id": "33531199",
         "display_name": "Obyčejní hrdinové (2004) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:20:13.647263+00:00"
+        "planned_at": "2026-11-21T18:17:42.995207+00:00"
       },
       "prepared": {
         "target_video_id": "29136430",
@@ -78393,7 +78394,7 @@
       "last_plan": {
         "source_id": "32700785",
         "display_name": "Bitva o Hill 60 (2010) 1080p CZ Dabing",
-        "planned_at": "2026-11-21T12:20:44.275633+00:00"
+        "planned_at": "2026-11-21T18:17:43.811646+00:00"
       },
       "previous_target_id": "29629071",
       "prepared": {
@@ -83061,7 +83062,7 @@
       "last_plan": {
         "source_id": "34880836",
         "display_name": "Nedělej Zagorku! (2021) 1080p",
-        "planned_at": "2026-11-21T12:20:44.021472+00:00"
+        "planned_at": "2026-11-21T18:17:43.406897+00:00"
       },
       "prepared": {
         "target_video_id": "29432600",
@@ -83784,7 +83785,7 @@
       "last_plan": {
         "source_id": "33542180",
         "display_name": "Zloba – Královna černé magie (2014) 4K CZ Dabing",
-        "planned_at": "2026-11-21T12:20:44.532010+00:00"
+        "planned_at": "2026-11-21T18:17:44.219972+00:00"
       },
       "prepared": {
         "target_video_id": "29142078",
@@ -450703,5 +450704,5 @@
       }
     }
   },
-  "updated_at": "2026-11-21T18:17:28.496014+00:00"
+  "updated_at": "2026-11-21T18:18:59.900669+00:00"
 }
