@@ -5458,7 +5458,7 @@
       "last_plan": {
         "source_id": "5517767",
         "display_name": "Naušika z Větrného údolí (1984) SD CZ Dabing",
-        "planned_at": "2026-11-22T11:40:15.047232+00:00"
+        "planned_at": "2026-11-22T18:04:13.983864+00:00"
       },
       "previous_target_id": "30984807",
       "prepared": {
@@ -14793,7 +14793,7 @@
       "last_plan": {
         "source_id": "32830370",
         "display_name": "Čekej do tmy (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T11:40:50.069242+00:00"
+        "planned_at": "2026-11-22T18:04:14.358966+00:00"
       },
       "previous_target_id": "30984813",
       "prepared": {
@@ -147699,7 +147699,7 @@
       "last_plan": {
         "source_id": "23605975",
         "display_name": "Zlaté rybky (1978) SD CZ Dabing",
-        "planned_at": "2026-11-22T11:40:14.647289+00:00"
+        "planned_at": "2026-11-22T18:04:13.608086+00:00"
       },
       "previous_target_id": "30984794",
       "prepared": {
@@ -319995,7 +319995,20 @@
       }
     },
     "9605": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32865769",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-22T18:04:35.253201+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32865769",
+        "display_name": "Dvojitá hra (2025) 1080p CZ Dabing",
+        "planned_at": "2026-11-22T18:04:12.819694+00:00"
+      }
     },
     "33356": {
       "attempts": []
@@ -434636,13 +434649,6 @@
           "source_id": "34799030",
           "target_video_id": "30984790",
           "permanent": false,
-          "attempted_at": "2026-11-22T04:55:50.912809+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34799030",
-          "target_video_id": "30984790",
-          "permanent": false,
           "attempted_at": "2026-11-22T07:55:00.365928+00:00"
         },
         {
@@ -434651,12 +434657,20 @@
           "target_video_id": "30984790",
           "permanent": false,
           "attempted_at": "2026-11-22T11:40:28.077061+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34799030",
+          "target_video_id": "30984790",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T18:05:47.636211+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34799030",
         "display_name": "Baaghi 2 (2018) 1080p CZ Titulky",
-        "planned_at": "2026-11-22T11:40:14.249054+00:00"
+        "planned_at": "2026-11-22T18:04:13.232714+00:00"
       },
       "previous_target_id": "30984790",
       "prepared": {
@@ -452181,5 +452195,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T18:03:59.290806+00:00"
+  "updated_at": "2026-11-22T18:05:47.636232+00:00"
 }
