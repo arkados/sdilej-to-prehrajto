@@ -298935,13 +298935,6 @@
           "source_id": "28759967",
           "target_video_id": "29599670",
           "permanent": false,
-          "attempted_at": "2026-11-22T05:30:02.572507+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28759967",
-          "target_video_id": "29599670",
-          "permanent": false,
           "attempted_at": "2026-11-22T08:19:43.827823+00:00"
         },
         {
@@ -298950,12 +298943,20 @@
           "target_video_id": "29599670",
           "permanent": false,
           "attempted_at": "2026-11-22T12:19:58.041774+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28759967",
+          "target_video_id": "29599670",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T19:21:10.832398+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28759967",
         "display_name": "Michal David – žít tak, jak se má (2021) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T12:19:35.292624+00:00"
+        "planned_at": "2026-11-22T19:19:56.172758+00:00"
       },
       "previous_target_id": "29599670",
       "prepared": {
@@ -309349,7 +309350,7 @@
       "last_plan": {
         "source_id": "22302170",
         "display_name": "Festival pana Rifkina (2020) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T12:20:13.989156+00:00"
+        "planned_at": "2026-11-22T19:19:56.931847+00:00"
       },
       "previous_target_id": "29608711",
       "prepared": {
@@ -315989,7 +315990,7 @@
       "last_plan": {
         "source_id": "13648431",
         "display_name": "Kult smrti (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T12:20:14.358865+00:00"
+        "planned_at": "2026-11-22T19:19:57.312244+00:00"
       },
       "previous_target_id": "29611130",
       "prepared": {
@@ -318298,7 +318299,7 @@
       "last_plan": {
         "source_id": "33746186",
         "display_name": "Taffin (1988) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T12:20:13.617241+00:00"
+        "planned_at": "2026-11-22T19:19:56.552100+00:00"
       },
       "previous_target_id": "29612026",
       "prepared": {
@@ -319589,7 +319590,7 @@
       "last_plan": {
         "source_id": "13798268",
         "display_name": "Zabij, nebo zemři (2016) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T12:20:14.720865+00:00"
+        "planned_at": "2026-11-22T19:19:57.693490+00:00"
       },
       "previous_target_id": "29612607",
       "prepared": {
@@ -452254,5 +452255,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T19:19:42.837671+00:00"
+  "updated_at": "2026-11-22T19:21:10.832416+00:00"
 }
