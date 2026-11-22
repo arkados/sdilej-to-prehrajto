@@ -138847,13 +138847,6 @@
           "source_id": "28003140",
           "target_video_id": "29747847",
           "permanent": false,
-          "attempted_at": "2026-11-22T04:54:45.953640+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28003140",
-          "target_video_id": "29747847",
-          "permanent": false,
           "attempted_at": "2026-11-22T07:53:52.949974+00:00"
         },
         {
@@ -138862,12 +138855,20 @@
           "target_video_id": "29747847",
           "permanent": false,
           "attempted_at": "2026-11-22T11:39:13.575074+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28003140",
+          "target_video_id": "29747847",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T17:52:06.769766+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28003140",
         "display_name": "Krb bez ohně (1937) SD CZ Dabing",
-        "planned_at": "2026-11-22T11:39:00.264823+00:00"
+        "planned_at": "2026-11-22T17:50:52.705371+00:00"
       },
       "previous_target_id": "29747847",
       "prepared": {
@@ -239656,7 +239657,7 @@
       "last_plan": {
         "source_id": "31754046",
         "display_name": "Zvědavý George (2006) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T11:39:01.008826+00:00"
+        "planned_at": "2026-11-22T17:50:53.458420+00:00"
       },
       "previous_target_id": "30996653",
       "prepared": {
@@ -283787,7 +283788,7 @@
       "last_plan": {
         "source_id": "34722883",
         "display_name": "Láska podle románu (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T11:39:37.933798+00:00"
+        "planned_at": "2026-11-22T17:50:53.833978+00:00"
       },
       "previous_target_id": "30997658",
       "prepared": {
@@ -358635,7 +358636,7 @@
       "last_plan": {
         "source_id": "34843931",
         "display_name": "Stupeň 6: Dny totální zkázy (2004) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T11:39:38.304220+00:00"
+        "planned_at": "2026-11-22T17:50:54.209858+00:00"
       },
       "previous_target_id": "30997946",
       "prepared": {
@@ -407665,7 +407666,7 @@
       "last_plan": {
         "source_id": "27824506",
         "display_name": "Devět životů (2004) 720p CZ Dabing",
-        "planned_at": "2026-11-22T11:39:00.634904+00:00"
+        "planned_at": "2026-11-22T17:50:53.080209+00:00"
       },
       "previous_target_id": "29747595",
       "prepared": {
@@ -452172,5 +452173,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T17:50:35.891024+00:00"
+  "updated_at": "2026-11-22T17:52:06.769786+00:00"
 }
