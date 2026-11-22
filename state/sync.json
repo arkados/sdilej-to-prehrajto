@@ -209673,13 +209673,6 @@
           "source_id": "30588020",
           "target_video_id": "29344077",
           "permanent": false,
-          "attempted_at": "2026-11-22T01:28:16.393705+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30588020",
-          "target_video_id": "29344077",
-          "permanent": false,
           "attempted_at": "2026-11-22T05:06:31.257383+00:00"
         },
         {
@@ -209688,12 +209681,20 @@
           "target_video_id": "29344077",
           "permanent": false,
           "attempted_at": "2026-11-22T08:04:42.328665+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30588020",
+          "target_video_id": "29344077",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T11:59:34.467269+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30588020",
         "display_name": "Destination Gobi (1953) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T08:04:27.335287+00:00"
+        "planned_at": "2026-11-22T11:58:20.266394+00:00"
       },
       "prepared": {
         "target_video_id": "29344077",
@@ -211712,7 +211713,7 @@
       "last_plan": {
         "source_id": "32991210",
         "display_name": "Společenství vlků (1984) 4K CZ Dabing",
-        "planned_at": "2026-11-22T08:04:58.698276+00:00"
+        "planned_at": "2026-11-22T11:58:21.003587+00:00"
       },
       "prepared": {
         "target_video_id": "29167729",
@@ -213740,7 +213741,7 @@
       "last_plan": {
         "source_id": "32353777",
         "display_name": "Vánoční expres (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T08:04:27.743128+00:00"
+        "planned_at": "2026-11-22T11:58:20.633715+00:00"
       },
       "prepared": {
         "target_video_id": "29230784",
@@ -213892,7 +213893,7 @@
       "last_plan": {
         "source_id": "33879935",
         "display_name": "Nejlepší z nejlepších: GOAT (2026) 4K CZ Dabing",
-        "planned_at": "2026-11-22T08:04:59.115293+00:00"
+        "planned_at": "2026-11-22T11:58:21.367623+00:00"
       },
       "prepared": {
         "target_video_id": "29230807",
@@ -215792,7 +215793,7 @@
       "last_plan": {
         "source_id": "28807021",
         "display_name": "Půlnoc v zahradě dobra a zla (1997) 720p CZ Titulky",
-        "planned_at": "2026-11-22T08:04:59.524318+00:00"
+        "planned_at": "2026-11-22T11:58:21.741666+00:00"
       },
       "previous_target_id": "29675454",
       "prepared": {
@@ -451913,5 +451914,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T11:58:07.151324+00:00"
+  "updated_at": "2026-11-22T11:59:34.467288+00:00"
 }
