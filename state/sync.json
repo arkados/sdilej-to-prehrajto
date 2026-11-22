@@ -217440,17 +217440,19 @@
       }
     },
     "23056": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30161300",
+          "target_video_id": "31240614",
+          "permanent": false,
+          "attempted_at": "2026-11-22T01:21:48.945102+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30161300",
         "display_name": "Železný trojúhelník (1989) SD CZ Dabing",
         "planned_at": "2026-11-22T01:20:09.789549+00:00"
-      },
-      "claim": {
-        "worker_id": "da97df4642184640af1f6a13cff81a15-shard-0",
-        "claimed_at": "2026-11-22T01:20:11.133394+00:00",
-        "lease_expires_at": "2026-11-22T07:20:11.133394+00:00",
-        "run_id": "44940753230"
       },
       "previous_target_id": "31240614",
       "prepared": {
@@ -451565,5 +451567,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T01:20:14.617201+00:00"
+  "updated_at": "2026-11-22T01:21:48.945120+00:00"
 }
