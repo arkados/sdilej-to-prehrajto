@@ -261459,17 +261459,19 @@
       }
     },
     "24125": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29034189",
+          "target_video_id": "31244612",
+          "permanent": false,
+          "attempted_at": "2026-11-22T05:10:52.291005+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29034189",
         "display_name": "Ponorka Nautilus (2000) SD CZ Dabing",
         "planned_at": "2026-11-22T05:09:05.283205+00:00"
-      },
-      "claim": {
-        "worker_id": "436c2285c772465baf4adb3342e1c2f1-shard-0",
-        "claimed_at": "2026-11-22T05:09:07.410436+00:00",
-        "lease_expires_at": "2026-11-22T11:09:07.410436+00:00",
-        "run_id": "44966394597"
       },
       "previous_target_id": "31244612",
       "prepared": {
@@ -451637,5 +451639,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T05:09:11.014476+00:00"
+  "updated_at": "2026-11-22T05:10:52.291021+00:00"
 }
