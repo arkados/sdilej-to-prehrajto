@@ -334733,13 +334733,6 @@
           "source_id": "34445518",
           "target_video_id": "29911067",
           "permanent": false,
-          "attempted_at": "2026-11-22T03:19:47.881386+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34445518",
-          "target_video_id": "29911067",
-          "permanent": false,
           "attempted_at": "2026-11-22T06:28:13.087510+00:00"
         },
         {
@@ -334748,12 +334741,20 @@
           "target_video_id": "29911067",
           "permanent": false,
           "attempted_at": "2026-11-22T09:19:49.642253+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34445518",
+          "target_video_id": "29911067",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T14:40:29.715578+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34445518",
         "display_name": "Noc a město (1992) SD CZ Dabing",
-        "planned_at": "2026-11-22T09:19:40.356164+00:00"
+        "planned_at": "2026-11-22T14:39:15.585211+00:00"
       },
       "previous_target_id": "29911067",
       "prepared": {
@@ -335194,7 +335195,7 @@
       "last_plan": {
         "source_id": "30645634",
         "display_name": "Rampage: Ničitelé (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T09:19:40.763513+00:00"
+        "planned_at": "2026-11-22T14:39:15.948444+00:00"
       },
       "previous_target_id": "29911074",
       "prepared": {
@@ -337877,7 +337878,7 @@
       "last_plan": {
         "source_id": "34694567",
         "display_name": "Svatba mezi ovcemi (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T09:19:41.176711+00:00"
+        "planned_at": "2026-11-22T14:39:16.422391+00:00"
       },
       "previous_target_id": "29911264",
       "prepared": {
@@ -340691,7 +340692,7 @@
       "last_plan": {
         "source_id": "11985151",
         "display_name": "Kristy (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T09:20:12.792191+00:00"
+        "planned_at": "2026-11-22T14:39:17.152187+00:00"
       },
       "previous_target_id": "29911958",
       "prepared": {
@@ -346552,7 +346553,7 @@
       "last_plan": {
         "source_id": "6546753",
         "display_name": "Pátek třináctého 4: Poslední kapitola (1984) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T09:19:41.585065+00:00"
+        "planned_at": "2026-11-22T14:39:16.782350+00:00"
       },
       "previous_target_id": "29911467",
       "prepared": {
@@ -452075,5 +452076,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T14:39:02.315786+00:00"
+  "updated_at": "2026-11-22T14:40:29.715596+00:00"
 }
