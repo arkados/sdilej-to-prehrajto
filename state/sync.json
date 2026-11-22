@@ -285704,17 +285704,19 @@
       }
     },
     "22918": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34172355",
+          "target_video_id": "31245178",
+          "permanent": false,
+          "attempted_at": "2026-11-22T05:45:00.856213+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34172355",
         "display_name": "On je má dívka (1987) SD CZ Dabing",
         "planned_at": "2026-11-22T05:43:29.003111+00:00"
-      },
-      "claim": {
-        "worker_id": "8f907dc0caa24accb158a25340f075ec-shard-0",
-        "claimed_at": "2026-11-22T05:43:31.125740+00:00",
-        "lease_expires_at": "2026-11-22T11:43:31.125740+00:00",
-        "run_id": "44966394597"
       },
       "previous_target_id": "31245178",
       "prepared": {
@@ -451732,5 +451734,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T05:43:34.695990+00:00"
+  "updated_at": "2026-11-22T05:45:00.856229+00:00"
 }
