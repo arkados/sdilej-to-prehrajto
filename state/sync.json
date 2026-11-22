@@ -252295,17 +252295,19 @@
       }
     },
     "22393": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31573258",
+          "target_video_id": "31241190",
+          "permanent": false,
+          "attempted_at": "2026-11-22T01:54:50.954129+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31573258",
         "display_name": "Přijíždí jezdec (1978) SD CZ Dabing",
         "planned_at": "2026-11-22T01:53:07.763592+00:00"
-      },
-      "claim": {
-        "worker_id": "f8cf778e93914f61aea767d04d29e22e-shard-0",
-        "claimed_at": "2026-11-22T01:53:09.046375+00:00",
-        "lease_expires_at": "2026-11-22T07:53:09.046375+00:00",
-        "run_id": "44940753230"
       },
       "previous_target_id": "31241190",
       "prepared": {
@@ -451524,5 +451526,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T01:53:12.309661+00:00"
+  "updated_at": "2026-11-22T01:54:50.954149+00:00"
 }
