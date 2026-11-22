@@ -23317,13 +23317,6 @@
           "source_id": "34504243",
           "target_video_id": "29757282",
           "permanent": false,
-          "attempted_at": "2026-11-22T05:11:02.330378+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34504243",
-          "target_video_id": "29757282",
-          "permanent": false,
           "attempted_at": "2026-11-22T08:07:33.583818+00:00"
         },
         {
@@ -23332,12 +23325,20 @@
           "target_video_id": "29757282",
           "permanent": false,
           "attempted_at": "2026-11-22T12:07:11.176267+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34504243",
+          "target_video_id": "29757282",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T18:34:34.428102+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34504243",
         "display_name": "Muž, který nebyl (2001) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T12:06:57.679502+00:00"
+        "planned_at": "2026-11-22T18:32:06.793276+00:00"
       },
       "previous_target_id": "29757282",
       "prepared": {
@@ -215498,7 +215499,7 @@
       "last_plan": {
         "source_id": "21525784",
         "display_name": "Ukradené dětství (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T12:06:58.425609+00:00"
+        "planned_at": "2026-11-22T18:32:07.550502+00:00"
       },
       "prepared": {
         "target_video_id": "29222039",
@@ -217306,7 +217307,7 @@
       "last_plan": {
         "source_id": "30130452",
         "display_name": "Ples s princeznou (2019) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T12:06:58.055663+00:00"
+        "planned_at": "2026-11-22T18:32:07.171752+00:00"
       },
       "prepared": {
         "target_video_id": "29222397",
@@ -218126,13 +218127,6 @@
           "source_id": "26477759",
           "target_video_id": "29344175",
           "permanent": false,
-          "attempted_at": "2026-11-22T05:10:58.702455+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26477759",
-          "target_video_id": "29344175",
-          "permanent": false,
           "attempted_at": "2026-11-22T08:07:29.951225+00:00"
         },
         {
@@ -218141,12 +218135,19 @@
           "target_video_id": "29344175",
           "permanent": false,
           "attempted_at": "2026-11-22T12:07:06.676450+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26477759",
+          "target_video_id": "29344175",
+          "permanent": false,
+          "attempted_at": "2026-11-22T18:33:20.901807+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26477759",
         "display_name": "Linoleum (2022) 720p CZ Titulky",
-        "planned_at": "2026-11-22T12:06:57.305057+00:00"
+        "planned_at": "2026-11-22T18:32:06.415056+00:00"
       },
       "prepared": {
         "target_video_id": "29344175",
@@ -407568,7 +407569,7 @@
       "last_plan": {
         "source_id": "22900604",
         "display_name": "Deus (2022) 1080p CZ Titulky",
-        "planned_at": "2026-11-22T12:07:32.416799+00:00"
+        "planned_at": "2026-11-22T18:32:07.927519+00:00"
       },
       "previous_target_id": "30984946",
       "prepared": {
@@ -452216,5 +452217,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T18:31:49.893384+00:00"
+  "updated_at": "2026-11-22T18:34:34.428120+00:00"
 }
