@@ -14418,7 +14418,20 @@
       }
     },
     "35625": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29868465",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-22T12:45:21.907709+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "29868465",
+        "display_name": "Minulost (2013) SD CZ Dabing",
+        "planned_at": "2026-11-22T12:44:59.249482+00:00"
+      }
     },
     "10817": {
       "attempts": [
@@ -19532,7 +19545,7 @@
       "last_plan": {
         "source_id": "31006863",
         "display_name": "Pět lupičů a stará dáma (1955) 720p CZ Dabing",
-        "planned_at": "2026-11-22T08:31:50.220498+00:00"
+        "planned_at": "2026-11-22T12:45:00.594869+00:00"
       },
       "previous_target_id": "29559427",
       "prepared": {
@@ -330310,12 +330323,19 @@
           "source_id": "29796407",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-22T12:39:40.720339+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29796407",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-22T12:45:43.215109+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29796407",
         "display_name": "The Collection (2012) 1080p CZ Titulky",
-        "planned_at": "2026-11-22T12:39:18.271870+00:00"
+        "planned_at": "2026-11-22T12:44:59.647172+00:00"
       }
     },
     "5950": {
@@ -332666,13 +332686,6 @@
           "source_id": "26550838",
           "target_video_id": "29531613",
           "permanent": false,
-          "attempted_at": "2026-11-22T01:56:00.348883+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26550838",
-          "target_video_id": "29531613",
-          "permanent": false,
           "attempted_at": "2026-11-22T05:46:48.664208+00:00"
         },
         {
@@ -332681,12 +332694,20 @@
           "target_video_id": "29531613",
           "permanent": false,
           "attempted_at": "2026-11-22T08:31:37.806593+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26550838",
+          "target_video_id": "29531613",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T12:46:55.822914+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26550838",
         "display_name": "22. míle (2018) 4K CZ Dabing",
-        "planned_at": "2026-11-22T08:31:16.538694+00:00"
+        "planned_at": "2026-11-22T12:45:00.228448+00:00"
       },
       "previous_target_id": "29531613",
       "prepared": {
@@ -369329,7 +369350,7 @@
       "last_plan": {
         "source_id": "34737226",
         "display_name": "Delirium (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T08:31:50.638567+00:00"
+        "planned_at": "2026-11-22T12:45:00.962555+00:00"
       },
       "previous_target_id": "29707180",
       "prepared": {
@@ -451979,5 +452000,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T12:44:41.368338+00:00"
+  "updated_at": "2026-11-22T12:46:55.822931+00:00"
 }
