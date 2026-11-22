@@ -224310,13 +224310,6 @@
           "source_id": "5965772",
           "target_video_id": "30569577",
           "permanent": false,
-          "attempted_at": "2026-11-22T03:52:43.897635+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "5965772",
-          "target_video_id": "30569577",
-          "permanent": false,
           "attempted_at": "2026-11-22T07:00:52.803561+00:00"
         },
         {
@@ -224325,12 +224318,20 @@
           "target_video_id": "30569577",
           "permanent": false,
           "attempted_at": "2026-11-22T09:57:57.728502+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "5965772",
+          "target_video_id": "30569577",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T15:57:52.678332+00:00"
         }
       ],
       "last_plan": {
         "source_id": "5965772",
         "display_name": "Eichmann show (2015) SD CZ Dabing",
-        "planned_at": "2026-11-22T09:57:48.181031+00:00"
+        "planned_at": "2026-11-22T15:56:36.756872+00:00"
       },
       "previous_target_id": "30569577",
       "prepared": {
@@ -224739,7 +224740,7 @@
       "last_plan": {
         "source_id": "33677735",
         "display_name": "Útěk před minulostí (2019) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T09:57:48.558806+00:00"
+        "planned_at": "2026-11-22T15:56:37.146066+00:00"
       },
       "previous_target_id": "30787146",
       "prepared": {
@@ -225734,7 +225735,7 @@
       "last_plan": {
         "source_id": "21389836",
         "display_name": "Hra zla (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T09:57:48.932625+00:00"
+        "planned_at": "2026-11-22T15:56:37.539512+00:00"
       },
       "previous_target_id": "30705827",
       "prepared": {
@@ -226095,7 +226096,7 @@
       "last_plan": {
         "source_id": "31506749",
         "display_name": "Líbáš jako Bůh (2009) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T09:57:49.308707+00:00"
+        "planned_at": "2026-11-22T15:56:37.927099+00:00"
       },
       "previous_target_id": "30809039",
       "prepared": {
@@ -226558,7 +226559,7 @@
       "last_plan": {
         "source_id": "34725067",
         "display_name": "Džúičinin no zokugun (2024) 720p CZ Titulky",
-        "planned_at": "2026-11-22T09:58:23.578830+00:00"
+        "planned_at": "2026-11-22T15:56:38.314603+00:00"
       },
       "previous_target_id": "30789397",
       "prepared": {
@@ -452107,5 +452108,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T15:56:23.025166+00:00"
+  "updated_at": "2026-11-22T15:57:52.678350+00:00"
 }
