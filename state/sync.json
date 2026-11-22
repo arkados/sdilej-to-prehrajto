@@ -130080,13 +130080,6 @@
           "source_id": "23221863",
           "target_video_id": "29276356",
           "permanent": false,
-          "attempted_at": "2026-11-22T06:17:34.655034+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "23221863",
-          "target_video_id": "29276356",
-          "permanent": false,
           "attempted_at": "2026-11-22T09:04:56.690827+00:00"
         },
         {
@@ -130095,12 +130088,20 @@
           "target_video_id": "29276356",
           "permanent": false,
           "attempted_at": "2026-11-22T14:16:13.272980+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "23221863",
+          "target_video_id": "29276356",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T22:03:24.177421+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23221863",
         "display_name": "Ten svetr si nesvlíkej (1981) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T14:16:01.039978+00:00"
+        "planned_at": "2026-11-22T22:02:09.917466+00:00"
       },
       "prepared": {
         "target_video_id": "29276356",
@@ -133485,7 +133486,7 @@
       "last_plan": {
         "source_id": "31513493",
         "display_name": "Dědečkem proti své vůli (1939) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T14:16:01.404780+00:00"
+        "planned_at": "2026-11-22T22:02:10.291938+00:00"
       },
       "prepared": {
         "target_video_id": "29136445",
@@ -134091,7 +134092,7 @@
       "last_plan": {
         "source_id": "34530570",
         "display_name": "Velký případ malého detektiva a policejního psa Kykýna (1982) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T14:16:36.190973+00:00"
+        "planned_at": "2026-11-22T22:02:10.659621+00:00"
       },
       "prepared": {
         "target_video_id": "29409057",
@@ -135474,7 +135475,7 @@
       "last_plan": {
         "source_id": "32941007",
         "display_name": "Websterovi ve filmu (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T14:16:36.553039+00:00"
+        "planned_at": "2026-11-22T22:02:11.019563+00:00"
       },
       "previous_target_id": "29698278",
       "prepared": {
@@ -242040,7 +242041,7 @@
       "last_plan": {
         "source_id": "11212511",
         "display_name": "Operace Dunaj (2009) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T14:16:36.926781+00:00"
+        "planned_at": "2026-11-22T22:02:11.387798+00:00"
       },
       "previous_target_id": "29852852",
       "prepared": {
@@ -452326,5 +452327,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T22:01:53.495523+00:00"
+  "updated_at": "2026-11-22T22:03:24.177440+00:00"
 }
