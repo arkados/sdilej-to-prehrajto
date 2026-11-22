@@ -307389,13 +307389,6 @@
           "source_id": "34901056",
           "target_video_id": "31039553",
           "permanent": false,
-          "attempted_at": "2026-11-22T06:36:56.562640+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34901056",
-          "target_video_id": "31039553",
-          "permanent": false,
           "attempted_at": "2026-11-22T09:33:21.282035+00:00"
         },
         {
@@ -307404,12 +307397,20 @@
           "target_video_id": "31039553",
           "permanent": false,
           "attempted_at": "2026-11-22T15:12:15.250085+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34901056",
+          "target_video_id": "31039553",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T22:37:30.256129+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34901056",
         "display_name": "Motor City (2026) 1440p CZ Titulky",
-        "planned_at": "2026-11-22T15:11:57.821881+00:00"
+        "planned_at": "2026-11-22T22:35:54.497355+00:00"
       },
       "previous_target_id": "31039553",
       "prepared": {
@@ -377739,7 +377740,7 @@
       "last_plan": {
         "source_id": "34724671",
         "display_name": "The Seeding (2024) 1080p CZ Titulky",
-        "planned_at": "2026-11-22T15:11:58.193349+00:00"
+        "planned_at": "2026-11-22T22:35:54.885473+00:00"
       },
       "previous_target_id": "31047374",
       "prepared": {
@@ -386823,7 +386824,7 @@
       "last_plan": {
         "source_id": "11744812",
         "display_name": "Učitelé na zakázku (2013) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T15:12:32.290157+00:00"
+        "planned_at": "2026-11-22T22:35:55.642633+00:00"
       },
       "previous_target_id": "29936499",
       "prepared": {
@@ -401531,7 +401532,20 @@
       }
     },
     "30053": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29800716",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-22T22:36:16.522005+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "29800716",
+        "display_name": "Monstrum z bažin (2009) SD CZ Dabing",
+        "planned_at": "2026-11-22T22:35:54.079043+00:00"
+      }
     },
     "34040": {
       "attempts": [
@@ -418219,7 +418233,7 @@
       "last_plan": {
         "source_id": "32941070",
         "display_name": "Behemot (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T15:12:31.911123+00:00"
+        "planned_at": "2026-11-22T22:35:55.271216+00:00"
       },
       "previous_target_id": "29934794",
       "prepared": {
@@ -452340,5 +452354,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T22:35:40.992995+00:00"
+  "updated_at": "2026-11-22T22:37:30.256147+00:00"
 }
