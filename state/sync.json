@@ -212686,13 +212686,6 @@
           "source_id": "12136921",
           "target_video_id": "30192642",
           "permanent": false,
-          "attempted_at": "2026-11-22T03:51:09.748075+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12136921",
-          "target_video_id": "30192642",
-          "permanent": false,
           "attempted_at": "2026-11-22T06:59:10.236572+00:00"
         },
         {
@@ -212701,12 +212694,20 @@
           "target_video_id": "30192642",
           "permanent": false,
           "attempted_at": "2026-11-22T09:56:10.542662+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12136921",
+          "target_video_id": "30192642",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T15:38:18.701758+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12136921",
         "display_name": "Pomsta (2019) 4K CZ Dabing",
-        "planned_at": "2026-11-22T09:55:59.076607+00:00"
+        "planned_at": "2026-11-22T15:37:04.115463+00:00"
       },
       "previous_target_id": "30192642",
       "prepared": {
@@ -216151,7 +216152,7 @@
       "last_plan": {
         "source_id": "29604909",
         "display_name": "Horizont: Americká sága (2024) 4K CZ Titulky",
-        "planned_at": "2026-11-22T09:55:59.451382+00:00"
+        "planned_at": "2026-11-22T15:37:04.490141+00:00"
       },
       "previous_target_id": "30201352",
       "prepared": {
@@ -216499,7 +216500,7 @@
       "last_plan": {
         "source_id": "35184210",
         "display_name": "Pomsta v srdci (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T09:55:59.820272+00:00"
+        "planned_at": "2026-11-22T15:37:04.863824+00:00"
       },
       "previous_target_id": "30556870",
       "prepared": {
@@ -218510,7 +218511,7 @@
       "last_plan": {
         "source_id": "30850709",
         "display_name": "Hra s vrahem (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T09:56:00.189394+00:00"
+        "planned_at": "2026-11-22T15:37:05.238595+00:00"
       },
       "previous_target_id": "30559861",
       "prepared": {
@@ -219645,7 +219646,7 @@
       "last_plan": {
         "source_id": "35103809",
         "display_name": "Žhavé výstřely 2 (1993) 4K CZ Dabing",
-        "planned_at": "2026-11-22T09:56:36.454892+00:00"
+        "planned_at": "2026-11-22T15:37:05.613247+00:00"
       },
       "previous_target_id": "30563098",
       "prepared": {
@@ -452092,5 +452093,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T15:36:50.363284+00:00"
+  "updated_at": "2026-11-22T15:38:18.701775+00:00"
 }
