@@ -430043,17 +430043,19 @@
       }
     },
     "30044": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32136766",
+          "target_video_id": "31244773",
+          "permanent": false,
+          "attempted_at": "2026-11-22T05:19:38.167291+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32136766",
         "display_name": "Blázinec na koleji (2003) SD CZ Dabing",
         "planned_at": "2026-11-22T05:14:49.729315+00:00"
-      },
-      "claim": {
-        "worker_id": "b069eec6f12844af954023e8f62720bd-shard-0",
-        "claimed_at": "2026-11-22T05:17:36.010737+00:00",
-        "lease_expires_at": "2026-11-22T11:17:36.010737+00:00",
-        "run_id": "44966394597"
       },
       "previous_target_id": "31244773",
       "prepared": {
@@ -451675,5 +451677,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T05:17:39.446643+00:00"
+  "updated_at": "2026-11-22T05:19:38.167307+00:00"
 }
