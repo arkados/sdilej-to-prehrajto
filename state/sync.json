@@ -278445,17 +278445,19 @@
       }
     },
     "15902": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30675697",
+          "target_video_id": "31239980",
+          "permanent": false,
+          "attempted_at": "2026-11-22T00:45:58.698553+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30675697",
         "display_name": "Siksa Kubur (2024) 1080p CZ Titulky",
         "planned_at": "2026-11-22T00:39:40.221807+00:00"
-      },
-      "claim": {
-        "worker_id": "daee3fa9b50f4774a7f24bb4e31b66fb-shard-0",
-        "claimed_at": "2026-11-22T00:39:41.549325+00:00",
-        "lease_expires_at": "2026-11-22T06:39:41.549325+00:00",
-        "run_id": "44940753230"
       },
       "previous_target_id": "31239980",
       "prepared": {
@@ -451482,5 +451484,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T00:39:45.300919+00:00"
+  "updated_at": "2026-11-22T00:45:58.698571+00:00"
 }
