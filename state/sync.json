@@ -16386,13 +16386,6 @@
           "source_id": "28301385",
           "target_video_id": "29336060",
           "permanent": false,
-          "attempted_at": "2026-11-22T01:56:12.810127+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28301385",
-          "target_video_id": "29336060",
-          "permanent": false,
           "attempted_at": "2026-11-22T05:47:01.203306+00:00"
         },
         {
@@ -16401,12 +16394,20 @@
           "target_video_id": "29336060",
           "permanent": false,
           "attempted_at": "2026-11-22T08:32:04.455263+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28301385",
+          "target_video_id": "29336060",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T12:50:58.264796+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28301385",
         "display_name": "Sbohem, baby (2007) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T08:31:51.054570+00:00"
+        "planned_at": "2026-11-22T12:49:44.091091+00:00"
       },
       "prepared": {
         "target_video_id": "29336060",
@@ -16558,7 +16559,7 @@
       "last_plan": {
         "source_id": "29165269",
         "display_name": "Víly z Inisherinu (2022) 720p CZ Dabing",
-        "planned_at": "2026-11-22T08:31:51.472727+00:00"
+        "planned_at": "2026-11-22T12:49:44.460089+00:00"
       },
       "prepared": {
         "target_video_id": "29336236",
@@ -16609,7 +16610,7 @@
       "last_plan": {
         "source_id": "28172188",
         "display_name": "Patrola (2012) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T08:31:51.890950+00:00"
+        "planned_at": "2026-11-22T12:49:44.819823+00:00"
       },
       "prepared": {
         "target_video_id": "29154104",
@@ -19782,7 +19783,7 @@
       "last_plan": {
         "source_id": "34785737",
         "display_name": "Dragon Ball Z: The History of Trunks (1993) 1080p CZ Titulky",
-        "planned_at": "2026-11-22T08:32:25.384010+00:00"
+        "planned_at": "2026-11-22T12:49:45.547951+00:00"
       },
       "previous_target_id": "29559537",
       "prepared": {
@@ -370486,7 +370487,7 @@
       "last_plan": {
         "source_id": "26903578",
         "display_name": "Trable o Vánocích (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T08:32:24.960286+00:00"
+        "planned_at": "2026-11-22T12:49:45.183950+00:00"
       },
       "previous_target_id": "29707694",
       "prepared": {
@@ -452002,5 +452003,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T12:49:30.448763+00:00"
+  "updated_at": "2026-11-22T12:50:58.264813+00:00"
 }
