@@ -9882,17 +9882,19 @@
       }
     },
     "31019": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30674637",
+          "target_video_id": "31243274",
+          "permanent": false,
+          "attempted_at": "2026-11-22T04:03:27.383402+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30674637",
         "display_name": "American Utopia (2020) 1080p CZ Titulky",
         "planned_at": "2026-11-22T03:54:32.928444+00:00"
-      },
-      "claim": {
-        "worker_id": "c0652bb8d16a44bbb4e0b63f64b1d78f-shard-0",
-        "claimed_at": "2026-11-22T03:54:34.266803+00:00",
-        "lease_expires_at": "2026-11-22T09:54:34.266803+00:00",
-        "run_id": "44940753230"
       },
       "previous_target_id": "31243274",
       "prepared": {
@@ -451531,5 +451533,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T03:54:37.821273+00:00"
+  "updated_at": "2026-11-22T04:03:27.383422+00:00"
 }
