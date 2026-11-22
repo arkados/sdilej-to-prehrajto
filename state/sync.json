@@ -401551,18 +401551,20 @@
           "source_id": "29800716",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-22T22:41:54.937055+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29800716",
+          "target_video_id": "31263365",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T22:50:14.589385+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29800716",
         "display_name": "Monstrum z bažin (2009) SD CZ Dabing",
         "planned_at": "2026-11-22T22:47:09.044532+00:00"
-      },
-      "claim": {
-        "worker_id": "0b4e74615c2147b28166d00d93cc6fbf-shard-0",
-        "claimed_at": "2026-11-22T22:47:10.940484+00:00",
-        "lease_expires_at": "2026-11-23T04:47:10.940484+00:00",
-        "run_id": "45043391689"
       },
       "previous_target_id": "31263365",
       "prepared": {
@@ -452380,5 +452382,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T22:47:33.865980+00:00"
+  "updated_at": "2026-11-22T22:50:14.589402+00:00"
 }
