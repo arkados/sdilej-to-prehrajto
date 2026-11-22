@@ -145919,13 +145919,6 @@
           "source_id": "35428451",
           "target_video_id": "30763826",
           "permanent": false,
-          "attempted_at": "2026-11-22T04:29:18.615021+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35428451",
-          "target_video_id": "30763826",
-          "permanent": false,
           "attempted_at": "2026-11-22T07:24:16.650143+00:00"
         },
         {
@@ -145934,12 +145927,20 @@
           "target_video_id": "30763826",
           "permanent": false,
           "attempted_at": "2026-11-22T11:12:12.036121+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35428451",
+          "target_video_id": "30763826",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-22T16:40:37.898986+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35428451",
         "display_name": "Bouře minulosti (2020) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T11:11:54.918467+00:00"
+        "planned_at": "2026-11-22T16:39:23.064150+00:00"
       },
       "previous_target_id": "30763826",
       "prepared": {
@@ -146619,7 +146620,7 @@
       "last_plan": {
         "source_id": "35428807",
         "display_name": "Vraždy ve Valenciennes (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T11:11:55.289692+00:00"
+        "planned_at": "2026-11-22T16:39:23.442263+00:00"
       },
       "previous_target_id": "30763955",
       "prepared": {
@@ -149764,7 +149765,7 @@
       "last_plan": {
         "source_id": "35418934",
         "display_name": "Stíny smrti: Vražda v Luberonu (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T11:12:28.862576+00:00"
+        "planned_at": "2026-11-22T16:39:23.819714+00:00"
       },
       "previous_target_id": "30764695",
       "prepared": {
@@ -447961,7 +447962,7 @@
       "last_plan": {
         "source_id": "31289529",
         "display_name": "Megalodon: Černý démon (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-22T11:12:29.232811+00:00"
+        "planned_at": "2026-11-22T16:39:24.196888+00:00"
       },
       "previous_target_id": "30434532",
       "prepared": {
@@ -448372,7 +448373,7 @@
       "last_plan": {
         "source_id": "27635117",
         "display_name": "Hříšný tanec (2017) 720p CZ Dabing",
-        "planned_at": "2026-11-22T11:12:29.607020+00:00"
+        "planned_at": "2026-11-22T16:39:24.574889+00:00"
       },
       "previous_target_id": "30435979",
       "prepared": {
@@ -452125,5 +452126,5 @@
       }
     }
   },
-  "updated_at": "2026-11-22T16:39:09.289540+00:00"
+  "updated_at": "2026-11-22T16:40:37.899006+00:00"
 }
