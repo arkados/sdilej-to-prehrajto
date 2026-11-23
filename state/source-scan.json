@@ -537443,15 +537443,6 @@
     "25085": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-23T00:09:43.154132+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -537466,6 +537457,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-23T12:41:01.984397+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-11-23T23:54:07.277058+00:00"
         }
       ]
     },
@@ -722131,5 +722129,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-23T23:51:19.024920+00:00"
+  "updated_at": "2026-11-23T23:54:07.277075+00:00"
 }
