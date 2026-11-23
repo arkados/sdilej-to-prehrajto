@@ -63,6 +63,18 @@ def test_rejects_shorter_cut_even_when_difference_is_under_twenty_percent() -> N
     assert result.reason == "wrong_runtime"
 
 
+def test_documented_edition_keeps_title_year_and_duration_guards() -> None:
+    title = "Synové hor"
+    entry = Film(24064, "synove-hor", title, None, 1956, 92, "cs")
+    documented = classify_candidate(entry, f"{title} (1956).mkv", duration_sec=4913)
+    assert documented.tier == MatchTier.STRONG
+    assert documented.evidence["documented_release_runtime_min"] == 82
+    assert classify_candidate(entry, f"{title} (1956).mkv", duration_sec=5520).tier == MatchTier.STRONG
+    assert classify_candidate(entry, f"{title} (1956).mkv", duration_sec=4400).reason == "wrong_runtime"
+    assert classify_candidate(entry, f"{title}.mkv", duration_sec=4913).reason == "wrong_runtime"
+    assert classify_candidate(entry, f"{title} (1957).mkv", duration_sec=4913).reason == "wrong_year"
+
+
 def test_accepts_longer_extended_cut_with_matching_title_and_year() -> None:
     result = classify_candidate(
         film(),

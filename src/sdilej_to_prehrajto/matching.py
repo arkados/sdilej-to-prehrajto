@@ -13,6 +13,14 @@ RUNTIME_TOLERANCE = 0.05
 RUNTIME_SHORTFALL_REJECT = 0.05
 RUNTIME_HARD_REJECT = 0.40
 SIMILARITY_GATE = 0.58
+# Published broadcast editions can differ from the archive's theatrical
+# runtime. Apply these only to a title with an explicit matching year.
+RELEASE_RUNTIMES = {
+    # https://www.ceskatelevize.cz/porady/15988-synove-hor/
+    (24064, 1956): 82,
+    # https://www.iprima.cz/filmy/deti-na-zakazku
+    (12568, 1938): 69,
+}
 EPISODE_RE = re.compile(r"\bS\d{1,2}E\d{1,3}\b|\b\d{1,2}x\d{1,3}\b", re.I)
 YEAR_RE = re.compile(r"(?<!\d)(19\d{2}|20\d{2})(?!\d)")
 RELEASE_NOISE_RE = re.compile(
@@ -110,9 +118,18 @@ def classify_candidate(
                 )
 
     runtime_delta = None
+    alternate_runtime = None
     if film.runtime_min and duration_sec:
         runtime_ratio = duration_sec / 60 / film.runtime_min
         runtime_delta = abs(runtime_ratio - 1)
+        if contains and candidate_year == film.year:
+            documented = RELEASE_RUNTIMES.get((film.cr_film_id, film.year))
+            if documented:
+                alternate_ratio = duration_sec / 60 / documented
+                alternate_delta = abs(alternate_ratio - 1)
+                if alternate_delta <= RUNTIME_TOLERANCE and alternate_delta < runtime_delta:
+                    runtime_ratio, runtime_delta = alternate_ratio, alternate_delta
+                    alternate_runtime = documented
         if (
             runtime_ratio <= 1 - RUNTIME_SHORTFALL_REJECT
             or runtime_delta >= RUNTIME_HARD_REJECT
@@ -138,6 +155,8 @@ def classify_candidate(
         "candidate_runtime_sec": duration_sec,
         "runtime_delta": round(runtime_delta, 3) if runtime_delta is not None else None,
     }
+    if alternate_runtime is not None:
+        evidence["documented_release_runtime_min"] = alternate_runtime
     if score < SIMILARITY_GATE and not contains:
         return MatchResult(MatchTier.REJECT, score, evidence, "title_mismatch")
 
