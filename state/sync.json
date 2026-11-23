@@ -222118,13 +222118,6 @@
           "source_id": "33114431",
           "target_video_id": "29185858",
           "permanent": false,
-          "attempted_at": "2026-11-23T10:09:25.337672+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33114431",
-          "target_video_id": "29185858",
-          "permanent": false,
           "attempted_at": "2026-11-23T12:51:30.769135+00:00"
         },
         {
@@ -222134,12 +222127,20 @@
           "target_video_id": "29185858",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-23T15:43:10.444241+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33114431",
+          "target_video_id": "29185858",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T22:26:59.362049+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33114431",
         "display_name": "Stáhni mě do pekla (2009) 4K CZ Dabing",
-        "planned_at": "2026-11-23T15:40:37.478203+00:00"
+        "planned_at": "2026-11-23T22:25:46.245207+00:00"
       },
       "prepared": {
         "target_video_id": "29185858",
@@ -223653,7 +223654,7 @@
       "last_plan": {
         "source_id": "34656522",
         "display_name": "Bývala jsem vtipná (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T15:40:38.306113+00:00"
+        "planned_at": "2026-11-23T22:25:46.742438+00:00"
       },
       "prepared": {
         "target_video_id": "29282766",
@@ -227124,7 +227125,7 @@
       "last_plan": {
         "source_id": "33756366",
         "display_name": "Úhlavní kamarádky (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T15:40:38.714304+00:00"
+        "planned_at": "2026-11-23T22:25:46.992716+00:00"
       },
       "prepared": {
         "target_video_id": "29233746",
@@ -230876,7 +230877,7 @@
       "last_plan": {
         "source_id": "31433621",
         "display_name": "Fotr na inzerát (2011) SD CZ Dabing",
-        "planned_at": "2026-11-23T15:47:09.252848+00:00"
+        "planned_at": "2026-11-23T22:25:47.242599+00:00"
       },
       "prepared": {
         "target_video_id": "29366649",
@@ -241556,7 +241557,7 @@
       "last_plan": {
         "source_id": "30955755",
         "display_name": "Pozdě, ale přece (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T15:40:37.889219+00:00"
+        "planned_at": "2026-11-23T22:25:46.493166+00:00"
       },
       "prepared": {
         "target_video_id": "29234765",
@@ -452179,5 +452180,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T22:25:33.998753+00:00"
+  "updated_at": "2026-11-23T22:26:59.362069+00:00"
 }
