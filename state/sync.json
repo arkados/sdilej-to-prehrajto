@@ -127318,13 +127318,6 @@
           "source_id": "34771030",
           "target_video_id": "30983485",
           "permanent": false,
-          "attempted_at": "2026-11-23T09:40:21.138141+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34771030",
-          "target_video_id": "30983485",
-          "permanent": false,
           "attempted_at": "2026-11-23T12:15:45.769090+00:00"
         },
         {
@@ -127333,12 +127326,20 @@
           "target_video_id": "30983485",
           "permanent": false,
           "attempted_at": "2026-11-23T15:04:15.204207+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34771030",
+          "target_video_id": "30983485",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T21:05:45.038706+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34771030",
         "display_name": "Pronásledována manželem: Neznámý příběh washingtonského odstřelovače (2025) 1080p SK Dabing",
-        "planned_at": "2026-11-23T15:04:08.287211+00:00"
+        "planned_at": "2026-11-23T21:04:30.501830+00:00"
       },
       "previous_target_id": "30983485",
       "prepared": {
@@ -128187,7 +128188,7 @@
       "last_plan": {
         "source_id": "30659376",
         "display_name": "Zborov (1939) SD CZ Dabing",
-        "planned_at": "2026-11-23T15:04:08.703077+00:00"
+        "planned_at": "2026-11-23T21:04:30.919675+00:00"
       },
       "previous_target_id": "30983497",
       "prepared": {
@@ -128277,7 +128278,7 @@
       "last_plan": {
         "source_id": "27909373",
         "display_name": "Vražda po našem (1967) SD CZ Dabing",
-        "planned_at": "2026-11-23T15:04:09.116461+00:00"
+        "planned_at": "2026-11-23T21:04:31.333137+00:00"
       },
       "previous_target_id": "30983519",
       "prepared": {
@@ -129938,7 +129939,7 @@
       "last_plan": {
         "source_id": "30626666",
         "display_name": "Konec cesty (1960) SD CZ Dabing",
-        "planned_at": "2026-11-23T15:04:09.533758+00:00"
+        "planned_at": "2026-11-23T21:04:31.740187+00:00"
       },
       "previous_target_id": "30983536",
       "prepared": {
@@ -130762,7 +130763,7 @@
       "last_plan": {
         "source_id": "30521084",
         "display_name": "Vražda v Ostrovní ulici (1933) SD CZ Dabing",
-        "planned_at": "2026-11-23T15:04:09.945640+00:00"
+        "planned_at": "2026-11-23T21:04:32.145038+00:00"
       },
       "previous_target_id": "30983561",
       "prepared": {
@@ -452135,5 +452136,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T21:04:16.241661+00:00"
+  "updated_at": "2026-11-23T21:05:45.038727+00:00"
 }
