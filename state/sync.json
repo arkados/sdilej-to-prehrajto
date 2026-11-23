@@ -181621,13 +181621,6 @@
           "source_id": "24938055",
           "target_video_id": "30135999",
           "permanent": false,
-          "attempted_at": "2026-11-23T08:40:02.413995+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24938055",
-          "target_video_id": "30135999",
-          "permanent": false,
           "attempted_at": "2026-11-23T11:35:36.046289+00:00"
         },
         {
@@ -181636,12 +181629,20 @@
           "target_video_id": "30135999",
           "permanent": false,
           "attempted_at": "2026-11-23T14:22:25.971343+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "24938055",
+          "target_video_id": "30135999",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T18:27:32.521869+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24938055",
         "display_name": "Modelky s.r.o. (2014) 1080p",
-        "planned_at": "2026-11-23T14:22:05.089394+00:00"
+        "planned_at": "2026-11-23T18:26:17.344952+00:00"
       },
       "previous_target_id": "30135999",
       "prepared": {
@@ -182014,7 +182015,7 @@
       "last_plan": {
         "source_id": "34526349",
         "display_name": "Piráti! (2012) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:22:38.584335+00:00"
+        "planned_at": "2026-11-23T18:26:17.763377+00:00"
       },
       "previous_target_id": "30136791",
       "prepared": {
@@ -183158,7 +183159,7 @@
       "last_plan": {
         "source_id": "30812564",
         "display_name": "Rozsudek smrti (2007) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:22:39.005355+00:00"
+        "planned_at": "2026-11-23T18:26:18.177864+00:00"
       },
       "previous_target_id": "30140439",
       "prepared": {
@@ -183391,7 +183392,7 @@
       "last_plan": {
         "source_id": "25470328",
         "display_name": "Láska s vůní medu (2021) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:22:39.418659+00:00"
+        "planned_at": "2026-11-23T18:26:18.587092+00:00"
       },
       "previous_target_id": "30140765",
       "prepared": {
@@ -183427,7 +183428,7 @@
       "last_plan": {
         "source_id": "29238534",
         "display_name": "Nejhledanější muž (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:22:39.829810+00:00"
+        "planned_at": "2026-11-23T18:26:19.000255+00:00"
       },
       "previous_target_id": "30140818",
       "prepared": {
@@ -452041,5 +452042,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T18:26:03.523013+00:00"
+  "updated_at": "2026-11-23T18:27:32.521886+00:00"
 }
