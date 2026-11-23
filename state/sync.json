@@ -126329,13 +126329,6 @@
           "source_id": "30161365",
           "target_video_id": "30983234",
           "permanent": false,
-          "attempted_at": "2026-11-23T09:39:10.114616+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30161365",
-          "target_video_id": "30983234",
-          "permanent": false,
           "attempted_at": "2026-11-23T12:14:31.720963+00:00"
         },
         {
@@ -126344,12 +126337,20 @@
           "target_video_id": "30983234",
           "permanent": false,
           "attempted_at": "2026-11-23T15:02:54.028324+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30161365",
+          "target_video_id": "30983234",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T20:52:33.854092+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30161365",
         "display_name": "Směry života (1940) SD",
-        "planned_at": "2026-11-23T15:02:47.335937+00:00"
+        "planned_at": "2026-11-23T20:51:19.335307+00:00"
       },
       "previous_target_id": "30983234",
       "prepared": {
@@ -126660,7 +126661,7 @@
       "last_plan": {
         "source_id": "31648494",
         "display_name": "Městečko na dlani (1942) 720p CZ Dabing",
-        "planned_at": "2026-11-23T15:02:47.749402+00:00"
+        "planned_at": "2026-11-23T20:51:19.754744+00:00"
       },
       "previous_target_id": "30983258",
       "prepared": {
@@ -143076,7 +143077,7 @@
       "last_plan": {
         "source_id": "35291987",
         "display_name": "Někdo to rád v Plzni (2026) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T15:02:48.165255+00:00"
+        "planned_at": "2026-11-23T20:51:20.166205+00:00"
       },
       "previous_target_id": "30993693",
       "prepared": {
@@ -250746,7 +250747,7 @@
       "last_plan": {
         "source_id": "34903872",
         "display_name": "Jethro Tull - Live at Estival Jazz Lugano 2005 (2005) SD CZ Titulky",
-        "planned_at": "2026-11-23T15:02:48.578784+00:00"
+        "planned_at": "2026-11-23T20:51:20.581952+00:00"
       },
       "previous_target_id": "30983313",
       "prepared": {
@@ -444818,7 +444819,7 @@
       "last_plan": {
         "source_id": "32374501",
         "display_name": "Prisoners of the Ghostland (2021) SD CZ Titulky",
-        "planned_at": "2026-11-23T15:02:48.990506+00:00"
+        "planned_at": "2026-11-23T20:51:20.988331+00:00"
       },
       "previous_target_id": "30983334",
       "prepared": {
@@ -452125,5 +452126,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T20:51:05.167021+00:00"
+  "updated_at": "2026-11-23T20:52:33.854111+00:00"
 }
