@@ -140150,13 +140150,6 @@
           "source_id": "32705790",
           "target_video_id": "29806041",
           "permanent": false,
-          "attempted_at": "2026-11-23T09:59:49.082354+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32705790",
-          "target_video_id": "29806041",
-          "permanent": false,
           "attempted_at": "2026-11-23T12:41:17.936915+00:00"
         },
         {
@@ -140165,12 +140158,20 @@
           "target_video_id": "29806041",
           "permanent": false,
           "attempted_at": "2026-11-23T15:24:13.969006+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32705790",
+          "target_video_id": "29806041",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T22:02:39.899712+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32705790",
         "display_name": "Stín podezření (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T15:24:04.492869+00:00"
+        "planned_at": "2026-11-23T22:01:24.481850+00:00"
       },
       "previous_target_id": "29806041",
       "prepared": {
@@ -175396,7 +175397,7 @@
       "last_plan": {
         "source_id": "30608156",
         "display_name": "Majin slib (2024) 1080p CZ Titulky",
-        "planned_at": "2026-11-23T15:24:39.403648+00:00"
+        "planned_at": "2026-11-23T22:01:26.233655+00:00"
       },
       "previous_target_id": "31005128",
       "prepared": {
@@ -193709,7 +193710,7 @@
       "last_plan": {
         "source_id": "30060670",
         "display_name": "Válka policajtů (1979) SD CZ Dabing",
-        "planned_at": "2026-11-23T15:24:04.917833+00:00"
+        "planned_at": "2026-11-23T22:01:24.923226+00:00"
       },
       "prepared": {
         "target_video_id": "29218067",
@@ -342209,7 +342210,7 @@
       "last_plan": {
         "source_id": "28268419",
         "display_name": "Oxfordské vraždy (2008) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T15:24:05.330727+00:00"
+        "planned_at": "2026-11-23T22:01:25.361628+00:00"
       },
       "previous_target_id": "30999977",
       "prepared": {
@@ -425416,7 +425417,7 @@
       "last_plan": {
         "source_id": "23502831",
         "display_name": "301 (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T15:24:05.746461+00:00"
+        "planned_at": "2026-11-23T22:01:25.801295+00:00"
       },
       "previous_target_id": "31003030",
       "prepared": {
@@ -452171,5 +452172,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T22:01:10.443751+00:00"
+  "updated_at": "2026-11-23T22:02:39.899731+00:00"
 }
