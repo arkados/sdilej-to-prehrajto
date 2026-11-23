@@ -175967,13 +175967,6 @@
           "source_id": "29053345",
           "target_video_id": "30124207",
           "permanent": false,
-          "attempted_at": "2026-11-23T02:39:21.030797+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29053345",
-          "target_video_id": "30124207",
-          "permanent": false,
           "attempted_at": "2026-11-23T05:34:42.116725+00:00"
         },
         {
@@ -175982,6 +175975,14 @@
           "target_video_id": "30124207",
           "permanent": false,
           "attempted_at": "2026-11-23T08:38:31.325303+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "29053345",
+          "target_video_id": "30124207",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-23T11:34:20.090033+00:00"
         }
       ],
       "last_plan": {
@@ -175989,12 +175990,7 @@
         "display_name": "Vánoční příběh (2022) 1080p CZ Dabing",
         "planned_at": "2026-11-23T11:34:05.250740+00:00"
       },
-      "previous_target_id": "30124207",
-      "prepared": {
-        "target_video_id": "30124207",
-        "size_bytes": 2800000000,
-        "prepared_at": "2026-10-09T12:11:29.314866+00:00"
-      }
+      "previous_target_id": "30124207"
     },
     "13493": {
       "attempts": []
@@ -452077,5 +452073,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T11:34:11.632555+00:00"
+  "updated_at": "2026-11-23T11:34:20.090052+00:00"
 }
