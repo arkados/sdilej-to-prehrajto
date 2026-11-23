@@ -187800,13 +187800,6 @@
           "source_id": "35169318",
           "target_video_id": "30152620",
           "permanent": false,
-          "attempted_at": "2026-11-23T08:41:10.555608+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35169318",
-          "target_video_id": "30152620",
-          "permanent": false,
           "attempted_at": "2026-11-23T11:36:45.020578+00:00"
         },
         {
@@ -187815,12 +187808,20 @@
           "target_video_id": "30152620",
           "permanent": false,
           "attempted_at": "2026-11-23T14:23:41.424476+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35169318",
+          "target_video_id": "30152620",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T18:40:48.105399+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35169318",
         "display_name": "Angličtina (1988) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:23:16.437563+00:00"
+        "planned_at": "2026-11-23T18:39:32.640720+00:00"
       },
       "previous_target_id": "30152620",
       "prepared": {
@@ -187938,7 +187939,7 @@
       "last_plan": {
         "source_id": "33707550",
         "display_name": "Bastardi: Reparát (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:23:54.252829+00:00"
+        "planned_at": "2026-11-23T18:39:33.062623+00:00"
       },
       "previous_target_id": "30152988",
       "prepared": {
@@ -189206,7 +189207,7 @@
       "last_plan": {
         "source_id": "31570278",
         "display_name": "V peřině (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:23:54.669779+00:00"
+        "planned_at": "2026-11-23T18:39:33.475942+00:00"
       },
       "previous_target_id": "30154942",
       "prepared": {
@@ -189622,7 +189623,7 @@
       "last_plan": {
         "source_id": "34889085",
         "display_name": "Malé lásky (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:23:55.084230+00:00"
+        "planned_at": "2026-11-23T18:39:33.894942+00:00"
       },
       "previous_target_id": "30691095",
       "prepared": {
@@ -189935,7 +189936,7 @@
       "last_plan": {
         "source_id": "27360324",
         "display_name": "Hotel Sinestra (2022) 720p CZ Dabing",
-        "planned_at": "2026-11-23T14:23:55.496127+00:00"
+        "planned_at": "2026-11-23T18:39:34.305049+00:00"
       },
       "previous_target_id": "30695656",
       "prepared": {
@@ -452051,5 +452052,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T18:39:18.207831+00:00"
+  "updated_at": "2026-11-23T18:40:48.105417+00:00"
 }
