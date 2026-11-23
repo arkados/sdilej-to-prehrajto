@@ -268633,13 +268633,6 @@
           "source_id": "35186071",
           "target_video_id": "30284958",
           "permanent": false,
-          "attempted_at": "2026-11-23T09:17:07.952429+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35186071",
-          "target_video_id": "30284958",
-          "permanent": false,
           "attempted_at": "2026-11-23T11:51:43.665283+00:00"
         },
         {
@@ -268648,12 +268641,20 @@
           "target_video_id": "30284958",
           "permanent": false,
           "attempted_at": "2026-11-23T14:39:44.180330+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35186071",
+          "target_video_id": "30284958",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T19:27:17.139988+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35186071",
         "display_name": "Ve jménu krve (2016) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:39:38.294131+00:00"
+        "planned_at": "2026-11-23T19:26:01.800367+00:00"
       },
       "previous_target_id": "30284958",
       "prepared": {
@@ -268972,7 +268973,7 @@
       "last_plan": {
         "source_id": "35183608",
         "display_name": "V mysli vraha (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:39:38.707326+00:00"
+        "planned_at": "2026-11-23T19:26:02.217062+00:00"
       },
       "previous_target_id": "30726089",
       "prepared": {
@@ -271944,7 +271945,7 @@
       "last_plan": {
         "source_id": "21830408",
         "display_name": "Očista: Anarchie (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:39:39.118982+00:00"
+        "planned_at": "2026-11-23T19:26:02.623976+00:00"
       },
       "previous_target_id": "30289398",
       "prepared": {
@@ -272652,7 +272653,7 @@
       "last_plan": {
         "source_id": "28981858",
         "display_name": "Znovu 17 (2009) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:39:39.531514+00:00"
+        "planned_at": "2026-11-23T19:26:03.042609+00:00"
       },
       "previous_target_id": "30290518",
       "prepared": {
@@ -273729,7 +273730,7 @@
       "last_plan": {
         "source_id": "26411724",
         "display_name": "Tajný závod (1976) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:39:39.942984+00:00"
+        "planned_at": "2026-11-23T19:26:03.455856+00:00"
       },
       "previous_target_id": "30731483",
       "prepared": {
@@ -452076,5 +452077,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T19:25:46.355020+00:00"
+  "updated_at": "2026-11-23T19:27:17.140005+00:00"
 }
