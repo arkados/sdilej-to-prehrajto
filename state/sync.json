@@ -220570,13 +220570,6 @@
           "source_id": "33752571",
           "target_video_id": "29169080",
           "permanent": false,
-          "attempted_at": "2026-11-23T06:55:53.218304+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33752571",
-          "target_video_id": "29169080",
-          "permanent": false,
           "attempted_at": "2026-11-23T10:10:32.358283+00:00"
         },
         {
@@ -220585,12 +220578,20 @@
           "target_video_id": "29169080",
           "permanent": false,
           "attempted_at": "2026-11-23T12:52:37.157097+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33752571",
+          "target_video_id": "29169080",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T15:54:48.666847+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33752571",
         "display_name": "Smrtící epidemie (1995) 4K CZ Dabing",
-        "planned_at": "2026-11-23T12:52:23.213162+00:00"
+        "planned_at": "2026-11-23T15:53:34.263954+00:00"
       },
       "prepared": {
         "target_video_id": "29169080",
@@ -224595,7 +224596,7 @@
       "last_plan": {
         "source_id": "34993928",
         "display_name": "Jeanne má každý rád (2022) 720p CZ Dabing",
-        "planned_at": "2026-11-23T12:52:24.054965+00:00"
+        "planned_at": "2026-11-23T15:53:35.090043+00:00"
       },
       "prepared": {
         "target_video_id": "29354054",
@@ -231921,7 +231922,7 @@
       "last_plan": {
         "source_id": "33826851",
         "display_name": "Dokonalá příležitost (2013) SD CZ Dabing",
-        "planned_at": "2026-11-23T12:52:23.634473+00:00"
+        "planned_at": "2026-11-23T15:53:34.681331+00:00"
       },
       "prepared": {
         "target_video_id": "29240426",
@@ -245417,7 +245418,7 @@
       "last_plan": {
         "source_id": "28759723",
         "display_name": "Klub odložených žen (1996) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T12:53:04.614884+00:00"
+        "planned_at": "2026-11-23T15:53:35.922224+00:00"
       },
       "prepared": {
         "target_video_id": "29330654",
@@ -247940,7 +247941,7 @@
       "last_plan": {
         "source_id": "29667795",
         "display_name": "Let's Dance (2006) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T12:53:03.793624+00:00"
+        "planned_at": "2026-11-23T15:53:35.504576+00:00"
       },
       "prepared": {
         "target_video_id": "29378142",
@@ -451977,5 +451978,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T15:53:21.426347+00:00"
+  "updated_at": "2026-11-23T15:54:48.666867+00:00"
 }
