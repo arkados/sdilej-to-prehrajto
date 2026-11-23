@@ -126296,13 +126296,6 @@
           "source_id": "35168599",
           "target_video_id": "29883859",
           "permanent": false,
-          "attempted_at": "2026-11-23T09:57:31.882531+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35168599",
-          "target_video_id": "29883859",
-          "permanent": false,
           "attempted_at": "2026-11-23T12:34:09.453911+00:00"
         },
         {
@@ -126311,12 +126304,20 @@
           "target_video_id": "29883859",
           "permanent": false,
           "attempted_at": "2026-11-23T15:21:54.114423+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35168599",
+          "target_video_id": "29883859",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T21:35:47.725861+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35168599",
         "display_name": "Bílá oblaka (1962) 1080p CZ Titulky",
-        "planned_at": "2026-11-23T15:21:47.153281+00:00"
+        "planned_at": "2026-11-23T21:34:33.529554+00:00"
       },
       "previous_target_id": "29883859",
       "prepared": {
@@ -164395,7 +164396,7 @@
       "last_plan": {
         "source_id": "26692246",
         "display_name": "Třetí princ (1982) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T15:21:47.577041+00:00"
+        "planned_at": "2026-11-23T21:34:33.947526+00:00"
       },
       "previous_target_id": "29798099",
       "prepared": {
@@ -376149,7 +376150,7 @@
       "last_plan": {
         "source_id": "16030274",
         "display_name": "Zevlovat a prudit (2009) SD CZ Dabing",
-        "planned_at": "2026-11-23T15:21:48.001447+00:00"
+        "planned_at": "2026-11-23T21:34:34.358927+00:00"
       },
       "previous_target_id": "29715102",
       "prepared": {
@@ -376926,7 +376927,7 @@
       "last_plan": {
         "source_id": "34681521",
         "display_name": "Frankenstein (2015) 4K CZ Dabing",
-        "planned_at": "2026-11-23T15:21:48.423623+00:00"
+        "planned_at": "2026-11-23T21:34:34.766545+00:00"
       },
       "previous_target_id": "29538713",
       "prepared": {
@@ -377534,7 +377535,7 @@
       "last_plan": {
         "source_id": "11653816",
         "display_name": "Zabijácká hora (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T15:21:48.839634+00:00"
+        "planned_at": "2026-11-23T21:34:35.183219+00:00"
       },
       "previous_target_id": "29719943",
       "prepared": {
@@ -452144,5 +452145,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T21:34:19.557310+00:00"
+  "updated_at": "2026-11-23T21:35:47.725879+00:00"
 }
