@@ -190806,13 +190806,6 @@
           "source_id": "13600824",
           "target_video_id": "30782229",
           "permanent": false,
-          "attempted_at": "2026-11-23T08:41:46.917410+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13600824",
-          "target_video_id": "30782229",
-          "permanent": false,
           "attempted_at": "2026-11-23T11:37:21.858839+00:00"
         },
         {
@@ -190821,12 +190814,20 @@
           "target_video_id": "30782229",
           "permanent": false,
           "attempted_at": "2026-11-23T14:24:23.681450+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13600824",
+          "target_video_id": "30782229",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T18:47:22.171457+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13600824",
         "display_name": "Cyklostezka k lásce (2017) SD CZ Dabing",
-        "planned_at": "2026-11-23T14:23:55.909093+00:00"
+        "planned_at": "2026-11-23T18:46:06.874077+00:00"
       },
       "previous_target_id": "30782229",
       "prepared": {
@@ -191326,7 +191327,7 @@
       "last_plan": {
         "source_id": "32999469",
         "display_name": "Vražedné svody (2021) SD CZ Dabing",
-        "planned_at": "2026-11-23T14:24:36.374293+00:00"
+        "planned_at": "2026-11-23T18:46:07.292817+00:00"
       },
       "previous_target_id": "30808000",
       "prepared": {
@@ -191664,7 +191665,7 @@
       "last_plan": {
         "source_id": "32763810",
         "display_name": "Temné spolky (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:24:36.793241+00:00"
+        "planned_at": "2026-11-23T18:46:07.708528+00:00"
       },
       "previous_target_id": "30157328",
       "prepared": {
@@ -193759,7 +193760,7 @@
       "last_plan": {
         "source_id": "14360307",
         "display_name": "Bourák (2020) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:24:37.216812+00:00"
+        "planned_at": "2026-11-23T18:46:08.127891+00:00"
       },
       "previous_target_id": "30157697",
       "prepared": {
@@ -194330,7 +194331,7 @@
       "last_plan": {
         "source_id": "34139574",
         "display_name": "Fatal Fandom (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T14:24:37.622093+00:00"
+        "planned_at": "2026-11-23T18:46:08.545559+00:00"
       },
       "previous_target_id": "30158022",
       "prepared": {
@@ -452056,5 +452057,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T18:45:52.805217+00:00"
+  "updated_at": "2026-11-23T18:47:22.171476+00:00"
 }
