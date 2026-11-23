@@ -208790,17 +208790,19 @@
       }
     },
     "31145": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31492750",
+          "target_video_id": "31279325",
+          "permanent": false,
+          "attempted_at": "2026-11-23T09:05:02.662149+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31492750",
         "display_name": "Komu patří můj život (2024) 1080p CZ Dabing",
         "planned_at": "2026-11-23T08:53:41.844661+00:00"
-      },
-      "claim": {
-        "worker_id": "5288be9249c743d1b713d0ab98989ded-shard-0",
-        "claimed_at": "2026-11-23T08:53:43.957329+00:00",
-        "lease_expires_at": "2026-11-23T14:53:43.957329+00:00",
-        "run_id": "45119283997"
       },
       "previous_target_id": "31279325",
       "prepared": {
@@ -452140,5 +452142,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T08:53:47.670806+00:00"
+  "updated_at": "2026-11-23T09:05:02.662166+00:00"
 }
