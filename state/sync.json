@@ -208502,13 +208502,6 @@
           "source_id": "29660043",
           "target_video_id": "29183602",
           "permanent": false,
-          "attempted_at": "2026-11-23T10:09:59.542616+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29660043",
-          "target_video_id": "29183602",
-          "permanent": false,
           "attempted_at": "2026-11-23T12:52:05.787088+00:00"
         },
         {
@@ -208517,12 +208510,20 @@
           "target_video_id": "29183602",
           "permanent": false,
           "attempted_at": "2026-11-23T15:49:38.710683+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29660043",
+          "target_video_id": "29183602",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T22:33:22.815959+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29660043",
         "display_name": "Probuzení (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T15:47:09.665311+00:00"
+        "planned_at": "2026-11-23T22:32:09.251964+00:00"
       },
       "prepared": {
         "target_video_id": "29183602",
@@ -220679,7 +220680,7 @@
       "last_plan": {
         "source_id": "33752571",
         "display_name": "Smrtící epidemie (1995) 4K CZ Dabing",
-        "planned_at": "2026-11-23T15:53:34.263954+00:00"
+        "planned_at": "2026-11-23T22:32:10.257102+00:00"
       },
       "prepared": {
         "target_video_id": "29169080",
@@ -221531,7 +221532,7 @@
       "last_plan": {
         "source_id": "31105176",
         "display_name": "Běžící muž (1987) 4K CZ Dabing",
-        "planned_at": "2026-11-23T15:47:10.887243+00:00"
+        "planned_at": "2026-11-23T22:32:10.007848+00:00"
       },
       "prepared": {
         "target_video_id": "29233196",
@@ -233801,7 +233802,7 @@
       "last_plan": {
         "source_id": "30132386",
         "display_name": "Šaty pro princeznu (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T15:47:10.070239+00:00"
+        "planned_at": "2026-11-23T22:32:09.500208+00:00"
       },
       "prepared": {
         "target_video_id": "29299477",
@@ -241838,7 +241839,7 @@
       "last_plan": {
         "source_id": "34850648",
         "display_name": "Králova zahradnice (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T15:47:10.477397+00:00"
+        "planned_at": "2026-11-23T22:32:09.757037+00:00"
       },
       "prepared": {
         "target_video_id": "29290399",
@@ -452184,5 +452185,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T22:31:57.337627+00:00"
+  "updated_at": "2026-11-23T22:33:22.815978+00:00"
 }
