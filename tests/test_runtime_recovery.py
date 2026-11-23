@@ -102,6 +102,33 @@ def test_operator_review_reaches_deep_workers_ahead_of_the_old_backlog(tmp_path)
     assert calls[0][1]['review_film_ids'] == {3}
 
 
+def test_deep_workers_mix_new_escalations_with_eligible_retries(tmp_path):
+    state = StateStore(tmp_path / "scan.json")
+    sources = SelectedSourceStore(tmp_path / "sources.jsonl")
+    for film_id, status in [(1, "source_deep_scan_failed"), (2, "source_deep_scan_failed"),
+                            (3, "source_deep_scan_needed"), (4, "source_deep_scan_needed")]:
+        state.film(film_id)["attempts"] = [{
+            "status": status, "selection_policy": SELECTION_POLICY,
+            "attempted_at": f"2026-01-0{film_id}T00:00:00+00:00",
+        }]
+
+    class Pipeline:
+        def __init__(self):
+            self.state = state
+            self.selected_sources = sources
+            self.order = []
+
+        def prepare_sources(self, films, _limit, **_kwargs):
+            self.order = [film.cr_film_id for film in films]
+            return []
+
+    pipeline = Pipeline()
+    films = [Film(i, str(i), str(i), None, 2000, 90, "en") for i in range(1, 6)]
+    prepare_source_batch([pipeline], films, 4, max_scan=4,
+                         deadline_monotonic=None, deep_scan_only=True)
+    assert pipeline.order == [3, 1, 4, 2, 5]
+
+
 @pytest.mark.parametrize('quality_ok', [False, True])
 def test_explicit_review_keeps_completion_and_quality_guards(tmp_path, quality_ok):
     from sdilej_to_prehrajto.models import Candidate, LanguageTier, MatchTier

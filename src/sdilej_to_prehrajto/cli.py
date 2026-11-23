@@ -5,6 +5,7 @@ import json
 import os
 import time
 from concurrent.futures import ThreadPoolExecutor
+from itertools import zip_longest
 from pathlib import Path
 
 from .backlog import load_backlog
@@ -13,6 +14,7 @@ from .language import WhisperLanguageDetector
 from .models import Film
 from .pipeline import MAX_PILOT_FILMS, SyncPipeline, plan_sha, write_plan, write_report
 from .prehrajto import login as login_prehrajto
+from .ranking import SELECTION_POLICY
 from .sdilej import SdilejProvider, login as login_sdilej
 from .state import StateStore
 from .sources import SelectedSourceStore
@@ -38,6 +40,7 @@ MAX_DEEP_PREPARE_WORKERS = 3
 FAST_DISCOVERY_CANDIDATES = 3
 FAST_DISCOVERY_TIMEOUT_SECONDS = 90
 DEEP_DISCOVERY_TIMEOUT_SECONDS = 900
+DEEP_REVIEWS_PER_PASS = 4
 
 
 def exclude_uploaded_films(
@@ -106,11 +109,13 @@ def prepare_source_batch(
     state = pipelines[0].state
     sources = pipelines[0].selected_sources
 
+    priority_ids = priority_film_ids or set()
+
     def scan_priority(film: Film) -> tuple[bool, bool, str]:
         source = sources.get(film.cr_film_id) or {}
         attempts = state.snapshot(film.cr_film_id).get("attempts") or []
         return (
-            film.cr_film_id not in (priority_film_ids or set()),
+            film.cr_film_id not in priority_ids,
             source.get("source_status") != "rediscovery_needed",
             (attempts[-1].get("attempted_at") or "") if attempts else "",
         )
@@ -122,10 +127,31 @@ def prepare_source_batch(
     def prepare(worker_index: int) -> list[dict]:
         worker_limit = base_limit + (1 if worker_index < extra else 0)
         lane_options = {"deep_scan_only": True} if deep_scan_only else {}
-        if deep_scan_only and priority_film_ids:
-            lane_options["review_film_ids"] = priority_film_ids
+        worker_films = films[worker_index::worker_count]
+        if deep_scan_only:
+            if priority_ids:
+                lane_options["review_film_ids"] = priority_ids
+            # Review newly escalated candidates promptly while still giving old
+            # failures a turn. Interleave within each worker's disjoint slice.
+            urgent, incoming, retries, other = [], [], [], []
+            for film in worker_films:
+                source = sources.get(film.cr_film_id) or {}
+                if film.cr_film_id in priority_ids or source.get("source_status") == "rediscovery_needed":
+                    urgent.append(film)
+                    continue
+                attempts = state.snapshot(film.cr_film_id).get("attempts") or []
+                if not state.deep_scan_ready(film.cr_film_id, selection_policy=SELECTION_POLICY):
+                    other.append(film)
+                elif attempts[-1].get("status") == "source_deep_scan_needed":
+                    incoming.append(film)
+                else:
+                    retries.append(film)
+            worker_films = urgent + [
+                film for pair in zip_longest(incoming, retries)
+                for film in pair if film is not None
+            ] + other
         return pipelines[worker_index].prepare_sources(
-            films[worker_index::worker_count],
+            worker_films,
             worker_limit,
             max_scan=max_scan,
             deadline_monotonic=deadline_monotonic,
@@ -195,11 +221,16 @@ def prepare_source_lane(
     pending_reviews = set(priority_film_ids or set())
     try:
         while True:
+            pass_scan = max_scan
+            if deep_scan_only and deadline_monotonic is not None:
+                # Re-read current priorities between short passes so fresh
+                # fast-lane findings can enter the running deep scan.
+                pass_scan = min(max_scan, max(DEEP_REVIEWS_PER_PASS, len(pending_reviews)))
             batch = prepare_source_batch(
                 pipelines,
                 films,
                 limit,
-                max_scan=max_scan,
+                max_scan=pass_scan,
                 deadline_monotonic=deadline_monotonic,
                 deep_scan_only=deep_scan_only,
                 priority_film_ids=pending_reviews,
