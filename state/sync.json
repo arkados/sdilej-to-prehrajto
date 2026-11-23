@@ -252738,13 +252738,6 @@
           "source_id": "11695563",
           "target_video_id": "29333051",
           "permanent": false,
-          "attempted_at": "2026-11-23T10:12:26.018608+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11695563",
-          "target_video_id": "29333051",
-          "permanent": false,
           "attempted_at": "2026-11-23T12:55:00.377836+00:00"
         },
         {
@@ -252753,12 +252746,20 @@
           "target_video_id": "29333051",
           "permanent": false,
           "attempted_at": "2026-11-23T16:06:14.833706+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11695563",
+          "target_video_id": "29333051",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T22:59:09.845933+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11695563",
         "display_name": "Pokoj v suterénu (2019) SD CZ Dabing",
-        "planned_at": "2026-11-23T16:06:05.029872+00:00"
+        "planned_at": "2026-11-23T22:57:56.807929+00:00"
       },
       "prepared": {
         "target_video_id": "29333051",
@@ -260556,7 +260557,7 @@
       "last_plan": {
         "source_id": "13480709",
         "display_name": "Rande s nepřítelem (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T16:06:05.450478+00:00"
+        "planned_at": "2026-11-23T22:57:57.060269+00:00"
       },
       "prepared": {
         "target_video_id": "29285833",
@@ -266066,7 +266067,7 @@
       "last_plan": {
         "source_id": "28380362",
         "display_name": "Poslední polibek (2006) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T16:06:41.240885+00:00"
+        "planned_at": "2026-11-23T22:57:57.806548+00:00"
       },
       "prepared": {
         "target_video_id": "29284107",
@@ -268503,7 +268504,7 @@
       "last_plan": {
         "source_id": "29398891",
         "display_name": "Imaginární přátelé (2024) 4K CZ Dabing",
-        "planned_at": "2026-11-23T16:06:05.867969+00:00"
+        "planned_at": "2026-11-23T22:57:57.315523+00:00"
       },
       "previous_target_id": "29564286",
       "prepared": {
@@ -271868,7 +271869,7 @@
       "last_plan": {
         "source_id": "34751728",
         "display_name": "Hustler White (1996) 1080p CZ Titulky",
-        "planned_at": "2026-11-23T16:06:06.287565+00:00"
+        "planned_at": "2026-11-23T22:57:57.557833+00:00"
       },
       "prepared": {
         "target_video_id": "29278231",
@@ -452198,5 +452199,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T22:57:44.599150+00:00"
+  "updated_at": "2026-11-23T22:59:09.845953+00:00"
 }
