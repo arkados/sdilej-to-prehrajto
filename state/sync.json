@@ -87076,13 +87076,6 @@
           "source_id": "27708681",
           "target_video_id": "29355276",
           "permanent": false,
-          "attempted_at": "2026-11-23T07:41:55.511322+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27708681",
-          "target_video_id": "29355276",
-          "permanent": false,
           "attempted_at": "2026-11-23T10:51:47.995705+00:00"
         },
         {
@@ -87091,12 +87084,20 @@
           "target_video_id": "29355276",
           "permanent": false,
           "attempted_at": "2026-11-23T13:37:34.329821+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27708681",
+          "target_video_id": "29355276",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T16:58:19.056633+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27708681",
         "display_name": "Nevidím zlo, neslyším zlo (1989) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T13:37:21.283866+00:00"
+        "planned_at": "2026-11-23T16:57:03.516010+00:00"
       },
       "prepared": {
         "target_video_id": "29355276",
@@ -90832,7 +90833,7 @@
       "last_plan": {
         "source_id": "25775847",
         "display_name": "Sněženky a machři (1982) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T13:37:21.708398+00:00"
+        "planned_at": "2026-11-23T16:57:03.936630+00:00"
       },
       "prepared": {
         "target_video_id": "29180133",
@@ -96176,7 +96177,7 @@
       "last_plan": {
         "source_id": "34910979",
         "display_name": "Ikarie XB 1 (1963) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T13:37:54.295208+00:00"
+        "planned_at": "2026-11-23T16:57:04.771308+00:00"
       },
       "previous_target_id": "29608889",
       "prepared": {
@@ -96259,7 +96260,7 @@
       "last_plan": {
         "source_id": "14813999",
         "display_name": "Sedmero krkavců (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-23T13:37:22.130040+00:00"
+        "planned_at": "2026-11-23T16:57:04.356070+00:00"
       },
       "previous_target_id": "29561592",
       "prepared": {
@@ -98251,7 +98252,7 @@
       "last_plan": {
         "source_id": "12024103",
         "display_name": "Bernský vyslanec (2014) 720p CZ Dabing",
-        "planned_at": "2026-11-23T13:37:54.719590+00:00"
+        "planned_at": "2026-11-23T16:57:05.185390+00:00"
       },
       "prepared": {
         "target_video_id": "29216460",
@@ -452008,5 +452009,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T16:56:49.248751+00:00"
+  "updated_at": "2026-11-23T16:58:19.056653+00:00"
 }
