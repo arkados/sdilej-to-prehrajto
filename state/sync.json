@@ -119150,13 +119150,6 @@
           "source_id": "32203585",
           "target_video_id": "30982122",
           "permanent": false,
-          "attempted_at": "2026-11-23T09:38:37.035019+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32203585",
-          "target_video_id": "30982122",
-          "permanent": false,
           "attempted_at": "2026-11-23T12:13:57.361751+00:00"
         },
         {
@@ -119165,12 +119158,20 @@
           "target_video_id": "30982122",
           "permanent": false,
           "attempted_at": "2026-11-23T15:02:15.494904+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32203585",
+          "target_video_id": "30982122",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-23T20:45:56.821644+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32203585",
         "display_name": "Poklad na Stříbrném jezeře (1962) 4K CZ Dabing",
-        "planned_at": "2026-11-23T15:02:09.656645+00:00"
+        "planned_at": "2026-11-23T20:44:42.432984+00:00"
       },
       "previous_target_id": "30982122",
       "prepared": {
@@ -119386,7 +119387,7 @@
       "last_plan": {
         "source_id": "30067608",
         "display_name": "Tom a Jerry: Rychle a chlupatě (2005) 720p CZ Dabing",
-        "planned_at": "2026-11-23T15:02:10.068266+00:00"
+        "planned_at": "2026-11-23T20:44:42.848209+00:00"
       },
       "previous_target_id": "30983123",
       "prepared": {
@@ -120524,7 +120525,7 @@
       "last_plan": {
         "source_id": "34502346",
         "display_name": "Legendární zbraně Číny (1982) SD CZ Dabing",
-        "planned_at": "2026-11-23T15:02:10.474623+00:00"
+        "planned_at": "2026-11-23T20:44:43.256643+00:00"
       },
       "previous_target_id": "30983142",
       "prepared": {
@@ -123013,7 +123014,7 @@
       "last_plan": {
         "source_id": "33686802",
         "display_name": "Letní škola, 2001 (2025) 1080p CZ Titulky",
-        "planned_at": "2026-11-23T15:02:10.881184+00:00"
+        "planned_at": "2026-11-23T20:44:43.667879+00:00"
       },
       "previous_target_id": "30983164",
       "prepared": {
@@ -123160,7 +123161,7 @@
       "last_plan": {
         "source_id": "30624932",
         "display_name": "Křik (1964) SD CZ Dabing",
-        "planned_at": "2026-11-23T15:02:11.285420+00:00"
+        "planned_at": "2026-11-23T20:44:44.076033+00:00"
       },
       "previous_target_id": "30983217",
       "prepared": {
@@ -452120,5 +452121,5 @@
       }
     }
   },
-  "updated_at": "2026-11-23T20:44:28.498382+00:00"
+  "updated_at": "2026-11-23T20:45:56.821665+00:00"
 }
