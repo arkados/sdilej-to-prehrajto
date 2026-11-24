@@ -193140,13 +193140,6 @@
           "source_id": "34737430",
           "target_video_id": "29921505",
           "permanent": false,
-          "attempted_at": "2026-11-24T09:18:13.401691+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34737430",
-          "target_video_id": "29921505",
-          "permanent": false,
           "attempted_at": "2026-11-24T12:12:28.028869+00:00"
         },
         {
@@ -193155,12 +193148,20 @@
           "target_video_id": "29921505",
           "permanent": false,
           "attempted_at": "2026-11-24T14:49:44.254292+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34737430",
+          "target_video_id": "29921505",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-24T20:42:39.371441+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34737430",
         "display_name": "Ozvěny mrtvých (2007) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T14:49:30.172022+00:00"
+        "planned_at": "2026-11-24T20:41:24.115521+00:00"
       },
       "previous_target_id": "29921505",
       "prepared": {
@@ -333958,7 +333959,7 @@
       "last_plan": {
         "source_id": "25445321",
         "display_name": "Smlouva s ďáblem (2000) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T14:49:30.580634+00:00"
+        "planned_at": "2026-11-24T20:41:24.532821+00:00"
       },
       "previous_target_id": "29921576",
       "prepared": {
@@ -335143,7 +335144,7 @@
       "last_plan": {
         "source_id": "12903538",
         "display_name": "Příslib (2016) SD CZ Dabing",
-        "planned_at": "2026-11-24T14:50:06.725080+00:00"
+        "planned_at": "2026-11-24T20:41:25.340434+00:00"
       },
       "previous_target_id": "29921633",
       "prepared": {
@@ -335268,7 +335269,7 @@
       "last_plan": {
         "source_id": "11875608",
         "display_name": "Vražda na jachtě (2019) 4K CZ Dabing",
-        "planned_at": "2026-11-24T14:49:30.969714+00:00"
+        "planned_at": "2026-11-24T20:41:24.936818+00:00"
       },
       "previous_target_id": "29921637",
       "prepared": {
@@ -335516,7 +335517,7 @@
       "last_plan": {
         "source_id": "19124271",
         "display_name": "Všechny cesty vedou do hrobu (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T14:50:07.111730+00:00"
+        "planned_at": "2026-11-24T20:41:25.754176+00:00"
       },
       "previous_target_id": "29921719",
       "prepared": {
@@ -452436,5 +452437,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T20:41:10.705452+00:00"
+  "updated_at": "2026-11-24T20:42:39.371459+00:00"
 }
