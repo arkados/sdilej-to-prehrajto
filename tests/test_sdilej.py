@@ -15,6 +15,7 @@ from sdilej_to_prehrajto.sdilej import (
     parse_detail_html,
     parse_search_html,
     parse_size,
+    slugify,
 )
 
 
@@ -106,6 +107,37 @@ def test_explicit_empty_search_is_valid_and_resets_failure_streak(monkeypatch):
     monkeypatch.setattr(provider, "_get", lambda _url: FakeResponse("Na tvůj dotaz jsme nic nenašli"))
     assert provider.search_by_quality("Missing film") == []
     assert provider.discovery_throttle.search_failures == 0
+
+
+@pytest.mark.parametrize("title", ["The Razor's Edge", "The Razor’s Edge"])
+def test_slug_joins_letters_separated_by_apostrophes(title):
+    assert slugify(title) == "the-razors-edge"
+
+
+def test_deep_discovery_keeps_verified_local_title_when_alias_search_fails(monkeypatch):
+    provider = SdilejProvider(
+        FakeSession(), FakeDetector(), allow_unresolved_fallback=True,
+        media_probe=lambda _url: {}, request_gap_seconds=0,
+    )
+    film = Film(1, "film", "Film", "Original title", 2000, 100, "en")
+    search = provider.search_by_quality
+
+    def search_with_broken_alias(query):
+        if query == "Original title":
+            raise SdilejError("Unrecognized search response")
+        return search(query)
+
+    monkeypatch.setattr(provider, "search_by_quality", search_with_broken_alias)
+    assert rank_candidates(provider.discover(film))[0].source_id == "20"
+
+    provider.max_candidates = 3
+    with pytest.raises(DeepScanRequired, match="search variant failed"):
+        provider.discover(film)
+
+    provider.max_candidates = None
+    monkeypatch.setattr(provider, "_verify_candidate", lambda *_args: None)
+    with pytest.raises(SdilejError, match="Unrecognized search response"):
+        provider.discover(film)
 
 
 def test_deep_scan_does_not_treat_failed_verification_as_empty(monkeypatch):

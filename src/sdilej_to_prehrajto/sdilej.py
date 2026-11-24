@@ -68,7 +68,7 @@ def slugify(value: str) -> str:
     normalized = "".join(
         character for character in normalized if not unicodedata.combining(character)
     )
-    normalized = normalized.lower()
+    normalized = normalized.lower().replace("'", "").replace("’", "")
     return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", normalized)).strip("-")
 
 
@@ -462,6 +462,8 @@ class SdilejProvider:
         candidates: dict[str, Candidate] = {}
         matched_by_rank: dict[int, list[Candidate]] = {}
         resolved: list[Candidate] = []
+        search_failure: SdilejError | None = None
+        searched_slugs: set[str] = set()
         verification_failed = False
         inspected = 0
         titles = dict.fromkeys(
@@ -477,6 +479,9 @@ class SdilejProvider:
                 if item
             )
             for query in queries:
+                slug = slugify(query)
+                if slug in searched_slugs:
+                    continue
                 if time.monotonic() >= deadline:
                     error_type = (
                         DeepScanRequired
@@ -484,7 +489,19 @@ class SdilejProvider:
                         else SdilejError
                     )
                     raise error_type("Discovery deadline expired before search completed")
-                for candidate in self.search_by_quality(query):
+                searched_slugs.add(slug)
+                try:
+                    results = self.search_by_quality(query)
+                except PremiumRequiredError:
+                    raise
+                except SdilejError as error:
+                    if error.permanent:
+                        raise
+                    # A broken alias response can follow a successful search
+                    # for the same film. Keep the candidates from valid pages.
+                    search_failure = error
+                    continue
+                for candidate in results:
                     if candidate.source_id in candidates:
                         continue
                     candidates[candidate.source_id] = candidate
@@ -508,6 +525,15 @@ class SdilejProvider:
                     if matched.tier in (MatchTier.STRONG, MatchTier.SOLID):
                         rank = resolution_rank(candidate.width, candidate.height)
                         matched_by_rank.setdefault(rank, []).append(candidate)
+
+        if search_failure is not None:
+            if not matched_by_rank:
+                raise search_failure
+            if self.max_candidates is not None:
+                raise DeepScanRequired("A search variant failed after candidates were found")
+            if not self.allow_unresolved_fallback:
+                raise search_failure
+            print(f"source_search_partial film_id={film.cr_film_id}", flush=True)
 
         def finish_verification_deadline() -> list[Candidate]:
             # The deep lane explicitly permits a verified fallback when some
@@ -592,6 +618,8 @@ class SdilejProvider:
                     raise error_type(
                         "A preferred quality tier could not be fully verified"
                     )
+        if search_failure is not None and not resolved:
+            raise search_failure
         if verification_failed and not resolved:
             raise SdilejError("Candidate verification failed; no source was ruled out conclusively")
         return resolved
