@@ -373371,13 +373371,6 @@
     "23141": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate limit reached before verification completed",
-          "attempted_at": "2026-11-21T15:09:48.620936+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "discovery_complete": true,
@@ -373392,6 +373385,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-24T12:41:54.573044+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Request failed for https://sdilej.cz/princ-slunce-1990/s/-6 (HTTP None)",
+          "attempted_at": "2026-11-24T13:07:08.823811+00:00"
         }
       ]
     },
@@ -722263,5 +722263,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-24T13:05:51.815949+00:00"
+  "updated_at": "2026-11-24T13:07:08.823829+00:00"
 }
