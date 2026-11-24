@@ -13,13 +13,17 @@ RUNTIME_TOLERANCE = 0.05
 RUNTIME_SHORTFALL_REJECT = 0.05
 RUNTIME_HARD_REJECT = 0.40
 SIMILARITY_GATE = 0.58
-# Published broadcast editions can differ from the archive's theatrical
+# Published broadcast and streaming editions can differ from the archive's theatrical
 # runtime. Apply these only to a title with an explicit matching year.
 RELEASE_RUNTIMES = {
     # https://www.ceskatelevize.cz/porady/15988-synove-hor/
     (24064, 1956): 82,
     # https://www.iprima.cz/filmy/deti-na-zakazku
     (12568, 1938): 69,
+    # https://www.ceskatelevize.cz/porady/12886173225-balada-o-vojakovi/
+    (21551, 1959): 85,
+    # https://www.disneyplus.com/cs-cz/browse/entity-1d8f1a4a-72dc-4532-a0e0-d35daa00d3a7
+    (20410, 2025): 84,
 }
 EPISODE_RE = re.compile(r"\bS\d{1,2}E\d{1,3}\b|\b\d{1,2}x\d{1,3}\b", re.I)
 YEAR_RE = re.compile(r"(?<!\d)(19\d{2}|20\d{2})(?!\d)")

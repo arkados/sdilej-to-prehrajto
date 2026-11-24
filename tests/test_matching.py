@@ -1,3 +1,5 @@
+import pytest
+
 from sdilej_to_prehrajto.matching import classify_candidate
 from sdilej_to_prehrajto.models import Film, MatchTier
 
@@ -63,16 +65,26 @@ def test_rejects_shorter_cut_even_when_difference_is_under_twenty_percent() -> N
     assert result.reason == "wrong_runtime"
 
 
-def test_documented_edition_keeps_title_year_and_duration_guards() -> None:
-    title = "Synové hor"
-    entry = Film(24064, "synove-hor", title, None, 1956, 92, "cs")
-    documented = classify_candidate(entry, f"{title} (1956).mkv", duration_sec=4913)
+@pytest.mark.parametrize(
+    ("film_id", "title", "year", "catalog_minutes", "release_minutes", "source_seconds"),
+    [
+        (24064, "Synové hor", 1956, 92, 82, 4913),
+        (21551, "Balada o vojákovi", 1959, 89, 85, 5054),
+        (20410, "Oceán s Davidem Attenboroughem", 2025, 95, 84, 5036),
+    ],
+)
+def test_documented_edition_keeps_title_year_and_duration_guards(
+    film_id, title, year, catalog_minutes, release_minutes, source_seconds,
+) -> None:
+    entry = Film(film_id, "film", title, None, year, catalog_minutes, "cs")
+    filename = f"{title} ({year}).mkv"
+    documented = classify_candidate(entry, filename, duration_sec=source_seconds)
     assert documented.tier == MatchTier.STRONG
-    assert documented.evidence["documented_release_runtime_min"] == 82
-    assert classify_candidate(entry, f"{title} (1956).mkv", duration_sec=5520).tier == MatchTier.STRONG
-    assert classify_candidate(entry, f"{title} (1956).mkv", duration_sec=4400).reason == "wrong_runtime"
-    assert classify_candidate(entry, f"{title}.mkv", duration_sec=4913).reason == "wrong_runtime"
-    assert classify_candidate(entry, f"{title} (1957).mkv", duration_sec=4913).reason == "wrong_year"
+    assert documented.evidence["documented_release_runtime_min"] == release_minutes
+    assert classify_candidate(entry, filename, duration_sec=catalog_minutes * 60).tier == MatchTier.STRONG
+    assert classify_candidate(entry, filename, duration_sec=(release_minutes - 10) * 60).reason == "wrong_runtime"
+    assert classify_candidate(entry, f"{title}.mkv", duration_sec=source_seconds).reason == "wrong_runtime"
+    assert classify_candidate(entry, f"{title} ({year + 1}).mkv", duration_sec=source_seconds).reason == "wrong_year"
 
 
 def test_accepts_longer_extended_cut_with_matching_title_and_year() -> None:
