@@ -211498,13 +211498,6 @@
           "source_id": "35008420",
           "target_video_id": "30188835",
           "permanent": false,
-          "attempted_at": "2026-11-24T09:46:22.794504+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35008420",
-          "target_video_id": "30188835",
-          "permanent": false,
           "attempted_at": "2026-11-24T12:37:51.932681+00:00"
         },
         {
@@ -211513,12 +211506,20 @@
           "target_video_id": "30188835",
           "permanent": false,
           "attempted_at": "2026-11-24T15:24:51.854921+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35008420",
+          "target_video_id": "30188835",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-24T21:37:07.051465+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35008420",
         "display_name": "Ripleyho hra (2002) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T15:24:32.706497+00:00"
+        "planned_at": "2026-11-24T21:35:52.685625+00:00"
       },
       "previous_target_id": "30188835",
       "prepared": {
@@ -211619,7 +211620,7 @@
       "last_plan": {
         "source_id": "34471433",
         "display_name": "Drakobijce (1981) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T15:24:33.096078+00:00"
+        "planned_at": "2026-11-24T21:35:53.101949+00:00"
       },
       "previous_target_id": "30189425",
       "prepared": {
@@ -211735,7 +211736,7 @@
       "last_plan": {
         "source_id": "29519639",
         "display_name": "Jen my dva (2023) 720p CZ Titulky",
-        "planned_at": "2026-11-24T15:24:33.486351+00:00"
+        "planned_at": "2026-11-24T21:35:53.510242+00:00"
       },
       "previous_target_id": "30190023",
       "prepared": {
@@ -212607,7 +212608,7 @@
       "last_plan": {
         "source_id": "30709141",
         "display_name": "Finále (2018) SD CZ Dabing",
-        "planned_at": "2026-11-24T15:25:17.835428+00:00"
+        "planned_at": "2026-11-24T21:35:53.926837+00:00"
       },
       "previous_target_id": "30191702",
       "prepared": {
@@ -212757,7 +212758,7 @@
       "last_plan": {
         "source_id": "12136921",
         "display_name": "Pomsta (2019) 4K CZ Dabing",
-        "planned_at": "2026-11-24T15:25:18.222581+00:00"
+        "planned_at": "2026-11-24T21:35:54.331716+00:00"
       },
       "previous_target_id": "30192642",
       "prepared": {
@@ -452466,5 +452467,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T21:35:39.290596+00:00"
+  "updated_at": "2026-11-24T21:37:07.051483+00:00"
 }
