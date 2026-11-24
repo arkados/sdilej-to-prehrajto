@@ -1413,7 +1413,7 @@
       "last_plan": {
         "source_id": "26592290",
         "display_name": "Nelítostný souboj (1995) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T13:57:22.439047+00:00"
+        "planned_at": "2026-11-24T17:52:35.410981+00:00"
       },
       "prepared": {
         "target_video_id": "28927371",
@@ -1452,7 +1452,7 @@
       "last_plan": {
         "source_id": "18471418",
         "display_name": "Old Boy (2003) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T13:57:22.018479+00:00"
+        "planned_at": "2026-11-24T17:52:35.023359+00:00"
       },
       "prepared": {
         "target_video_id": "28927315",
@@ -1468,13 +1468,6 @@
           "source_id": "30836489",
           "target_video_id": "28927212",
           "permanent": false,
-          "attempted_at": "2026-11-24T07:37:51.412382+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30836489",
-          "target_video_id": "28927212",
-          "permanent": false,
           "attempted_at": "2026-11-24T11:17:24.825538+00:00"
         },
         {
@@ -1483,12 +1476,20 @@
           "target_video_id": "28927212",
           "permanent": false,
           "attempted_at": "2026-11-24T13:57:31.659827+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30836489",
+          "target_video_id": "28927212",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-24T17:54:10.011082+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30836489",
         "display_name": "Dr. Divnoláska aneb Jak jsem se naučil nedělat si starosti a mít rád bombu (1964) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T13:57:21.609842+00:00"
+        "planned_at": "2026-11-24T17:52:34.635781+00:00"
       },
       "prepared": {
         "target_video_id": "28927212",
@@ -2797,7 +2798,7 @@
       "last_plan": {
         "source_id": "34257579",
         "display_name": "Dárek do cely č.7 (2019) 1080p SK Dabing",
-        "planned_at": "2026-11-24T13:57:22.850101+00:00"
+        "planned_at": "2026-11-24T17:52:35.799337+00:00"
       },
       "prepared": {
         "target_video_id": "29115923",
@@ -350370,7 +350371,20 @@
       }
     },
     "6816": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28474897",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-24T17:52:56.724172+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "28474897",
+        "display_name": "You'll Never Find Me (2023) 1080p CZ Titulky",
+        "planned_at": "2026-11-24T17:52:34.209239+00:00"
+      }
     },
     "22574": {
       "attempts": []
@@ -452309,5 +452323,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T17:52:20.470235+00:00"
+  "updated_at": "2026-11-24T17:54:10.011101+00:00"
 }
