@@ -5964,7 +5964,20 @@
       "attempts": []
     },
     "21551": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33155666",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-24T21:55:57.785528+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "33155666",
+        "display_name": "Balada o vojákovi (1959) 720p CZ Dabing",
+        "planned_at": "2026-11-24T21:55:36.018772+00:00"
+      }
     },
     "32461": {
       "attempts": [
@@ -93512,7 +93525,7 @@
       "last_plan": {
         "source_id": "35468669",
         "display_name": "Kim Dotcom: Lapen v síti (2017) 1080p CZ Titulky",
-        "planned_at": "2026-11-24T21:48:47.074529+00:00"
+        "planned_at": "2026-11-24T21:55:36.598231+00:00"
       },
       "previous_target_id": "30988643",
       "prepared": {
@@ -220408,13 +220421,6 @@
           "source_id": "31398864",
           "target_video_id": "30565963",
           "permanent": false,
-          "attempted_at": "2026-11-24T09:47:46.455653+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31398864",
-          "target_video_id": "30565963",
-          "permanent": false,
           "attempted_at": "2026-11-24T12:39:24.653223+00:00"
         },
         {
@@ -220423,12 +220429,20 @@
           "target_video_id": "30565963",
           "permanent": false,
           "attempted_at": "2026-11-24T15:26:21.732165+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31398864",
+          "target_video_id": "30565963",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-24T21:57:11.407605+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31398864",
         "display_name": "Zúčtování 2 (2025) 4K CZ Dabing",
-        "planned_at": "2026-11-24T21:48:46.660151+00:00"
+        "planned_at": "2026-11-24T21:55:36.331828+00:00"
       },
       "previous_target_id": "30565963",
       "prepared": {
@@ -220578,7 +220592,7 @@
       "last_plan": {
         "source_id": "34022375",
         "display_name": "Tenkrát na východě (2000) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T21:48:47.479851+00:00"
+        "planned_at": "2026-11-24T21:55:36.861634+00:00"
       },
       "previous_target_id": "30566104",
       "prepared": {
@@ -220802,7 +220816,7 @@
       "last_plan": {
         "source_id": "33960852",
         "display_name": "Vítejte v džungli (2003) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T15:26:35.866420+00:00"
+        "planned_at": "2026-11-24T21:55:37.126380+00:00"
       },
       "previous_target_id": "30566345",
       "prepared": {
@@ -452437,5 +452451,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T21:55:18.605499+00:00"
+  "updated_at": "2026-11-24T21:57:11.407625+00:00"
 }
