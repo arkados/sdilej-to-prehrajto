@@ -113046,13 +113046,6 @@
           "source_id": "25307977",
           "target_video_id": "29315006",
           "permanent": false,
-          "attempted_at": "2026-11-24T08:39:47.932793+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25307977",
-          "target_video_id": "29315006",
-          "permanent": false,
           "attempted_at": "2026-11-24T11:53:52.239928+00:00"
         },
         {
@@ -113061,12 +113054,20 @@
           "target_video_id": "29315006",
           "permanent": false,
           "attempted_at": "2026-11-24T14:30:22.593037+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "25307977",
+          "target_video_id": "29315006",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-24T19:27:04.929024+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25307977",
         "display_name": "History of the World: Part I (1981) 720p CZ Titulky",
-        "planned_at": "2026-11-24T14:30:09.303918+00:00"
+        "planned_at": "2026-11-24T19:26:09.537115+00:00"
       },
       "prepared": {
         "target_video_id": "29315006",
@@ -115668,7 +115669,7 @@
       "last_plan": {
         "source_id": "30647033",
         "display_name": "Bitva v Ardenách (1965) 4K CZ Dabing",
-        "planned_at": "2026-11-24T14:30:44.971851+00:00"
+        "planned_at": "2026-11-24T19:26:11.087808+00:00"
       },
       "previous_target_id": "29571102",
       "prepared": {
@@ -116935,7 +116936,7 @@
       "last_plan": {
         "source_id": "26801976",
         "display_name": "Emily (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T14:30:10.138024+00:00"
+        "planned_at": "2026-11-24T19:26:10.312753+00:00"
       },
       "prepared": {
         "target_video_id": "29443370",
@@ -122827,7 +122828,7 @@
       "last_plan": {
         "source_id": "29492673",
         "display_name": "Max & Mája: Příběh lištiček (2023) 720p CZ Dabing",
-        "planned_at": "2026-11-24T14:30:44.551347+00:00"
+        "planned_at": "2026-11-24T19:26:10.700581+00:00"
       },
       "previous_target_id": "29635642",
       "prepared": {
@@ -199862,7 +199863,7 @@
       "last_plan": {
         "source_id": "29700181",
         "display_name": "Spartakus (2004) SD CZ Dabing",
-        "planned_at": "2026-11-24T14:30:09.725722+00:00"
+        "planned_at": "2026-11-24T19:26:09.925369+00:00"
       },
       "previous_target_id": "29811913",
       "prepared": {
@@ -452401,5 +452402,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T19:25:56.395858+00:00"
+  "updated_at": "2026-11-24T19:27:04.929044+00:00"
 }
