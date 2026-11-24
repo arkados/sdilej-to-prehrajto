@@ -66755,13 +66755,6 @@
           "source_id": "14853845",
           "target_video_id": "29198848",
           "permanent": false,
-          "attempted_at": "2026-11-24T08:20:46.150540+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14853845",
-          "target_video_id": "29198848",
-          "permanent": false,
           "attempted_at": "2026-11-24T11:36:18.085803+00:00"
         },
         {
@@ -66770,12 +66763,20 @@
           "target_video_id": "29198848",
           "permanent": false,
           "attempted_at": "2026-11-24T14:14:19.868634+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "14853845",
+          "target_video_id": "29198848",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-24T18:52:39.840205+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14853845",
         "display_name": "Lessie se vrací (1943) SD CZ Dabing",
-        "planned_at": "2026-11-24T14:14:02.508594+00:00"
+        "planned_at": "2026-11-24T18:51:22.302542+00:00"
       },
       "prepared": {
         "target_video_id": "29198848",
@@ -67003,7 +67004,7 @@
       "last_plan": {
         "source_id": "34912011",
         "display_name": "Knoflíkáři (1997) 1080p CZ Titulky",
-        "planned_at": "2026-11-24T14:14:36.817836+00:00"
+        "planned_at": "2026-11-24T18:51:23.071902+00:00"
       },
       "prepared": {
         "target_video_id": "29427702",
@@ -67563,7 +67564,7 @@
       "last_plan": {
         "source_id": "34710258",
         "display_name": "Delta Okavanga: Kousek ráje (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T14:14:02.924049+00:00"
+        "planned_at": "2026-11-24T18:51:22.691349+00:00"
       },
       "prepared": {
         "target_video_id": "29255540",
@@ -67978,7 +67979,7 @@
       "last_plan": {
         "source_id": "34501428",
         "display_name": "Thor (2011) 4K CZ Dabing",
-        "planned_at": "2026-11-24T14:14:37.673238+00:00"
+        "planned_at": "2026-11-24T18:51:23.850328+00:00"
       },
       "prepared": {
         "target_video_id": "29482056",
@@ -70272,7 +70273,7 @@
       "last_plan": {
         "source_id": "12094326",
         "display_name": "Všem klukům, které jsem milovala (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T14:14:37.248472+00:00"
+        "planned_at": "2026-11-24T18:51:23.460324+00:00"
       },
       "prepared": {
         "target_video_id": "29255918",
@@ -452353,5 +452354,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T18:51:05.407729+00:00"
+  "updated_at": "2026-11-24T18:52:39.840224+00:00"
 }
