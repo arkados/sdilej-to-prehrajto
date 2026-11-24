@@ -186,11 +186,17 @@ def uploaded_video_confirmed(
     session: requests.Session,
     video_id: str,
     display_name: str,
+    *,
+    recent_listing: bool = False,
 ) -> bool:
+    params = (
+        {"selectedFolderId": "-1", "filterIsDeleted": "0"}
+        if recent_listing else {"searchPhrase": display_name}
+    )
     response = session.get(
         BASE_URL + "/profil/nahrana-videa",
-        params={"searchPhrase": display_name},
-        timeout=30,
+        params=params,
+        timeout=15 if recent_listing else 30,
     )
     response.raise_for_status()
     remember_detail_urls(session, response.text)

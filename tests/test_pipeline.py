@@ -1,6 +1,8 @@
 import threading
+from datetime import UTC, datetime, timedelta
 
 import pytest
+from requests import Response
 
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
 from sdilej_to_prehrajto.pipeline import SyncPipeline, plan_sha
@@ -141,16 +143,30 @@ def test_duplicate_guard_never_relays_or_renames(tmp_path, monkeypatch, existing
         assert not state.snapshot(1).get('claim')
 
 
-def test_known_prepared_target_is_completed_without_broad_name_search(tmp_path, monkeypatch):
+@pytest.mark.parametrize("recent", [True, False])
+def test_known_prepared_target_is_completed_without_broad_name_search(tmp_path, monkeypatch, recent):
     state = StateStore(tmp_path / 'state.json')
     state.record_prepared(1, '777', 100)
+
+    class TargetSession:
+        def get(self, _url, *, params, timeout):
+            assert recent
+            assert params == {"selectedFolderId": "-1", "filterIsDeleted": "0"}
+            response = Response()
+            response.status_code = 200
+            response._content = b'<h3 id="snippet-uploadedVideoListing-videoName-777">Film</h3>'
+            return response
+
     pipeline = SyncPipeline(source_provider=object(), source_session=object(), target_session=object(),
         state=state, subtitle_queue=SubtitleQueue(tmp_path / 'subs.jsonl'),
         selected_sources=SelectedSourceStore(tmp_path / 'sources.jsonl'))
     pipeline._selected[1] = Candidate('10', 'https://sdilej.cz/10/x', 'Film', size_bytes=100)
-    monkeypatch.setattr(pipeline, '_target_completed_and_named', lambda *_: True)
+    if not recent:
+        state.film(1)["prepared"]["prepared_at"] = "2000-01-01T00:00:00+00:00"
     def forbidden(*_args, **_kwargs):
         pytest.fail('A known, completed ID must not scan the entire target library or upload again')
+    monkeypatch.setattr(pipeline, '_target_completed_and_named', forbidden if recent else lambda *_: True)
+    pipeline.target_session = TargetSession()
     monkeypatch.setattr(pipeline, '_target_id_by_name', forbidden)
     monkeypatch.setattr('sdilej_to_prehrajto.pipeline.relay_upload', forbidden)
     film = Film(1, 'film', 'Film', None, 2000, 100, 'en')
@@ -503,7 +519,16 @@ def test_continuous_queue_rotates_retries_behind_unvisited_films(tmp_path) -> No
                                   "attempted_at": "2001-01-01T00:00:00+00:00"}]
     plan = pipeline.build_plan(films, 2, max_scan=2, verified_only=True)
     assert [row["film"]["cr_film_id"] for row in plan] == [4, 3]
-    # Once fresh work has been visited, the oldest reconciliation gets a turn.
+    # Once fresh work has been visited, reconcile recent uploads first.
+    an_hour_ago = (datetime.now(UTC) - timedelta(hours=1)).isoformat()
+    for film_id in (3, 4):
+        state.record_target_processing(film_id, video_id=str(100 + film_id),
+                                       size=100, source_id=str(film_id))
+        state.film(film_id)["attempts"][-1]["attempted_at"] = an_hour_ago
+    plan = pipeline.build_plan(films, 2, max_scan=2, verified_only=True)
+    assert [row["film"]["cr_film_id"] for row in plan] == [3, 4]
+
+    # While recent uploads cool down, the oldest reconciliation gets a turn.
     for film_id in (3, 4):
         state.record_target_processing(film_id, video_id=str(100 + film_id),
                                        size=100, source_id=str(film_id))

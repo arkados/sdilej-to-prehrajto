@@ -7,6 +7,7 @@ import time
 import uuid
 from collections import deque
 from concurrent.futures import ThreadPoolExecutor
+from datetime import UTC, datetime, timedelta
 from pathlib import Path
 from typing import Callable
 
@@ -32,6 +33,11 @@ from .sources import SelectedSourceStore
 
 
 MAX_PILOT_FILMS = 10
+RECENT_TARGET_WINDOW = timedelta(days=1)
+
+
+def _recent_target_cutoff() -> str:
+    return (datetime.now(UTC) - RECENT_TARGET_WINDOW).isoformat()
 
 
 def plan_sha(plan: list[dict]) -> str:
@@ -129,25 +135,27 @@ class SyncPipeline:
         plan: list[dict] = []
         inspected = 0
         if verified_only:
-            # Start with unvisited films, then retry the least recently visited
-            # ones. A fixed backlog order lets thousands of processing checks
-            # become eligible again before workers ever reach fresh uploads.
-            # Stable sorting preserves catalog priority within each group.
-            def last_transfer_visit(film: Film) -> tuple[bool, str]:
+            recent_cutoff = _recent_target_cutoff()
+
+            def transfer_priority(film: Film) -> tuple[int, str]:
                 checkpoint = self.state.snapshot(film.cr_film_id)
                 attempts = checkpoint.get("attempts") or []
-                # Retrying a new transfer must not wait behind thousands of
-                # old processing IDs just because its first lookup failed.
-                # Keep all target IDs and reconciliation guards intact.
-                has_target = bool(checkpoint.get("prepared") or
-                                  checkpoint.get("previous_target_id") or
-                                  any(attempt.get("target_video_id") for attempt in attempts))
-                return has_target, (
-                    attempts[-1].get("attempted_at", "") if attempts else
-                    checkpoint.get("prepared", {}).get("prepared_at", "")
+                prepared = checkpoint.get("prepared") or {}
+                prepared_at = prepared.get("prepared_at") or ""
+                has_target = bool(
+                    prepared or checkpoint.get("previous_target_id")
+                    or any(attempt.get("target_video_id") for attempt in attempts)
                 )
+                # Reconcile recent transfers before sweeping older targets.
+                # A newly processed video should not wait a full sweep for
+                # its completion receipt and subtitle follow-up.
+                priority = 0
+                if has_target:
+                    priority = 1 if prepared_at >= recent_cutoff else 2
+                last_visit = attempts[-1].get("attempted_at", "") if attempts else prepared_at
+                return priority, last_visit
 
-            films = sorted(films, key=last_transfer_visit)
+            films = sorted(films, key=transfer_priority)
         for film in films:
             if self.state.uploaded(film.cr_film_id) or self.selected_sources.uploaded(
                 film.cr_film_id
@@ -364,8 +372,14 @@ class SyncPipeline:
         }
 
     @staticmethod
-    def _target_confirmed(target_session, video_id: str, name: str) -> bool:
+    def _target_confirmed(
+        target_session, video_id: str, name: str, *, recent_listing: bool = False,
+    ) -> bool:
         try:
+            if recent_listing:
+                return uploaded_video_confirmed(
+                    target_session, video_id, name, recent_listing=True,
+                )
             return uploaded_video_count(target_session) is not None and (
                 uploaded_video_confirmed(target_session, video_id, name)
             )
@@ -466,15 +480,27 @@ class SyncPipeline:
             prepared = checkpoint.get("prepared")
             if prepared:
                 video_id = str(prepared["target_video_id"])
-                if self._target_completed_and_named(
-                    target_session, video_id, row["display_name"]
+                name = row["display_name"]
+                # The portal's title search can time out even when the first
+                # page visibly confirms the exact completed upload.
+                confirmed_on_recent_page = (
+                    (prepared.get("prepared_at") or "") >= _recent_target_cutoff()
+                    and self._target_confirmed(
+                        target_session, video_id, name, recent_listing=True,
+                    )
+                )
+                if confirmed_on_recent_page or self._target_completed_and_named(
+                    target_session, video_id, name,
                 ):
                     upload = self._upload_record(
                         row,
                         candidate,
                         video_id=video_id,
                         size_bytes=int(prepared["size_bytes"]),
-                        completion_evidence="reconciled_statistics_and_uploaded_listing",
+                        completion_evidence=(
+                            "reconciled_recent_uploaded_listing" if confirmed_on_recent_page
+                            else "reconciled_statistics_and_uploaded_listing"
+                        ),
                     )
                     self._finish_success(film, candidate, row, upload, target_session)
                     continue
