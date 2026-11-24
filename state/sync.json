@@ -216183,13 +216183,6 @@
           "source_id": "29604909",
           "target_video_id": "30201352",
           "permanent": false,
-          "attempted_at": "2026-11-24T09:46:58.579774+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29604909",
-          "target_video_id": "30201352",
-          "permanent": false,
           "attempted_at": "2026-11-24T12:38:27.461845+00:00"
         },
         {
@@ -216198,12 +216191,20 @@
           "target_video_id": "30201352",
           "permanent": false,
           "attempted_at": "2026-11-24T15:25:33.662387+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29604909",
+          "target_video_id": "30201352",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-24T21:43:32.710714+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29604909",
         "display_name": "Horizont: Americká sága (2024) 4K CZ Titulky",
-        "planned_at": "2026-11-24T15:25:18.612798+00:00"
+        "planned_at": "2026-11-24T21:42:18.629155+00:00"
       },
       "previous_target_id": "30201352",
       "prepared": {
@@ -216551,7 +216552,7 @@
       "last_plan": {
         "source_id": "35184210",
         "display_name": "Pomsta v srdci (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T15:25:19.002399+00:00"
+        "planned_at": "2026-11-24T21:42:19.043603+00:00"
       },
       "previous_target_id": "30556870",
       "prepared": {
@@ -218562,7 +218563,7 @@
       "last_plan": {
         "source_id": "30850709",
         "display_name": "Hra s vrahem (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T15:25:19.392516+00:00"
+        "planned_at": "2026-11-24T21:42:19.451835+00:00"
       },
       "previous_target_id": "30559861",
       "prepared": {
@@ -219697,7 +219698,7 @@
       "last_plan": {
         "source_id": "35103809",
         "display_name": "Žhavé výstřely 2 (1993) 4K CZ Dabing",
-        "planned_at": "2026-11-24T15:25:55.165090+00:00"
+        "planned_at": "2026-11-24T21:42:19.859038+00:00"
       },
       "previous_target_id": "30563098",
       "prepared": {
@@ -219918,7 +219919,7 @@
       "last_plan": {
         "source_id": "33170664",
         "display_name": "Království lesních strážců (2013) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T15:25:55.554705+00:00"
+        "planned_at": "2026-11-24T21:42:20.275490+00:00"
       },
       "previous_target_id": "30564570",
       "prepared": {
@@ -452470,5 +452471,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T21:42:05.582797+00:00"
+  "updated_at": "2026-11-24T21:43:32.710773+00:00"
 }
