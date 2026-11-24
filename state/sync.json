@@ -333122,13 +333122,6 @@
           "source_id": "31067184",
           "target_video_id": "29921550",
           "permanent": false,
-          "attempted_at": "2026-11-24T09:18:08.994942+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31067184",
-          "target_video_id": "29921550",
-          "permanent": false,
           "attempted_at": "2026-11-24T12:12:23.535777+00:00"
         },
         {
@@ -333137,6 +333130,14 @@
           "target_video_id": "29921550",
           "permanent": false,
           "attempted_at": "2026-11-24T14:49:39.794770+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31067184",
+          "target_video_id": "29921550",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-24T20:41:10.705435+00:00"
         }
       ],
       "last_plan": {
@@ -452435,5 +452436,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T20:39:54.727383+00:00"
+  "updated_at": "2026-11-24T20:41:10.705452+00:00"
 }
