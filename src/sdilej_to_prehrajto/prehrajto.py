@@ -189,10 +189,11 @@ def uploaded_video_confirmed(
     *,
     recent_listing: bool = False,
 ) -> bool:
-    params = (
-        {"selectedFolderId": "-1", "filterIsDeleted": "0"}
-        if recent_listing else {"searchPhrase": display_name}
-    )
+    params = {"selectedFolderId": "-1"}
+    if recent_listing:
+        params["filterIsDeleted"] = "0"
+    else:
+        params["searchPhrase"] = display_name
     response = session.get(
         BASE_URL + "/profil/nahrana-videa",
         params=params,
@@ -346,7 +347,9 @@ def uploaded_video_id_by_name(
         remaining = deadline - time.monotonic()
         if remaining <= 0:
             raise PrehrajtoError("Target lookup deadline exceeded; refusing duplicate risk")
-        params = {"searchPhrase": query}
+        # Select the portal's all-folders view explicitly. Leaving the folder
+        # unspecified can make the title search time out on large accounts.
+        params = {"selectedFolderId": "-1", "searchPhrase": query}
         if page > 1:
             params[page_key] = str(page)
         response = session.get(BASE_URL + "/profil/nahrana-videa", params=params, timeout=min(30, remaining))

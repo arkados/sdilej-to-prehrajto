@@ -61,6 +61,7 @@ def test_lookup_recognizes_target_sanitized_names(wanted, visible, query):
     class Session:
         def get(self, _url, **kwargs):
             assert kwargs['params']['searchPhrase'] == query
+            assert kwargs['params']['selectedFolderId'] == '-1'
             return Response(text=f'<h3 id="snippet-uploadedVideoListing-videoName-777">{visible}</h3>')
     assert uploaded_video_id_by_name(Session(), wanted) == '777'
 
@@ -227,7 +228,10 @@ def test_uploaded_video_lookup_matches_film_but_completion_stays_strict() -> Non
     assert not uploaded_video_confirmed(
         session, "777", "Film (2000) 4K CZ Dabing"
     )
-    assert session.params == {"searchPhrase": "Film (2000) 4K CZ Dabing"}
+    assert session.params == {
+        "selectedFolderId": "-1",
+        "searchPhrase": "Film (2000) 4K CZ Dabing",
+    }
     assert uploaded_video_id_by_name(ListingSession(), "Film (2000)") == "777"
     assert uploaded_video_id_by_name(ListingSession(), "Film (2001)") is None
 
