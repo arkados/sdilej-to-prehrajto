@@ -91543,13 +91543,6 @@
           "source_id": "32500243",
           "target_video_id": "29356044",
           "permanent": false,
-          "attempted_at": "2026-11-24T06:57:45.997120+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32500243",
-          "target_video_id": "29356044",
-          "permanent": false,
           "attempted_at": "2026-11-24T10:46:42.548151+00:00"
         },
         {
@@ -91558,12 +91551,20 @@
           "target_video_id": "29356044",
           "permanent": false,
           "attempted_at": "2026-11-24T13:32:27.067825+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32500243",
+          "target_video_id": "29356044",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-24T16:52:22.111876+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32500243",
         "display_name": "Slunce, seno, jahody (1983) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T13:32:01.281375+00:00"
+        "planned_at": "2026-11-24T16:50:46.235392+00:00"
       },
       "prepared": {
         "target_video_id": "29356044",
@@ -193327,7 +193328,7 @@
       "last_plan": {
         "source_id": "34684428",
         "display_name": "Bojovnice (2007) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T13:32:39.595542+00:00"
+        "planned_at": "2026-11-24T16:50:46.621953+00:00"
       },
       "prepared": {
         "target_video_id": "29218008",
@@ -196953,7 +196954,7 @@
       "last_plan": {
         "source_id": "34144514",
         "display_name": "Mrtvé tělo (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T13:32:40.020749+00:00"
+        "planned_at": "2026-11-24T16:50:47.008344+00:00"
       },
       "prepared": {
         "target_video_id": "29218933",
@@ -209351,7 +209352,7 @@
       "last_plan": {
         "source_id": "34734180",
         "display_name": "Les Crevettes pailletées (2019) SD CZ Titulky",
-        "planned_at": "2026-11-24T13:32:40.436090+00:00"
+        "planned_at": "2026-11-24T16:50:47.395660+00:00"
       },
       "prepared": {
         "target_video_id": "29220527",
@@ -340411,7 +340412,20 @@
       "attempts": []
     },
     "6408": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34701253",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-24T16:51:08.314421+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34701253",
+        "display_name": "Nikdy není pozdě (2015) 1080p CZ Dabing",
+        "planned_at": "2026-11-24T16:50:45.812062+00:00"
+      }
     },
     "21089": {
       "attempts": [
@@ -452258,5 +452272,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T16:50:31.444400+00:00"
+  "updated_at": "2026-11-24T16:52:22.111895+00:00"
 }
