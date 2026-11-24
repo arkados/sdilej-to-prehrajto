@@ -16541,13 +16541,6 @@
           "source_id": "29165269",
           "target_video_id": "29336236",
           "permanent": false,
-          "attempted_at": "2026-11-23T23:24:33.946448+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29165269",
-          "target_video_id": "29336236",
-          "permanent": false,
           "attempted_at": "2026-11-24T02:09:37.666648+00:00"
         },
         {
@@ -16556,12 +16549,20 @@
           "target_video_id": "29336236",
           "permanent": false,
           "attempted_at": "2026-11-24T04:46:33.349988+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29165269",
+          "target_video_id": "29336236",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-24T08:01:55.027524+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29165269",
         "display_name": "Víly z Inisherinu (2022) 720p CZ Dabing",
-        "planned_at": "2026-11-24T04:46:23.753464+00:00"
+        "planned_at": "2026-11-24T07:59:55.107292+00:00"
       },
       "prepared": {
         "target_video_id": "29336236",
@@ -16612,7 +16613,7 @@
       "last_plan": {
         "source_id": "28172188",
         "display_name": "Patrola (2012) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T04:46:24.114700+00:00"
+        "planned_at": "2026-11-24T07:59:55.480644+00:00"
       },
       "prepared": {
         "target_video_id": "29154104",
@@ -19785,7 +19786,7 @@
       "last_plan": {
         "source_id": "34785737",
         "display_name": "Dragon Ball Z: The History of Trunks (1993) 1080p CZ Titulky",
-        "planned_at": "2026-11-24T04:46:24.834898+00:00"
+        "planned_at": "2026-11-24T07:59:56.208606+00:00"
       },
       "previous_target_id": "29559537",
       "prepared": {
@@ -276544,7 +276545,20 @@
       "attempts": []
     },
     "26533": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34899812",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-24T08:00:17.020559+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34899812",
+        "display_name": "Gabriel's Rapture: Part I (2021) 1080p CZ Titulky",
+        "planned_at": "2026-11-24T07:59:54.697537+00:00"
+      }
     },
     "5096": {
       "attempts": [
@@ -370526,7 +370540,7 @@
       "last_plan": {
         "source_id": "26903578",
         "display_name": "Trable o Vánocích (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T04:46:24.476788+00:00"
+        "planned_at": "2026-11-24T07:59:55.840722+00:00"
       },
       "previous_target_id": "29707694",
       "prepared": {
@@ -452025,5 +452039,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T07:59:42.080256+00:00"
+  "updated_at": "2026-11-24T08:01:55.027543+00:00"
 }
