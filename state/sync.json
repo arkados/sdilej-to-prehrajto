@@ -362560,13 +362560,6 @@
           "source_id": "12212463",
           "target_video_id": "29924192",
           "permanent": false,
-          "attempted_at": "2026-11-24T09:18:51.921351+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12212463",
-          "target_video_id": "29924192",
-          "permanent": false,
           "attempted_at": "2026-11-24T12:13:04.016159+00:00"
         },
         {
@@ -362575,12 +362568,20 @@
           "target_video_id": "29924192",
           "permanent": false,
           "attempted_at": "2026-11-24T14:50:21.000399+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12212463",
+          "target_video_id": "29924192",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-24T20:49:07.491803+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12212463",
         "display_name": "V zajetí sněhu (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T14:50:07.495023+00:00"
+        "planned_at": "2026-11-24T20:47:53.431258+00:00"
       },
       "previous_target_id": "29924192",
       "prepared": {
@@ -364769,7 +364770,7 @@
       "last_plan": {
         "source_id": "33171560",
         "display_name": "Opice (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T14:50:07.881565+00:00"
+        "planned_at": "2026-11-24T20:47:53.853182+00:00"
       },
       "previous_target_id": "29924358",
       "prepared": {
@@ -376001,7 +376002,7 @@
       "last_plan": {
         "source_id": "35184227",
         "display_name": "Pravá ruka pomsty (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T14:50:08.271213+00:00"
+        "planned_at": "2026-11-24T20:47:54.274373+00:00"
       },
       "previous_target_id": "29925156",
       "prepared": {
@@ -379194,7 +379195,7 @@
       "last_plan": {
         "source_id": "35185566",
         "display_name": "Zloději a lháři (2019) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T14:50:42.754957+00:00"
+        "planned_at": "2026-11-24T20:47:54.695910+00:00"
       },
       "previous_target_id": "30456226",
       "prepared": {
@@ -381858,7 +381859,7 @@
       "last_plan": {
         "source_id": "26039611",
         "display_name": "Krvavé zúčtování (2013) 720p CZ Dabing",
-        "planned_at": "2026-11-24T14:50:43.136849+00:00"
+        "planned_at": "2026-11-24T20:47:55.109045+00:00"
       },
       "previous_target_id": "30457024",
       "prepared": {
@@ -452441,5 +452442,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T20:47:40.689776+00:00"
+  "updated_at": "2026-11-24T20:49:07.491821+00:00"
 }
