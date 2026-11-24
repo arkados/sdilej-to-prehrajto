@@ -207841,17 +207841,19 @@
       }
     },
     "32306": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35562784",
+          "target_video_id": "31353523",
+          "permanent": false,
+          "attempted_at": "2026-11-24T23:58:02.810185+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35562784",
         "display_name": "Bitkař (2022) 720p CZ Titulky",
         "planned_at": "2026-11-24T23:53:28.325313+00:00"
-      },
-      "claim": {
-        "worker_id": "30964d93a0bd41399b3c917316cf76fa-shard-0",
-        "claimed_at": "2026-11-24T23:53:30.180966+00:00",
-        "lease_expires_at": "2026-11-25T05:53:30.180966+00:00",
-        "run_id": "45496650484"
       },
       "previous_target_id": "31353523",
       "prepared": {
@@ -452529,5 +452531,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T23:53:33.450796+00:00"
+  "updated_at": "2026-11-24T23:58:02.810202+00:00"
 }
