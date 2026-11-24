@@ -20650,13 +20650,6 @@
           "source_id": "28624112",
           "target_video_id": "30984903",
           "permanent": false,
-          "attempted_at": "2026-11-24T07:04:51.511902+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28624112",
-          "target_video_id": "30984903",
-          "permanent": false,
           "attempted_at": "2026-11-24T10:47:52.316045+00:00"
         },
         {
@@ -20665,12 +20658,20 @@
           "target_video_id": "30984903",
           "permanent": false,
           "attempted_at": "2026-11-24T13:33:27.035364+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28624112",
+          "target_video_id": "30984903",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-24T17:03:39.131740+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28624112",
         "display_name": "Johnny Guitar (1954) SD CZ Dabing",
-        "planned_at": "2026-11-24T13:33:13.881843+00:00"
+        "planned_at": "2026-11-24T17:02:02.505486+00:00"
       },
       "previous_target_id": "30984903",
       "prepared": {
@@ -25762,7 +25763,7 @@
       "last_plan": {
         "source_id": "29479949",
         "display_name": "Nejlepší léta slečny Jean Brodieové (1969) 1080p CZ Titulky",
-        "planned_at": "2026-11-24T13:33:14.300787+00:00"
+        "planned_at": "2026-11-24T17:02:02.895562+00:00"
       },
       "previous_target_id": "30984909",
       "prepared": {
@@ -195899,7 +195900,7 @@
       "last_plan": {
         "source_id": "25780807",
         "display_name": "Vyšehrad: Fylm (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T13:33:47.617383+00:00"
+        "planned_at": "2026-11-24T17:02:03.673612+00:00"
       },
       "prepared": {
         "target_video_id": "29221446",
@@ -238979,7 +238980,7 @@
       "last_plan": {
         "source_id": "34643239",
         "display_name": "Danger Close (2017) 720p CZ Titulky",
-        "planned_at": "2026-11-24T13:33:14.717846+00:00"
+        "planned_at": "2026-11-24T17:02:03.284324+00:00"
       },
       "previous_target_id": "30984914",
       "prepared": {
@@ -340428,12 +340429,19 @@
           "source_id": "34701253",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-24T16:56:46.559249+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34701253",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-24T17:02:24.593136+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34701253",
         "display_name": "Nikdy není pozdě (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-24T16:56:24.055964+00:00"
+        "planned_at": "2026-11-24T17:02:02.087036+00:00"
       }
     },
     "21089": {
@@ -452282,5 +452290,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T17:01:48.228012+00:00"
+  "updated_at": "2026-11-24T17:03:39.131759+00:00"
 }
