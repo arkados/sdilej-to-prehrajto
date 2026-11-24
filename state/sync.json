@@ -359915,17 +359915,19 @@
       }
     },
     "17999": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16778226",
+          "target_video_id": "31346546",
+          "permanent": false,
+          "attempted_at": "2026-11-24T19:11:06.139094+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16778226",
         "display_name": "Jakob's Wife (2021) SD CZ Titulky",
         "planned_at": "2026-11-24T19:08:47.900414+00:00"
-      },
-      "claim": {
-        "worker_id": "917078ea831647b0b1c241c5438c7ac4-shard-0",
-        "claimed_at": "2026-11-24T19:08:49.879472+00:00",
-        "lease_expires_at": "2026-11-25T01:08:49.879472+00:00",
-        "run_id": "45395929653"
       },
       "previous_target_id": "31346546",
       "prepared": {
@@ -452380,5 +452382,5 @@
       }
     }
   },
-  "updated_at": "2026-11-24T19:08:54.414202+00:00"
+  "updated_at": "2026-11-24T19:11:06.139114+00:00"
 }
