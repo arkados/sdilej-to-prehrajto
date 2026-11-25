@@ -100045,7 +100045,15 @@
       }
     },
     "33457": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35041389",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-25T13:26:35.563290+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35041389",
         "display_name": "宋家皇朝 (1997) SD CZ Titulky",
@@ -340417,6 +340425,18 @@
         "source_id": "35474794",
         "display_name": "Bouřlivé Los Angeles (2022) SD CZ Titulky",
         "planned_at": "2026-11-25T13:23:08.283118+00:00"
+      },
+      "claim": {
+        "worker_id": "79c6952f972c46ed92d1c1949c02db74-shard-0",
+        "claimed_at": "2026-11-25T13:26:35.969358+00:00",
+        "lease_expires_at": "2026-11-25T19:26:35.969358+00:00",
+        "run_id": "45614217982"
+      },
+      "previous_target_id": "31371480",
+      "prepared": {
+        "target_video_id": "31371480",
+        "size_bytes": 836485120,
+        "prepared_at": "2026-11-25T13:26:40.118351+00:00"
       }
     },
     "31802": {
@@ -453173,5 +453193,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T13:26:26.468950+00:00"
+  "updated_at": "2026-11-25T13:26:40.118366+00:00"
 }
