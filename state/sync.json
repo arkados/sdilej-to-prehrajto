@@ -293720,17 +293720,19 @@
       }
     },
     "4900": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29796438",
+          "target_video_id": "31376294",
+          "permanent": false,
+          "attempted_at": "2026-11-25T17:19:48.942531+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29796438",
         "display_name": "The Collector (2009) 1080p CZ Titulky",
         "planned_at": "2026-11-25T17:14:53.950596+00:00"
-      },
-      "claim": {
-        "worker_id": "c5cef3b27f6a4b209748f40e6de0000a-shard-0",
-        "claimed_at": "2026-11-25T17:14:56.042779+00:00",
-        "lease_expires_at": "2026-11-25T23:14:56.042779+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31376294",
       "prepared": {
@@ -454633,5 +454635,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T17:15:01.710816+00:00"
+  "updated_at": "2026-11-25T17:19:48.942552+00:00"
 }
