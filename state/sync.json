@@ -368307,17 +368307,19 @@
       }
     },
     "29638": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14309287",
+          "target_video_id": "31372938",
+          "permanent": false,
+          "attempted_at": "2026-11-25T14:50:39.662390+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14309287",
         "display_name": "LX 2048 (2020) 1080p CZ Titulky",
         "planned_at": "2026-11-25T14:45:22.377644+00:00"
-      },
-      "claim": {
-        "worker_id": "ce1047d65d0a488a9754611f53744276-shard-0",
-        "claimed_at": "2026-11-25T14:47:22.979940+00:00",
-        "lease_expires_at": "2026-11-25T20:47:22.979940+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31372938",
       "prepared": {
@@ -453790,5 +453792,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T14:47:26.772080+00:00"
+  "updated_at": "2026-11-25T14:50:39.662405+00:00"
 }
