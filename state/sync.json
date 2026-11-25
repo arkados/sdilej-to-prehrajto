@@ -404626,7 +404626,15 @@
       }
     },
     "33499": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26819765",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-25T14:59:10.821867+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26819765",
         "display_name": "Отрыв (2019) 720p CZ Dabing",
@@ -407541,6 +407549,18 @@
         "source_id": "13773388",
         "display_name": "Sanatorium (2004) SD CZ Dabing",
         "planned_at": "2026-11-25T14:57:23.622557+00:00"
+      },
+      "claim": {
+        "worker_id": "9adb9f47b9754d8c925af8a260abf592-shard-0",
+        "claimed_at": "2026-11-25T14:59:11.238255+00:00",
+        "lease_expires_at": "2026-11-25T20:59:11.238255+00:00",
+        "run_id": "45614217982"
+      },
+      "previous_target_id": "31373131",
+      "prepared": {
+        "target_video_id": "31373131",
+        "size_bytes": 883939710,
+        "prepared_at": "2026-11-25T14:59:16.827842+00:00"
       }
     },
     "32361": {
@@ -453873,5 +453893,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T14:59:06.418244+00:00"
+  "updated_at": "2026-11-25T14:59:16.827858+00:00"
 }
