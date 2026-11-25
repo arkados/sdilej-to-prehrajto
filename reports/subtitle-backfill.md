@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-25T14:42:02.676667+00:00
+Poslední aktualizace (UTC): 2026-11-25T14:42:06.567372+00:00
 
 Zkontrolováno videí: 3376. Další stránka kontroly: 0.
 
@@ -604,7 +604,7 @@ Kontrol: 65; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Důkaz viny (2026) 4K CZ Titulky](https://prehraj.to/dukaz-viny-2026-4k-cz-titulky-mkv/02a0292fe54a430e) (ID 30599367) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T14:38:39.065546+00:00 |
 | [Dům běsů (2023) 1080p CZ Titulky](https://prehraj.to/dum-besu-2023-1080p-cz-titulky-mp4/efbbe4005a9be74f) (ID 30160550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T14:38:39.059579+00:00 |
 | [Dům k pověšení (1988) SD CZ Titulky](https://prehraj.to/dum-k-poveseni-1988-sd-cz-titulky-avi/928eb1810939184a) (ID 31164166) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T14:38:39.079106+00:00 |
-| [EPiC: Elvis Presley in Concert (2026) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29319498) | [Sdílej 33941520](https://sdilej.cz/33941520/epic-elvis-presley-in-concert-2026-1080p-.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-25T04:26:30.675984+00:00 |
+| [EPiC: Elvis Presley in Concert (2026) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29319498) | [Sdílej 33941520](https://sdilej.cz/33941520/epic-elvis-presley-in-concert-2026-1080p-.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-25T14:42:06.567295+00:00 |
 | [EVA (2011) SD CZ Titulky](https://prehraj.to/eva-2011-sd-cz-titulky-mp4/7f4eb9b66b6f1907) (ID 30917186) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T14:38:39.073061+00:00 |
 | [Earth to Echo (2014) SD CZ Titulky](https://prehraj.to/earth-to-echo-2014-sd-cz-titulky-mp4/54f815491411b324) (ID 29721032) | [Sdílej 34738450](https://sdilej.cz/34738450/earth-to-echo-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:38:17.497134+00:00 |
 | [Ebigejl (2019) 1080p CZ Titulky.mp4](https://prehraj.to/ebigejl-2019-1080p-cz-titulky-mp4/b6eeb5696e202457) (ID 29939326) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T14:38:39.057176+00:00 |
