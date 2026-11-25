@@ -200940,17 +200940,19 @@
       }
     },
     "32923": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12025400",
+          "target_video_id": "31371167",
+          "permanent": false,
+          "attempted_at": "2026-11-25T13:18:20.333416+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12025400",
         "display_name": "1942 (2005) SD CZ Dabing",
         "planned_at": "2026-11-25T13:14:05.774242+00:00"
-      },
-      "claim": {
-        "worker_id": "b6f3d41929e948608c16adba80ccc95d-shard-0",
-        "claimed_at": "2026-11-25T13:17:31.775862+00:00",
-        "lease_expires_at": "2026-11-25T19:17:31.775862+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31371167",
       "prepared": {
@@ -453039,5 +453041,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T13:17:35.497681+00:00"
+  "updated_at": "2026-11-25T13:18:20.333431+00:00"
 }
