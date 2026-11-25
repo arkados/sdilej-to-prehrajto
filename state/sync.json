@@ -281549,17 +281549,19 @@
       }
     },
     "23002": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35566007",
+          "target_video_id": "31372719",
+          "permanent": false,
+          "attempted_at": "2026-11-25T14:36:00.311396+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35566007",
         "display_name": "Falešné míče 2 (1988) SD CZ Titulky",
         "planned_at": "2026-11-25T14:28:43.828094+00:00"
-      },
-      "claim": {
-        "worker_id": "23cccd8cbf9d4368971f5cfbedf8ae24-shard-0",
-        "claimed_at": "2026-11-25T14:34:39.062929+00:00",
-        "lease_expires_at": "2026-11-25T20:34:39.062929+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31372719",
       "prepared": {
@@ -453654,5 +453656,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T14:34:42.859961+00:00"
+  "updated_at": "2026-11-25T14:36:00.311413+00:00"
 }
