@@ -781,3 +781,20 @@ def test_repeated_empty_pages_back_off_until_search_titles_change(tmp_path):
         assert not state.deferred(1, selection_policy=policy, at=seen + timedelta(hours=hours))
     enriched = Film.from_dict({**movie.to_dict(), "search_titles": ["Onibaba"]})
     assert not state.deferred(1, selection_policy=discovery_policy(enriched))
+
+
+def test_non_latin_target_names_do_not_collide_by_year():
+    class Session:
+        def get(self, url, **kwargs):
+            assert kwargs["params"]["searchPhrase"] == "1964"
+            return Response(text='<h3 id="snippet-uploadedVideoListing-videoName-10">別物 (1964) SD</h3>'
+                                 '<h3 id="snippet-uploadedVideoListing-videoName-20">鬼婆 (1964) 720p</h3>')
+    assert uploaded_video_id_by_name(Session(), "鬼婆 (1964) 1080p") == "20"
+
+
+def test_target_with_fully_stripped_title_requires_review_before_transfer():
+    class Session:
+        def get(self, url, **kwargs):
+            return Response(text='<h3 id="snippet-uploadedVideoListing-videoName-10">(1964) SD</h3>')
+    with pytest.raises(PrehrajtoError, match="without its film title"):
+        uploaded_video_id_by_name(Session(), "鬼婆 (1964) 1080p")

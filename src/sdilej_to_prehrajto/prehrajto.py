@@ -256,7 +256,13 @@ def _name_identity(name: str) -> str:
 def _film_identity(name: str) -> str:
     # A different quality, extension or audio version is still the same film.
     match = re.search(r"\(\d{4}\)", name)
-    return _name_identity(name[:match.end()] if match else name)
+    title = name[:match.start()] if match else name
+    identity = _name_identity(title)
+    if not identity:
+        # Some newly searchable films have no Latin title characters. Keep
+        # their actual letters so two different titles never match by year.
+        identity = "".join(char for char in title.casefold() if char.isalnum())
+    return identity + (match.group()[1:-1] if match else "")
 
 
 def _uploaded_video_id_from_html(
@@ -269,6 +275,11 @@ def _uploaded_video_id_from_html(
     """Find an exact uploaded name and ID belonging to the same listing row."""
     wanted = _film_identity(display_name) if allow_filename_extension else display_name.casefold().strip()
     soup = BeautifulSoup(html_text, "html.parser")
+    title_year = re.search(r"\((\d{4})\)", display_name)
+    ambiguous_year = None
+    if allow_filename_extension and title_year and not _name_identity(display_name[:title_year.start()]):
+        ambiguous_year = title_year.group(1)
+    stripped_title = False
     named_elements = soup.find_all(["h1", "h2", "h3", "input"])
     for element in named_elements:
         # Rename forms keep an extension-free input value while the visible
@@ -284,6 +295,9 @@ def _uploaded_video_id_from_html(
             if allow_filename_extension
             else visible_name
         )
+        if ambiguous_year and compared_name == ambiguous_year:
+            stripped_title = True
+            continue
         if compared_name != wanted:
             continue
         if not include_processing and PROCESSING_SUFFIX_RE.search(
@@ -310,6 +324,8 @@ def _uploaded_video_id_from_html(
             if match:
                 return match.group(1)
             node = node.parent
+    if stripped_title:
+        raise PrehrajtoError("Target listing contains a year without its film title")
     return None
 
 
@@ -329,7 +345,7 @@ def uploaded_video_id_by_name(
     if not query:
         raise PrehrajtoError("Cannot safely search for existing target")
     year = re.search(r"\((\d{4})\)", display_name)
-    year_fallback = len(query) < 3 and year is not None
+    year_fallback = year is not None and (len(query) < 3 or not _name_identity(title))
     if year_fallback:
         # One-letter fragments (Z, V/H/S) match hundreds of listing pages.
         # Film identity already requires this year, so searching by year keeps
