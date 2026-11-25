@@ -8525,17 +8525,19 @@
       }
     },
     "34382": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32691666",
+          "target_video_id": "31372438",
+          "permanent": false,
+          "attempted_at": "2026-11-25T14:20:19.425836+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32691666",
         "display_name": "2000 Meters to Andriivka (2025) 1080p CZ Titulky",
         "planned_at": "2026-11-25T14:13:10.193197+00:00"
-      },
-      "claim": {
-        "worker_id": "5d461562378347fba234692c8ba7ed11-shard-0",
-        "claimed_at": "2026-11-25T14:15:53.891999+00:00",
-        "lease_expires_at": "2026-11-25T20:15:53.891999+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31372438",
       "prepared": {
@@ -453452,5 +453454,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T14:15:58.275874+00:00"
+  "updated_at": "2026-11-25T14:20:19.425850+00:00"
 }
