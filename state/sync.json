@@ -362542,17 +362542,19 @@
       }
     },
     "6965": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10471400",
+          "target_video_id": "31383193",
+          "permanent": false,
+          "attempted_at": "2026-11-25T21:37:06.233572+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10471400",
         "display_name": "Think We're Alone Now (2018) 1080p CZ Titulky",
         "planned_at": "2026-11-25T21:32:31.540116+00:00"
-      },
-      "claim": {
-        "worker_id": "7a29821f890541e9bf3ace14fa25439d-shard-0",
-        "claimed_at": "2026-11-25T21:32:32.914422+00:00",
-        "lease_expires_at": "2026-11-26T03:32:32.914422+00:00",
-        "run_id": "45663914850"
       },
       "previous_target_id": "31383193",
       "prepared": {
@@ -454932,5 +454934,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T21:32:35.967823+00:00"
+  "updated_at": "2026-11-25T21:37:06.233594+00:00"
 }
