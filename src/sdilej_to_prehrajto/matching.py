@@ -76,6 +76,7 @@ def title_and_release_year(candidate: str, aliases: tuple[str, ...]) -> tuple[st
             title_numbers.update(m.start() for m in YEAR_RE.finditer(words, span.start(), span.end()))
         if cleaned := normalize_title(name, keep_years=True):
             usable.append(cleaned)
+    original_words = words
     releases = [m for m in YEAR_RE.finditer(words) if m.start() not in title_numbers]
     year = int(releases[0].group()) if releases else None
     for match in reversed(releases):
@@ -83,7 +84,11 @@ def title_and_release_year(candidate: str, aliases: tuple[str, ...]) -> tuple[st
     identity = normalize_title(words, keep_years=True)
     # A numeric-only alias embedded in a different movie's name can be
     # that movie's release year. Require it to be the visible title.
-    usable = [name for name in usable if not YEAR_RE.fullmatch(name) or name == identity]
+    usable = [
+        name for name in usable
+        if not YEAR_RE.fullmatch(name) or name == identity
+        or (year and re.match(rf"^{name} {year}\b", original_words))
+    ]
     return identity, year, usable
 
 

@@ -144,6 +144,7 @@ def test_year_between_filename_underscores_is_recognized() -> None:
 
 @pytest.mark.parametrize(("title", "year", "filename"), [
     ("1917", 2019, "1917_2019_CZ avi"),
+    ("1917", 2019, "1917 (2019) BluRay 1080p x265 CZ SK-H34D mkv"),
     ("Blade Runner 2049", 2017, "Blade Runner 2049 (2017) 4K h265 CZ mkv"),
     ("2001: A Space Odyssey", 1968, "2001 A Space Odyssey 1968 BR REMAST.mkv"),
 ])
