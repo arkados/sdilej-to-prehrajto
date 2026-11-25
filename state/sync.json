@@ -313544,17 +313544,19 @@
       }
     },
     "31825": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12402314",
+          "target_video_id": "31372845",
+          "permanent": false,
+          "attempted_at": "2026-11-25T14:45:01.217683+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12402314",
         "display_name": "1922 (2017) 720p CZ Titulky",
         "planned_at": "2026-11-25T14:36:17.639403+00:00"
-      },
-      "claim": {
-        "worker_id": "9f02a2763d39467e9ab37a47f78aedda-shard-0",
-        "claimed_at": "2026-11-25T14:42:41.496701+00:00",
-        "lease_expires_at": "2026-11-25T20:42:41.496701+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31372845",
       "prepared": {
@@ -453729,5 +453731,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T14:42:45.708977+00:00"
+  "updated_at": "2026-11-25T14:45:01.217698+00:00"
 }
