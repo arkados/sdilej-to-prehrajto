@@ -45700,7 +45700,15 @@
       }
     },
     "32494": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27606009",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-25T14:21:43.998785+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27606009",
         "display_name": "비열한 거리 (2006) 1080p CZ Titulky",
@@ -72648,6 +72656,18 @@
         "source_id": "34781315",
         "display_name": "Gomora (2008) SD CZ Titulky",
         "planned_at": "2026-11-25T14:20:40.996939+00:00"
+      },
+      "claim": {
+        "worker_id": "817735fab6424e25a5c26a51995da9cc-shard-0",
+        "claimed_at": "2026-11-25T14:21:44.415008+00:00",
+        "lease_expires_at": "2026-11-25T20:21:44.415008+00:00",
+        "run_id": "45614217982"
+      },
+      "previous_target_id": "31372522",
+      "prepared": {
+        "target_video_id": "31372522",
+        "size_bytes": 1643410936,
+        "prepared_at": "2026-11-25T14:21:48.497033+00:00"
       }
     },
     "22225": {
@@ -453517,5 +453537,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T14:21:35.243433+00:00"
+  "updated_at": "2026-11-25T14:21:48.497051+00:00"
 }
