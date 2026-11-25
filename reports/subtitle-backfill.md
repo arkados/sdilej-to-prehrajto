@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-25T04:22:19.181383+00:00
+Poslední aktualizace (UTC): 2026-11-25T04:23:36.780211+00:00
 
 Zkontrolováno videí: 3367. Další stránka kontroly: 0.
 
@@ -240,7 +240,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Ben Is Back (2018) 1080p CZ Titulky](https://prehraj.to/ben-is-back-2018-1080p-cz-titulky-mkv/18ba157b68fa8733) (ID 30131400) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.013681+00:00 |
 | [Beneath The Leaves (2019) 1080p CZ Titulky](https://prehraj.to/beneath-the-leaves-2019-1080p-cz-titulky-mkv/564193e76d22474b) (ID 30949652) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.020335+00:00 |
 | [Benzínová duha (2023) 1080p CZ Titulky](https://prehraj.to/benzinova-duha-2023-1080p-cz-titulky-mp4/4f8a33787c44b938) (ID 30917077) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.019545+00:00 |
-| [Bernie (2012) 720p CZ Titulky](https://prehraj.to/bernie-2012-720p-cz-titulky-avi/2f0f784c3c713cd4) (ID 29607411) | [Sdílej 14198247](https://sdilej.cz/14198247/bernie.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-17T22:07:26.377600+00:00 |
+| [Bernie (2012) 720p CZ Titulky](https://prehraj.to/bernie-2012-720p-cz-titulky-avi/2f0f784c3c713cd4) (ID 29607411) | [Sdílej 14198247](https://sdilej.cz/14198247/bernie.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-25T04:23:36.780080+00:00 |
 | [Bestie (1988) 720p CZ Titulky](https://prehraj.to/bestie-1988-720p-cz-titulky-mkv/f7c24a6066754acf) (ID 30878896) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.019003+00:00 |
 | [Bethany (2017) SD CZ Titulky](https://prehraj.to/bethany-2017-sd-cz-titulky-avi/dc0f7c3661d7a4d5) (ID 29928082) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.012081+00:00 |
 | [Betonová past (2019) 1080p CZ Titulky](https://prehraj.to/betonova-past-2019-1080p-cz-titulky-mkv/23c84cd876df10a3) (ID 29089422) | [Sdílej 13193514](https://sdilej.cz/13193514/trauma-center-2019-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:37.956207+00:00 |
