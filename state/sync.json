@@ -430742,17 +430742,19 @@
       }
     },
     "9228": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14317921",
+          "target_video_id": "31373233",
+          "permanent": false,
+          "attempted_at": "2026-11-25T15:13:12.142905+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14317921",
         "display_name": "2067 (2020) 1080p CZ Titulky",
         "planned_at": "2026-11-25T15:02:56.022078+00:00"
-      },
-      "claim": {
-        "worker_id": "8f9ded41623145288dac6e528a48d463-shard-0",
-        "claimed_at": "2026-11-25T15:07:07.191863+00:00",
-        "lease_expires_at": "2026-11-25T21:07:07.191863+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31373233",
       "prepared": {
@@ -453968,5 +453970,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T15:07:11.123750+00:00"
+  "updated_at": "2026-11-25T15:13:12.142922+00:00"
 }
