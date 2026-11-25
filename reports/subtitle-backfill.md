@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-25T04:21:24.716878+00:00
+Poslední aktualizace (UTC): 2026-11-25T04:21:35.127485+00:00
 
 Zkontrolováno videí: 3367. Další stránka kontroly: 0.
 
@@ -1700,7 +1700,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Piková dáma (2019) SD CZ Titulky](https://prehraj.to/pikova-dama-2019-sd-cz-titulky-mkv/f6154c6495866b01) (ID 30771494) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.018243+00:00 |
 | [Pillion (2025) 1080p CZ Titulky](https://prehraj.to/pillion-2025-1080p-cz-titulky-mkv/a758d3177ab8b69a) (ID 30062530) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.013362+00:00 |
 | [Pinball: The Man Who Saved the Game (2022) 720p CZ Titulky](https://prehraj.to/pinball-the-man-who-saved-the-game-2022-720p-cz-titulky-mp4/5d6db7d566c724e4) (ID 29213682) | [Sdílej 26372484](https://sdilej.cz/26372484/pinball-the-man-who-saved-the-game-2022-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:27:57.931675+00:00 |
-| [Pink Floyd: The Wall (1982) 1080p CZ Titulky](https://prehraj.to/pink-floyd-the-wall-1982-1080p-cz-titulky-mkv/ca81b0ba681e9e35) (ID 29178622) | [Sdílej 10107109](https://sdilej.cz/10107109/pink.floyd-the.wall.1982.x264.hdtvrip-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-17T22:05:31.074174+00:00 |
+| [Pink Floyd: The Wall (1982) 1080p CZ Titulky](https://prehraj.to/pink-floyd-the-wall-1982-1080p-cz-titulky-mkv/ca81b0ba681e9e35) (ID 29178622) | [Sdílej 10107109](https://sdilej.cz/10107109/pink.floyd-the.wall.1982.x264.hdtvrip-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-25T04:21:35.127361+00:00 |
 | [Piranha (1972) 720p CZ Titulky](https://prehraj.to/piranha-1972-720p-cz-titulky-mp4/7c27f004f255cc8c) (ID 29936149) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.012412+00:00 |
 | [Pistolnice Jane (2015) 1080p CZ Titulky](https://prehraj.to/pistolnice-jane-2015-1080p-cz-titulky-avi/88fda35973552120) (ID 30354584) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.015129+00:00 |
 | [Pitbull. Niebezpieczne kobiety (2016) SD CZ Titulky](https://prehraj.to/pitbull-niebezpieczne-kobiety-2016-sd-cz-titulky-mp4/8f5e91a4277d989f) (ID 30610697) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.017286+00:00 |
