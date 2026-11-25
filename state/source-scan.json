@@ -22544,13 +22544,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "No searchable title after source URL normalization",
-          "attempted_at": "2026-11-20T10:27:37.772819+00:00"
-        },
-        {
-          "status": "source_discovery_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No searchable title after source URL normalization",
           "attempted_at": "2026-11-23T02:14:02.785265+00:00"
         },
         {
@@ -22559,6 +22552,16 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No searchable title after source URL normalization",
           "attempted_at": "2026-11-25T09:25:24.790384+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "empty_reason": "media_rejected",
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13:titles-v1:32b167d33b11a833",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-25T13:49:28.599500+00:00"
         }
       ]
     },
@@ -722960,5 +722963,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-25T13:47:51.179455+00:00"
+  "updated_at": "2026-11-25T13:49:28.599519+00:00"
 }
