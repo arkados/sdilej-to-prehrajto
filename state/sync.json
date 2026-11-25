@@ -4820,17 +4820,19 @@
       }
     },
     "286": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32462052",
+          "target_video_id": "31369771",
+          "permanent": false,
+          "attempted_at": "2026-11-25T12:38:29.454227+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32462052",
         "display_name": "Blade Runner 2049 (2017) 4K CZ Dabing",
         "planned_at": "2026-11-25T12:32:51.301039+00:00"
-      },
-      "claim": {
-        "worker_id": "75ba22f3bc46498f95d0307c53951edd-shard-0",
-        "claimed_at": "2026-11-25T12:32:53.393329+00:00",
-        "lease_expires_at": "2026-11-25T18:32:53.393329+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31369771",
       "prepared": {
@@ -452716,5 +452718,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T12:32:57.376117+00:00"
+  "updated_at": "2026-11-25T12:38:29.454243+00:00"
 }
