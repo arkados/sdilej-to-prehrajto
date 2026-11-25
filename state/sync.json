@@ -423365,17 +423365,19 @@
       }
     },
     "15119": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13492619",
+          "target_video_id": "31373467",
+          "permanent": false,
+          "attempted_at": "2026-11-25T15:24:01.797357+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13492619",
         "display_name": "Don't Blink (2014) 1080p CZ Dabing",
         "planned_at": "2026-11-25T15:16:51.807224+00:00"
-      },
-      "claim": {
-        "worker_id": "73cabd9e31a84fedbd66e6322272c928-shard-0",
-        "claimed_at": "2026-11-25T15:21:58.892971+00:00",
-        "lease_expires_at": "2026-11-25T21:21:58.892971+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31373467",
       "prepared": {
@@ -454071,5 +454073,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T15:22:02.962965+00:00"
+  "updated_at": "2026-11-25T15:24:01.797372+00:00"
 }
