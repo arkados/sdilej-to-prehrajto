@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-25T04:21:54.512120+00:00
+Poslední aktualizace (UTC): 2026-11-25T04:22:07.110119+00:00
 
 Zkontrolováno videí: 3367. Další stránka kontroly: 0.
 
@@ -2370,7 +2370,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Rezort (2015) SD CZ Titulky](https://prehraj.to/the-rezort-2015-sd-cz-titulky-avi/29cb01f86c02cc48) (ID 30665740) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.017640+00:00 |
 | [The River Why (2010) SD CZ Titulky](https://prehraj.to/the-river-why-2010-sd-cz-titulky-mp4/358e6dd85d40e45d) (ID 29656392) | [Sdílej 34749257](https://sdilej.cz/34749257/the-river-why-2010-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:17:09.790133+00:00 |
 | [The Rooster (2023) 1080p CZ Titulky](https://prehraj.to/the-rooster-2023-1080p-cz-titulky-mkv/328afdd441d07a27) (ID 30480151) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.016411+00:00 |
-| [The Ruse (2024) 1080p CZ Titulky](https://prehraj.to/the-ruse-2024-1080p-cz-titulky-mkv/03fb8d931cafbb5e) (ID 29650913) | [Sdílej 32756280](https://sdilej.cz/32756280/the.ruse.2024.1080p.web.h264-betty.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-17T22:05:57.898702+00:00 |
+| [The Ruse (2024) 1080p CZ Titulky](https://prehraj.to/the-ruse-2024-1080p-cz-titulky-mkv/03fb8d931cafbb5e) (ID 29650913) | [Sdílej 32756280](https://sdilej.cz/32756280/the.ruse.2024.1080p.web.h264-betty.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-25T04:22:07.109989+00:00 |
 | [The Sadness (2021) 1080p CZ Titulky](https://prehraj.to/the-sadness-2021-1080p-cz-titulky-mkv/279e4a5cd83ef44b) (ID 30223823) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.014145+00:00 |
 | [The Sailor (2021) 1080p CZ Titulky](https://prehraj.to/the-sailor-2021-1080p-cz-titulky-mp4/cf8a7c70cc250430) (ID 30890333) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T04:21:22.019174+00:00 |
 | [The Shift (2023) 1080p CZ Titulky](https://prehraj.to/the-shift-2023-1080p-cz-titulky-mkv/351dc9d961aa5e5e) (ID 29687346) | [Sdílej 28048191](https://sdilej.cz/28048191/the.shift.2023.1080p.webrip.ddp5.1.x265.10bit-galaxyrg265.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:27:10.623268+00:00 |
