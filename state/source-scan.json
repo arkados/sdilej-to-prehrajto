@@ -711809,13 +711809,6 @@
     "23742": {
       "attempts": [
         {
-          "status": "source_discovery_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Unrecognized search response; refusing empty result; title='Plump Fiction 1997 online | Sdilej.cz'; bytes=188469; notice=Kvalita Vše 4K 1080p+ 720p+",
-          "attempted_at": "2026-11-18T06:39:06.752671+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "discovery_complete": true,
@@ -711832,6 +711825,15 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-23T03:40:38.196632+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-25T11:49:46.872993+00:00"
         }
       ]
     },
@@ -722533,5 +722535,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-25T11:48:15.937503+00:00"
+  "updated_at": "2026-11-25T11:49:46.873014+00:00"
 }
