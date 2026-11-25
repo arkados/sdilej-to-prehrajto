@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-25T23:43:43.557626+00:00
+Poslední aktualizace (UTC): 2026-11-25T23:43:46.901463+00:00
 
 Zkontrolováno videí: 3417. Další stránka kontroly: 0.
 
@@ -1521,7 +1521,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Narok 6 metre (2018) 1080p CZ Titulky](https://prehraj.to/narok-6-metre-2018-1080p-cz-titulky-mp4/b07f9efdce769bd7) (ID 29914718) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T23:41:04.596995+00:00 |
 | [Nathan's Kingdom (2020) SD CZ Titulky](https://prehraj.to/nathan-s-kingdom-2020-sd-cz-titulky-mp4/881f948b7c86dbf5) (ID 31385407) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T23:41:04.613056+00:00 |
 | [Nattevagten (1994) SD CZ Titulky](https://prehraj.to/nattevagten-1994-sd-cz-titulky-avi/4383712abed91a80) (ID 29463717) | [Sdílej 33205327](https://sdilej.cz/33205327/hlidac-mrtvych-nattevagten-1994-horor-denmark-cz-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:30:29.228048+00:00 |
-| [Navalny (2022) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29314819) | [Sdílej 25780265](https://sdilej.cz/25780265/navalny-2022-.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-25T14:42:02.676598+00:00 |
+| [Navalny (2022) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29314819) | [Sdílej 25780265](https://sdilej.cz/25780265/navalny-2022-.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-25T23:43:46.901399+00:00 |
 | [Navěky silný (2008) 720p CZ Titulky](https://prehraj.to/naveky-silny-2008-720p-cz-titulky-mkv/d74fea3035bc04f2) (ID 30886361) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-25T23:41:04.605500+00:00 |
 | [Ne Zha 2 (2025) 1080p CZ Titulky](https://prehraj.to/ne-zha-2-2025-1080p-cz-titulky-mkv/8068e93351748100) (ID 29204256) | [Sdílej 32387424](https://sdilej.cz/32387424/ne-zha-2-2025-cz-titulky-v-obraze-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:24:47.826111+00:00 |
 | [Nebe nad Berlínem (1987) 1080p CZ Titulky](https://prehraj.to/nebe-nad-berlinem-1987-1080p-cz-titulky-mkv/1d94e43fc063223a) (ID 29208949) | [Sdílej 27805226](https://sdilej.cz/27805226/wings-of-desire-1987-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:21:23.373337+00:00 |
