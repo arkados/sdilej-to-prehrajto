@@ -222547,15 +222547,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-18T18:32:26.249496+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-21T03:16:10.919840+00:00"
         },
         {
@@ -222566,6 +222557,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-23T14:46:48.667642+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13:titles-v1:150c34008f0db477",
+          "reason": "Discovery deadline expired before verification completed",
+          "attempted_at": "2026-11-25T12:53:50.702928+00:00"
         }
       ]
     },
@@ -234469,13 +234467,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "No searchable title after source URL normalization",
-          "attempted_at": "2026-11-18T18:34:10.939376+00:00"
-        },
-        {
-          "status": "source_discovery_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No searchable title after source URL normalization",
           "attempted_at": "2026-11-21T03:19:21.982557+00:00"
         },
         {
@@ -234484,6 +234475,16 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No searchable title after source URL normalization",
           "attempted_at": "2026-11-23T14:50:50.207885+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "empty_reason": "no_matching_listing",
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13:titles-v1:6f76fbc7e96f7b03",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-25T12:53:56.614767+00:00"
         }
       ]
     },
@@ -722586,5 +722587,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-25T12:51:50.898892+00:00"
+  "updated_at": "2026-11-25T12:53:56.614790+00:00"
 }
