@@ -24653,17 +24653,19 @@
       }
     },
     "32565": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34206180",
+          "target_video_id": "31357488",
+          "permanent": false,
+          "attempted_at": "2026-11-25T03:32:32.066589+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34206180",
         "display_name": "Dead Man's Shoes (2004) 1080p CZ Titulky",
         "planned_at": "2026-11-25T03:25:51.653156+00:00"
-      },
-      "claim": {
-        "worker_id": "af1bb77d17d5461da3a8c4e721de4a7d-shard-0",
-        "claimed_at": "2026-11-25T03:25:53.674559+00:00",
-        "lease_expires_at": "2026-11-25T09:25:53.674559+00:00",
-        "run_id": "45496650484"
       },
       "previous_target_id": "31357488",
       "prepared": {
@@ -452629,5 +452631,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T03:25:57.230267+00:00"
+  "updated_at": "2026-11-25T03:32:32.066606+00:00"
 }
