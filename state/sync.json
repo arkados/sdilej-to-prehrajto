@@ -43462,17 +43462,19 @@
       }
     },
     "29002": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34737732",
+          "target_video_id": "31372515",
+          "permanent": false,
+          "attempted_at": "2026-11-25T14:21:35.243418+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34737732",
         "display_name": "Malá sokolnice (2016) SD CZ Titulky",
         "planned_at": "2026-11-25T14:20:40.159130+00:00"
-      },
-      "claim": {
-        "worker_id": "817735fab6424e25a5c26a51995da9cc-shard-0",
-        "claimed_at": "2026-11-25T14:20:42.239093+00:00",
-        "lease_expires_at": "2026-11-25T20:20:42.239093+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31372515",
       "prepared": {
@@ -453515,5 +453517,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T14:20:46.506282+00:00"
+  "updated_at": "2026-11-25T14:21:35.243433+00:00"
 }
