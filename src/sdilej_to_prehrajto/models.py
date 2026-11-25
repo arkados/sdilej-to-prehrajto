@@ -31,6 +31,11 @@ class Film:
     description: str = ""
     priority_rank: int | None = None
     priority_score: float = 0.0
+    search_titles: tuple[str, ...] = ()
+
+    @property
+    def titles(self) -> tuple[str, ...]:
+        return tuple(dict.fromkeys(t for t in (self.title, self.original_title, *self.search_titles) if t))
 
     @classmethod
     def from_dict(cls, row: dict[str, Any]) -> Film:
@@ -38,6 +43,7 @@ class Film:
             cr_film_id=int(row["cr_film_id"]),
             slug=row.get("cr_slug") or row.get("slug") or str(row["cr_film_id"]),
             title=row["title"],
+            search_titles=tuple(row.get("search_titles") or ()),
             original_title=row.get("original_title"),
             year=row.get("year"),
             runtime_min=row.get("runtime_min"),

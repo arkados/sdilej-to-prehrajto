@@ -185,7 +185,14 @@ class StateStore:
                 # trustworthy for the current scan, but treating it as final
                 # for a month leaves the uploader starved when a source is
                 # added later the same day.
-                cooldown = timedelta(hours=6)
+                hours = 6
+                if latest.get("empty_reason") == "no_search_results":
+                    for prior in reversed(attempts[:-1]):
+                        if (prior.get("empty_reason") != "no_search_results"
+                                or prior.get("selection_policy") != latest.get("selection_policy")):
+                            break
+                        hours *= 2
+                cooldown = timedelta(hours=hours)
             elif status in {
                 "source_discovery_failed",
                 "source_refresh_failed",

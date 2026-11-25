@@ -36,21 +36,55 @@ RELEASE_NOISE_RE = re.compile(
 )
 
 
-def normalize_title(value: str) -> str:
+def title_words(value: str) -> str:
     value = unicodedata.normalize("NFKD", value or "")
     value = "".join(char for char in value if not unicodedata.combining(char))
     value = value.lower().replace("&", " a ")
-    value = YEAR_RE.sub(" ", value)
+    return re.sub(r"[^a-z0-9]+", " ", value).strip()
+
+
+def normalize_title(value: str, *, keep_years: bool = False) -> str:
+    value = unicodedata.normalize("NFKD", value or "")
+    value = "".join(char for char in value if not unicodedata.combining(char))
+    value = value.lower().replace("&", " a ")
+    if not keep_years:
+        value = YEAR_RE.sub(" ", value)
     value = RELEASE_NOISE_RE.sub(" ", value)
     value = re.sub(r"\b(?:5[ ._-]?1|7[ ._-]?1|\d+ch)\b", " ", value)
-    value = re.sub(r"[^a-z0-9]+", " ", value)
-    return re.sub(r"\s+", " ", value).strip()
+    return re.sub(r"[^a-z0-9]+", " ", value).strip()
 
 
-def similarity(first: str, second: str) -> float:
-    return difflib.SequenceMatcher(
-        None, normalize_title(first), normalize_title(second)
-    ).ratio()
+def title_and_release_year(candidate: str, aliases: tuple[str, ...]) -> tuple[str, int | None, list[str]]:
+    # Remove release years from the compared title, preserving year-shaped
+    # tokens only when the complete catalog alias occurs at word boundaries.
+    if not any(YEAR_RE.search(alias) for alias in aliases):
+        year_match = YEAR_RE.search(candidate)
+        names = list(filter(None, (normalize_title(alias) for alias in aliases)))
+        return normalize_title(candidate), int(year_match.group()) if year_match else None, names
+
+    words = title_words(candidate)
+    title_numbers = set()
+    usable = []
+    for alias in aliases:
+        name = title_words(alias)
+        if not name:
+            continue
+        if YEAR_RE.search(name):
+            span = re.search(rf"\b{re.escape(name)}\b", words)
+            if not span:
+                continue
+            title_numbers.update(m.start() for m in YEAR_RE.finditer(words, span.start(), span.end()))
+        if cleaned := normalize_title(name, keep_years=True):
+            usable.append(cleaned)
+    releases = [m for m in YEAR_RE.finditer(words) if m.start() not in title_numbers]
+    year = int(releases[0].group()) if releases else None
+    for match in reversed(releases):
+        words = words[:match.start()] + " " + words[match.end():]
+    identity = normalize_title(words, keep_years=True)
+    # A numeric-only alias embedded in a different movie's name can be
+    # that movie's release year. Require it to be the visible title.
+    usable = [name for name in usable if not YEAR_RE.fullmatch(name) or name == identity]
+    return identity, year, usable
 
 
 @dataclass(frozen=True)
@@ -70,20 +104,18 @@ def classify_candidate(
     if EPISODE_RE.search(candidate_title):
         return MatchResult(MatchTier.REJECT, 0.0, {}, "tv_episode")
 
-    aliases = [alias for alias in (film.title, film.original_title) if alias]
-    normalized_candidate = normalize_title(candidate_title)
-    scores = [similarity(candidate_title, alias) for alias in aliases]
+    normalized_candidate, candidate_year, aliases = title_and_release_year(candidate_title, film.titles)
+    if not normalized_candidate or not aliases:
+        return MatchResult(MatchTier.REJECT, 0.0, {}, "title_mismatch")
+    scores = [difflib.SequenceMatcher(None, normalized_candidate, alias).ratio() for alias in aliases]
     contains = any(
-        len(normalize_title(alias)) >= 4
-        and normalize_title(alias) in normalized_candidate
+        len(alias) >= 4 and alias in normalized_candidate
         for alias in aliases
     )
-    score = max(scores or [0.0])
+    score = max(scores)
     if contains:
         score = max(score, 0.9)
 
-    embedded_year = YEAR_RE.search(candidate_title)
-    candidate_year = int(embedded_year.group(1)) if embedded_year else None
     if film.year and candidate_year and abs(film.year - candidate_year) > YEAR_TOLERANCE:
         return MatchResult(
             MatchTier.REJECT,
@@ -95,9 +127,8 @@ def classify_candidate(
     # A missing year must not let a sequel/subtitle masquerade as a one-word
     # film merely because its runtime happens to match.  For example,
     # "Avengers - Age of Ultron" is not "Avengers" (2012).
-    if candidate_year is None:
-        for alias in aliases:
-            normalized_alias = normalize_title(alias)
+    if candidate_year is None and normalized_candidate not in aliases:
+        for normalized_alias in aliases:
             if len(normalized_alias.split()) != 1:
                 continue
             remaining = re.sub(

@@ -14,7 +14,7 @@ from .language import WhisperLanguageDetector
 from .models import Film
 from .pipeline import MAX_PILOT_FILMS, SyncPipeline, plan_sha, write_plan, write_report
 from .prehrajto import login as login_prehrajto
-from .ranking import SELECTION_POLICY
+from .ranking import SELECTION_POLICY, discovery_policy
 from .sdilej import SdilejProvider, login as login_sdilej
 from .state import StateStore
 from .sources import SelectedSourceStore
@@ -111,12 +111,17 @@ def prepare_source_batch(
 
     priority_ids = priority_film_ids or set()
 
-    def scan_priority(film: Film) -> tuple[bool, bool, str]:
+    def scan_priority(film: Film) -> tuple[bool, bool, bool, str]:
         source = sources.get(film.cr_film_id) or {}
         attempts = state.snapshot(film.cr_film_id).get("attempts") or []
+        policy = discovery_policy(film)
+        changed_titles = policy != SELECTION_POLICY and (
+            not attempts or attempts[-1].get("selection_policy") != policy
+        )
         return (
             film.cr_film_id not in priority_ids,
             source.get("source_status") != "rediscovery_needed",
+            not changed_titles,
             (attempts[-1].get("attempted_at") or "") if attempts else "",
         )
 
@@ -140,7 +145,7 @@ def prepare_source_batch(
                     urgent.append(film)
                     continue
                 attempts = state.snapshot(film.cr_film_id).get("attempts") or []
-                if not state.deep_scan_ready(film.cr_film_id, selection_policy=SELECTION_POLICY):
+                if not state.deep_scan_ready(film.cr_film_id, selection_policy=discovery_policy(film)):
                     other.append(film)
                 elif attempts[-1].get("status") == "source_deep_scan_needed":
                     incoming.append(film)
@@ -340,9 +345,10 @@ def main() -> int:
                 SyncPipeline(
                     source_provider=SdilejProvider(
                         worker_session,
-                        WhisperLanguageDetector(model_name=(
-                            os.environ.get("WHISPER_DEEP_MODEL") if deep_worker else None
-                        )),
+                        WhisperLanguageDetector(
+                            model_name=os.environ.get("WHISPER_DEEP_MODEL") if deep_worker else None,
+                            deep_review=deep_worker,
+                        ),
                         max_candidates=(
                             None if deep_worker else FAST_DISCOVERY_CANDIDATES
                         ),
@@ -385,15 +391,16 @@ def main() -> int:
             deep_pipelines = prepare_pipelines[-deep_workers:]
             deep_limit = max(1, args.limit // len(prepare_pipelines))
             fast_limit = max(1, args.limit - deep_limit)
+            explicit_reviews = set(args.priority_film_id)
+            fast_backlog = [film for film in backlog if film.cr_film_id not in explicit_reviews]
             with ThreadPoolExecutor(max_workers=2) as executor:
                 fast_future = executor.submit(
                     prepare_source_lane,
                     fast_pipelines,
-                    backlog,
+                    fast_backlog,
                     fast_limit,
                     max_scan=args.max_scan,
                     deadline_monotonic=deadline,
-                    priority_film_ids=set(args.priority_film_id),
                 )
                 deep_future = executor.submit(
                     prepare_source_lane,
@@ -403,7 +410,7 @@ def main() -> int:
                     max_scan=args.max_scan,
                     deadline_monotonic=deadline,
                     deep_scan_only=True,
-                    priority_film_ids=set(args.priority_film_id),
+                    priority_film_ids=explicit_reviews,
                 )
                 plan = fast_future.result() + deep_future.result()
         digest = write_plan(args.plan_out, plan)

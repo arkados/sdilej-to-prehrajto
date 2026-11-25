@@ -183,3 +183,14 @@ def test_confident_competing_language_prevents_sparse_speech_recovery(monkeypatc
     language, confidence = detector.detect_consensus('media', 6000, initial=('en', .334))
     assert language == 'en'
     assert confidence < .65
+
+
+def test_deep_review_uses_different_speech_samples(monkeypatch):
+    detector = WhisperLanguageDetector(deep_review=True)
+    offsets = []
+    def sample(_url, offset):
+        offsets.append(offset)
+        return "cs", .9
+    monkeypatch.setattr(detector, "_detect_at", sample)
+    assert detector.detect_consensus("sample", 6000) == ("cs", .9)
+    assert offsets == [1200, 2700, 4200]

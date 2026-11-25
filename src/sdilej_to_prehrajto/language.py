@@ -56,9 +56,10 @@ def _whisper_worker(connection: Connection, settings: dict[str, object]) -> None
 class WhisperLanguageDetector:
     def __init__(
         self, *, seconds: int = 75, inference_timeout_seconds: int | None = None,
-        model_name: str | None = None,
+        model_name: str | None = None, deep_review: bool = False,
     ):
         self.seconds = seconds
+        self.deep_review = deep_review
         self.model_name = model_name or os.environ.get("WHISPER_MODEL", "small")
         self.inference_timeout_seconds = (
             inference_timeout_seconds
@@ -242,7 +243,8 @@ class WhisperLanguageDetector:
     ) -> tuple[str, float]:
         """Resolve a filename/Whisper conflict from dispersed movie samples."""
         duration = max(int(duration_sec or 0), 900)
-        offsets = [int(duration * fraction) for fraction in (0.25, 0.5, 0.75)]
+        fractions = (0.2, 0.45, 0.7) if self.deep_review else (0.25, 0.5, 0.75)
+        offsets = [int(duration * fraction) for fraction in fractions]
         samples = ([initial] if initial else []) + [
             self._detect_at(media_url, offset) for offset in offsets
         ]

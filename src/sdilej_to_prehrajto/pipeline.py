@@ -22,6 +22,7 @@ from .prehrajto import (
 )
 from .ranking import (
     SELECTION_POLICY,
+    discovery_policy,
     display_name,
     minimum_bitrate_mbps,
     rank_candidates,
@@ -256,13 +257,14 @@ class SyncPipeline:
             current_source = self.selected_sources.candidate(film.cr_film_id)
             if current_source is not None:
                 continue
+            scan_policy = discovery_policy(film)
             if deep_scan_only:
                 if film.cr_film_id not in (review_film_ids or set()) and not self.state.deep_scan_ready(
-                    film.cr_film_id, selection_policy=SELECTION_POLICY
+                    film.cr_film_id, selection_policy=scan_policy
                 ):
                     continue
             elif self.state.deferred(
-                film.cr_film_id, selection_policy=SELECTION_POLICY
+                film.cr_film_id, selection_policy=scan_policy
             ):
                 continue
             if max_scan is not None and inspected >= max_scan:
@@ -285,7 +287,7 @@ class SyncPipeline:
                     {
                         "status": "source_deep_scan_needed",
                         "permanent": True,
-                        "selection_policy": SELECTION_POLICY,
+                        "selection_policy": scan_policy,
                         "reason": str(error),
                     },
                 )
@@ -303,7 +305,7 @@ class SyncPipeline:
                             else "source_discovery_failed"
                         ),
                         "permanent": error.permanent,
-                        "selection_policy": SELECTION_POLICY,
+                        "selection_policy": scan_policy,
                         # SdilejError redacts authenticated query values. Keep
                         # the safe message so persistent failures can be
                         # diagnosed instead of all appearing as "SdilejError".
@@ -324,9 +326,10 @@ class SyncPipeline:
                     {
                         "status": "no_acceptable_source",
                         "permanent": False,
+                        "empty_reason": getattr(self.source_provider, "empty_reason", None),
                         "discovery_complete": True,
                         "search_response_validated": True,
-                        "selection_policy": SELECTION_POLICY,
+                        "selection_policy": scan_policy,
                         "reason": "No identity-, language-, and quality-verified source",
                     },
                 )

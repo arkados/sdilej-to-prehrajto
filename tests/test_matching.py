@@ -140,3 +140,28 @@ def test_year_between_filename_underscores_is_recognized() -> None:
     )
 
     assert result.tier == MatchTier.STRONG
+
+
+@pytest.mark.parametrize(("title", "year", "filename"), [
+    ("1917", 2019, "1917_2019_CZ avi"),
+    ("Blade Runner 2049", 2017, "Blade Runner 2049 (2017) 4K h265 CZ mkv"),
+    ("2001: A Space Odyssey", 1968, "2001 A Space Odyssey 1968 BR REMAST.mkv"),
+])
+def test_title_number_and_release_year_are_independent(title, year, filename):
+    movie = Film(1, "film", title, None, year, 100, "en")
+    result = classify_candidate(movie, filename, duration_sec=6000)
+    assert result.tier == MatchTier.STRONG
+    assert result.evidence["candidate_year"] == year
+    assert classify_candidate(movie, filename.replace(str(year), "1999"), duration_sec=6000).reason == "wrong_year"
+    assert classify_candidate(movie, title).tier == MatchTier.AMBIGUOUS
+
+
+@pytest.mark.parametrize(("title", "filename"), [
+    ("1917", "Different Movie (1917) (2019).mkv"),
+    ("1917", "2019.mkv"),
+    ("Blade Runner 2049", "Blade Runner (2017).mkv"),
+    ("鬼婆", "別物 (1964).mkv"),
+])
+def test_missing_title_identity_cannot_match_on_year_and_runtime(title, filename):
+    movie = Film(1, "film", title, None, 2019, 100, "en")
+    assert classify_candidate(movie, filename, duration_sec=6000).tier == MatchTier.REJECT

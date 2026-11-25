@@ -829,3 +829,26 @@ def test_discovery_retries_transient_language_failure_for_best_source() -> None:
     assert detector.calls == 2
     assert len(discovered) == 1
     assert (discovered[0].width, discovered[0].height) == (3840, 2160)
+
+
+def test_catalog_alias_survives_round_trip_and_verifies_detail():
+    film = Film.from_dict({"cr_film_id": 1, "title": "葉問", "year": 2000,
+                           "runtime_min": 100, "search_titles": ["葉問", "Film"]})
+    session = FakeSession()
+    provider = SdilejProvider(session, FakeDetector(), request_gap_seconds=0, media_probe=lambda url: {})
+    assert Film.from_dict(film.to_dict()) == film
+    assert rank_candidates(provider.discover(film))[0].source_id == "20"
+    assert len([u for u in session.seen_urls if "/s/" in u]) == 2
+
+
+def test_inconclusive_audio_does_not_repeat_the_same_samples(monkeypatch):
+    from sdilej_to_prehrajto.sdilej import LowLanguageConfidence
+    seen = []
+    def uncertain(film, candidate):
+        seen.append(candidate.source_id)
+        raise LowLanguageConfidence("Whisper language confidence is too low")
+    provider = SdilejProvider(FakeSession(), None, allow_unresolved_fallback=True, request_gap_seconds=0)
+    monkeypatch.setattr(provider, "_verify_candidate", uncertain)
+    with pytest.raises(SdilejError, match="Audio language remains uncertain"):
+        provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
+    assert seen and len(seen) == len(set(seen))
