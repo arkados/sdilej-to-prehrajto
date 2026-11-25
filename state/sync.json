@@ -367747,17 +367747,19 @@
       "attempts": []
     },
     "6713": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32460173",
+          "target_video_id": "31370066",
+          "permanent": false,
+          "attempted_at": "2026-11-25T12:54:14.889741+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32460173",
         "display_name": "2012 (2009) 4K CZ Dabing",
         "planned_at": "2026-11-25T12:43:54.440641+00:00"
-      },
-      "claim": {
-        "worker_id": "f36c4c9eb1c44a51abb6a1f0ffc14805-shard-0",
-        "claimed_at": "2026-11-25T12:43:56.518995+00:00",
-        "lease_expires_at": "2026-11-25T18:43:56.518995+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31370066",
       "prepared": {
@@ -452798,5 +452800,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T12:44:38.536299+00:00"
+  "updated_at": "2026-11-25T12:54:14.889758+00:00"
 }
