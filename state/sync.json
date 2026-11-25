@@ -178271,7 +178271,15 @@
       }
     },
     "33097": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30716833",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-25T14:32:06.534156+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30716833",
         "display_name": "無限の住人 (2017) 1080p CZ Titulky",
@@ -205582,6 +205590,18 @@
         "source_id": "20529448",
         "display_name": "Země potomků (2021) 1080p CZ Titulky",
         "planned_at": "2026-11-25T14:28:43.412606+00:00"
+      },
+      "claim": {
+        "worker_id": "23cccd8cbf9d4368971f5cfbedf8ae24-shard-0",
+        "claimed_at": "2026-11-25T14:32:06.951021+00:00",
+        "lease_expires_at": "2026-11-25T20:32:06.951021+00:00",
+        "run_id": "45614217982"
+      },
+      "previous_target_id": "31372667",
+      "prepared": {
+        "target_video_id": "31372667",
+        "size_bytes": 2858914494,
+        "prepared_at": "2026-11-25T14:32:10.257395+00:00"
       }
     },
     "26932": {
@@ -453620,5 +453640,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T14:32:02.035868+00:00"
+  "updated_at": "2026-11-25T14:32:10.257411+00:00"
 }
