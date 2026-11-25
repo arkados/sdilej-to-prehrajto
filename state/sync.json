@@ -171692,17 +171692,19 @@
       }
     },
     "13884": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33204565",
+          "target_video_id": "31370592",
+          "permanent": false,
+          "attempted_at": "2026-11-25T13:02:20.460658+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33204565",
         "display_name": "Vexille 2077 (2007) SD CZ Dabing",
         "planned_at": "2026-11-25T12:57:06.759225+00:00"
-      },
-      "claim": {
-        "worker_id": "f5b9f638f552496d80daa78a87caba7a-shard-0",
-        "claimed_at": "2026-11-25T13:01:15.461256+00:00",
-        "lease_expires_at": "2026-11-25T19:01:15.461256+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31370592",
       "prepared": {
@@ -452889,5 +452891,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T13:01:19.451002+00:00"
+  "updated_at": "2026-11-25T13:02:20.460675+00:00"
 }
