@@ -67923,17 +67923,19 @@
       "attempts": []
     },
     "33986": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29815581",
+          "target_video_id": "31371355",
+          "permanent": false,
+          "attempted_at": "2026-11-25T13:26:26.468936+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29815581",
         "display_name": "Prodaná nevěsta (1982) 1080p CZ Titulky",
         "planned_at": "2026-11-25T13:23:07.444025+00:00"
-      },
-      "claim": {
-        "worker_id": "79c6952f972c46ed92d1c1949c02db74-shard-0",
-        "claimed_at": "2026-11-25T13:23:09.507091+00:00",
-        "lease_expires_at": "2026-11-25T19:23:09.507091+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31371355",
       "prepared": {
@@ -453171,5 +453173,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T13:23:12.944056+00:00"
+  "updated_at": "2026-11-25T13:26:26.468950+00:00"
 }
