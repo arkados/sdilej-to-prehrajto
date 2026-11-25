@@ -6138,17 +6138,19 @@
       }
     },
     "23901": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32215165",
+          "target_video_id": "31372388",
+          "permanent": false,
+          "attempted_at": "2026-11-25T14:15:47.136155+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32215165",
         "display_name": "Legenda o „1900“ (1998) 720p CZ Dabing",
         "planned_at": "2026-11-25T14:13:09.776051+00:00"
-      },
-      "claim": {
-        "worker_id": "5d461562378347fba234692c8ba7ed11-shard-0",
-        "claimed_at": "2026-11-25T14:13:11.836486+00:00",
-        "lease_expires_at": "2026-11-25T20:13:11.836486+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31372388",
       "prepared": {
@@ -453438,5 +453440,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T14:13:18.226374+00:00"
+  "updated_at": "2026-11-25T14:15:47.136172+00:00"
 }
