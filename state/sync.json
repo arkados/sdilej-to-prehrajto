@@ -174477,7 +174477,15 @@
       "attempts": []
     },
     "35369": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13977900",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-25T13:09:56.621390+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13977900",
         "display_name": "신의 한 수: 귀수편 (2019) 1080p CZ Titulky",
@@ -182850,6 +182858,18 @@
         "source_id": "35182934",
         "display_name": "2010: Druhá vesmírná odysea (1984) 4K CZ Dabing",
         "planned_at": "2026-11-25T13:02:35.327314+00:00"
+      },
+      "claim": {
+        "worker_id": "a8400b76d55a4f96a34859dbe675b4f6-shard-0",
+        "claimed_at": "2026-11-25T13:09:57.038398+00:00",
+        "lease_expires_at": "2026-11-25T19:09:57.038398+00:00",
+        "run_id": "45614217982"
+      },
+      "previous_target_id": "31370889",
+      "prepared": {
+        "target_video_id": "31370889",
+        "size_bytes": 4598896401,
+        "prepared_at": "2026-11-25T13:10:00.567758+00:00"
       }
     },
     "3354": {
@@ -452944,5 +452964,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T13:09:48.169352+00:00"
+  "updated_at": "2026-11-25T13:10:00.567775+00:00"
 }
