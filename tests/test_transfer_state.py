@@ -765,3 +765,36 @@ def test_target_review_blocks_replacement_source_and_new_policy(tmp_path) -> Non
         source_id="replacement-film",
         selection_policy="new-policy",
     )
+
+
+def test_repeated_empty_pages_back_off_until_search_titles_change(tmp_path):
+    from sdilej_to_prehrajto.models import Film
+    from sdilej_to_prehrajto.ranking import discovery_policy
+    state = StateStore(tmp_path / "scan.json")
+    movie = Film(1, "film", "鬼婆", None, 1964, 100, "ja")
+    policy = discovery_policy(movie)
+    for hours in (6, 12, 24):
+        state.record_attempt(1, {"status": "no_acceptable_source", "discovery_complete": True,
+                                 "empty_reason": "no_search_results", "selection_policy": policy})
+        seen = datetime.fromisoformat(state.snapshot(1)["attempts"][-1]["attempted_at"])
+        assert state.deferred(1, selection_policy=policy, at=seen + timedelta(hours=hours - 1))
+        assert not state.deferred(1, selection_policy=policy, at=seen + timedelta(hours=hours))
+    enriched = Film.from_dict({**movie.to_dict(), "search_titles": ["Onibaba"]})
+    assert not state.deferred(1, selection_policy=discovery_policy(enriched))
+
+
+def test_non_latin_target_names_do_not_collide_by_year():
+    class Session:
+        def get(self, url, **kwargs):
+            assert kwargs["params"]["searchPhrase"] == "1964"
+            return Response(text='<h3 id="snippet-uploadedVideoListing-videoName-10">別物 (1964) SD</h3>'
+                                 '<h3 id="snippet-uploadedVideoListing-videoName-20">鬼婆 (1964) 720p</h3>')
+    assert uploaded_video_id_by_name(Session(), "鬼婆 (1964) 1080p") == "20"
+
+
+def test_target_with_fully_stripped_title_requires_review_before_transfer():
+    class Session:
+        def get(self, url, **kwargs):
+            return Response(text='<h3 id="snippet-uploadedVideoListing-videoName-10">(1964) SD</h3>')
+    with pytest.raises(PrehrajtoError, match="without its film title"):
+        uploaded_video_id_by_name(Session(), "鬼婆 (1964) 1080p")

@@ -55,6 +55,10 @@ class SdilejError(RuntimeError):
         self.permanent = permanent
 
 
+class LowLanguageConfidence(LanguageDetectionError):
+    """The available audio samples have already been checked for this candidate."""
+
+
 class DeepScanRequired(SdilejError):
     """The fast discovery lane found work that needs exhaustive verification."""
 
@@ -380,7 +384,7 @@ class SdilejProvider:
             # An uncertain language sample is not proof that a higher-resolution
             # source is unsuitable. Treat it as retryable so discovery never
             # silently falls back to a lower quality tier.
-            raise LanguageDetectionError("Whisper language confidence is too low")
+            raise LowLanguageConfidence("Whisper language confidence is too low")
         detail.language_tier = language_tier(language)
         return detail
 
@@ -463,11 +467,13 @@ class SdilejProvider:
         matched_by_rank: dict[int, list[Candidate]] = {}
         resolved: list[Candidate] = []
         search_failure: SdilejError | None = None
+        self.empty_reason = None
+        uncertain_language = False
         searched_slugs: set[str] = set()
         verification_failed = False
         inspected = 0
         titles = dict.fromkeys(
-            item for item in (film.title, film.original_title) if item and slugify(item)
+            item for item in film.titles if slugify(item)
         )
         if not titles:
             # Non-Latin titles can normalize to an empty path. Never interpret
@@ -582,6 +588,9 @@ class SdilejProvider:
                         # This is an account-wide prerequisite, not a broken
                         # candidate. Retrying other films only burns the runner.
                         raise
+                    except LowLanguageConfidence:
+                        uncertain_language = True
+                        break
                     except (
                         SdilejError,
                         LanguageDetectionError,
@@ -616,12 +625,22 @@ class SdilejProvider:
                         else SdilejError
                     )
                     raise error_type(
+                        "Audio language remains uncertain after sampling" if uncertain_language else
                         "A preferred quality tier could not be fully verified"
                     )
         if search_failure is not None and not resolved:
             raise search_failure
+        if uncertain_language and not resolved:
+            raise SdilejError("Audio language remains uncertain after sampling")
         if verification_failed and not resolved:
             raise SdilejError("Candidate verification failed; no source was ruled out conclusively")
+        if not resolved:
+            if not candidates:
+                self.empty_reason = "no_search_results"
+            elif not matched_by_rank:
+                self.empty_reason = "no_matching_listing"
+            else:
+                self.empty_reason = "media_rejected"
         return resolved
 
 def audio_language_hint(filename: str | None) -> str | None:

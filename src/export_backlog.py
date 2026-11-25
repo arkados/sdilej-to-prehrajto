@@ -15,6 +15,8 @@ from typing import Any, Iterable
 import psycopg2
 import psycopg2.extras
 
+from sdilej_to_prehrajto.title_aliases import enrich_titles
+
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUTPUT = REPO_ROOT / "backlog" / "films.jsonl.gz"
@@ -141,7 +143,22 @@ def main() -> int:
     parser.add_argument("--out", type=Path, default=DEFAULT_OUTPUT)
     parser.add_argument("--db-url", default=os.environ.get("DATABASE_URL"))
     parser.add_argument("--limit", type=int)
+    parser.add_argument("--refresh-search-titles", action="store_true",
+                        help="Enrich the existing backlog without a database export")
     args = parser.parse_args()
+    existing = []
+    if args.out.exists():
+        with gzip.open(args.out, "rt", encoding="utf-8") as handle:
+            existing = [json.loads(line) for line in handle if line.strip()]
+    key = os.environ.get("TMDB_API_KEY")
+    if args.refresh_search_titles:
+        if not key or not existing:
+            parser.error("--refresh-search-titles requires TMDB_API_KEY and an existing backlog")
+        changed = enrich_titles(existing, existing, key)
+        if changed:
+            write_jsonl_gzip(args.out, existing)
+        print(f"Enriched search titles for {changed} catalog entries")
+        return
 
     if not args.db_url:
         parser.error("--db-url or DATABASE_URL is required")
@@ -156,6 +173,7 @@ def main() -> int:
 
     if args.limit is not None:
         films = films[: args.limit]
+    enrich_titles(films, existing, key)
     write_jsonl_gzip(args.out, films)
 
     coverage: dict[str, int] = {}

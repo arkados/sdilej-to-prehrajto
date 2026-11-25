@@ -1,7 +1,10 @@
 from __future__ import annotations
 
+import hashlib
+import json
 import re
 
+from .matching import YEAR_RE
 from .models import Candidate, Film, LanguageTier, MatchTier
 
 
@@ -10,6 +13,15 @@ SLOVAK_CODES = {"sk", "slk", "slo", "slovak"}
 SELECTION_POLICY = "compact-quality-v13"
 EFFICIENT_CODECS = {"av1", "h265", "hevc", "x265"}
 INEFFICIENT_CODECS = {"h264", "vc1"}
+
+
+def discovery_policy(film: Film) -> str:
+    # Revisit only films affected by a new alias or by numeric title matching.
+    # The selection policy on already verified sources remains independent.
+    if not any(t not in (film.title, film.original_title) or YEAR_RE.search(t) for t in film.titles):
+        return SELECTION_POLICY
+    digest = hashlib.sha256(json.dumps(film.titles, ensure_ascii=False).encode()).hexdigest()
+    return f"{SELECTION_POLICY}:titles-v1:{digest[:16]}"
 
 
 def infer_video_codec(filename: str | None) -> str | None:
