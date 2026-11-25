@@ -451361,17 +451361,19 @@
       "attempts": []
     },
     "29990": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27525863",
+          "target_video_id": "31369974",
+          "permanent": false,
+          "attempted_at": "2026-11-25T12:43:14.948324+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27525863",
         "display_name": "Sám v temnotě (2005) 1080p CZ Dabing",
         "planned_at": "2026-11-25T12:41:25.273066+00:00"
-      },
-      "claim": {
-        "worker_id": "111760c9bdd2419b8395507a05eb6c47-shard-0",
-        "claimed_at": "2026-11-25T12:41:27.373862+00:00",
-        "lease_expires_at": "2026-11-25T18:41:27.373862+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31369974",
       "prepared": {
@@ -452774,5 +452776,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T12:41:31.503895+00:00"
+  "updated_at": "2026-11-25T12:43:14.948340+00:00"
 }
