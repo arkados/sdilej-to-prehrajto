@@ -2470,17 +2470,19 @@
       }
     },
     "30653": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35245812",
+          "target_video_id": "31363544",
+          "permanent": false,
+          "attempted_at": "2026-11-25T08:15:46.336150+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35245812",
         "display_name": "Won't You Be My Neighbor? (2018) 1080p CZ Titulky",
         "planned_at": "2026-11-25T08:13:25.301810+00:00"
-      },
-      "claim": {
-        "worker_id": "40551e10b1b7427394ac87b4d6f02869-shard-0",
-        "claimed_at": "2026-11-25T08:13:27.466899+00:00",
-        "lease_expires_at": "2026-11-25T14:13:27.466899+00:00",
-        "run_id": "45506654272"
       },
       "previous_target_id": "31363544",
       "prepared": {
@@ -452579,5 +452581,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T08:13:31.093897+00:00"
+  "updated_at": "2026-11-25T08:15:46.336166+00:00"
 }
