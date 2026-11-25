@@ -212419,13 +212419,6 @@
           "status": "source_deep_scan_failed",
           "permanent": false,
           "selection_policy": "compact-quality-v13",
-          "reason": "Candidate verification failed; no source was ruled out conclusively",
-          "attempted_at": "2026-11-23T06:32:32.639763+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Pohadka Svatojanske Noci 1982 online | Sdilej.cz'; bytes=188702; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-11-23T22:54:38.890908+00:00"
         },
@@ -212435,6 +212428,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-24T16:30:05.170684+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-11-25T13:21:05.797720+00:00"
         }
       ]
     },
@@ -585527,13 +585527,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "No searchable title after source URL normalization",
-          "attempted_at": "2026-11-19T17:55:32.923759+00:00"
-        },
-        {
-          "status": "source_discovery_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No searchable title after source URL normalization",
           "attempted_at": "2026-11-22T11:09:52.457652+00:00"
         },
         {
@@ -585542,6 +585535,16 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No searchable title after source URL normalization",
           "attempted_at": "2026-11-24T18:32:49.086743+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "empty_reason": "no_search_results",
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13:titles-v1:fc686200d58ca788",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-25T13:21:14.966703+00:00"
         }
       ]
     },
@@ -722781,5 +722784,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-25T13:20:05.755654+00:00"
+  "updated_at": "2026-11-25T13:21:14.966727+00:00"
 }
