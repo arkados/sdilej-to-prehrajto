@@ -415947,17 +415947,19 @@
       }
     },
     "11965": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34233171",
+          "target_video_id": "31369910",
+          "permanent": false,
+          "attempted_at": "2026-11-25T12:40:51.449624+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34233171",
         "display_name": "Knight Rider 2000 (1991) 1080p CZ Dabing",
         "planned_at": "2026-11-25T12:39:06.796135+00:00"
-      },
-      "claim": {
-        "worker_id": "13300eefa57a4ded90a338ddf2035e3f-shard-0",
-        "claimed_at": "2026-11-25T12:39:10.522828+00:00",
-        "lease_expires_at": "2026-11-25T18:39:10.522828+00:00",
-        "run_id": "45614217982"
       },
       "previous_target_id": "31369910",
       "prepared": {
@@ -452748,5 +452750,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T12:39:14.933903+00:00"
+  "updated_at": "2026-11-25T12:40:51.449639+00:00"
 }
