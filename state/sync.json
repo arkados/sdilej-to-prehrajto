@@ -344356,17 +344356,19 @@
       }
     },
     "6877": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34854455",
+          "target_video_id": "31386586",
+          "permanent": false,
+          "attempted_at": "2026-11-25T23:54:26.302565+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34854455",
         "display_name": "Nejsi moje máma (2021) 1080p CZ Titulky",
         "planned_at": "2026-11-25T23:48:05.387027+00:00"
-      },
-      "claim": {
-        "worker_id": "f5f6249ec7ef4fe5a70e80363285de9f-shard-0",
-        "claimed_at": "2026-11-25T23:48:06.642461+00:00",
-        "lease_expires_at": "2026-11-26T05:48:06.642461+00:00",
-        "run_id": "45722064799"
       },
       "previous_target_id": "31386586",
       "prepared": {
@@ -455212,5 +455214,5 @@
       }
     }
   },
-  "updated_at": "2026-11-25T23:48:10.903690+00:00"
+  "updated_at": "2026-11-25T23:54:26.302576+00:00"
 }
