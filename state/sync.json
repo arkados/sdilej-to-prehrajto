@@ -173050,17 +173050,19 @@
       }
     },
     "33509": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13224072",
+          "target_video_id": "31397484",
+          "permanent": false,
+          "attempted_at": "2026-11-26T03:31:19.128909+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13224072",
         "display_name": "Psi nenosí kalhoty (2019) 720p CZ Titulky",
         "planned_at": "2026-11-26T03:25:27.543470+00:00"
-      },
-      "claim": {
-        "worker_id": "6572871219a7492ca27320b584bbd4d9-shard-0",
-        "claimed_at": "2026-11-26T03:25:28.788158+00:00",
-        "lease_expires_at": "2026-11-26T09:25:28.788158+00:00",
-        "run_id": "45722064799"
       },
       "previous_target_id": "31397484",
       "prepared": {
@@ -455474,5 +455476,5 @@
       }
     }
   },
-  "updated_at": "2026-11-26T03:25:32.581379+00:00"
+  "updated_at": "2026-11-26T03:31:19.128922+00:00"
 }
