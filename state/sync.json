@@ -270542,17 +270542,19 @@
       }
     },
     "28104": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34710601",
+          "target_video_id": "31415656",
+          "permanent": false,
+          "attempted_at": "2026-11-26T12:54:36.710187+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34710601",
         "display_name": "Šrám (2014) SD CZ Titulky",
         "planned_at": "2026-11-26T12:53:11.794766+00:00"
-      },
-      "claim": {
-        "worker_id": "4f0d8102467e474f957e9d18b483291f-shard-0",
-        "claimed_at": "2026-11-26T12:53:13.727047+00:00",
-        "lease_expires_at": "2026-11-26T18:53:13.727047+00:00",
-        "run_id": "45802381342"
       },
       "previous_target_id": "31415656",
       "prepared": {
@@ -455978,5 +455980,5 @@
       }
     }
   },
-  "updated_at": "2026-11-26T12:53:17.642129+00:00"
+  "updated_at": "2026-11-26T12:54:36.710205+00:00"
 }
