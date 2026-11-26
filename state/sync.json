@@ -259404,17 +259404,19 @@
       }
     },
     "15889": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34096639",
+          "target_video_id": "31426051",
+          "permanent": false,
+          "attempted_at": "2026-11-26T20:46:31.561857+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34096639",
         "display_name": "My Sister's Bones (2026) 1080p CZ Titulky",
         "planned_at": "2026-11-26T20:43:41.654347+00:00"
-      },
-      "claim": {
-        "worker_id": "5d8f672aca5a41aa89320890280a24db-shard-0",
-        "claimed_at": "2026-11-26T20:43:43.726898+00:00",
-        "lease_expires_at": "2026-11-27T02:43:43.726898+00:00",
-        "run_id": "45806484697"
       },
       "previous_target_id": "31426051",
       "prepared": {
@@ -456204,5 +456206,5 @@
       }
     }
   },
-  "updated_at": "2026-11-26T20:43:47.517758+00:00"
+  "updated_at": "2026-11-26T20:46:31.561872+00:00"
 }
