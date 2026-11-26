@@ -219070,17 +219070,19 @@
       }
     },
     "4004": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33525142",
+          "target_video_id": "31415789",
+          "permanent": false,
+          "attempted_at": "2026-11-26T13:01:45.466739+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33525142",
         "display_name": "Kasandřin sen (2007) 1080p CZ Titulky",
         "planned_at": "2026-11-26T12:59:12.854454+00:00"
-      },
-      "claim": {
-        "worker_id": "4a67ea5d6ebd4273a9cffd53fbdc44ba-shard-0",
-        "claimed_at": "2026-11-26T12:59:14.779064+00:00",
-        "lease_expires_at": "2026-11-26T18:59:14.779064+00:00",
-        "run_id": "45802381342"
       },
       "previous_target_id": "31415789",
       "prepared": {
@@ -455997,5 +455999,5 @@
       }
     }
   },
-  "updated_at": "2026-11-26T12:59:19.257416+00:00"
+  "updated_at": "2026-11-26T13:01:45.466757+00:00"
 }
