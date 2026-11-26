@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-26T08:38:40.382020+00:00
+Poslední aktualizace (UTC): 2026-11-26T08:38:45.196999+00:00
 
 Zkontrolováno videí: 3437. Další stránka kontroly: 0.
 
@@ -2868,7 +2868,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | --- | --- | --- | --- |
 | [3 Idioti (2009) 1080p CZ Titulky](https://prehraj.to/3-idioti-2009-1080p-cz-titulky-mkv/3a764e265186ea8a) (ID 28925211) | [Sdílej 26558986](https://sdilej.cz/26558986/3-idiots-tri-idioti-cztit-2009-.mkv) | target_unavailable | 2026-11-26T08:37:30.486162+00:00 |
 | [3-Iron (2004) 1080p CZ Titulky](https://prehraj.to/3-iron-2004-1080p-cz-titulky-mkv/69231660aa56eea2) (ID 29209297) | [Sdílej 33870824](https://sdilej.cz/33870824/3.iron.2004.1080p.amzn.web-dl.ddp5.1.x264-blutonium.mkv) | source_unavailable | 2026-11-26T08:35:26.921819+00:00 |
-| [A Cinderella Story: Starstruck (2021) 720p CZ Titulky](https://prehraj.to/a-cinderella-story-starstruck-2021-720p-cz-titulky-avi/9af73b7cd5359066) (ID 29573005) | [Sdílej 25108769](https://sdilej.cz/25108769/a-cinderella-story-starstruck-webrip-hd-cz-titulky-2021.avi) | target_unavailable | 2026-11-25T23:45:13.715077+00:00 |
+| [A Cinderella Story: Starstruck (2021) 720p CZ Titulky](https://prehraj.to/a-cinderella-story-starstruck-2021-720p-cz-titulky-avi/9af73b7cd5359066) (ID 29573005) | [Sdílej 25108769](https://sdilej.cz/25108769/a-cinderella-story-starstruck-webrip-hd-cz-titulky-2021.avi) | target_unavailable | 2026-11-26T08:38:45.196960+00:00 |
 | [Abracadabra (2017) 1080p CZ Titulky](https://prehraj.to/abracadabra-2017-1080p-cz-titulky-mkv/7efe374ac3054fef) (ID 29609377) | [Sdílej 30707980](https://sdilej.cz/30707980/abracadabra-2017-1080p-bluray-spanish-dts-x264-descargasmix.mkv) | source_unavailable | 2026-11-26T08:34:46.682952+00:00 |
 | [Alice, Darling (2022) 1080p CZ Titulky](https://prehraj.to/alice-darling-2022-1080p-cz-titulky-avi/d36c0b21958d17ac) (ID 29540125) | [Sdílej 25293811](https://sdilej.cz/25293811/alice-darling-webrip-hd-cz-titulky-2022.avi) | source_unavailable | 2026-11-26T08:35:08.307073+00:00 |
 | [Apatykář Melchior: Tajemství tallinského vězně (2022) SD CZ Titulky](https://prehraj.to/apatykar-melchior-tajemstvi-tallinskeho-vezne-2022-sd-cz-titulky-mkv/10c20fb482ae660a) (ID 29070182) | [Sdílej 25511238](https://sdilej.cz/25511238/apteeker-melchior-2022--estonsky-vondruska.mkv) | source_unavailable | 2026-11-26T08:35:20.919664+00:00 |
