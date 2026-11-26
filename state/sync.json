@@ -237425,17 +237425,19 @@
       }
     },
     "28389": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34899907",
+          "target_video_id": "31422068",
+          "permanent": false,
+          "attempted_at": "2026-11-26T17:43:24.374685+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34899907",
         "display_name": "Don't Look There (2021) 1080p CZ Titulky",
         "planned_at": "2026-11-26T17:41:10.198067+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc93600a4b04737bc7eb05ad39b5c01-shard-0",
-        "claimed_at": "2026-11-26T17:41:12.336153+00:00",
-        "lease_expires_at": "2026-11-26T23:41:12.336153+00:00",
-        "run_id": "45806484697"
       },
       "previous_target_id": "31422068",
       "prepared": {
@@ -456116,5 +456118,5 @@
       }
     }
   },
-  "updated_at": "2026-11-26T17:41:17.107960+00:00"
+  "updated_at": "2026-11-26T17:43:24.374700+00:00"
 }
