@@ -170198,13 +170198,6 @@
           "permanent": false,
           "source_id": "34994431",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-27T10:18:47.489304+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34994431",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:24:11.954388+00:00"
         },
         {
@@ -170213,18 +170206,19 @@
           "source_id": "34994431",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:29:44.068700+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34994431",
+          "target_video_id": "31471152",
+          "permanent": false,
+          "attempted_at": "2026-11-27T15:31:23.598303+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34994431",
         "display_name": "Panda and the Magic Serpent (1958) 1080p CZ Titulky",
         "planned_at": "2026-11-27T14:46:26.718237+00:00"
-      },
-      "claim": {
-        "worker_id": "bb154368a13b447395bd4d72d6f9c27a-shard-0",
-        "claimed_at": "2026-11-27T15:27:58.138127+00:00",
-        "lease_expires_at": "2026-11-27T21:27:58.138127+00:00",
-        "run_id": "45985596298"
       },
       "previous_target_id": "31471152",
       "prepared": {
@@ -456242,5 +456236,5 @@
       }
     }
   },
-  "updated_at": "2026-11-27T15:28:07.121716+00:00"
+  "updated_at": "2026-11-27T15:31:23.598320+00:00"
 }
