@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:05:34.542954+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:05:47.288091+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -2381,7 +2381,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [The Front Room (2024) 1440p CZ Titulky](https://prehraj.to/the-front-room-2024-1440p-cz-titulky-mkv/89f30c9186cb3551) (ID 30629918) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.194345+00:00 |
 | [The Fundamentals of Caring (2016) 720p CZ Titulky](https://prehraj.to/the-fundamentals-of-caring-2016-720p-cz-titulky-mkv/1878bc733867b1f5) (ID 29376069) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.183405+00:00 |
 | [The Furies (2019) 1080p CZ Titulky](https://prehraj.to/the-furies-2019-1080p-cz-titulky-mkv/91b683d3b7eb52d0) (ID 29926913) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.187494+00:00 |
-| [The Ghost Within (2023) 1080p CZ Titulky](https://prehraj.to/the-ghost-within-2023-1080p-cz-titulky-mkv/d2b41bf8850a58a0) (ID 29293444) | [Sdílej 26787220](https://sdilej.cz/26787220/the.ghost.within.2023.1080p.bluray.en.5.1.titulky-sk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:07:16.002795+00:00 |
+| [The Ghost Within (2023) 1080p CZ Titulky](https://prehraj.to/the-ghost-within-2023-1080p-cz-titulky-mkv/d2b41bf8850a58a0) (ID 29293444) | [Sdílej 26787220](https://sdilej.cz/26787220/the.ghost.within.2023.1080p.bluray.en.5.1.titulky-sk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:05:47.287973+00:00 |
 | [The Golem (2018) 1080p CZ Titulky](https://prehraj.to/the-golem-2018-1080p-cz-titulky-mkv/2a123f5e6247a8e5) (ID 29914412) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.186882+00:00 |
 | [The Great Alaskan Race (2019) SD CZ Titulky](https://prehraj.to/the-great-alaskan-race-2019-sd-cz-titulky-avi/650c19202cf0c15c) (ID 29399740) | [Sdílej 13281983](https://sdilej.cz/13281983/the-great-alaskan-race-2019-sk-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:19:51.052081+00:00 |
 | [The Green Inferno (2013) 1080p CZ Titulky](https://prehraj.to/the-green-inferno-2013-1080p-cz-titulky-mkv/d649156dcc1d45f3) (ID 31048553) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.200224+00:00 |
