@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import unicodedata
 
 from .matching import YEAR_RE
 from .models import Candidate, Film, LanguageTier, MatchTier
@@ -115,8 +116,17 @@ def resolution_label(width: int, height: int = 0) -> str:
     return "SD"
 
 
-def display_name(film: Film, candidate: Candidate) -> str:
-    base = f"{film.title} ({film.year})" if film.year else film.title
+def _has_latin_letter(title: str) -> bool:
+    return any(unicodedata.name(char, "").startswith("LATIN ") for char in title)
+
+
+def display_name(film: Film, candidate: Candidate, *, preserve_title: bool = False) -> str:
+    title = film.title
+    # The target can discard every letter of a name written in a non-Latin
+    # script. Use another catalog title to keep the upload identifiable.
+    if not preserve_title and any(char.isalpha() for char in title) and not _has_latin_letter(title):
+        title = next((alias for alias in film.titles if _has_latin_letter(alias)), title)
+    base = f"{title} ({film.year})" if film.year else title
     base = f"{base} {resolution_label(candidate.width, candidate.height)}"
     original = (film.original_language or "").lower()
     if candidate.language_tier == LanguageTier.CZECH_AUDIO:
