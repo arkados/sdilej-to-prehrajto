@@ -146,5 +146,12 @@ def test_display_names_include_verified_resolution_and_language() -> None:
     assert display_name(film("en"), candidate(LanguageTier.FOREIGN_AUDIO, 1920)) == "Film (2000) 1080p CZ Titulky"
 
 
+def test_display_name_uses_latin_catalog_title_when_primary_uses_only_other_scripts():
+    movie = Film(1, "no-mercy", "언니", None, 2019, 94, "ko", search_titles=("No Mercy",))
+    source = candidate(LanguageTier.FOREIGN_AUDIO, 1920)
+    assert display_name(movie, source) == "No Mercy (2019) 1080p CZ Titulky"
+    assert display_name(movie, source, preserve_title=True) == "언니 (2019) 1080p CZ Titulky"
+
+
 def test_resolution_label_uses_height_for_cropped_1080p_video() -> None:
     assert resolution_label(1808, 1080) == "1080p"

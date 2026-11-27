@@ -114,6 +114,31 @@ def test_target_reconciliation_does_not_require_available_source(tmp_path, monke
         assert state.snapshot(1)["prepared"]["target_video_id"] == "777"
 
 
+def test_latin_upload_name_does_not_duplicate_existing_original_title(tmp_path, monkeypatch):
+    state = StateStore(tmp_path / "state.json")
+    pipeline = SyncPipeline(
+        source_provider=object(), source_session=object(), target_session=object(),
+        state=state, subtitle_queue=SubtitleQueue(tmp_path / "subs.jsonl"),
+        selected_sources=SelectedSourceStore(tmp_path / "sources.jsonl"),
+    )
+    film = Film(1, "no-mercy", "언니", None, 2019, 94, "ko", search_titles=("No Mercy",))
+    pipeline._selected[1] = Candidate("10", "https://sdilej.cz/10/film.mkv", "No Mercy", width=1920)
+    lookups = []
+
+    def lookup(_session, name):
+        lookups.append(name)
+        return "777" if name.startswith("언니") else None
+
+    monkeypatch.setattr(pipeline, "_target_id_by_name", lookup)
+    monkeypatch.setattr(pipeline, "_existing_target_complete", lambda _, __, name: name.startswith("언니"))
+    monkeypatch.setattr("sdilej_to_prehrajto.pipeline.relay_upload", lambda *_: pytest.fail("Duplicate upload"))
+    pipeline.execute([{
+        "film": film.to_dict(), "display_name": "No Mercy (2019) 1080p CZ Titulky", "needs_czech_subtitles": False,
+    }])
+    assert lookups == ["No Mercy (2019) 1080p CZ Titulky", "언니 (2019) 1080p CZ Titulky"]
+    assert state.snapshot(1)["upload"]["target_video_id"] == "777"
+
+
 @pytest.mark.parametrize("existing,error,previous", [("777", False, False), (None, True, False), (None, False, True)])
 def test_duplicate_guard_never_relays_or_renames(tmp_path, monkeypatch, existing, error, previous):
     from sdilej_to_prehrajto.prehrajto import PrehrajtoError

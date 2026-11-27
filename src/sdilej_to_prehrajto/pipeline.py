@@ -532,10 +532,14 @@ class SyncPipeline:
                         },
                     )
                 continue
+            existing_name = row["display_name"]
             try:
-                existing_video_id = self._target_id_by_name(
-                    target_session, row["display_name"]
-                )
+                existing_video_id = self._target_id_by_name(target_session, existing_name)
+                if not existing_video_id and existing_name == display_name(film, candidate):
+                    legacy_name = display_name(film, candidate, preserve_title=True)
+                    if legacy_name != existing_name:
+                        existing_name = legacy_name
+                        existing_video_id = self._target_id_by_name(target_session, existing_name)
             except PrehrajtoError:
                 self.state.record_attempt(film.cr_film_id, {
                     "status": "target_lookup_failed", "permanent": False,
@@ -545,7 +549,7 @@ class SyncPipeline:
                 continue
             if existing_video_id:
                 if self._existing_target_complete(
-                    target_session, existing_video_id, row["display_name"]
+                    target_session, existing_video_id, existing_name
                 ):
                     upload = self._upload_record(
                         row,
