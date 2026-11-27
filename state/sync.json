@@ -100703,13 +100703,6 @@
           "permanent": false,
           "source_id": "35041389",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-27T10:14:52.792126+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35041389",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:20:10.593124+00:00"
         },
         {
@@ -100718,18 +100711,20 @@
           "source_id": "35041389",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:25:34.820608+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35041389",
+          "target_video_id": "31465075",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-27T11:35:04.369354+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35041389",
         "display_name": "宋家皇朝 (1997) SD CZ Titulky",
         "planned_at": "2026-11-27T10:33:09.698345+00:00"
-      },
-      "claim": {
-        "worker_id": "bf16c4459ea7420e950dad1a0444c4a2-shard-0",
-        "claimed_at": "2026-11-27T11:26:25.002862+00:00",
-        "lease_expires_at": "2026-11-27T17:26:25.002862+00:00",
-        "run_id": "45983003370"
       },
       "previous_target_id": "31465075",
       "prepared": {
@@ -456157,5 +456152,5 @@
       }
     }
   },
-  "updated_at": "2026-11-27T11:26:45.062108+00:00"
+  "updated_at": "2026-11-27T11:35:04.369369+00:00"
 }
