@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:21:37.823768+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:21:45.175812+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -546,7 +546,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Die Alone (2024) 1080p CZ Titulky](https://prehraj.to/die-alone-2024-1080p-cz-titulky-mkv/28c3f5c171327eea) (ID 30353074) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.496261+00:00 |
 | [Die Hart: The Movie (2023) 1080p CZ Titulky](https://prehraj.to/die-hart-the-movie-2023-1080p-cz-titulky-mp4/769f40cacab6dd70) (ID 30351257) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.496257+00:00 |
 | [Die My Love (2025) 1440p CZ Titulky](https://prehraj.to/die-my-love-2025-1440p-cz-titulky-mkv/eddcf82a5ecab212) (ID 30451780) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.496948+00:00 |
-| [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:19:32.367325+00:00 |
+| [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:21:45.175687+00:00 |
 | [Diplomacie (2014) SD CZ Titulky](https://prehraj.to/diplomacie-2014-sd-cz-titulky-avi/d91f9865d10323d0) (ID 30867285) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498597+00:00 |
 | [Diplomová práce (1996) 720p CZ Titulky](https://prehraj.to/diplomova-prace-1996-720p-cz-titulky-mkv/fb0addf49be0ae77) (ID 31149558) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.502560+00:00 |
 | [Dirty Angels (2024) 1080p CZ Titulky](https://prehraj.to/dirty-angels-2024-1080p-cz-titulky-mkv/fa6c335e2f8da21f) (ID 30413288) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.496671+00:00 |
