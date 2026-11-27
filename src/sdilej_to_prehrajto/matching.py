@@ -27,6 +27,10 @@ RELEASE_RUNTIMES = {
 }
 EPISODE_RE = re.compile(r"\bS\d{1,2}E\d{1,3}\b|\b\d{1,2}x\d{1,3}\b", re.I)
 YEAR_RE = re.compile(r"(?<!\d)(19\d{2}|20\d{2})(?!\d)")
+ENCODED_YEAR_RE = re.compile(
+    r"(?<![^\W_])(?:2O[0-9O]{2}|(?:19|20)(?:O[0-9O]|[0-9]O))(?![^\W_])",
+    re.I,
+)
 RELEASE_NOISE_RE = re.compile(
     r"\b(?:4320p|2160p|1440p|1080p|720p|576p|480p|4k|uhd|full[ ._-]?hd|"
     r"bluray|bdrip|webrip|web[ ._-]?dl|hdrip|dvdrip|hdtv|remux|"
@@ -57,6 +61,9 @@ def normalize_title(value: str, *, keep_years: bool = False) -> str:
 def title_and_release_year(candidate: str, aliases: tuple[str, ...]) -> tuple[str, int | None, list[str]]:
     # Remove release years from the compared title, preserving year-shaped
     # tokens only when the complete catalog alias occurs at word boundaries.
+    candidate = ENCODED_YEAR_RE.sub(
+        lambda match: match.group().upper().replace("O", "0"), candidate
+    )
     if not any(YEAR_RE.search(alias) for alias in aliases):
         year_match = YEAR_RE.search(candidate)
         names = list(filter(None, (normalize_title(alias) for alias in aliases)))

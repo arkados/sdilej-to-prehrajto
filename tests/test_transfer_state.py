@@ -792,6 +792,28 @@ def test_non_latin_target_names_do_not_collide_by_year():
     assert uploaded_video_id_by_name(Session(), "鬼婆 (1964) 1080p") == "20"
 
 
+@pytest.mark.parametrize("target_id", [None, "20"])
+def test_year_search_field_is_not_a_video_title(target_id):
+    pages = []
+
+    class Session:
+        def get(self, _url, *, params, **_kwargs):
+            assert params["searchPhrase"] == "1964"
+            page = params.get("uploadedVideoListing-visualPaginator-page", "1")
+            pages.append(page)
+            title = '<h3 id="snippet-uploadedVideoListing-videoName-10">別物 (1964) SD</h3>'
+            if page == "1":
+                title += '<a href="?uploadedVideoListing-visualPaginator-page=2">2</a>'
+            elif target_id:
+                title = '<h3 id="snippet-uploadedVideoListing-videoName-20">鬼婆 (1964) 720p</h3>'
+            return Response(text=(
+                '<form id="frm-searchForm"><input name="q" value="1964"></form>' + title
+            ))
+
+    assert uploaded_video_id_by_name(Session(), "鬼婆 (1964) 1080p") == target_id
+    assert pages == ["1", "2"]
+
+
 def test_target_with_fully_stripped_title_requires_review_before_transfer():
     class Session:
         def get(self, url, **kwargs):

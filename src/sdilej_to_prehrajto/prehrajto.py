@@ -295,35 +295,39 @@ def _uploaded_video_id_from_html(
             if allow_filename_extension
             else visible_name
         )
-        if ambiguous_year and compared_name == ambiguous_year:
-            stripped_title = True
-            continue
-        if compared_name != wanted:
+        is_stripped_title = ambiguous_year is not None and compared_name == ambiguous_year
+        if compared_name != wanted and not is_stripped_title:
             continue
         if not include_processing and PROCESSING_SUFFIX_RE.search(
             _visible_uploaded_name(element)
         ):
             continue
-        heading_id = re.fullmatch(r"snippet-uploadedVideoListing-videoName-(\d+)", element.get("id", ""))
-        if heading_id:
-            return heading_id.group(1)
-        node = element
-        for _level in range(8):
-            if node is None:
-                break
-            # Do not climb into a shared listing container and accidentally
-            # associate this title with an ID from a different video row.
-            other_names = {
-                _normalized_uploaded_name(item)
-                for item in node.find_all(["h1", "h2", "h3", "input"])
-                if item is not element and _normalized_uploaded_name(item)
-            }
-            if other_names - {_film_identity(display_name)}:
-                break
-            match = re.search(r"(?:videoId|video-id)[=/\"':-]+(\d+)", str(node), re.I)
-            if match:
-                return match.group(1)
-            node = node.parent
+        video_id = re.fullmatch(r"snippet-uploadedVideoListing-videoName-(\d+)", element.get("id", ""))
+        if video_id is None:
+            identity = _normalized_uploaded_name(element)
+            node = element
+            for _level in range(8):
+                if node is None:
+                    break
+                # Do not associate a title with an ID from a different row.
+                other_names = {
+                    _normalized_uploaded_name(item)
+                    for item in node.find_all(["h1", "h2", "h3", "input"])
+                    if item is not element
+                }
+                if other_names - {"", identity}:
+                    break
+                video_id = re.search(r"(?:videoId|video-id)[=/\"':-]+(\d+)", str(node), re.I)
+                if video_id:
+                    break
+                node = node.parent
+        if video_id:
+            # Only a video row can establish ambiguity. The search form
+            # echoes the year in its input even when the results are empty.
+            if is_stripped_title:
+                stripped_title = True
+            else:
+                return video_id.group(1)
     if stripped_title:
         raise PrehrajtoError("Target listing contains a year without its film title")
     return None
