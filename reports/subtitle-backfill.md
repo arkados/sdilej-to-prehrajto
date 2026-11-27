@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:00:50.020675+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:00:57.479658+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -535,7 +535,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Deset kánoí (2006) SD CZ Titulky](https://prehraj.to/deset-kanoi-2006-sd-cz-titulky-avi/5d7558ba06f99f4c) (ID 29256878) | [Sdílej 25837816](https://sdilej.cz/25837816/deset-kanoi-2006-aus-dobrodruzny-komedie-drama-valecny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:30:59.431739+00:00 |
 | [Deset malých černoušků (1965) SD CZ Titulky](https://prehraj.to/deset-malych-cernousku-1965-sd-cz-titulky-avi/77b425dc3e950fdc) (ID 30168747) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.004875+00:00 |
 | [Desierto (2015) SD CZ Titulky](https://prehraj.to/desierto-2015-sd-cz-titulky-mp4/2efb6859c0625175) (ID 30923740) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.012756+00:00 |
-| [Detective Dee: Čtyři nebeští králové (2018) SD CZ Titulky](https://prehraj.to/detective-dee-ctyri-nebesti-kralove-2018-sd-cz-titulky-mp4/c093e78374290137) (ID 29251837) | [Sdílej 34713642](https://sdilej.cz/34713642/detective-dee-ctyri-nebesti-kralove-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:29:51.657330+00:00 |
+| [Detective Dee: Čtyři nebeští králové (2018) SD CZ Titulky](https://prehraj.to/detective-dee-ctyri-nebesti-kralove-2018-sd-cz-titulky-mp4/c093e78374290137) (ID 29251837) | [Sdílej 34713642](https://sdilej.cz/34713642/detective-dee-ctyri-nebesti-kralove-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:00:57.479539+00:00 |
 | [Detention (2011) SD CZ Titulky](https://prehraj.to/detention-2011-sd-cz-titulky-mp4/ff932bdfed1d8a14) (ID 29936501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.003097+00:00 |
 | [Devadesátky (2018) 720p CZ Titulky](https://prehraj.to/devadesatky-2018-720p-cz-titulky-mkv/3a8bf90d2aa4ffec) (ID 30907335) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.012235+00:00 |
 | [Devil's Playground (2010) SD CZ Titulky](https://prehraj.to/devil-s-playground-2010-sd-cz-titulky-mp4/67914c42c0649bac) (ID 31386002) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.017356+00:00 |
