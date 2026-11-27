@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:05:08.946043+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:05:16.126779+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -2779,7 +2779,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Zlaté kapradí (1963) 720p CZ Titulky](https://prehraj.to/zlate-kapradi-1963-720p-cz-titulky-mkv/5324cdfbf4c94c9b) (ID 31031745) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.014665+00:00 |
 | [Zlo si umí počkat (2023) 1080p CZ Titulky](https://prehraj.to/zlo-si-umi-pockat-2023-1080p-cz-titulky-mp4/46d8e028b91ec786) (ID 31159984) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.015670+00:00 |
 | [Zloději aut (2025) 1080p CZ Titulky](https://prehraj.to/zlodeji-aut-2025-1080p-cz-titulky-mkv/1ac38c370498a447) (ID 29917167) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.002021+00:00 |
-| [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:34:24.718120+00:00 |
+| [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:05:16.126656+00:00 |
 | [Zlom vaz, bav se, neumři (2025) 4K CZ Titulky](https://prehraj.to/zlom-vaz-bav-se-neumri-2025-4k-cz-titulky-mkv/7b15b982585f1995) (ID 31377846) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.017163+00:00 |
 | [Zlomyslný apríl (2008) SD CZ Titulky](https://prehraj.to/zlomyslny-april-2008-sd-cz-titulky-avi/9f87e463843c8455) (ID 31382452) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.017238+00:00 |
 | [Zločin v rodině (2020) SD CZ Titulky](https://prehraj.to/zlocin-v-rodine-2020-sd-cz-titulky-mkv/054c8a0ba5db3d46) (ID 30898628) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.012039+00:00 |
