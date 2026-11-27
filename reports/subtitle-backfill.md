@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:03:18.940188+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:03:26.015513+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -339,7 +339,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Broken Contract (2018) SD CZ Titulky](https://prehraj.to/broken-contract-2018-sd-cz-titulky-avi/49f2ef4135a66748) (ID 30191328) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.005001+00:00 |
 | [Broken Rage (2024) 1080p CZ Titulky](https://prehraj.to/broken-rage-2024-1080p-cz-titulky-mkv/d523a609e7b4be94) (ID 31238879) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.016355+00:00 |
 | [Bros Before Hos (2013) SD CZ Titulky](https://prehraj.to/bros-before-hos-2013-sd-cz-titulky-mp4/9e9bcbc8f6370168) (ID 30242923) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.005312+00:00 |
-| [Brotherhood (2010) SD CZ Titulky](https://prehraj.to/brotherhood-2010-sd-cz-titulky-mp4/deed6f1ab30e2613) (ID 29269524) | [Sdílej 34780698](https://sdilej.cz/34780698/brotherhood-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:32:32.162056+00:00 |
+| [Brotherhood (2010) SD CZ Titulky](https://prehraj.to/brotherhood-2010-sd-cz-titulky-mp4/deed6f1ab30e2613) (ID 29269524) | [Sdílej 34780698](https://sdilej.cz/34780698/brotherhood-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:03:26.015399+00:00 |
 | [Brotherhood of Blades II: The Infernal Battlefield (2017) 1080p CZ Titulky](https://prehraj.to/brotherhood-of-blades-ii-the-infernal-battlefield-2017-1080p-cz-titulky-mkv/1ad1affb3d364356) (ID 30912324) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.012428+00:00 |
 | [Brutální město (1970) 720p CZ Titulky](https://prehraj.to/brutalni-mesto-1970-720p-cz-titulky-mp4/4853541e2c1bed72) (ID 30944129) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.013471+00:00 |
 | [Brána do záhrobí (1981) SD CZ Titulky](https://prehraj.to/brana-do-zahrobi-1981-sd-cz-titulky-avi/8cd1f70d5174eeee) (ID 29240551) | [Sdílej 33652395](https://sdilej.cz/33652395/the-beyond-brana-do-zahrobi-1981-horor-usa-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:00:18.535657+00:00 |
