@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:11:55.065581+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:12:03.416561+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -952,7 +952,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [High-Rise (2015) 1080p CZ Titulky](https://prehraj.to/high-rise-2015-1080p-cz-titulky-mkv/ce6430b057c50b3a) (ID 30937018) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.198372+00:00 |
 | [Higher Power (2018) 1080p CZ Titulky.mkv](https://prehraj.to/higher-power-2018-1080p-cz-titulky-mkv/89151ca96103d63f) (ID 29932986) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.187724+00:00 |
 | [Highlander III (1994) 1080p CZ Titulky](https://prehraj.to/highlander-iii-1994-1080p-cz-titulky-mkv/e113dd7a75c58624) (ID 30422917) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.192083+00:00 |
-| [Hilary a Jackie (1998) SD CZ Titulky](https://prehraj.to/hilary-a-jackie-1998-sd-cz-titulky-mp4/adafbeb60af3c7d7) (ID 29308111) | [Sdílej 34751551](https://sdilej.cz/34751551/hilary-a-jackie-1998-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:12:43.960034+00:00 |
+| [Hilary a Jackie (1998) SD CZ Titulky](https://prehraj.to/hilary-a-jackie-1998-sd-cz-titulky-mp4/adafbeb60af3c7d7) (ID 29308111) | [Sdílej 34751551](https://sdilej.cz/34751551/hilary-a-jackie-1998-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:12:03.416428+00:00 |
 | [Himaláj – Karavana (1999) 720p CZ Titulky](https://prehraj.to/himalaj-karavana-1999-720p-cz-titulky-mkv/52bcc6501da02f6b) (ID 31195538) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.200970+00:00 |
 | [Hinsdale House (2019) 1080p CZ Titulky](https://prehraj.to/hinsdale-house-2019-1080p-cz-titulky-mkv/e0e00ae53dba7aeb) (ID 30428174) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.192125+00:00 |
 | [History of the World: Part I (1981) 720p CZ Titulky](https://prehraj.to/history-of-the-world-part-i-1981-720p-cz-titulky-mkv/37d95f7bcbd876da) (ID 29315006) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.183050+00:00 |
