@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:23:19.377054+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:23:27.318789+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -2206,7 +2206,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Stone Cold Fox (2025) 4K CZ Titulky](https://prehraj.to/stone-cold-fox-2025-4k-cz-titulky-mkv/5c237b6bf4f963d3) (ID 30449820) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.192459+00:00 |
 | [Stopa vraha (2024) 1080p CZ Titulky](https://prehraj.to/stopa-vraha-2024-1080p-cz-titulky-mp4/2715d7a9263f33cf) (ID 29735549) | [Sdílej 28644925](https://sdilej.cz/28644925/damaged-2024-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:46:21.724412+00:00 |
 | [Stopy (2013) 720p CZ Titulky](https://prehraj.to/stopy-2013-720p-cz-titulky-mp4/efd06708ad320b80) (ID 29333413) | [Sdílej 34779528](https://sdilej.cz/34779528/stopy-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:17:20.886327+00:00 |
-| [Storia di Piera (1983) 1080p CZ Titulky](https://prehraj.to/storia-di-piera-1983-1080p-cz-titulky-mp4/7607a3121172a917) (ID 29366669) | [Sdílej 34786821](https://sdilej.cz/34786821/storia-di-piera-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:22:04.364582+00:00 |
+| [Storia di Piera (1983) 1080p CZ Titulky](https://prehraj.to/storia-di-piera-1983-1080p-cz-titulky-mp4/7607a3121172a917) (ID 29366669) | [Sdílej 34786821](https://sdilej.cz/34786821/storia-di-piera-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:23:27.318671+00:00 |
 | [Storm Rider: Legend of Hammerhead (2026) 1080p CZ Titulky](https://prehraj.to/storm-rider-legend-of-hammerhead-2026-1080p-cz-titulky-mp4/9831bebe0e5b7447) (ID 29907779) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.186280+00:00 |
 | [Storožova zástava (2017) SD CZ Titulky](https://prehraj.to/storozova-zastava-2017-sd-cz-titulky-mp4/ca5f30fee494c319) (ID 31181278) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.200823+00:00 |
 | [Stovky bobrů (2022) 1080p CZ Titulky](https://prehraj.to/stovky-bobru-2022-1080p-cz-titulky-mp4/e6dfada040fc7670) (ID 29583192) | [Sdílej 30207144](https://sdilej.cz/30207144/hundreds-of-beavers-stovky-bobru-2022-czsubbed-1080p-web-dl-aac2.0-h.264-nogrp.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:50:48.755254+00:00 |
