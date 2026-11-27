@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:12:03.416561+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:12:11.978983+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -75,7 +75,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Abandoned (2022) 1080p CZ Titulky](https://prehraj.to/abandoned-2022-1080p-cz-titulky-mp4/804468d5d5c69649) (ID 30420008) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.191982+00:00 |
 | [Abattoir (2016) SD CZ Titulky](https://prehraj.to/abattoir-2016-sd-cz-titulky-avi/2118c10ac423931f) (ID 30404175) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.191730+00:00 |
 | [Above Majestic (2018) 1080p CZ Titulky](https://prehraj.to/above-majestic-2018-1080p-cz-titulky-mkv/5c65c8020ac4cd9e) (ID 30719812) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.195087+00:00 |
-| [Absťák (2019) 720p CZ Titulky](https://prehraj.to/abstak-2019-720p-cz-titulky-mp4/065cce4cc652c433) (ID 29310844) | [Sdílej 34734874](https://sdilej.cz/34734874/abstak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:12:52.157535+00:00 |
+| [Absťák (2019) 720p CZ Titulky](https://prehraj.to/abstak-2019-720p-cz-titulky-mp4/065cce4cc652c433) (ID 29310844) | [Sdílej 34734874](https://sdilej.cz/34734874/abstak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:12:11.978878+00:00 |
 | [Ach, Ramono! (2019) 1080p CZ Titulky](https://prehraj.to/ach-ramono-2019-1080p-cz-titulky-mp4/be1ab69f4982a5e8) (ID 30411945) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.191845+00:00 |
 | [Adagio (2023) 1080p CZ Titulky](https://prehraj.to/adagio-2023-1080p-cz-titulky-mp4/9e2f8c8329bff41a) (ID 30783031) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.195920+00:00 |
 | [Adele: Live at the Royal Albert Hall (2011) 720p CZ Titulky](https://prehraj.to/adele-live-at-the-royal-albert-hall-2011-720p-cz-titulky-mp4/75f13f27d0c10e7d) (ID 29902307) | [Sdílej 34780408](https://sdilej.cz/34780408/adele-live-at-the-royal-albert-hall-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:05:09.413227+00:00 |
