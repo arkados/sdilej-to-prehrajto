@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:32:52.910733+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:33:09.671064+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -1098,7 +1098,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Jakob's Wife (2021) SD CZ Titulky](https://prehraj.to/jakob-s-wife-2021-sd-cz-titulky-avi/9831bd4439401575) (ID 31346546) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.503732+00:00 |
 | [Jaký otec, takový syn (2013) 1080p CZ Titulky](https://prehraj.to/jaky-otec-takovy-syn-2013-1080p-cz-titulky-mp4/ee47f5378f3f2999) (ID 29320755) | [Sdílej 33466273](https://sdilej.cz/33466273/jaky-otec-takovy-syn-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:15:08.311922+00:00 |
 | [Jakša: Nekompromisní operace (2022) 1080p CZ Titulky](https://prehraj.to/jaksa-nekompromisni-operace-2022-1080p-cz-titulky-mkv/9bbea2c5940043c1) (ID 30451207) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.496944+00:00 |
-| [Jamesy Boy (2014) SD CZ Titulky](https://prehraj.to/jamesy-boy-2014-sd-cz-titulky-avi/1fe7836dcfc6b146) (ID 29222680) | [Sdílej 34575081](https://sdilej.cz/34575081/jamesy-boy-2014-cz-titulky-vlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:30:16.247210+00:00 |
+| [Jamesy Boy (2014) SD CZ Titulky](https://prehraj.to/jamesy-boy-2014-sd-cz-titulky-avi/1fe7836dcfc6b146) (ID 29222680) | [Sdílej 34575081](https://sdilej.cz/34575081/jamesy-boy-2014-cz-titulky-vlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:33:09.670941+00:00 |
 | [Janička z Arku (2019) 1080p CZ Titulky](https://prehraj.to/janicka-z-arku-2019-1080p-cz-titulky-mkv/7aa4670675bb359c) (ID 30578693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.497461+00:00 |
 | [Jde si pro nás noc (2018) 720p CZ Titulky](https://prehraj.to/jde-si-pro-nas-noc-2018-720p-cz-titulky-mkv-cz-titulky/995debbfe923eb47) (ID 31385710) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.504777+00:00 |
 | [Je muž, který je vysoký, šťastný? (2013) SD CZ Titulky](https://prehraj.to/je-muz-ktery-je-vysoky-stastny-2013-sd-cz-titulky-mp4/cd1e4b072ff6ac93) (ID 30887444) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498840+00:00 |
