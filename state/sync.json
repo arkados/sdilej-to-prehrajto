@@ -45942,13 +45942,6 @@
           "permanent": false,
           "source_id": "27606009",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-27T10:23:45.545364+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27606009",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:29:17.278458+00:00"
         },
         {
@@ -45957,12 +45950,19 @@
           "target_video_id": "31467223",
           "permanent": false,
           "attempted_at": "2026-11-27T13:07:05.252043+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27606009",
+          "target_video_id": "31467223",
+          "permanent": false,
+          "attempted_at": "2026-11-27T16:52:52.150132+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27606009",
         "display_name": "A Dirty Carnival (2006) 1080p CZ Titulky",
-        "planned_at": "2026-11-27T12:57:22.677434+00:00"
+        "planned_at": "2026-11-27T16:52:34.456606+00:00"
       },
       "previous_target_id": "31467223",
       "prepared": {
@@ -179327,16 +179327,10 @@
           "attempted_at": "2026-11-27T13:54:59.509490+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30716833",
-        "display_name": "Blade of the Immortal (2017) 1080p CZ Titulky",
-        "planned_at": "2026-11-27T12:57:23.038727+00:00"
-      },
       "previous_target_id": "31467372",
-      "prepared": {
+      "upload": {
         "target_video_id": "31467372",
-        "size_bytes": 16623679787,
-        "prepared_at": "2026-11-27T13:08:09.367337+00:00"
+        "uploaded_at": "2026-11-27T16:52:55.314895+00:00"
       }
     },
     "5397": {
@@ -346628,7 +346622,7 @@
       "last_plan": {
         "source_id": "34794506",
         "display_name": "Omniscient Reader: The Prophecy (2025) 1080p CZ Titulky",
-        "planned_at": "2026-11-27T12:57:23.400052+00:00"
+        "planned_at": "2026-11-27T16:52:35.193577+00:00"
       },
       "previous_target_id": "31468947",
       "prepared": {
@@ -406659,7 +406653,7 @@
       "last_plan": {
         "source_id": "26819765",
         "display_name": "Break (2019) 720p CZ Dabing",
-        "planned_at": "2026-11-27T12:57:23.760414+00:00"
+        "planned_at": "2026-11-27T16:52:35.555537+00:00"
       },
       "previous_target_id": "31469804",
       "prepared": {
@@ -411482,7 +411476,7 @@
       "last_plan": {
         "source_id": "7482563",
         "display_name": "The Bride (2017) 1080p CZ Titulky",
-        "planned_at": "2026-11-27T12:57:24.121914+00:00"
+        "planned_at": "2026-11-27T16:52:35.906074+00:00"
       },
       "previous_target_id": "31470019",
       "prepared": {
@@ -456263,5 +456257,5 @@
       }
     }
   },
-  "updated_at": "2026-11-27T16:52:21.030548+00:00"
+  "updated_at": "2026-11-27T16:52:55.314913+00:00"
 }
