@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:18:22.521040+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:18:50.697458+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -588,7 +588,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Donekonečna (2017) 1080p CZ Titulky](https://prehraj.to/donekonecna-2017-1080p-cz-titulky-mkv/5b6ece7e519dcce8) (ID 30230117) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.189902+00:00 |
 | [Doom: Annihilation (2019) 1080p CZ Titulky](https://prehraj.to/doom-annihilation-2019-1080p-cz-titulky-mkv/1e04614a5ca308c4) (ID 30761388) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.195568+00:00 |
 | [Door Lock (2018) 720p CZ Titulky](https://prehraj.to/door-lock-2018-720p-cz-titulky-mkv/7f65376892824fc1) (ID 30212338) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.189708+00:00 |
-| [Dopraváci (2013) 1080p CZ Titulky](https://prehraj.to/dopravaci-2013-1080p-cz-titulky-avi/32f01f2f0d90c122) (ID 29341911) | [Sdílej 12232297](https://sdilej.cz/12232297/dopravaci-drogowka-2013-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:18:16.304887+00:00 |
+| [Dopraváci (2013) 1080p CZ Titulky](https://prehraj.to/dopravaci-2013-1080p-cz-titulky-avi/32f01f2f0d90c122) (ID 29341911) | [Sdílej 12232297](https://sdilej.cz/12232297/dopravaci-drogowka-2013-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:18:50.697345+00:00 |
 | [Dora a pátrání po Sol Doradu (2025) 1080p CZ Titulky](https://prehraj.to/dora-a-patrani-po-sol-doradu-2025-1080p-cz-titulky-mp4/ca2af3500bbdd550) (ID 30314599) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.190695+00:00 |
 | [Dospěláci v místnosti (2019) SD CZ Titulky](https://prehraj.to/dospelaci-v-mistnosti-2019-sd-cz-titulky-mp4/a8ad22e678b9463b) (ID 30875969) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.196756+00:00 |
 | [Doupě bílého červa (1988) 1080p CZ Titulky](https://prehraj.to/doupe-bileho-cerva-1988-1080p-cz-titulky-mp4/0dc94d5acce7c7af) (ID 30738585) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.195228+00:00 |
