@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T10:59:08.616934+00:00
+Poslední aktualizace (UTC): 2026-11-27T10:59:17.979889+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -2497,7 +2497,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Thriller - drsný film (1973) 1080p CZ Titulky](https://prehraj.to/thriller-drsny-film-1973-1080p-cz-titulky-mp4/d3b318601405ea7e) (ID 29398262) | [Sdílej 34755870](https://sdilej.cz/34755870/thriller-drsny-film-1973-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:19:06.435671+00:00 |
 | [Ticho na zemi (1985) 1080p CZ Titulky](https://prehraj.to/ticho-na-zemi-1985-1080p-cz-titulky-mkv/4e9ea2a2acaf6f32) (ID 30537898) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.008444+00:00 |
 | [Tichá noc, krvavá noc (2025) 1080p CZ Titulky](https://prehraj.to/ticha-noc-krvava-noc-2025-1080p-cz-titulky-mkv/cc8fc5bf92c84cf9) (ID 29994597) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.003755+00:00 |
-| [Tichý běh (1972) 1080p CZ Titulky](https://prehraj.to/tichy-beh-1972-1080p-cz-titulky-mp4/60ef3ab70f1617cf) (ID 29221635) | [Sdílej 28261434](https://sdilej.cz/28261434/tichy-beh-1972-sci-fi-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:28:17.321624+00:00 |
+| [Tichý běh (1972) 1080p CZ Titulky](https://prehraj.to/tichy-beh-1972-1080p-cz-titulky-mp4/60ef3ab70f1617cf) (ID 29221635) | [Sdílej 28261434](https://sdilej.cz/28261434/tichy-beh-1972-sci-fi-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T10:59:17.979783+00:00 |
 | [Tides (2021) 1080p CZ Titulky](https://prehraj.to/tides-2021-1080p-cz-titulky-mkv/bef4e05509b1c7f9) (ID 30864179) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.011361+00:00 |
 | [Tiger 3 (2023) 720p CZ Titulky](https://prehraj.to/tiger-3-2023-720p-cz-titulky-mp4/1ec6dcddc853fcf1) (ID 29547184) | [Sdílej 34725287](https://sdilej.cz/34725287/tiger-3-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:39:55.575077+00:00 |
 | [Tiger Zinda Hai (2017) 720p CZ Titulky](https://prehraj.to/tiger-zinda-hai-2017-720p-cz-titulky-mp4/e2b89efad4149c80) (ID 29659164) | [Sdílej 34737260](https://sdilej.cz/34737260/tiger-zinda-hai-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:18:54.771893+00:00 |
