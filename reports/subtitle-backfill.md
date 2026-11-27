@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:28:23.077404+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:28:36.560950+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -263,7 +263,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Bez přestání (2022) 1080p CZ Titulky](https://prehraj.to/bez-prestani-2022-1080p-cz-titulky-mkv/de0455c061e99b43) (ID 30614843) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.497641+00:00 |
 | [Bezpečí (2021) 1080p CZ Titulky](https://prehraj.to/bezpeci-2021-1080p-cz-titulky-mp4/0427bfd5d0103bff) (ID 30858806) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498476+00:00 |
 | [Bezstarostná dívka (2019) 1080p CZ Titulky](https://prehraj.to/bezstarostna-divka-2019-1080p-cz-titulky-mkv/5cdb15235bee4b57) (ID 30771551) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498208+00:00 |
-| [Bhaag Milkha Bhaag (2013) SD CZ Titulky](https://prehraj.to/bhaag-milkha-bhaag-2013-sd-cz-titulky-mp4/1ba06e799f148ba0) (ID 29212380) | [Sdílej 34742267](https://sdilej.cz/34742267/bhaag-milkha-bhaag-2013-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:26:01.403532+00:00 |
+| [Bhaag Milkha Bhaag (2013) SD CZ Titulky](https://prehraj.to/bhaag-milkha-bhaag-2013-sd-cz-titulky-mp4/1ba06e799f148ba0) (ID 29212380) | [Sdílej 34742267](https://sdilej.cz/34742267/bhaag-milkha-bhaag-2013-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:28:36.560838+00:00 |
 | [Bikini Drive-In (1995) SD CZ Titulky](https://prehraj.to/bikini-drive-in-1995-sd-cz-titulky-mkv/6a7c25c16d12d2cd) (ID 29637810) | [Sdílej 34828279](https://sdilej.cz/34828279/bikini-drive-in.1995.dvdrip.xvid-cg-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:48.012561+00:00 |
 | [Billie Eilish: The World's a Little Blurry (2021) 1080p CZ Titulky](https://prehraj.to/billie-eilish-the-world-s-a-little-blurry-2021-1080p-cz-titulky-mp4/63d1d2a65c2f7bab) (ID 31355955) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.503777+00:00 |
 | [Bitcoin: Konec peněz jak je známe (2015) 1080p CZ Titulky](https://prehraj.to/bitcoin-konec-penez-jak-je-zname-2015-1080p-cz-titulky-mp4/d42cc963c656de4e) (ID 29578193) | [Sdílej 34738133](https://sdilej.cz/34738133/bitcoin-konec-penez-jak-je-zname-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:49:18.779956+00:00 |
