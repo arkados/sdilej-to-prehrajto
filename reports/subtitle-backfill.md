@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:08:13.610208+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:08:21.855361+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -29,7 +29,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [1922 (2017) 720p CZ Titulky](https://prehraj.to/1922-2017-720p-cz-titulky-avi/31309e7ef78ffaa2) (ID 31372845) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201973+00:00 |
 | [1944 (2015) 1080p CZ Titulky](https://prehraj.to/1944-2015-1080p-cz-titulky-mkv/6d2665fe263975fd) (ID 31372279) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201859+00:00 |
 | [1BR (2019) 1080p CZ Titulky](https://prehraj.to/1br-2019-1080p-cz-titulky-mkv/5e3b89f44bab2fa7) (ID 29688992) | [Sdílej 13377582](https://sdilej.cz/13377582/1br.2019.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:28:29.268854+00:00 |
-| [20.0 Megaquake (2022) SD CZ Titulky](https://prehraj.to/20-0-megaquake-2022-sd-cz-titulky-mp4/8f0322e0a9504d0b) (ID 29295641) | [Sdílej 34760691](https://sdilej.cz/34760691/20.0-megaquake-2022-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:09:26.932791+00:00 |
+| [20.0 Megaquake (2022) SD CZ Titulky](https://prehraj.to/20-0-megaquake-2022-sd-cz-titulky-mp4/8f0322e0a9504d0b) (ID 29295641) | [Sdílej 34760691](https://sdilej.cz/34760691/20.0-megaquake-2022-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:08:21.855247+00:00 |
 | [200 metrů (2020) 1080p CZ Titulky](https://prehraj.to/200-metru-2020-1080p-cz-titulky-mp4/3affe035c9175021) (ID 30040571) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.188772+00:00 |
 | [2000 Meters to Andriivka (2025) 1080p CZ Titulky](https://prehraj.to/2000-meters-to-andriivka-2025-1080p-cz-titulky-mkv/5fb4a9c09b1986ee) (ID 31372438) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201891+00:00 |
 | [2001 maniaků: Pole vřískotu (2010) SD CZ Titulky](https://prehraj.to/2001-maniaku-pole-vriskotu-2010-sd-cz-titulky-avi/d580cd8d56aba3bb) (ID 31373335) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.202059+00:00 |
