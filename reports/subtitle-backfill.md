@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:06:01.792474+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:06:08.812983+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -1923,7 +1923,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Red Sundown (1956) SD CZ Titulky](https://prehraj.to/red-sundown-1956-sd-cz-titulky-mp4/db854b4e32c50c82) (ID 30115522) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.004599+00:00 |
 | [Red Woods (2021) SD CZ Titulky](https://prehraj.to/red-woods-2021-sd-cz-titulky-mp4/66326bc156947b51) (ID 30934039) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.013170+00:00 |
 | [Redcon-1 (2018) 720p CZ Titulky](https://prehraj.to/redcon-1-2018-720p-cz-titulky-mp4/f050c95e92fa3009) (ID 30417986) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.007330+00:00 |
-| [Redirected (2014) SD CZ Titulky](https://prehraj.to/redirected-2014-sd-cz-titulky-mp4/302149a0416e5a25) (ID 29283932) | [Sdílej 34776264](https://sdilej.cz/34776264/redirected-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:35:25.081380+00:00 |
+| [Redirected (2014) SD CZ Titulky](https://prehraj.to/redirected-2014-sd-cz-titulky-mp4/302149a0416e5a25) (ID 29283932) | [Sdílej 34776264](https://sdilej.cz/34776264/redirected-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:06:08.812877+00:00 |
 | [Redux Redux (2025) 1080p CZ Titulky](https://prehraj.to/redux-redux-2025-1080p-cz-titulky-mkv/f2d79666d1193147) (ID 30999567) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.014266+00:00 |
 | [Reign of Assassins (2010) SD CZ Titulky](https://prehraj.to/reign-of-assassins-2010-sd-cz-titulky-mp4/82eb7e08ec058394) (ID 29883206) | [Sdílej 34780507](https://sdilej.cz/34780507/reign-of-assassins-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:03:48.975672+00:00 |
 | [Relationship Goals (2026) 1080p CZ Titulky](https://prehraj.to/relationship-goals-2026-1080p-cz-titulky-mp4/c67aadcf7258f4d3) (ID 29660359) | [Sdílej 33219138](https://sdilej.cz/33219138/relationship-goals-2026-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:19:42.579130+00:00 |
