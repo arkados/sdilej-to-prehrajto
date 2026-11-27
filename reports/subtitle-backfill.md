@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:21:52.267641+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:22:28.284198+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -1528,7 +1528,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Na hraně demokracie (2019) 1080p CZ Titulky](https://prehraj.to/na-hrane-demokracie-2019-1080p-cz-titulky-mp4/acd0b3e435da76d1) (ID 29318402) | [Sdílej 34734103](https://sdilej.cz/34734103/na-hrane-demokracie-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:13:58.403694+00:00 |
 | [Na krásném modrém Dunaji (1994) SD CZ Titulky](https://prehraj.to/na-krasnem-modrem-dunaji-1994-sd-cz-titulky-mkv/e45dec6951c76f95) (ID 29699304) | [Sdílej 33871018](https://sdilej.cz/33871018/1994-na-krasnom-modrom-dunaji.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:29:36.959663+00:00 |
 | [Na plný pecky (1995) 1080p CZ Titulky](https://prehraj.to/na-plny-pecky-1995-1080p-cz-titulky-mp4/40c79ca6701122e2) (ID 31223197) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201202+00:00 |
-| [Na západní frontě klid (1930) 1080p CZ Titulky](https://prehraj.to/na-zapadni-fronte-klid-1930-1080p-cz-titulky-avi/aabec1924f51d3ce) (ID 29154528) | [Sdílej 29049675](https://sdilej.cz/29049675/01-na-zapadnom-fronte-klud-1930-cz-titulky-ocik.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:21:15.085025+00:00 |
+| [Na západní frontě klid (1930) 1080p CZ Titulky](https://prehraj.to/na-zapadni-fronte-klid-1930-1080p-cz-titulky-avi/aabec1924f51d3ce) (ID 29154528) | [Sdílej 29049675](https://sdilej.cz/29049675/01-na-zapadnom-fronte-klud-1930-cz-titulky-ocik.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:22:28.284079+00:00 |
 | [Nad vodou (2021) SD CZ Titulky](https://prehraj.to/nad-vodou-2021-sd-cz-titulky-mp4/7906d878318d17f3) (ID 31232227) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201279+00:00 |
 | [Nadosmrti (2021) SD CZ Titulky](https://prehraj.to/nadosmrti-2021-1080p-cz-dabing-mkv/6bc2ea6337ee9201) (ID 30526991) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.193089+00:00 |
 | [Nafukovací panna (2009) SD CZ Titulky](https://prehraj.to/nafukovaci-panna-2009-sd-cz-titulky-mp4/4810f16486c8df61) (ID 29511400) | [Sdílej 34911804](https://sdilej.cz/34911804/nafukovaci-panna-du-na-bae-arata-iura-2009-drama-fantasy-romanticky-bdrip.1080p.-jpn-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:34:50.945674+00:00 |
