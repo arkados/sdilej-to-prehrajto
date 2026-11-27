@@ -397464,16 +397464,6 @@
     "10996": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "empty_reason": "media_rejected",
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-26T22:33:12.149642+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -397489,6 +397479,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-27T09:44:10.610810+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-11-27T16:16:41.906150+00:00"
         }
       ]
     },
@@ -730506,5 +730503,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-27T16:13:42.378340+00:00"
+  "updated_at": "2026-11-27T16:16:41.906169+00:00"
 }
