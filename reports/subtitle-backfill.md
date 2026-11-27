@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:00:05.085854+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:00:18.535759+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -342,7 +342,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Brotherhood (2010) SD CZ Titulky](https://prehraj.to/brotherhood-2010-sd-cz-titulky-mp4/deed6f1ab30e2613) (ID 29269524) | [Sdílej 34780698](https://sdilej.cz/34780698/brotherhood-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:32:32.162056+00:00 |
 | [Brotherhood of Blades II: The Infernal Battlefield (2017) 1080p CZ Titulky](https://prehraj.to/brotherhood-of-blades-ii-the-infernal-battlefield-2017-1080p-cz-titulky-mkv/1ad1affb3d364356) (ID 30912324) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.012428+00:00 |
 | [Brutální město (1970) 720p CZ Titulky](https://prehraj.to/brutalni-mesto-1970-720p-cz-titulky-mp4/4853541e2c1bed72) (ID 30944129) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.013471+00:00 |
-| [Brána do záhrobí (1981) SD CZ Titulky](https://prehraj.to/brana-do-zahrobi-1981-sd-cz-titulky-avi/8cd1f70d5174eeee) (ID 29240551) | [Sdílej 33652395](https://sdilej.cz/33652395/the-beyond-brana-do-zahrobi-1981-horor-usa-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:29:13.001122+00:00 |
+| [Brána do záhrobí (1981) SD CZ Titulky](https://prehraj.to/brana-do-zahrobi-1981-sd-cz-titulky-avi/8cd1f70d5174eeee) (ID 29240551) | [Sdílej 33652395](https://sdilej.cz/33652395/the-beyond-brana-do-zahrobi-1981-horor-usa-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:00:18.535657+00:00 |
 | [Bráška (2019) 1080p CZ Titulky](https://prehraj.to/braska-2019-1080p-cz-titulky-mkv/984563bed19f01cc) (ID 29721471) | [Sdílej 12666589](https://sdilej.cz/12666589/mon-frere-brother.2019.french.1080p.webrip.x264-sp0utn1k-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:22.026712+00:00 |
 | [Buffalo Boys (2018) SD CZ Titulky](https://prehraj.to/buffalo-boys-2018-sd-cz-titulky-avi/7c13973e672a94d2) (ID 30729789) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.010110+00:00 |
 | [Bull (2021) 1080p CZ Titulky](https://prehraj.to/bull-2021-1080p-cz-titulky-avi/a4431a3359dcf183) (ID 30956668) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.013715+00:00 |
