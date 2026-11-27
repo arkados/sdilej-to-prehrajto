@@ -332912,13 +332912,6 @@
           "permanent": false,
           "source_id": "28647514",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-27T10:20:09.089723+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28647514",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:25:33.341985+00:00"
         },
         {
@@ -332927,18 +332920,19 @@
           "source_id": "28647514",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T11:26:24.623120+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28647514",
+          "target_video_id": "31472502",
+          "permanent": false,
+          "attempted_at": "2026-11-27T16:41:55.593498+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28647514",
         "display_name": "Fighter (2024) 1080p CZ Titulky",
         "planned_at": "2026-11-27T15:44:12.022621+00:00"
-      },
-      "claim": {
-        "worker_id": "7779644febd049c1b55d96e258b73d5d-shard-0",
-        "claimed_at": "2026-11-27T16:26:24.123768+00:00",
-        "lease_expires_at": "2026-11-27T22:26:24.123768+00:00",
-        "run_id": "45985596298"
       },
       "previous_target_id": "31472502",
       "prepared": {
@@ -456304,5 +456298,5 @@
       }
     }
   },
-  "updated_at": "2026-11-27T16:27:21.041100+00:00"
+  "updated_at": "2026-11-27T16:41:55.593515+00:00"
 }
