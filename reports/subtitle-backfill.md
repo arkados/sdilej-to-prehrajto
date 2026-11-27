@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:27:17.804372+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:27:26.832108+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -2726,7 +2726,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Yaara (2020) 720p CZ Titulky](https://prehraj.to/yaara-2020-720p-cz-titulky-mp4/f14a0fac92ab531a) (ID 29936917) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.494772+00:00 |
 | [Yakuza Princess (2021) 1080p CZ Titulky](https://prehraj.to/yakuza-princess-2021-1080p-cz-titulky-mp4/2b9a55d943aab8a1) (ID 30957440) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.500677+00:00 |
 | [Yao (2019) SD CZ Titulky](https://prehraj.to/yao-2019-sd-cz-titulky-mp4/1547d59a3602c700) (ID 29631456) | [Sdílej 34763000](https://sdilej.cz/34763000/yao-2019-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:04:30.960329+00:00 |
-| [Yojimbo (1961) 1080p CZ Titulky](https://prehraj.to/yojimbo-1961-1080p-cz-titulky-mkv/b69ef8a5565e239e) (ID 29206671) | [Sdílej 29080724](https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:25:00.047725+00:00 |
+| [Yojimbo (1961) 1080p CZ Titulky](https://prehraj.to/yojimbo-1961-1080p-cz-titulky-mkv/b69ef8a5565e239e) (ID 29206671) | [Sdílej 29080724](https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:27:26.831974+00:00 |
 | [Yong shì (2016) SD CZ Titulky](https://prehraj.to/yong-shi-2016-sd-cz-titulky-mp4/7bed2760b20ceb41) (ID 29701775) | [Sdílej 34737582](https://sdilej.cz/34737582/yong-sh-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:29:45.491313+00:00 |
 | [You Get Me (2017) SD CZ Titulky](https://prehraj.to/you-get-me-2017-sd-cz-titulky-avi/846c72e0593ae4b8) (ID 29907348) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.493473+00:00 |
 | [You'll Never Find Me (2023) 1080p CZ Titulky](https://prehraj.to/you-ll-never-find-me-2023-1080p-cz-titulky-mkv/7c2298675f6eef2f) (ID 31345108) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.503721+00:00 |
