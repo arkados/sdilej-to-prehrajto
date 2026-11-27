@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:29:39.314978+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:29:46.230139+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -2318,7 +2318,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Call Up (2016) SD CZ Titulky](https://prehraj.to/the-call-up-2016-sd-cz-titulky-avi/a600fb4c9c2664b8) (ID 30870703) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498633+00:00 |
 | [The Calm Beyond (2020) 1080p CZ Titulky](https://prehraj.to/the-calm-beyond-2020-1080p-cz-titulky-mkv/44e46165cad25c2d) (ID 30718770) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.497985+00:00 |
 | [The Canal (2014) 720p CZ Titulky](https://prehraj.to/the-canal-2014-720p-cz-titulky-avi/57082c185b1c03a7) (ID 29912355) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.493862+00:00 |
-| [The Canyons (2013) 720p CZ Titulky](https://prehraj.to/the-canyons-2013-720p-cz-titulky-mkv/7d16df0f32ed1f6b) (ID 29089664) | [Sdílej 16550507](https://sdilej.cz/16550507/the-canyons-2013-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:27:12.470839+00:00 |
+| [The Canyons (2013) 720p CZ Titulky](https://prehraj.to/the-canyons-2013-720p-cz-titulky-mkv/7d16df0f32ed1f6b) (ID 29089664) | [Sdílej 16550507](https://sdilej.cz/16550507/the-canyons-2013-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:29:46.230021+00:00 |
 | [The Captives (2024) 1080p CZ Titulky](https://prehraj.to/the-captives-2024-1080p-cz-titulky-mkv/533a444dc80e40dd) (ID 29218606) | [Sdílej 29310288](https://sdilej.cz/29310288/the.captives.2024.1080p.x265-slov.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:16.017016+00:00 |
 | [The Car: Road to Revenge (2019) SD CZ Titulky](https://prehraj.to/the-car-road-to-revenge-2019-sd-cz-titulky-avi/ddf9680e4a06a238) (ID 29914720) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.494036+00:00 |
 | [The Carpenter's Son (2025) 1080p CZ Titulky](https://prehraj.to/the-carpenter-s-son-2025-1080p-cz-titulky-mkv/1b5fa5464f787a12) (ID 31424052) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.504802+00:00 |
