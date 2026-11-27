@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:02:45.835038+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:02:54.270719+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -1823,7 +1823,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Povedení strýčkové (1963) 720p CZ Titulky](https://prehraj.to/povedeni-stryckove-1963-720p-cz-titulky-mp4/7e57d63be522d6f1) (ID 29825249) | [Sdílej 34756035](https://sdilej.cz/34756035/povedeni-stryckove-1963-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:01:52.933312+00:00 |
 | [Povolání: kaskadér (1977) SD CZ Titulky](https://prehraj.to/povolani-kaskader-1977-sd-cz-titulky-avi/d94f4bccc8128dbf) (ID 30250322) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.005395+00:00 |
 | [Povstání mrtvých: Konečná hra (2016) 720p CZ Titulky](https://prehraj.to/povstani-mrtvych-konecna-hra-2016-720p-cz-titulky-mp4/b7b10bc8fcfe48ef) (ID 29740133) | [Sdílej 34770373](https://sdilej.cz/34770373/povstani-mrtvych-konecna-hra-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:51:25.210686+00:00 |
-| [Povídky ze záhrobí: Rytíř Démon (1995) 1080p CZ Titulky](https://prehraj.to/povidky-ze-zahrobi-rytir-demon-1995-1080p-cz-titulky-mkv/5852c5e3e3e87f4c) (ID 29264167) | [Sdílej 22562277](https://sdilej.cz/22562277/tales-from-the-crypt-demon-knight-1995-1080p-bluray-x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:31:57.356390+00:00 |
+| [Povídky ze záhrobí: Rytíř Démon (1995) 1080p CZ Titulky](https://prehraj.to/povidky-ze-zahrobi-rytir-demon-1995-1080p-cz-titulky-mkv/5852c5e3e3e87f4c) (ID 29264167) | [Sdílej 22562277](https://sdilej.cz/22562277/tales-from-the-crypt-demon-knight-1995-1080p-bluray-x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:02:54.270599+00:00 |
 | [Powstaniec 1863 (2024) 1080p CZ Titulky](https://prehraj.to/powstaniec-1863-2024-1080p-cz-titulky-mp4/e2875ed4971e84e4) (ID 30152841) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.004747+00:00 |
 | [Pozdravy od vraha (2020) 1080p CZ Titulky](https://prehraj.to/pozdravy-od-vraha-2020-1080p-cz-titulky-mkv/a35ff8afff439a39) (ID 30355232) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.006456+00:00 |
 | [Pozdě na hněv (2016) SD CZ Titulky](https://prehraj.to/pozde-na-hnev-2016-sd-cz-titulky-mp4/ff86476c7956e21d) (ID 31094011) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.015492+00:00 |
