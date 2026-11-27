@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:10:13.178136+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:10:29.214229+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -135,7 +135,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Aniara (2018) 1080p CZ Titulky](https://prehraj.to/aniara-2018-1080p-cz-titulky-mp4/4cbc0c48b03d7365) (ID 30926745) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.198052+00:00 |
 | [Anna a apokalypsa (2017) SD CZ Titulky](https://prehraj.to/anna-a-apokalypsa-2017-sd-cz-titulky-mkv/1537a8f97d3c34d0) (ID 30607220) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.194034+00:00 |
 | [Annette (2021) 1080p CZ Titulky](https://prehraj.to/annette-2021-1080p-cz-titulky-mp4/8f5e9a5d77385877) (ID 29977154) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.188262+00:00 |
-| [Annibale (1959) SD CZ Titulky](https://prehraj.to/annibale-1959-sd-cz-titulky-avi/8a8a85f8351c4d72) (ID 29299547) | [Sdílej 20371535](https://sdilej.cz/20371535/01.-1959-annibale.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:11:25.682079+00:00 |
+| [Annibale (1959) SD CZ Titulky](https://prehraj.to/annibale-1959-sd-cz-titulky-avi/8a8a85f8351c4d72) (ID 29299547) | [Sdílej 20371535](https://sdilej.cz/20371535/01.-1959-annibale.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:10:29.214095+00:00 |
 | [Anon (2018) 1080p CZ Titulky](https://prehraj.to/anon-2018-1080p-cz-titulky-mkv/de048aebe6f6e686) (ID 30348710) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.190943+00:00 |
 | [Another Day of Life (2018) 1080p CZ Titulky](https://prehraj.to/another-day-of-life-2018-1080p-cz-titulky-mp4/7c086e102541ae32) (ID 30886159) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.196917+00:00 |
 | [Another Time (2018) SD CZ Titulky](https://prehraj.to/another-time-2018-sd-cz-titulky-avi/c49c40380972a8a0) (ID 30353621) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.191026+00:00 |
