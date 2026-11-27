@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:12:26.176455+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:12:33.289140+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -24,7 +24,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [12 Rounds 3: Lockdown (2015) 720p CZ Titulky](https://prehraj.to/12-rounds-3-lockdown-2015-720p-cz-titulky-mkv/66069feabd44fdf0) (ID 30772835) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.195655+00:00 |
 | [12 vánočních dárků (2015) 1080p CZ Titulky](https://prehraj.to/12-vanocnich-darku-2015-1080p-cz-titulky-mp4/5511b3bebf5300cb) (ID 30589503) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.193857+00:00 |
 | [12th Fail (2023) 1080p CZ Titulky](https://prehraj.to/12th-fail-2023-1080p-cz-titulky-mkv/a085d8774bcad9a5) (ID 28915304) | [Sdílej 27689267](https://sdilej.cz/27689267/12th-fail-2023-cz-titulky-hd-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:08.156615+00:00 |
-| [18 dárků (2020) 1080p CZ Titulky](https://prehraj.to/18-darku-2020-1080p-cz-titulky-mkv/67b3dcaebf0ffeef) (ID 29311505) | [Sdílej 17592772](https://sdilej.cz/17592772/18-darku-18-presents-2020-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:13:08.702579+00:00 |
+| [18 dárků (2020) 1080p CZ Titulky](https://prehraj.to/18-darku-2020-1080p-cz-titulky-mkv/67b3dcaebf0ffeef) (ID 29311505) | [Sdílej 17592772](https://sdilej.cz/17592772/18-darku-18-presents-2020-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:12:33.289024+00:00 |
 | [18. růže (2026) 1080p CZ Titulky](https://prehraj.to/18-ruze-2026-1080p-cz-titulky-mp4/e5c029f729d2e02d) (ID 29218776) | [Sdílej 34715175](https://sdilej.cz/34715175/18.-ruze-2026-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:05:19.349055+00:00 |
 | [1922 (2017) 720p CZ Titulky](https://prehraj.to/1922-2017-720p-cz-titulky-avi/31309e7ef78ffaa2) (ID 31372845) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201973+00:00 |
 | [1944 (2015) 1080p CZ Titulky](https://prehraj.to/1944-2015-1080p-cz-titulky-mkv/6d2665fe263975fd) (ID 31372279) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201859+00:00 |
