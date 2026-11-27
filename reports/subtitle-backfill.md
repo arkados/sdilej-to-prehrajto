@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T10:59:28.594999+00:00
+Poslední aktualizace (UTC): 2026-11-27T10:59:36.075724+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -456,7 +456,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Creation Stories (2021) 1080p CZ Titulky](https://prehraj.to/creation-stories-2021-1080p-cz-titulky-mkv/f894dca557a5f133) (ID 29375643) | [Sdílej 18049678](https://sdilej.cz/18049678/creation-stories-2021-1080p-web-dl-dd5-1-h-264-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:24:01.427708+00:00 |
 | [Creation of the Gods I: Kingdom of Storms (2023) 1080p CZ Titulky](https://prehraj.to/creation-of-the-gods-i-kingdom-of-storms-2023-1080p-cz-titulky-mp4/1c5bd848f28ba74b) (ID 30171813) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.004893+00:00 |
 | [Creep 2 (2017) 1080p CZ Titulky](https://prehraj.to/creep-2-2017-1080p-cz-titulky-mkv/4a1b4784a92348d3) (ID 30280221) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.005707+00:00 |
-| [Crocodile Island (2020) SD CZ Titulky](https://prehraj.to/crocodile-island-2020-sd-cz-titulky-mp4/5100b5eb67c6d547) (ID 29238075) | [Sdílej 34733274](https://sdilej.cz/34733274/crocodile-island-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:28:34.136432+00:00 |
+| [Crocodile Island (2020) SD CZ Titulky](https://prehraj.to/crocodile-island-2020-sd-cz-titulky-mp4/5100b5eb67c6d547) (ID 29238075) | [Sdílej 34733274](https://sdilej.cz/34733274/crocodile-island-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T10:59:36.075622+00:00 |
 | [Cropsey (2009) 720p CZ Titulky](https://prehraj.to/cropsey-2009-720p-cz-titulky-mp4/4a6145fd13cbe1b0) (ID 29243103) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:05.997669+00:00 |
 | [Cruel Jaws (1995) SD CZ Titulky](https://prehraj.to/cruel-jaws-1995-sd-cz-titulky-mp4/4124d12654b22c90) (ID 30405793) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.007133+00:00 |
 | [Cry Havoc (2020) SD CZ Titulky](https://prehraj.to/cry-havoc-2020-sd-cz-titulky-avi/aba42ee6bb211499) (ID 31044593) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.015004+00:00 |
