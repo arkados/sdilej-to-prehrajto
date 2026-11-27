@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:34:41.850811+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:34:49.979515+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -870,7 +870,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Gogol. Viy (2018) 1080p CZ Titulky](https://prehraj.to/gogol-viy-2018-1080p-cz-titulky-mp4/198253c026309bd1) (ID 30281304) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.495949+00:00 |
 | [Golgo 13: The Professional (1983) SD CZ Titulky](https://prehraj.to/golgo-13-the-professional-1983-sd-cz-titulky-mp4/3677bd024032f959) (ID 29468434) | [Sdílej 34786864](https://sdilej.cz/34786864/golgo-13-the-professional-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:31:33.558937+00:00 |
 | [Gomora (2008) SD CZ Titulky](https://prehraj.to/gomora-2008-sd-cz-titulky-mp4/b0d8ddb4786c5d0d) (ID 31372522) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.504053+00:00 |
-| [Gonjiam (2018) 1080p CZ Titulky](https://prehraj.to/gonjiam-2018-1080p-cz-titulky-mp4/537b563c84f8d10b) (ID 29234856) | [Sdílej 34737020](https://sdilej.cz/34737020/gonjiam-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:31:47.885368+00:00 |
+| [Gonjiam (2018) 1080p CZ Titulky](https://prehraj.to/gonjiam-2018-1080p-cz-titulky-mp4/537b563c84f8d10b) (ID 29234856) | [Sdílej 34737020](https://sdilej.cz/34737020/gonjiam-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:34:49.979398+00:00 |
 | [Good Boys for Life (2021) 720p CZ Titulky](https://prehraj.to/good-boys-for-life-2021-720p-cz-titulky-mp4/f76f1401a33e85df) (ID 29821305) | [Sdílej 34772914](https://sdilej.cz/34772914/good-boys-for-life-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:01:35.945700+00:00 |
 | [Good Mourning (2022) 1080p CZ Titulky](https://prehraj.to/good-mourning-2022-1080p-cz-titulky-mkv/d885da73a9e7ff22) (ID 29910271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.493681+00:00 |
 | [Good Samaritans (2020) 1080p CZ Titulky](https://prehraj.to/good-samaritans-2020-1080p-cz-titulky-mp4/95ca7cf81626edc5) (ID 29331141) | [Sdílej 34733179](https://sdilej.cz/34733179/good-samaritans-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:16:48.164663+00:00 |
