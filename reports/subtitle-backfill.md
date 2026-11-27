@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:06:08.812983+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:06:16.367658+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -1363,7 +1363,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Magical Mystery Tour (1967) 1080p CZ Titulky](https://prehraj.to/magical-mystery-tour-1967-1080p-cz-titulky-mkv/291af4e052002263) (ID 30774702) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.010617+00:00 |
 | [Maharal – Tajemství talismanu (2007) 1080p CZ Titulky](https://prehraj.to/maharal-tajemstvi-talismanu-2007-1080p-cz-titulky-mp4/d1ccc57aad6f165f) (ID 29825975) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.000584+00:00 |
 | [Mahárádža (2024) 1080p CZ Titulky](https://prehraj.to/maharadza-2024-1080p-cz-titulky-mkv/40444c1d8e4c6ad1) (ID 30578458) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.008878+00:00 |
-| [Maják na konci světa (1971) 720p CZ Titulky](https://prehraj.to/majak-na-konci-sveta-1971-720p-cz-titulky-mp4/76205f28e71023a1) (ID 29284598) | [Sdílej 34755903](https://sdilej.cz/34755903/majak-na-konci-sveta-1971-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:35:32.578152+00:00 |
+| [Maják na konci světa (1971) 720p CZ Titulky](https://prehraj.to/majak-na-konci-sveta-1971-720p-cz-titulky-mp4/76205f28e71023a1) (ID 29284598) | [Sdílej 34755903](https://sdilej.cz/34755903/majak-na-konci-sveta-1971-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:06:16.367528+00:00 |
 | [Maktub (2017) SD CZ Titulky](https://prehraj.to/maktub-2017-sd-cz-titulky-mp4/180183a8c9c32ed3) (ID 29482808) | [Sdílej 34737380](https://sdilej.cz/34737380/maktub-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:32:15.296239+00:00 |
 | [Mal de ojo (2022) 1080p CZ Titulky](https://prehraj.to/mal-de-ojo-2022-1080p-cz-titulky-mkv/cd39d31620eab25e) (ID 30480642) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.008075+00:00 |
 | [Mal de pierres (2016) 720p CZ Titulky](https://prehraj.to/mal-de-pierres-2016-720p-cz-titulky-mkv/0e824b5c9a46cf6c) (ID 30172821) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.004902+00:00 |
