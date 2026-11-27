@@ -25696,13 +25696,6 @@
           "permanent": false,
           "source_id": "17861075",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-27T10:15:14.709212+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "17861075",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:20:32.561865+00:00"
         },
         {
@@ -25711,18 +25704,19 @@
           "source_id": "17861075",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:25:56.622379+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17861075",
+          "target_video_id": "31466303",
+          "permanent": false,
+          "attempted_at": "2026-11-27T12:57:05.578067+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17861075",
         "display_name": "A Bittersweet Life (2005) 1080p CZ Titulky",
         "planned_at": "2026-11-27T11:35:50.012778+00:00"
-      },
-      "claim": {
-        "worker_id": "2e5fe9336e22473fa374f9253fecd662-shard-0",
-        "claimed_at": "2026-11-27T12:25:13.912967+00:00",
-        "lease_expires_at": "2026-11-27T18:25:13.912967+00:00",
-        "run_id": "45985596298"
       },
       "previous_target_id": "31466303",
       "prepared": {
@@ -456188,5 +456182,5 @@
       }
     }
   },
-  "updated_at": "2026-11-27T12:25:45.721606+00:00"
+  "updated_at": "2026-11-27T12:57:05.578084+00:00"
 }
