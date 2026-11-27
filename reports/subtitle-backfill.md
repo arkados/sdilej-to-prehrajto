@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:06:24.715402+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:06:31.978539+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -1560,7 +1560,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Nekrotronic (2018) 1080p CZ Titulky](https://prehraj.to/nekrotronic-2018-1080p-cz-titulky-mp4/f6a79f93d3dfff7e) (ID 29918788) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.002129+00:00 |
 | [Neloučení (2022) 720p CZ Titulky](https://prehraj.to/nelouceni-2022-720p-cz-titulky-avi/20b59060e8623092) (ID 30337572) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.006203+00:00 |
 | [Nemesis (1992) 1080p CZ Titulky](https://prehraj.to/nemesis-1992-1080p-cz-titulky-mp4/c3ceebce1960c2d1) (ID 29931759) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.002812+00:00 |
-| [Nemocnice Parkland (2013) 1080p CZ Titulky](https://prehraj.to/nemocnice-parkland-2013-1080p-cz-titulky-mp4/8473f62b4cbed348) (ID 29284711) | [Sdílej 32945357](https://sdilej.cz/32945357/parkland-2013-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:35:51.665386+00:00 |
+| [Nemocnice Parkland (2013) 1080p CZ Titulky](https://prehraj.to/nemocnice-parkland-2013-1080p-cz-titulky-mp4/8473f62b4cbed348) (ID 29284711) | [Sdílej 32945357](https://sdilej.cz/32945357/parkland-2013-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:06:31.978406+00:00 |
 | [Nemá mě ráda, má mě ráda (2020) 1080p CZ Titulky](https://prehraj.to/nema-me-rada-ma-me-rada-2020-1080p-cz-titulky-mp4/0ba61045c83c4096) (ID 31371518) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.016838+00:00 |
 | [Neohlížej se (1967) 1080p CZ Titulky](https://prehraj.to/neohlizej-se-1967-1080p-cz-titulky-mkv/ba4b5a8652b018da) (ID 29319512) | [Sdílej 33036676](https://sdilej.cz/33036676/1967-dont-look-back-bob-dylan-vostfr-1080p-x264-ac3.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:23.223913+00:00 |
 | [Neomanželka (2022) 1080p CZ Titulky](https://prehraj.to/neomanzelka-2022-1080p-cz-titulky-mkv/e79c3f695516ffde) (ID 29934737) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.002988+00:00 |
