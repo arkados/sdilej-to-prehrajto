@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:04:57.608811+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:05:08.946043+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -1831,7 +1831,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Pozvání (2026) 1440p CZ Titulky](https://prehraj.to/pozvani-2026-1440p-cz-titulky-mkv/9e01221f9a3d4d61) (ID 31027047) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.014524+00:00 |
 | [Požehnání (2021) SD CZ Titulky](https://prehraj.to/pozehnani-2021-sd-cz-titulky-avi/3906a26d23e1f6d3) (ID 29785951) | [Sdílej 24242950](https://sdilej.cz/24242950/benediction.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:59:13.361394+00:00 |
 | [Požár (2021) 1080p CZ Titulky](https://prehraj.to/pozar-2021-1080p-cz-titulky-mkv/4fa9d3649a82e6c2) (ID 30781479) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.010767+00:00 |
-| [Požáry (2010) SD CZ Titulky](https://prehraj.to/pozary-2010-sd-cz-titulky-mkv/b5fb466d02e5e32a) (ID 29278839) | [Sdílej 14010999](https://sdilej.cz/14010999/incendies.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:34:17.881279+00:00 |
+| [Požáry (2010) SD CZ Titulky](https://prehraj.to/pozary-2010-sd-cz-titulky-mkv/b5fb466d02e5e32a) (ID 29278839) | [Sdílej 14010999](https://sdilej.cz/14010999/incendies.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:05:08.945913+00:00 |
 | [Pramen panny (1960) 1080p CZ Titulky](https://prehraj.to/pramen-panny-1960-1080p-cz-titulky-mkv/7e1ce4846d09ed3a) (ID 29179268) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:05.997490+00:00 |
 | [Pravidla hry (1994) SD CZ Titulky](https://prehraj.to/pravidla-hry-1994-sd-cz-titulky-mkv/2dd4a800cc65992d) (ID 29890273) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.000839+00:00 |
 | [Pravědnik (2023) 1080p CZ Titulky](https://prehraj.to/pravednik-2023-1080p-cz-titulky-mkv/0386d8339e2d9545) (ID 29897546) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.000873+00:00 |
