@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:32:12.805524+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:32:25.687371+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -2396,7 +2396,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Line (2007) 1080p CZ Titulky](https://prehraj.to/the-line-2007-1080p-cz-titulky-mp4/68c5ec7951e8d8d6) (ID 31372637) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.504814+00:00 |
 | [The Lodgers (2017) SD CZ Titulky](https://prehraj.to/the-lodgers-2017-sd-cz-titulky-avi/91dc82b5daf82a4f) (ID 29748797) | [Sdílej 10807215](https://sdilej.cz/10807215/the-lovers-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:55:21.408959+00:00 |
 | [The Lost Husband (2020) 1080p CZ Titulky](https://prehraj.to/the-lost-husband-2020-1080p-cz-titulky-mkv/38e16264ad509f9a) (ID 31242142) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.503504+00:00 |
-| [The Maestro (2018) SD CZ Titulky](https://prehraj.to/the-maestro-2018-sd-cz-titulky-avi/03c1a3ede0e1b6dd) (ID 29218312) | [Sdílej 12342158](https://sdilej.cz/12342158/the-maestro-2018-pl.480p.web-dl.xvid.ac3-mors.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:29:38.102091+00:00 |
+| [The Maestro (2018) SD CZ Titulky](https://prehraj.to/the-maestro-2018-sd-cz-titulky-avi/03c1a3ede0e1b6dd) (ID 29218312) | [Sdílej 12342158](https://sdilej.cz/12342158/the-maestro-2018-pl.480p.web-dl.xvid.ac3-mors.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:32:25.687239+00:00 |
 | [The Maid (2020) 1080p CZ Titulky](https://prehraj.to/the-maid-2020-1080p-cz-titulky-mkv/b1fbd7b7041e30ef) (ID 30734852) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498039+00:00 |
 | [The Man from Earth: Holocene (2017) 1080p CZ Titulky](https://prehraj.to/the-man-from-earth-holocene-2017-1080p-cz-titulky-mkv/215184d64ce9ebc3) (ID 30382665) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.496468+00:00 |
 | [The Marine 6: Close Quarters (2018) 1080p CZ Titulky.mkv](https://prehraj.to/the-marine-6-close-quarters-2018-1080p-cz-titulky-mkv/ed4d64590f0eb597) (ID 29657108) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.492741+00:00 |
