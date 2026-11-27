@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:05:08.872951+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:05:19.165834+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -810,7 +810,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Fire and Ice: The Dragon Chronicles (2008) SD CZ Titulky](https://prehraj.to/fire-and-ice-the-dragon-chronicles-2008-sd-cz-titulky-mkv/64f89d65bab96d9a) (ID 29933125) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.187740+00:00 |
 | [Firebird (2021) 1080p CZ Titulky](https://prehraj.to/firebird-2021-1080p-cz-titulky-mp4/44fc0235727198b8) (ID 31028563) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.199627+00:00 |
 | [First Moon (2025) 1080p CZ Titulky](https://prehraj.to/first-moon-2025-1080p-cz-titulky-avi/0cbdf352b48a14da) (ID 29399689) | [Sdílej 32999153](https://sdilej.cz/32999153/first-moon-horor-2025-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:53:24.580006+00:00 |
-| [Fitzcarraldo (1982) 1080p CZ Titulky](https://prehraj.to/fitzcarraldo-1982-1080p-cz-titulky-mkv/1946528ffc83f284) (ID 29290571) | [Sdílej 31003775](https://sdilej.cz/31003775/fitzcarraldo-1982-bluray-1080p-h264-en-dub-sk-subtitles.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:06:52.742539+00:00 |
+| [Fitzcarraldo (1982) 1080p CZ Titulky](https://prehraj.to/fitzcarraldo-1982-1080p-cz-titulky-mkv/1946528ffc83f284) (ID 29290571) | [Sdílej 31003775](https://sdilej.cz/31003775/fitzcarraldo-1982-bluray-1080p-h264-en-dub-sk-subtitles.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:05:19.165734+00:00 |
 | [Five More Minutes (2021) 720p CZ Titulky](https://prehraj.to/five-more-minutes-2021-720p-cz-titulky-mkv/ef1293adaaa23221) (ID 29264769) | [Sdílej 18897937](https://sdilej.cz/18897937/five.more.minutes.2021.720p.hdtv.x264-crimson.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:03:01.683629+00:00 |
 | [Flamin' Hot: Koření úspěchu (2023) SD CZ Titulky](https://prehraj.to/flamin-hot-koreni-uspechu-2023-sd-cz-titulky-avi/3e52bb6f59445a44) (ID 29680006) | [Sdílej 26288113](https://sdilej.cz/26288113/flamin.hot.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:26:30.968863+00:00 |
 | [Flesh and the Spur (1956) 1080p CZ Titulky](https://prehraj.to/flesh-and-the-spur-1956-1080p-cz-titulky-mp4/d8c25e331dcefba2) (ID 29219004) | [Sdílej 34788820](https://sdilej.cz/34788820/flesh-and-the-spur-1956-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:05:33.379208+00:00 |
