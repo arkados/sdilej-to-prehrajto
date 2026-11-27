@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:16:50.874146+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:16:58.476618+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -879,7 +879,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Gonjiam (2018) 1080p CZ Titulky](https://prehraj.to/gonjiam-2018-1080p-cz-titulky-mp4/537b563c84f8d10b) (ID 29234856) | [Sdílej 34737020](https://sdilej.cz/34737020/gonjiam-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:34:49.979398+00:00 |
 | [Good Boys for Life (2021) 720p CZ Titulky](https://prehraj.to/good-boys-for-life-2021-720p-cz-titulky-mp4/f76f1401a33e85df) (ID 29821305) | [Sdílej 34772914](https://sdilej.cz/34772914/good-boys-for-life-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:01:35.945700+00:00 |
 | [Good Mourning (2022) 1080p CZ Titulky](https://prehraj.to/good-mourning-2022-1080p-cz-titulky-mkv/d885da73a9e7ff22) (ID 29910271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.186511+00:00 |
-| [Good Samaritans (2020) 1080p CZ Titulky](https://prehraj.to/good-samaritans-2020-1080p-cz-titulky-mp4/95ca7cf81626edc5) (ID 29331141) | [Sdílej 34733179](https://sdilej.cz/34733179/good-samaritans-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:16:48.164663+00:00 |
+| [Good Samaritans (2020) 1080p CZ Titulky](https://prehraj.to/good-samaritans-2020-1080p-cz-titulky-mp4/95ca7cf81626edc5) (ID 29331141) | [Sdílej 34733179](https://sdilej.cz/34733179/good-samaritans-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:16:58.476495+00:00 |
 | [Goon: Last of the Enforcers (2017) 1080p CZ Titulky](https://prehraj.to/goon-last-of-the-enforcers-2017-1080p-cz-titulky-avi/389f8500bdc202e2) (ID 29922980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.187300+00:00 |
 | [Grande école (2004) SD CZ Titulky](https://prehraj.to/grande-ecole-2004-sd-cz-titulky-mkv/bf868ffd5f25ff4d) (ID 29608294) | [Sdílej 31089246](https://sdilej.cz/31089246/grande-ecole-2004-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:48:17.767959+00:00 |
 | [Grave (2017) 1080p CZ Titulky](https://prehraj.to/grave-2017-1080p-cz-titulky-avi/00dd36044bfb25c5) (ID 30779368) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.195872+00:00 |
