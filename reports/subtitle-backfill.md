@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:04:23.972831+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:04:31.067944+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -1865,7 +1865,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Pulimurugan (2016) SD CZ Titulky](https://prehraj.to/pulimurugan-2016-sd-cz-titulky-mp4/0327beb977ddf904) (ID 30163251) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.004824+00:00 |
 | [Punk's Not Dead (2007) SD CZ Titulky](https://prehraj.to/punk-s-not-dead-2007-sd-cz-titulky-mp4/cb80e6b635a09073) (ID 31360070) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.016725+00:00 |
 | [Puppet Master XI: Axis Termination (2017) 1080p CZ Titulky](https://prehraj.to/puppet-master-xi-axis-termination-2017-1080p-cz-titulky-mp4/e0898a9b840c9764) (ID 29706614) | [Sdílej 34768888](https://sdilej.cz/34768888/puppet-master-xi-axis-termination-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:30:51.202113+00:00 |
-| [Puppet Master: Doktor Death (2022) 1080p CZ Titulky](https://prehraj.to/puppet-master-doktor-death-2022-1080p-cz-titulky-mp4/f96b53f6923b5273) (ID 29273117) | [Sdílej 34726876](https://sdilej.cz/34726876/puppet-master-doktor-death-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:33:45.346165+00:00 |
+| [Puppet Master: Doktor Death (2022) 1080p CZ Titulky](https://prehraj.to/puppet-master-doktor-death-2022-1080p-cz-titulky-mp4/f96b53f6923b5273) (ID 29273117) | [Sdílej 34726876](https://sdilej.cz/34726876/puppet-master-doktor-death-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:04:31.067833+00:00 |
 | [Puppet Master: The Littlest Reich (2018) 1080p CZ Titulky](https://prehraj.to/puppet-master-the-littlest-reich-2018-1080p-cz-titulky-mkv/a57b7439b43281ac) (ID 29915284) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.001869+00:00 |
 | [Purgatorio (2014) SD CZ Titulky](https://prehraj.to/purgatorio-2014-sd-cz-titulky-avi/2566cf23ca7f8161) (ID 30931666) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.013105+00:00 |
 | [PussyCake (2021) 720p CZ Titulky](https://prehraj.to/pussycake-2021-720p-cz-titulky-mp4/a5b6bce0ee499820) (ID 30926666) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.012905+00:00 |
