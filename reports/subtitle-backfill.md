@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:05:19.165834+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:05:26.737284+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -274,7 +274,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Bitkař (2022) 720p CZ Titulky](https://prehraj.to/bitkar-2022-720p-cz-titulky-mkv/22f2761bf267a8e3) (ID 31353523) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201648+00:00 |
 | [Bitter Harvest (2017) 1080p CZ Titulky](https://prehraj.to/bitter-harvest-2017-1080p-cz-titulky-mkv/b1ba9644a89bd450) (ID 30480407) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.192737+00:00 |
 | [Bitva kuchařů (2017) 720p CZ Titulky](https://prehraj.to/bitva-kucharu-2017-720p-cz-titulky-mp4/0e7cd421b93b6de5) (ID 29372608) | [Sdílej 34711958](https://sdilej.cz/34711958/bitva-kucharu-2017-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:23:20.813281+00:00 |
-| [Bitva o Alžír (1966) SD CZ Titulky](https://prehraj.to/bitva-o-alzir-1966-sd-cz-titulky-mp4/e6fc8f9040d48a35) (ID 29290572) | [Sdílej 34700110](https://sdilej.cz/34700110/bitva-o-alzir-1966-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:07:00.245269+00:00 |
+| [Bitva o Alžír (1966) SD CZ Titulky](https://prehraj.to/bitva-o-alzir-1966-sd-cz-titulky-mp4/e6fc8f9040d48a35) (ID 29290572) | [Sdílej 34700110](https://sdilej.cz/34700110/bitva-o-alzir-1966-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:05:26.737162+00:00 |
 | [Bizet: Carmen (2015) 1080p CZ Titulky](https://prehraj.to/bizet-carmen-2015-1080p-cz-titulky-mp4/d9c2658673f8320c) (ID 30857049) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.196237+00:00 |
 | [Black '47 (2018) 720p CZ Titulky](https://prehraj.to/black-47-2018-720p-cz-titulky-avi/4da72eccce06e65f) (ID 29659387) | [Sdílej 28507849](https://sdilej.cz/28507849/black-47-hugo-weaving-james-frecheville-stephen-rea-2018-drama-bdrip.-1080p.-en-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:19:19.546699+00:00 |
 | [Black Lotus (2023) 1080p CZ Titulky](https://prehraj.to/black-lotus-2023-1080p-cz-titulky-mkv/c9358b17d38f9585) (ID 29935298) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.187850+00:00 |
