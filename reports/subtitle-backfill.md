@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:32:36.098519+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:32:44.325072+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -2236,7 +2236,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Svátky na návsi s Dolly Parton (2020) 1080p CZ Titulky](https://prehraj.to/svatky-na-navsi-s-dolly-parton-2020-1080p-cz-titulky-mp4/e54627938dcf2687) (ID 29707261) | [Sdílej 34709164](https://sdilej.cz/34709164/svatky-na-navsi-s-dolly-parton-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:31:36.897852+00:00 |
 | [Světla páteční noci (2004) 1080p CZ Titulky](https://prehraj.to/svetla-patecni-noci-2004-1080p-cz-titulky-mkv/85fd296b21b6d483) (ID 30949957) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.500482+00:00 |
 | [Svůdce (2017) SD CZ Titulky](https://prehraj.to/svudce-2017-sd-cz-titulky-mkv/ee2ece5afb3c945f) (ID 30925834) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.499654+00:00 |
-| [Swannova láska (1984) 1080p CZ Titulky](https://prehraj.to/swannova-laska-1984-1080p-cz-titulky-mp4/dfb4fc447336e490) (ID 29219295) | [Sdílej 34755529](https://sdilej.cz/34755529/swannova-laska-1984-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:29:53.145049+00:00 |
+| [Swannova láska (1984) 1080p CZ Titulky](https://prehraj.to/swannova-laska-1984-1080p-cz-titulky-mp4/dfb4fc447336e490) (ID 29219295) | [Sdílej 34755529](https://sdilej.cz/34755529/swannova-laska-1984-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:32:44.324951+00:00 |
 | [Sweet Home (2015) SD CZ Titulky](https://prehraj.to/sweet-home-2015-sd-cz-titulky-avi/c3fc72fb2779159f) (ID 30863281) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498536+00:00 |
 | [Sweet Virginia (2017) 1080p CZ Titulky](https://prehraj.to/sweet-virginia-2017-1080p-cz-titulky-mkv/06a8c4ca907e4511) (ID 31039056) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.501857+00:00 |
 | [Sweetheart (2019) 720p CZ Titulky](https://prehraj.to/sweetheart-2019-720p-cz-titulky-mp4/fc8d34ce98c0dae4) (ID 29909865) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.493665+00:00 |
