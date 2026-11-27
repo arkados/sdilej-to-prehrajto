@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:12:33.289140+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:12:41.231954+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -2475,7 +2475,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [The Stylist (2020) 1080p CZ Titulky](https://prehraj.to/the-stylist-2020-1080p-cz-titulky-mkv/1371b7ec35309029) (ID 30350714) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.190978+00:00 |
 | [The Surfer (2024) 1080p CZ Titulky](https://prehraj.to/the-surfer-2024-1080p-cz-titulky-mkv/4460dc700fbc6099) (ID 29655492) | [Sdílej 31261007](https://sdilej.cz/31261007/the-surfer-2024-1080p-amzn-web-dl-ddp5-1-h-264-byndr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:31.470395+00:00 |
 | [The System (2022) 1080p CZ Titulky](https://prehraj.to/the-system-2022-1080p-cz-titulky-mkv/c91db76e90c6d73e) (ID 29931022) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.187649+00:00 |
-| [The Thing About Harry (2020) 1080p CZ Titulky](https://prehraj.to/the-thing-about-harry-2020-1080p-cz-titulky-mp4/7341127c06376772) (ID 29312064) | [Sdílej 34731938](https://sdilej.cz/34731938/the-thing-about-harry-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:13:15.663674+00:00 |
+| [The Thing About Harry (2020) 1080p CZ Titulky](https://prehraj.to/the-thing-about-harry-2020-1080p-cz-titulky-mp4/7341127c06376772) (ID 29312064) | [Sdílej 34731938](https://sdilej.cz/34731938/the-thing-about-harry-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:12:41.231837+00:00 |
 | [The Thinning (2016) 720p CZ Titulky](https://prehraj.to/the-thinning-2016-720p-cz-titulky-mkv/05d1529cf2e7249f) (ID 30372039) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.191281+00:00 |
 | [The Thinning: New World Order (2018) 720p CZ Titulky](https://prehraj.to/the-thinning-new-world-order-2018-720p-cz-titulky-mkv/42e2842ce41af980) (ID 30390971) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.191513+00:00 |
 | [The Tiger's Apprentice (2024) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29014670) | [Sdílej 31010185](https://sdilej.cz/31010185/the.tiger-s.apprentice.web-dl.en.5.1.titulky.cz.sk.2024.1080p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-27T11:09:26.663145+00:00 |
