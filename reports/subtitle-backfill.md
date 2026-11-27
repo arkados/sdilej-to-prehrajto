@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:19:08.318210+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:19:21.091936+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -65,7 +65,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [A Patriot's Day (2021) 1080p CZ Titulky](https://prehraj.to/a-patriot-s-day-2021-1080p-cz-titulky-mp4/7acf9da276fbb6e1) (ID 31376631) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.202153+00:00 |
 | [A Perfect Ending (2012) 1080p CZ Titulky](https://prehraj.to/a-perfect-ending-2012-1080p-cz-titulky-mp4/6656d2e8d8d54a83) (ID 29657911) | [Sdílej 34745399](https://sdilej.cz/34745399/a-perfect-ending-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:18:14.533691+00:00 |
 | [A Reckoning (2018) SD CZ Titulky](https://prehraj.to/a-reckoning-2018-sd-cz-titulky-avi/d75948e208d6befe) (ID 30248956) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.190007+00:00 |
-| [A Tale of Two Sisters (2003) 1080p CZ Titulky](https://prehraj.to/a-tale-of-two-sisters-2003-1080p-cz-titulky-mp4/58cd01dd7d22aa69) (ID 29347293) | [Sdílej 34751427](https://sdilej.cz/34751427/a-tale-of-two-sisters-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:18:41.134450+00:00 |
+| [A Tale of Two Sisters (2003) 1080p CZ Titulky](https://prehraj.to/a-tale-of-two-sisters-2003-1080p-cz-titulky-mp4/58cd01dd7d22aa69) (ID 29347293) | [Sdílej 34751427](https://sdilej.cz/34751427/a-tale-of-two-sisters-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:19:21.091815+00:00 |
 | [A Thursday (2022) 1080p CZ Titulky](https://prehraj.to/a-thursday-2022-1080p-cz-titulky-mp4/3a105b2b69da9af2) (ID 29581823) | [Sdílej 34727718](https://sdilej.cz/34727718/a-thursday-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:50:15.646921+00:00 |
 | [A Walk in the Woods (2015) 1080p CZ Titulky](https://prehraj.to/a-walk-in-the-woods-2015-1080p-cz-titulky-mkv/237e61ce5949dcf7) (ID 30278438) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.190266+00:00 |
 | [A Wounded Fawn (2022) 1080p CZ Titulky](https://prehraj.to/a-wounded-fawn-2022-1080p-cz-titulky-mp4/acd130887ad7079b) (ID 29697077) | [Sdílej 34772398](https://sdilej.cz/34772398/a-wounded-fawn-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:29:16.598101+00:00 |
