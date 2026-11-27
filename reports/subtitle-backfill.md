@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:26:07.428070+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:26:19.381509+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -2343,7 +2343,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Dark (2018) 4K CZ Titulky](https://prehraj.to/the-dark-2018-4k-cz-titulky-mkv/4ec95b593d9c0936) (ID 29924355) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.494479+00:00 |
 | [The Dark and the Wicked (2020) 1080p CZ Titulky](https://prehraj.to/the-dark-and-the-wicked-2020-1080p-cz-titulky-mkv/b2ba9b08af8deb84) (ID 30740614) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498083+00:00 |
 | [The Dawn (2019) 1080p CZ Titulky](https://prehraj.to/the-dawn-2019-1080p-cz-titulky-mp4/46b6a19323059a3e) (ID 30758818) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498173+00:00 |
-| [The Dawn Wall (2017) 720p CZ Titulky](https://prehraj.to/the-dawn-wall-2017-720p-cz-titulky-mkv/8de58cc0281cb6c9) (ID 29181025) | [Sdílej 10898857](https://sdilej.cz/10898857/the.dawn.wall.2017.720p.bluray.x264-cadaver.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:23:51.369251+00:00 |
+| [The Dawn Wall (2017) 720p CZ Titulky](https://prehraj.to/the-dawn-wall-2017-720p-cz-titulky-mkv/8de58cc0281cb6c9) (ID 29181025) | [Sdílej 10898857](https://sdilej.cz/10898857/the.dawn.wall.2017.720p.bluray.x264-cadaver.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:26:19.381390+00:00 |
 | [The Dawnseeker (2018) SD CZ Titulky](https://prehraj.to/the-dawnseeker-2018-sd-cz-titulky-avi/421d7bdc1b9b79a7) (ID 30911664) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.499175+00:00 |
 | [The Death of Superman (2018) SD CZ Titulky](https://prehraj.to/the-death-of-superman-2018-sd-cz-titulky-mkv/0925d62c1003e89e) (ID 30491330) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.497138+00:00 |
 | [The Den (2013) SD CZ Titulky](https://prehraj.to/the-den-2013-sd-cz-titulky-avi/ed587265a2987826) (ID 29642468) | [Sdílej 34453340](https://sdilej.cz/34453340/the-den.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:09:58.908125+00:00 |
