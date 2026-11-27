@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:08:52.218121+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:08:59.762177+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -1394,7 +1394,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Maneater (2022) SD CZ Titulky](https://prehraj.to/maneater-2022-sd-cz-titulky-avi/a32df1b386b14f61) (ID 30636959) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.194449+00:00 |
 | [Manhunt (2017) SD CZ Titulky](https://prehraj.to/manhunt-2017-sd-cz-titulky-mp4/492e172d52bf5783) (ID 29968850) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.188186+00:00 |
 | [Maniak (1980) SD CZ Titulky](https://prehraj.to/maniak-1980-sd-cz-titulky-avi/b3e9b69bca18e1a4) (ID 30954260) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.198736+00:00 |
-| [Manjhi: The Mountain Man (2015) SD CZ Titulky](https://prehraj.to/manjhi-the-mountain-man-2015-sd-cz-titulky-mp4/3a69b793febdcf32) (ID 29296437) | [Sdílej 34775915](https://sdilej.cz/34775915/manjhi-the-mountain-man-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:10:01.857946+00:00 |
+| [Manjhi: The Mountain Man (2015) SD CZ Titulky](https://prehraj.to/manjhi-the-mountain-man-2015-sd-cz-titulky-mp4/3a69b793febdcf32) (ID 29296437) | [Sdílej 34775915](https://sdilej.cz/34775915/manjhi-the-mountain-man-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:08:59.762070+00:00 |
 | [Manyeo (2018) SD CZ Titulky](https://prehraj.to/manyeo-2018-sd-cz-titulky-avi/96cde4085ad349f1) (ID 29344325) | [Sdílej 11387846](https://sdilej.cz/11387846/manyeo-2018-cz-titulky-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:18:31.895339+00:00 |
 | [Manželská lest (2014) 1080p CZ Titulky](https://prehraj.to/manzelska-lest-2014-1080p-cz-titulky-mp4/b89916621d95db10) (ID 31331233) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201566+00:00 |
 | [Manželství na body (2022) 1080p CZ Titulky](https://prehraj.to/manzelstvi-na-body-2022-1080p-cz-titulky-mp4/341af2b84b0e7b8a) (ID 29614088) | [Sdílej 34727082](https://sdilej.cz/34727082/manzelstvi-na-body-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:02:26.900785+00:00 |
