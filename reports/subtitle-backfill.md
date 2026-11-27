@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:13:50.039937+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:13:58.403813+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -1525,7 +1525,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Na Vánoce žádný zázrak (2020) 1080p CZ Titulky](https://prehraj.to/na-vanoce-zadny-zazrak-2020-1080p-cz-titulky-mp4/f56d9c6df66b9089) (ID 29240420) | [Sdílej 34732936](https://sdilej.cz/34732936/na-vanoce-zadny-zazrak-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T10:59:50.393947+00:00 |
 | [Na cestě s mámou (2022) 1080p CZ Titulky](https://prehraj.to/na-ceste-s-mamou-2022-1080p-cz-titulky-mp4/9f8edae81bcdb90a) (ID 29708585) | [Sdílej 32617097](https://sdilej.cz/32617097/na-ceste-s-mamou-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:32:22.830820+00:00 |
 | [Na dlažbě (2016) 1080p CZ Titulky](https://prehraj.to/na-dlazbe-2016-1080p-cz-titulky-mkv/d56b4ff71bec9e66) (ID 30625622) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.194295+00:00 |
-| [Na hraně demokracie (2019) 1080p CZ Titulky](https://prehraj.to/na-hrane-demokracie-2019-1080p-cz-titulky-mp4/acd0b3e435da76d1) (ID 29318402) | [Sdílej 34734103](https://sdilej.cz/34734103/na-hrane-demokracie-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:14:15.795528+00:00 |
+| [Na hraně demokracie (2019) 1080p CZ Titulky](https://prehraj.to/na-hrane-demokracie-2019-1080p-cz-titulky-mp4/acd0b3e435da76d1) (ID 29318402) | [Sdílej 34734103](https://sdilej.cz/34734103/na-hrane-demokracie-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:13:58.403694+00:00 |
 | [Na krásném modrém Dunaji (1994) SD CZ Titulky](https://prehraj.to/na-krasnem-modrem-dunaji-1994-sd-cz-titulky-mkv/e45dec6951c76f95) (ID 29699304) | [Sdílej 33871018](https://sdilej.cz/33871018/1994-na-krasnom-modrom-dunaji.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:29:36.959663+00:00 |
 | [Na plný pecky (1995) 1080p CZ Titulky](https://prehraj.to/na-plny-pecky-1995-1080p-cz-titulky-mp4/40c79ca6701122e2) (ID 31223197) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201202+00:00 |
 | [Na západní frontě klid (1930) 1080p CZ Titulky](https://prehraj.to/na-zapadni-fronte-klid-1930-1080p-cz-titulky-avi/aabec1924f51d3ce) (ID 29154528) | [Sdílej 29049675](https://sdilej.cz/29049675/01-na-zapadnom-fronte-klud-1930-cz-titulky-ocik.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:21:15.085025+00:00 |
