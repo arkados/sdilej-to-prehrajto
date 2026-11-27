@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:22:42.632984+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:23:01.905368+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -1503,7 +1503,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [My Bodyguard (1980) SD CZ Titulky](https://prehraj.to/my-bodyguard-1980-sd-cz-titulky-mp4/c3be1ac8d9ba7487) (ID 29445263) | [Sdílej 34755746](https://sdilej.cz/34755746/my-bodyguard-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:29:02.702928+00:00 |
 | [My Friend Dahmer (2017) SD CZ Titulky](https://prehraj.to/my-friend-dahmer-2017-sd-cz-titulky-mp4/5791f5124e269ee0) (ID 30674958) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.194696+00:00 |
 | [My Mistress (2014) SD CZ Titulky](https://prehraj.to/my-mistress-2014-sd-cz-titulky-avi/42e5a0668484c4bb) (ID 30618204) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.194198+00:00 |
-| [My Sassy Girl (2001) SD CZ Titulky](https://prehraj.to/my-sassy-girl-2001-sd-cz-titulky-avi/f7af6ee4d43fe8d1) (ID 29209938) | [Sdílej 30978366](https://sdilej.cz/30978366/my-sassy-girl-yeopgijeogin-geunyeo-2001-jk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:21:39.810010+00:00 |
+| [My Sassy Girl (2001) SD CZ Titulky](https://prehraj.to/my-sassy-girl-2001-sd-cz-titulky-avi/f7af6ee4d43fe8d1) (ID 29209938) | [Sdílej 30978366](https://sdilej.cz/30978366/my-sassy-girl-yeopgijeogin-geunyeo-2001-jk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:23:01.905249+00:00 |
 | [My Sister's Bones (2026) 1080p CZ Titulky](https://prehraj.to/my-sister-s-bones-2026-1080p-cz-titulky-mp4/b125f563796287df) (ID 31426051) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.202642+00:00 |
 | [My Soul to Keep (2019) 1080p CZ Titulky](https://prehraj.to/my-soul-to-keep-2019-1080p-cz-titulky-mkv/2d9acfdacc12a194) (ID 29573170) | [Sdílej 12388992](https://sdilej.cz/12388992/my.soul.to.keep.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:35.787012+00:00 |
 | [My Teacher (2017) 720p CZ Titulky](https://prehraj.to/my-teacher-2017-720p-cz-titulky-mkv/e034effed2c3a255) (ID 30562524) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.193387+00:00 |
