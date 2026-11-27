@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:03:50.123199+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:04:00.033817+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -1386,7 +1386,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Malá sokolnice (2016) SD CZ Titulky](https://prehraj.to/mala-sokolnice-2016-sd-cz-titulky-mp4/de055969302a99d6) (ID 31372515) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201901+00:00 |
 | [Malé oslavy (2008) 1080p CZ Titulky](https://prehraj.to/male-oslavy-2008-1080p-cz-titulky-mp4/623a3a1744fe702a) (ID 29721574) | [Sdílej 34781269](https://sdilej.cz/34781269/male-oslavy-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:39:14.444170+00:00 |
 | [Malí muži (2016) 1080p CZ Titulky](https://prehraj.to/mali-muzi-2016-1080p-cz-titulky-mkv/9523294f745f3bde) (ID 30108261) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.189195+00:00 |
-| [Malí obři (1994) 1080p CZ Titulky](https://prehraj.to/mali-obri-1994-1080p-cz-titulky-mkv/a3ff041932b0d07f) (ID 29285452) | [Sdílej 27881060](https://sdilej.cz/27881060/mali-obri-1994-little-giants-web-dl-1080p-h.264-2xcz-en.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:05:42.937459+00:00 |
+| [Malí obři (1994) 1080p CZ Titulky](https://prehraj.to/mali-obri-1994-1080p-cz-titulky-mkv/a3ff041932b0d07f) (ID 29285452) | [Sdílej 27881060](https://sdilej.cz/27881060/mali-obri-1994-little-giants-web-dl-1080p-h.264-2xcz-en.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:04:00.033707+00:00 |
 | [Malířka a zloděj (2020) 1080p CZ Titulky](https://prehraj.to/malirka-a-zlodej-2020-1080p-cz-titulky-mp4/889164df258a0aa2) (ID 31151460) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.200551+00:00 |
 | [Malý mluvka (2021) 720p CZ Titulky](https://prehraj.to/maly-mluvka-2021-720p-cz-titulky-mp4/f364c788c835f9f2) (ID 30809271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.196124+00:00 |
 | [Man Down (2015) 1080p CZ Titulky](https://prehraj.to/man-down-2015-1080p-cz-titulky-mkv/f519cad1c42580be) (ID 30617145) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.194169+00:00 |
