@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:26:26.550855+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:26:35.561811+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -1349,7 +1349,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Láska a hněv (2016) 1080p CZ Titulky](https://prehraj.to/laska-a-hnev-2016-1080p-cz-titulky-mp4/c2360605eece3f71) (ID 30809894) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.196135+00:00 |
 | [Láska a pouta (2022) 1080p CZ Titulky](https://prehraj.to/laska-a-pouta-2022-1080p-cz-titulky-mkv/c2d52bc5223b17e1) (ID 30282882) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.190381+00:00 |
 | [Láska a příšery (2020) 1080p CZ Titulky](https://prehraj.to/laska-a-prisery-2020-1080p-cz-titulky-mkv/a8e03a308cc21308) (ID 30778393) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.195852+00:00 |
-| [Láska mezi regály (2018) 720p CZ Titulky](https://prehraj.to/laska-mezi-regaly-2018-720p-cz-titulky-mkv/caecac1a90fa7d92) (ID 29381478) | [Sdílej 34794807](https://sdilej.cz/34794807/laska.mezi.regaly.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:24:49.215580+00:00 |
+| [Láska mezi regály (2018) 720p CZ Titulky](https://prehraj.to/laska-mezi-regaly-2018-720p-cz-titulky-mkv/caecac1a90fa7d92) (ID 29381478) | [Sdílej 34794807](https://sdilej.cz/34794807/laska.mezi.regaly.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:26:35.561692+00:00 |
 | [Láska, svatba, zas a znova (2020) 1080p CZ Titulky](https://prehraj.to/laska-svatba-zas-a-znova-2020-1080p-cz-titulky-mkv/3e885e8867ee9d9e) (ID 30461558) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.192572+00:00 |
 | [Léto 84 (2018) 1080p CZ Titulky](https://prehraj.to/leto-84-2018-1080p-cz-titulky-mkv/48ea95e9bfb6fef8) (ID 30136200) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.189313+00:00 |
 | [Léto 85 (2020) 720p CZ Titulky](https://prehraj.to/leto-85-2020-720p-cz-titulky-avi/8f498b0623140179) (ID 29749358) | [Sdílej 15347014](https://sdilej.cz/15347014/leto-85.-2020-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:56:08.483570+00:00 |
