@@ -179259,13 +179259,6 @@
           "permanent": false,
           "source_id": "30716833",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-27T10:18:22.823321+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30716833",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:23:47.111033+00:00"
         },
         {
@@ -179274,18 +179267,19 @@
           "source_id": "30716833",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:29:18.674508+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30716833",
+          "target_video_id": "31467372",
+          "permanent": false,
+          "attempted_at": "2026-11-27T13:54:59.509490+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30716833",
         "display_name": "Blade of the Immortal (2017) 1080p CZ Titulky",
         "planned_at": "2026-11-27T12:57:23.038727+00:00"
-      },
-      "claim": {
-        "worker_id": "be3f53aff40d484f9465343ef4d0b852-shard-0",
-        "claimed_at": "2026-11-27T13:07:08.275836+00:00",
-        "lease_expires_at": "2026-11-27T19:07:08.275836+00:00",
-        "run_id": "45985596298"
       },
       "previous_target_id": "31467372",
       "prepared": {
@@ -456200,5 +456194,5 @@
       }
     }
   },
-  "updated_at": "2026-11-27T13:08:09.367353+00:00"
+  "updated_at": "2026-11-27T13:54:59.509507+00:00"
 }
