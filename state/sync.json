@@ -406627,13 +406627,6 @@
           "permanent": false,
           "source_id": "26819765",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-27T10:23:50.093533+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26819765",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:29:21.842795+00:00"
         },
         {
@@ -406642,6 +406635,13 @@
           "target_video_id": "31469804",
           "permanent": false,
           "attempted_at": "2026-11-27T14:38:11.446799+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26819765",
+          "target_video_id": "31469804",
+          "permanent": false,
+          "attempted_at": "2026-11-27T16:53:18.676582+00:00"
         }
       ],
       "last_plan": {
@@ -411467,16 +411467,10 @@
           "attempted_at": "2026-11-27T14:46:12.161340+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "7482563",
-        "display_name": "The Bride (2017) 1080p CZ Titulky",
-        "planned_at": "2026-11-27T16:52:35.906074+00:00"
-      },
       "previous_target_id": "31470019",
-      "prepared": {
+      "upload": {
         "target_video_id": "31470019",
-        "size_bytes": 3853120513,
-        "prepared_at": "2026-11-27T14:39:16.387318+00:00"
+        "uploaded_at": "2026-11-27T16:53:21.152472+00:00"
       }
     },
     "20787": {
@@ -456251,5 +456245,5 @@
       }
     }
   },
-  "updated_at": "2026-11-27T16:53:00.611230+00:00"
+  "updated_at": "2026-11-27T16:53:21.152489+00:00"
 }
