@@ -323140,15 +323140,6 @@
     "7911": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-24T06:54:28.808161+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -323161,6 +323152,16 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Request failed for https://sdilej.cz/ukradeny-zivot-2022/s/-6 (HTTP None)",
           "attempted_at": "2026-11-26T21:29:04.803944+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "empty_reason": "media_rejected",
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-27T09:15:26.794941+00:00"
         }
       ]
     },
@@ -555484,13 +555485,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
-          "attempted_at": "2026-11-25T19:02:10.862082+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-26T12:03:31.312821+00:00"
         },
         {
@@ -555499,6 +555493,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-26T22:26:10.741328+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-11-27T09:18:21.281296+00:00"
         }
       ]
     },
@@ -729251,5 +729252,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-27T09:15:17.149998+00:00"
+  "updated_at": "2026-11-27T09:18:21.281317+00:00"
 }
