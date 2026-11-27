@@ -406588,13 +406588,6 @@
           "permanent": false,
           "source_id": "26819765",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-27T10:18:25.927320+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26819765",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:23:50.093533+00:00"
         },
         {
@@ -406603,18 +406596,19 @@
           "source_id": "26819765",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:29:21.842795+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26819765",
+          "target_video_id": "31469804",
+          "permanent": false,
+          "attempted_at": "2026-11-27T14:38:11.446799+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26819765",
         "display_name": "Break (2019) 720p CZ Dabing",
         "planned_at": "2026-11-27T12:57:23.760414+00:00"
-      },
-      "claim": {
-        "worker_id": "be3f53aff40d484f9465343ef4d0b852-shard-0",
-        "claimed_at": "2026-11-27T14:29:36.934522+00:00",
-        "lease_expires_at": "2026-11-27T20:29:36.934522+00:00",
-        "run_id": "45985596298"
       },
       "previous_target_id": "31469804",
       "prepared": {
@@ -456212,5 +456206,5 @@
       }
     }
   },
-  "updated_at": "2026-11-27T14:30:49.265556+00:00"
+  "updated_at": "2026-11-27T14:38:11.446815+00:00"
 }
