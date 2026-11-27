@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:04:31.067944+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:04:39.346989+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -474,7 +474,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [DOORS (2021) 1080p CZ Titulky](https://prehraj.to/doors-2021-1080p-cz-titulky-mkv/c0981b8eef3c1202) (ID 30246427) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.005337+00:00 |
 | [DRAGN (2025) 1080p CZ Titulky](https://prehraj.to/dragn-2025-1080p-cz-titulky-mkv/23fe64f50b840817) (ID 30278585) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.005651+00:00 |
 | [Daaaaaalí! (2023) 1080p CZ Titulky](https://prehraj.to/daaaaaali-2023-1080p-cz-titulky-mp4/00721f8e39597eb8) (ID 30158609) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.004790+00:00 |
-| [Dabangg (2010) SD CZ Titulky](https://prehraj.to/dabangg-2010-sd-cz-titulky-mp4/c00c5d48513f1cf2) (ID 29273268) | [Sdílej 34780654](https://sdilej.cz/34780654/dabangg-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:33:52.073280+00:00 |
+| [Dabangg (2010) SD CZ Titulky](https://prehraj.to/dabangg-2010-sd-cz-titulky-mp4/c00c5d48513f1cf2) (ID 29273268) | [Sdílej 34780654](https://sdilej.cz/34780654/dabangg-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:04:39.346807+00:00 |
 | [Daddy (2017) SD CZ Titulky](https://prehraj.to/daddy-2017-sd-cz-titulky-mp4/a13b771d4c355196) (ID 29735490) | [Sdílej 34903833](https://sdilej.cz/34903833/daddy-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:46:01.373854+00:00 |
 | [Dagr (2024) 1080p CZ Titulky](https://prehraj.to/dagr-2024-1080p-cz-titulky-mp4/ecced93a58c92859) (ID 30406547) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.007141+00:00 |
 | [Daleká cesta (1949) 1080p CZ Titulky](https://prehraj.to/daleka-cesta-1949-1080p-cz-titulky-mkv/fb67bb029d701f4c) (ID 28964101) | [Sdílej 32944966](https://sdilej.cz/32944966/daleka-cesta.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:18:53.868358+00:00 |
