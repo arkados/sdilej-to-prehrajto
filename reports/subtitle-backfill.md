@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:25:21.217933+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:25:34.813693+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -2861,7 +2861,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Šišanje (2010) 720p CZ Titulky](https://prehraj.to/sisanje-2010-720p-cz-titulky-mkv/53b0812152564bfe) (ID 30581535) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.497486+00:00 |
 | [Šlápni na to! (2020) 1080p CZ Titulky](https://prehraj.to/slapni-na-to-2020-1080p-cz-titulky-mp4/594cd284d5c37161) (ID 29695375) | [Sdílej 34731712](https://sdilej.cz/34731712/slapni-na-to-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:29:08.284728+00:00 |
 | [Šok (2021) 4K CZ Titulky](https://prehraj.to/sok-2021-4k-cz-titulky-mkv/02de61ac85c32a4d) (ID 29936681) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.494755+00:00 |
-| [Špičák (2009) 1080p CZ Titulky](https://prehraj.to/spicak-2009-1080p-cz-titulky-mkv/2cb3c15432e6c848) (ID 29178166) | [Sdílej 33034247](https://sdilej.cz/33034247/dogtooth-2009-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:23:11.008610+00:00 |
+| [Špičák (2009) 1080p CZ Titulky](https://prehraj.to/spicak-2009-1080p-cz-titulky-mkv/2cb3c15432e6c848) (ID 29178166) | [Sdílej 33034247](https://sdilej.cz/33034247/dogtooth-2009-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:25:34.813568+00:00 |
 | [Šumař na střeše (1971) 1080p CZ Titulky](https://prehraj.to/sumar-na-strese-1971-1080p-cz-titulky-mkv/a3fd50a0fe0b67a5) (ID 29195039) | [Sdílej 30832586](https://sdilej.cz/30832586/fiddler-on-the-roof-1971-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:24:31.840530+00:00 |
 | [Švejk bourá Německo (1943) SD CZ Titulky](https://prehraj.to/svejk-boura-nemecko-1943-sd-cz-titulky-mp4/9b789097687f305a) (ID 29688069) | [Sdílej 34705807](https://sdilej.cz/34705807/svejk-boura-nemecko-1943-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:27:30.578597+00:00 |
 | [Švábi (1996) 4K CZ Titulky](https://prehraj.to/svabi-1996-4k-cz-titulky-mkv/4805506667a74ccf) (ID 31224187) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.503290+00:00 |
