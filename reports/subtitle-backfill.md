@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:01:19.206557+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:01:26.554391+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -408,7 +408,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Chlapec, krtek, liška a kůň (2022) 1080p CZ Titulky](https://prehraj.to/chlapec-krtek-liska-a-kun-2022-1080p-cz-titulky-mp4/d62b51508d0385fe) (ID 29325376) | [Sdílej 34646835](https://sdilej.cz/34646835/chlapec-krtek-liska-a-kun-2022-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:15:40.775947+00:00 |
 | [Chlast (2020) 1080p CZ Titulky](https://prehraj.to/chlast-2020-1080p-cz-titulky-mp4/2af5d83c1c35af4a) (ID 29321672) | [Sdílej 32655241](https://sdilej.cz/32655241/chlast-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:15:24.126277+00:00 |
 | [Chris D'Elia: Úplně bezstarostné (2020) 1080p CZ Titulky](https://prehraj.to/chris-d-elia-uplne-bezstarostne-2020-1080p-cz-titulky-mp4/ab24298520680126) (ID 31329496) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.016534+00:00 |
-| [Christmas in Tune (2021) 1080p CZ Titulky](https://prehraj.to/christmas-in-tune-2021-1080p-cz-titulky-mp4/e09325e7e40da953) (ID 29256609) | [Sdílej 34773020](https://sdilej.cz/34773020/christmas-in-tune-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:30:24.859945+00:00 |
+| [Christmas in Tune (2021) 1080p CZ Titulky](https://prehraj.to/christmas-in-tune-2021-1080p-cz-titulky-mp4/e09325e7e40da953) (ID 29256609) | [Sdílej 34773020](https://sdilej.cz/34773020/christmas-in-tune-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:01:26.554263+00:00 |
 | [Chronicles of the Ghostly Tribe (2015) SD CZ Titulky](https://prehraj.to/chronicles-of-the-ghostly-tribe-2015-sd-cz-titulky-mp4/7e8f31408320419b) (ID 31395890) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.017442+00:00 |
 | [Chuckyho kult (2017) 1080p CZ Titulky](https://prehraj.to/chuckyho-kult-2017-1080p-cz-titulky-mkv/be8b95f49425ab2e) (ID 30937957) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.013298+00:00 |
 | [Chuckův život (2024) 4K CZ Titulky](https://prehraj.to/chuckuv-zivot-2024-4k-cz-titulky-mkv/8b725145c79404be) (ID 30026756) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.003932+00:00 |
