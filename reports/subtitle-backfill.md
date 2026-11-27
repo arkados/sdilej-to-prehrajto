@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:18:53.868474+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:19:03.212215+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -2641,7 +2641,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Voyage of Time: Life's Journey (2017) SD CZ Titulky](https://prehraj.to/voyage-of-time-life-s-journey-2017-sd-cz-titulky-mp4/6d32a8a3fce27be0) (ID 31420888) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.504678+00:00 |
 | [Vrahův polibek (1955) SD CZ Titulky](https://prehraj.to/vrahuv-polibek-1955-sd-cz-titulky-avi/c64c4ccab27abd80) (ID 30958425) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.500723+00:00 |
 | [Vražedná zátoka (2018) SD CZ Titulky](https://prehraj.to/vrazedna-zatoka-2018-sd-cz-titulky-mp4/6ee70895af3072ef) (ID 30421162) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.496744+00:00 |
-| [Vražedné utkání (1982) SD CZ Titulky](https://prehraj.to/vrazedne-utkani-1982-sd-cz-titulky-mkv/93b1d2b81987a7b7) (ID 28976232) | [Sdílej 26126750](https://sdilej.cz/26126750/deadly.encounter.1982.dvdrip.x264-e411-cg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:17:04.657801+00:00 |
+| [Vražedné utkání (1982) SD CZ Titulky](https://prehraj.to/vrazedne-utkani-1982-sd-cz-titulky-mkv/93b1d2b81987a7b7) (ID 28976232) | [Sdílej 26126750](https://sdilej.cz/26126750/deadly.encounter.1982.dvdrip.x264-e411-cg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:19:03.212085+00:00 |
 | [Vykopávky (2021) 1080p CZ Titulky](https://prehraj.to/vykopavky-2021-1080p-cz-titulky-mp4/a65a47006859bdd8) (ID 29408437) | [Sdílej 34728109](https://sdilej.cz/34728109/vykopavky-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:21:29.127901+00:00 |
 | [Vymahač (2016) 720p CZ Titulky](https://prehraj.to/vymahac-2016-720p-cz-titulky-avi/222857be29a41454) (ID 30138959) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.495441+00:00 |
 | [Vzplanutí na Rye Lane (2023) 1080p CZ Titulky](https://prehraj.to/vzplanuti-na-rye-lane-2023-1080p-cz-titulky-mkv/66fb072f3c0169cb) (ID 29339891) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.490997+00:00 |
