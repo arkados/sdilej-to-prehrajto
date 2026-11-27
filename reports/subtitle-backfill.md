@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:30:23.135358+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:30:31.326953+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -2874,7 +2874,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Žena na válečné stezce (2018) 1080p CZ Titulky](https://prehraj.to/zena-na-valecne-stezce-2018-1080p-cz-titulky-mkv/5caeb8d6077e034f) (ID 30876445) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498725+00:00 |
 | [Ženou z boží vůle (2017) 1080p CZ Titulky](https://prehraj.to/zenou-z-bozi-vule-2017-1080p-cz-titulky-mp4/392137080c07342c) (ID 29213453) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.490684+00:00 |
 | [Ženy mafiánů (2018) 1080p CZ Titulky](https://prehraj.to/zeny-mafianu-2018-1080p-cz-titulky-mkv/29527dd81cdf48ae) (ID 29912656) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.493894+00:00 |
-| [Život v plné rychlosti: Příběh Juana Manuela Fangia (2020) 1080p CZ Titulky](https://prehraj.to/zivot-v-plne-rychlosti-pribeh-juana-manuela-fangia-2020-1080p-cz-titulky-mp4/5c3ac858474d20d1) (ID 29213500) | [Sdílej 34712013](https://sdilej.cz/34712013/zivot-v-plne-rychlosti-pribeh-juana-manuela-fangia-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:27:50.293397+00:00 |
+| [Život v plné rychlosti: Příběh Juana Manuela Fangia (2020) 1080p CZ Titulky](https://prehraj.to/zivot-v-plne-rychlosti-pribeh-juana-manuela-fangia-2020-1080p-cz-titulky-mp4/5c3ac858474d20d1) (ID 29213500) | [Sdílej 34712013](https://sdilej.cz/34712013/zivot-v-plne-rychlosti-pribeh-juana-manuela-fangia-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:30:31.326831+00:00 |
 | [Život zločinu (2021) 1080p CZ Titulky](https://prehraj.to/zivot-zlocinu-2021-1080p-cz-titulky-mp4/a99ce6f995f1f28c) (ID 30496765) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.497154+00:00 |
 | [Žlutá ponorka (1968) 1080p CZ Titulky](https://prehraj.to/zluta-ponorka-1968-1080p-cz-titulky-mkv/2bc9bdc0e3f3c6b1) (ID 30486052) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.497109+00:00 |
 | [Žralokonádo 6 (2018) 1080p CZ Titulky](https://prehraj.to/zralokonado-6-2018-1080p-cz-titulky-mp4/3f1041e2ad96754e) (ID 30755329) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498161+00:00 |
