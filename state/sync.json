@@ -278980,13 +278980,6 @@
           "permanent": false,
           "source_id": "32025802",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-27T10:14:49.771763+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32025802",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:20:07.668791+00:00"
         },
         {
@@ -278995,18 +278988,20 @@
           "source_id": "32025802",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:25:31.886793+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32025802",
+          "target_video_id": "31464091",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-27T11:26:15.437951+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32025802",
         "display_name": "惊天大营救 (2024) 1080p CZ Titulky",
         "planned_at": "2026-11-27T10:33:08.939851+00:00"
-      },
-      "claim": {
-        "worker_id": "bf16c4459ea7420e950dad1a0444c4a2-shard-0",
-        "claimed_at": "2026-11-27T10:47:52.006385+00:00",
-        "lease_expires_at": "2026-11-27T16:47:52.006385+00:00",
-        "run_id": "45983003370"
       },
       "previous_target_id": "31464091",
       "prepared": {
@@ -456150,5 +456145,5 @@
       }
     }
   },
-  "updated_at": "2026-11-27T10:48:52.591035+00:00"
+  "updated_at": "2026-11-27T11:26:15.437967+00:00"
 }
