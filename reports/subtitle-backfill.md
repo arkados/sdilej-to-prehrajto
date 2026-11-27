@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:18:04.912051+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:18:13.355671+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -2227,7 +2227,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Střed světa (2001) SD CZ Titulky](https://prehraj.to/stred-sveta-2001-sd-cz-titulky-avi/79acd4b2c9241474) (ID 29640156) | [Sdílej 23104985](https://sdilej.cz/23104985/the.center.of.the.world.2001.dvdrip.xvid-bito.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:09:23.848788+00:00 |
 | [Střela (1996) SD CZ Titulky](https://prehraj.to/strela-1996-sd-cz-titulky-mp4/1bdfb98dc8204f62) (ID 29269553) | [Sdílej 34784621](https://sdilej.cz/34784621/strela-1996-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:03:33.777919+00:00 |
 | [Střídavá péče (2017) 720p CZ Titulky](https://prehraj.to/stridava-pece-2017-720p-cz-titulky-mkv/bcd7e6d59a5da4b9) (ID 30995891) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.199254+00:00 |
-| [Stůl č. 21 (2013) SD CZ Titulky](https://prehraj.to/stul-c-21-2013-sd-cz-titulky-mp4/d1a87b5acb4c7ab3) (ID 29340118) | [Sdílej 34698683](https://sdilej.cz/34698683/stul-c.-21-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:17:49.012252+00:00 |
+| [Stůl č. 21 (2013) SD CZ Titulky](https://prehraj.to/stul-c-21-2013-sd-cz-titulky-mp4/d1a87b5acb4c7ab3) (ID 29340118) | [Sdílej 34698683](https://sdilej.cz/34698683/stul-c.-21-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:18:13.355560+00:00 |
 | [Subedaar (2026) 1080p CZ Titulky](https://prehraj.to/subedaar-2026-1080p-cz-titulky-mp4/fff808be51babf43) (ID 30870022) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.196598+00:00 |
 | [Suburban Gothic (2014) 720p CZ Titulky](https://prehraj.to/suburban-gothic-2014-720p-cz-titulky-mkv/2003e064355c0546) (ID 29947165) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.188153+00:00 |
 | [Suicide Forest Village (2021) 720p CZ Titulky](https://prehraj.to/suicide-forest-village-2021-720p-cz-titulky-mkv/e6cfb495d6fb9e97) (ID 30303192) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.190604+00:00 |
