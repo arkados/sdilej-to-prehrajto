@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:20:36.006749+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:20:44.211108+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -1220,7 +1220,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Korengal (2014) SD CZ Titulky](https://prehraj.to/korengal-2014-sd-cz-titulky-mp4/18b3908270a40011) (ID 29217603) | [Sdílej 34711277](https://sdilej.cz/34711277/korengal-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:32:04.605293+00:00 |
 | [Kos (2024) 1080p CZ Titulky](https://prehraj.to/kos-2024-1080p-cz-titulky-mp4/7f0b9a563faa7a1e) (ID 30504257) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.192954+00:00 |
 | [Kosh SD CZ Titulky](https://prehraj.to/kosh-sd-cz-titulky-mp4/f034feea2465f1a1) (ID 30442829) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.192336+00:00 |
-| [Kozara (1962) SD CZ Titulky](https://prehraj.to/kozara-1962-sd-cz-titulky-mp4/5bdc5ef801e8d00d) (ID 29355142) | [Sdílej 34699946](https://sdilej.cz/34699946/kozara-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:19:48.474497+00:00 |
+| [Kozara (1962) SD CZ Titulky](https://prehraj.to/kozara-1962-sd-cz-titulky-mp4/5bdc5ef801e8d00d) (ID 29355142) | [Sdílej 34699946](https://sdilej.cz/34699946/kozara-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:20:44.210967+00:00 |
 | [Kočičky (2020) 1080p CZ Titulky](https://prehraj.to/kocicky-2020-1080p-cz-titulky-mp4/020b6904a7b0311c) (ID 30647101) | [Sdílej 34712572](https://sdilej.cz/34712572/kocicky-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-21T02:26:53.141596+00:00 |
 | [Kočičí odysea (2024) 1080p CZ Titulky](https://prehraj.to/kocici-odysea-2024-1080p-cz-titulky-mkv/eb5aca06a2875658) (ID 31154588) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.200591+00:00 |
 | [Kožené kalhoty v St. Tropez (1980) SD CZ Titulky](https://prehraj.to/kozene-kalhoty-v-st-tropez-1980-sd-cz-titulky-mkv/2404541c7bd2cb67) (ID 31162507) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.200696+00:00 |
