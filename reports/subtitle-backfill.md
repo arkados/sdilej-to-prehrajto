@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:29:46.230139+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:30:02.002237+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -1299,7 +1299,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Liam Gallagher: As It Was (2019) 720p CZ Titulky](https://prehraj.to/liam-gallagher-as-it-was-2019-720p-cz-titulky-mp4/210fb84a887059b2) (ID 29576760) | [Sdílej 34734179](https://sdilej.cz/34734179/liam-gallagher-as-it-was-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:49:10.800778+00:00 |
 | [Libertarias (1996) SD CZ Titulky](https://prehraj.to/libertarias-1996-sd-cz-titulky-mp4/781fd0ab19bf9e19) (ID 30991126) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.501082+00:00 |
 | [Lidská stonožka (2009) SD CZ Titulky](https://prehraj.to/lidska-stonozka-2009-sd-cz-titulky-avi/e76cf2ba04d86a04) (ID 30759568) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498180+00:00 |
-| [Lidská stonožka 2 (2011) SD CZ Titulky](https://prehraj.to/lidska-stonozka-2-2011-sd-cz-titulky-mp4/fa3ed319b20166f9) (ID 29089857) | [Sdílej 33435525](https://sdilej.cz/33435525/lidska-stonoz-ka-2.-2011-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:27:22.554869+00:00 |
+| [Lidská stonožka 2 (2011) SD CZ Titulky](https://prehraj.to/lidska-stonozka-2-2011-sd-cz-titulky-mp4/fa3ed319b20166f9) (ID 29089857) | [Sdílej 33435525](https://sdilej.cz/33435525/lidska-stonoz-ka-2.-2011-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:30:02.002122+00:00 |
 | [Lidská stonožka 3 (2015) 1080p CZ Titulky](https://prehraj.to/lidska-stonozka-3-2015-1080p-cz-titulky-mp4/78b7639c091505f3) (ID 29090222) | [Sdílej 33435537](https://sdilej.cz/33435537/lidska-stonoz-ka-3.-2015-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:21:27.664305+00:00 |
 | [Lidé (2021) SD CZ Titulky](https://prehraj.to/lide-2021-sd-cz-titulky-avi/88036e90944f7eda) (ID 29528307) | [Sdílej 34447683](https://sdilej.cz/34447683/life.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:38:15.140531+00:00 |
 | [Life After Beth (2014) SD CZ Titulky](https://prehraj.to/life-after-beth-2014-sd-cz-titulky-avi/70e04e2402a204a1) (ID 29721145) | [Sdílej 3743477](https://sdilej.cz/3743477/life-after-beth-2014-360p-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:38:49.287428+00:00 |
