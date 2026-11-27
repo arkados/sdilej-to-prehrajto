@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T10:59:50.394055+00:00
+Poslední aktualizace (UTC): 2026-11-27T10:59:57.561367+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -2506,7 +2506,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Titanic 666 (2022) 720p CZ Titulky](https://prehraj.to/titanic-666-2022-720p-cz-titulky-avi/5b8b35892352f156) (ID 30758356) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.010449+00:00 |
 | [Tiësto in Concert (2003) 1080p CZ Titulky](https://prehraj.to/tiesto-in-concert-2003-1080p-cz-titulky-mkv/bd42be7fefd01f67) (ID 30553581) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.008583+00:00 |
 | [Tlumočník (2018) 720p CZ Titulky](https://prehraj.to/tlumocnik-2018-720p-cz-titulky-mp4/2cb9d3921394872f) (ID 29636511) | [Sdílej 27481835](https://sdilej.cz/27481835/tlumocnik-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:06:54.146042+00:00 |
-| [Tlusťoch a Chlapeček (1989) 720p CZ Titulky](https://prehraj.to/tlustoch-a-chlapecek-1989-720p-cz-titulky-mp4/02f8d1af4de394a8) (ID 29240489) | [Sdílej 34786161](https://sdilej.cz/34786161/tlustoch-a-chlapecek-1989-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:28:55.249070+00:00 |
+| [Tlusťoch a Chlapeček (1989) 720p CZ Titulky](https://prehraj.to/tlustoch-a-chlapecek-1989-720p-cz-titulky-mp4/02f8d1af4de394a8) (ID 29240489) | [Sdílej 34786161](https://sdilej.cz/34786161/tlustoch-a-chlapecek-1989-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T10:59:57.561262+00:00 |
 | [Tobol (2019) SD CZ Titulky](https://prehraj.to/tobol-2019-sd-cz-titulky-mp4/793c7f85b112419e) (ID 29287806) | [Sdílej 34853793](https://sdilej.cz/34853793/tobol-the-conquest-of-siberia-2019-titulky.sk.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:19:07.790516+00:00 |
 | [Tobruk (1967) SD CZ Titulky](https://prehraj.to/tobruk-1967-sd-cz-titulky-mkv/b786d14c68055d5d) (ID 30576044) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.008819+00:00 |
 | [Toc Toc (2017) 720p CZ Titulky](https://prehraj.to/toc-toc-2017-720p-cz-titulky-mkv/b351d189c132acd8) (ID 29569899) | [Sdílej 14550282](https://sdilej.cz/14550282/toc.toc.2017.bluray.720p.x264.sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:47:31.793350+00:00 |
