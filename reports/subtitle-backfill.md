@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:15:53.364924+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:16:03.399438+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -2622,7 +2622,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Vampyres (2015) 1080p CZ Titulky](https://prehraj.to/vampyres-2015-1080p-cz-titulky-mkv/b0aa2071d62178d8) (ID 30860349) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.196373+00:00 |
 | [Vargur (2018) SD CZ Titulky](https://prehraj.to/vargur-2018-sd-cz-titulky-mkv/2859d2e928a3dc7a) (ID 29717946) | [Sdílej 30859872](https://sdilej.cz/30859872/darfur.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:36:42.968497+00:00 |
 | [Ve stínu slunce (2005) SD CZ Titulky](https://prehraj.to/ve-stinu-slunce-2005-sd-cz-titulky-avi/8b05856545c28484) (ID 30161046) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.189455+00:00 |
-| [Vejdi do prázdna (2010) 720p CZ Titulky](https://prehraj.to/vejdi-do-prazdna-2010-720p-cz-titulky-mp4/236752636350f502) (ID 29327049) | [Sdílej 34716777](https://sdilej.cz/34716777/vejdi-do-prazdna-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:15:56.844947+00:00 |
+| [Vejdi do prázdna (2010) 720p CZ Titulky](https://prehraj.to/vejdi-do-prazdna-2010-720p-cz-titulky-mp4/236752636350f502) (ID 29327049) | [Sdílej 34716777](https://sdilej.cz/34716777/vejdi-do-prazdna-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:16:03.399317+00:00 |
 | [Velká nádhera (2013) 720p CZ Titulky](https://prehraj.to/velka-nadhera-2013-720p-cz-titulky-mp4/8ad44efd5cb5ba9f) (ID 30906094) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.197308+00:00 |
 | [Velká žranice (1973) SD CZ Titulky](https://prehraj.to/velka-zranice-1973-sd-cz-titulky-mkv/698806e8257de552) (ID 29429778) | [Sdílej 28396506](https://sdilej.cz/28396506/velka-zranice-grandebouffe-la-tvrip-ford.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:25:47.805941+00:00 |
 | [Velký hack (2019) 1080p CZ Titulky](https://prehraj.to/velky-hack-2019-1080p-cz-titulky-mkv/15aeba51db1050a8) (ID 30777394) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.195820+00:00 |
