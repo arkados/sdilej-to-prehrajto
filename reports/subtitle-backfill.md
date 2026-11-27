@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:01:48.582889+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:02:00.192108+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -532,7 +532,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Der Hauptmann (2017) 1080p CZ Titulky](https://prehraj.to/der-hauptmann-2017-1080p-cz-titulky-mkv/2d00419b76ae23d2) (ID 30878138) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.011672+00:00 |
 | [Der siebente Kontinent (1989) SD CZ Titulky](https://prehraj.to/der-siebente-kontinent-1989-sd-cz-titulky-mkv/31d3b4c98f019637) (ID 31194457) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.015935+00:00 |
 | [Desert Warrior (2026) 1080p CZ Titulky](https://prehraj.to/desert-warrior-2026-1080p-cz-titulky-mp4/615473ce1792c7f2) (ID 30754847) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.010422+00:00 |
-| [Deset kánoí (2006) SD CZ Titulky](https://prehraj.to/deset-kanoi-2006-sd-cz-titulky-avi/5d7558ba06f99f4c) (ID 29256878) | [Sdílej 25837816](https://sdilej.cz/25837816/deset-kanoi-2006-aus-dobrodruzny-komedie-drama-valecny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:30:59.431739+00:00 |
+| [Deset kánoí (2006) SD CZ Titulky](https://prehraj.to/deset-kanoi-2006-sd-cz-titulky-avi/5d7558ba06f99f4c) (ID 29256878) | [Sdílej 25837816](https://sdilej.cz/25837816/deset-kanoi-2006-aus-dobrodruzny-komedie-drama-valecny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:02:00.191977+00:00 |
 | [Deset malých černoušků (1965) SD CZ Titulky](https://prehraj.to/deset-malych-cernousku-1965-sd-cz-titulky-avi/77b425dc3e950fdc) (ID 30168747) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.004875+00:00 |
 | [Desierto (2015) SD CZ Titulky](https://prehraj.to/desierto-2015-sd-cz-titulky-mp4/2efb6859c0625175) (ID 30923740) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.012756+00:00 |
 | [Detective Dee: Čtyři nebeští králové (2018) SD CZ Titulky](https://prehraj.to/detective-dee-ctyri-nebesti-kralove-2018-sd-cz-titulky-mp4/c093e78374290137) (ID 29251837) | [Sdílej 34713642](https://sdilej.cz/34713642/detective-dee-ctyri-nebesti-kralove-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:00:57.479539+00:00 |
