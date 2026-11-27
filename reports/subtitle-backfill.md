@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:21:20.372829+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:21:43.203941+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -1987,7 +1987,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Running on Empty (1988) 1080p CZ Titulky](https://prehraj.to/running-on-empty-1988-1080p-cz-titulky-mp4/71aadbdbd231e8c1) (ID 31222829) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201171+00:00 |
 | [Rupture (2016) 1080p CZ Titulky](https://prehraj.to/rupture-2016-1080p-cz-titulky-mkv/66337b3715d1926d) (ID 30398751) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.191623+00:00 |
 | [Rusalka: Ozero myortvykh (2018) SD CZ Titulky](https://prehraj.to/rusalka-ozero-myortvykh-2018-sd-cz-titulky-avi/2ae1661a87a1228a) (ID 29938406) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.188041+00:00 |
-| [Ruská archa (2002) 1080p CZ Titulky](https://prehraj.to/ruska-archa-2002-1080p-cz-titulky-avi/eda8a5f642b0b600) (ID 29364840) | [Sdílej 28504418](https://sdilej.cz/28504418/ruska-archa-2002-----ru.-cz.-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:20:38.372594+00:00 |
+| [Ruská archa (2002) 1080p CZ Titulky](https://prehraj.to/ruska-archa-2002-1080p-cz-titulky-avi/eda8a5f642b0b600) (ID 29364840) | [Sdílej 28504418](https://sdilej.cz/28504418/ruska-archa-2002-----ru.-cz.-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:21:43.203828+00:00 |
 | [Rust (2024) 4K CZ Titulky.mkv](https://prehraj.to/rust-2024-4k-cz-titulky-mkv/bb41364f9646c8c9) (ID 29921550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.187247+00:00 |
 | [Rust Creek (2019) 720p CZ Titulky](https://prehraj.to/rust-creek-2019-720p-cz-titulky-mp4/bbb95fc52e247a48) (ID 29650410) | [Sdílej 34733890](https://sdilej.cz/34733890/rust-creek-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:14:35.833319+00:00 |
 | [Rvačka mezi muži (1955) 720p CZ Titulky](https://prehraj.to/rvacka-mezi-muzi-1955-720p-cz-titulky-mkv/5124ee132c79fa94) (ID 29293998) | [Sdílej 34572814](https://sdilej.cz/34572814/rvacka-mezi-muzi-1955-cz-titulky-720p-hd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:07:50.393480+00:00 |
