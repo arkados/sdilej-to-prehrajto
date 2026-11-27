@@ -96764,17 +96764,19 @@
       "attempts": []
     },
     "32027": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11860466",
+          "target_video_id": "31478424",
+          "permanent": false,
+          "attempted_at": "2026-11-27T21:37:38.168992+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11860466",
         "display_name": "Barva pleti (2009) 1080p CZ Dabing",
         "planned_at": "2026-11-27T21:33:40.235291+00:00"
-      },
-      "claim": {
-        "worker_id": "098578758dac45b5a695ff03d1a480b3-shard-0",
-        "claimed_at": "2026-11-27T21:33:42.395508+00:00",
-        "lease_expires_at": "2026-11-28T03:33:42.395508+00:00",
-        "run_id": "46039747996"
       },
       "previous_target_id": "31478424",
       "prepared": {
@@ -456198,5 +456200,5 @@
       }
     }
   },
-  "updated_at": "2026-11-27T21:33:46.904429+00:00"
+  "updated_at": "2026-11-27T21:37:38.169010+00:00"
 }
