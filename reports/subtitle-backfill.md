@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:30:42.345056+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:30:52.363258+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -1109,7 +1109,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Jedním dechem (2021) 1080p CZ Titulky](https://prehraj.to/jednim-dechem-2021-1080p-cz-titulky-mp4/2d5d5ee664fff6ee) (ID 30155718) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.495474+00:00 |
 | [Jeepers Creepers 3 (2017) 1080p CZ Titulky](https://prehraj.to/jeepers-creepers-3-2017-1080p-cz-titulky-mp4/98de9e7869a82d77) (ID 30436375) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.496826+00:00 |
 | [Jeff Dunham: Relative Disaster (2017) 720p CZ Titulky](https://prehraj.to/jeff-dunham-relative-disaster-2017-720p-cz-titulky-mkv/fe52b60ddc9c3a1d) (ID 30546141) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.497269+00:00 |
-| [Jeff Dunham: Unhinged in Hollywood (2015) 1080p CZ Titulky](https://prehraj.to/jeff-dunham-unhinged-in-hollywood-2015-1080p-cz-titulky-mp4/cc74299980551325) (ID 29214267) | [Sdílej 12371964](https://sdilej.cz/12371964/jeff.dunham.unhinged.in.hollywood.2015.uncensored.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:28:11.213281+00:00 |
+| [Jeff Dunham: Unhinged in Hollywood (2015) 1080p CZ Titulky](https://prehraj.to/jeff-dunham-unhinged-in-hollywood-2015-1080p-cz-titulky-mp4/cc74299980551325) (ID 29214267) | [Sdílej 12371964](https://sdilej.cz/12371964/jeff.dunham.unhinged.in.hollywood.2015.uncensored.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:30:52.363148+00:00 |
 | [Jeff Garlin: Náš člověk v Chicagu (2019) 720p CZ Titulky](https://prehraj.to/jeff-garlin-nas-clovek-v-chicagu-2019-720p-cz-titulky-mp4/9eb6fdb73b076786) (ID 29805320) | [Sdílej 34734254](https://sdilej.cz/34734254/jeff-garlin-nas-clovek-v-chicagu-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:00:56.133972+00:00 |
 | [Jeho dům (2020) 1080p CZ Titulky](https://prehraj.to/jeho-dum-2020-1080p-cz-titulky-mkv/2cb77f414fab661f) (ID 30591272) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.497552+00:00 |
 | [Jen my dva (2023) 720p CZ Titulky](https://prehraj.to/jen-my-dva-2023-720p-cz-titulky-mkv/3bb891ec2cbe6ecf) (ID 30190023) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.495574+00:00 |
