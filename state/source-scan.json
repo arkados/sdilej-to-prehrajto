@@ -29172,13 +29172,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "Audio language remains uncertain after sampling",
-          "attempted_at": "2026-11-25T14:33:51.517367+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Audio language remains uncertain after sampling",
           "attempted_at": "2026-11-26T09:02:23.939679+00:00"
         },
         {
@@ -29187,6 +29180,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Request failed for https://sdilej.cz/lou/s/-6 (HTTP None)",
           "attempted_at": "2026-11-26T20:16:39.362290+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before verification completed",
+          "attempted_at": "2026-11-27T07:45:47.169030+00:00"
         }
       ]
     },
@@ -87971,13 +87971,6 @@
           "status": "source_deep_scan_failed",
           "permanent": false,
           "selection_policy": "compact-quality-v13",
-          "reason": "Unrecognized search response; refusing empty result; title='Sdilej.cz - sdílej soubory zdarma - náhrada za ulož to'; bytes=216980; notice=no search controls",
-          "attempted_at": "2026-11-25T14:59:13.498782+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Sdilej.cz - sdílej soubory zdarma - náhrada za ulož to'; bytes=216828; notice=no search controls",
           "attempted_at": "2026-11-26T09:11:49.955106+00:00"
         },
@@ -87987,6 +87980,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Sdilej.cz - sdílej soubory zdarma - náhrada za ulož to'; bytes=216842; notice=no search controls",
           "attempted_at": "2026-11-26T20:16:39.850279+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before search completed",
+          "attempted_at": "2026-11-27T07:28:22.731429+00:00"
         }
       ]
     },
@@ -155473,15 +155473,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-19T16:32:14.097034+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-22T10:17:20.967715+00:00"
         },
         {
@@ -155492,6 +155483,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-24T17:40:37.021626+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before search completed",
+          "attempted_at": "2026-11-27T07:46:33.719236+00:00"
         }
       ]
     },
@@ -281477,13 +281475,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "Audio language remains uncertain after sampling",
-          "attempted_at": "2026-11-25T14:37:58.022205+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Audio language remains uncertain after sampling",
           "attempted_at": "2026-11-26T09:03:48.685344+00:00"
         },
         {
@@ -281492,6 +281483,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Audio language remains uncertain after sampling",
           "attempted_at": "2026-11-26T20:24:56.039280+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Request failed for https://sdilej.cz/aquarela/s/-6 (HTTP None)",
+          "attempted_at": "2026-11-27T07:45:46.673107+00:00"
         }
       ]
     },
@@ -297819,15 +297817,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-22T10:15:48.766189+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-24T17:39:20.304131+00:00"
         },
         {
@@ -297836,6 +297825,16 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Discovery deadline expired before search completed",
           "attempted_at": "2026-11-27T07:00:01.559142+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "empty_reason": "no_matching_listing",
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-27T07:48:12.530783+00:00"
         }
       ]
     },
@@ -454459,15 +454458,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-19T16:32:04.235178+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-22T10:17:11.796933+00:00"
         },
         {
@@ -454478,6 +454468,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-24T17:40:25.191888+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before search completed",
+          "attempted_at": "2026-11-27T07:40:01.627644+00:00"
         }
       ]
     },
@@ -551019,15 +551016,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-19T16:31:35.997635+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-22T10:16:45.721021+00:00"
         },
         {
@@ -551038,6 +551026,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-24T17:39:52.202390+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before search completed",
+          "attempted_at": "2026-11-27T07:16:40.101641+00:00"
         }
       ]
     },
@@ -562682,15 +562677,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-19T16:31:42.110602+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-22T10:16:51.260473+00:00"
         },
         {
@@ -562701,6 +562687,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-24T17:39:58.508651+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before search completed",
+          "attempted_at": "2026-11-27T07:23:22.730691+00:00"
         }
       ]
     },
@@ -564853,15 +564846,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-19T16:32:29.539014+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-22T10:17:35.957840+00:00"
         },
         {
@@ -564872,6 +564856,16 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-24T17:40:54.061938+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "empty_reason": "media_rejected",
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-27T07:48:09.806991+00:00"
         }
       ]
     },
@@ -566294,15 +566288,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-19T16:31:47.881415+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-22T10:16:56.514463+00:00"
         },
         {
@@ -566313,6 +566298,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-24T17:40:04.906988+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before search completed",
+          "attempted_at": "2026-11-27T07:34:07.776510+00:00"
         }
       ]
     },
@@ -568627,15 +568619,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-22T10:14:37.841617+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-24T17:38:30.734149+00:00"
         },
         {
@@ -568644,6 +568627,16 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Discovery deadline expired before search completed",
           "attempted_at": "2026-11-27T06:46:52.181490+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "empty_reason": "media_rejected",
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-27T07:47:58.404104+00:00"
         }
       ]
     },
@@ -609302,13 +609295,6 @@
     "30032": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate limit reached before verification completed",
-          "attempted_at": "2026-11-24T17:26:47.887564+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "discovery_complete": true,
@@ -609323,6 +609309,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-27T06:31:55.694068+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before search completed",
+          "attempted_at": "2026-11-27T07:28:23.216164+00:00"
         }
       ]
     },
@@ -703524,15 +703517,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-22T10:15:10.174137+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-24T17:39:04.869059+00:00"
         },
         {
@@ -703541,6 +703525,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Discovery deadline expired before search completed",
           "attempted_at": "2026-11-27T06:53:29.986360+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Request failed for https://sdilej.cz/zralok-utoci-2-2000/s/-6 (HTTP None)",
+          "attempted_at": "2026-11-27T07:48:19.725376+00:00"
         }
       ]
     },
@@ -728984,5 +728975,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-27T07:10:55.573632+00:00"
+  "updated_at": "2026-11-27T07:48:19.725387+00:00"
 }
