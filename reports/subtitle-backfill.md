@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:27:12.727144+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:27:17.804372+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 527, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 841, `source_provenance_missing`: 1886, `source_unavailable`: 18, `target_detail_url_missing`: 16, `target_unavailable`: 24
+Stavy: `already_has_czech`: 527, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 840, `source_provenance_missing`: 1886, `source_unavailable`: 19, `target_detail_url_missing`: 16, `target_unavailable`: 24
 
 ## Poslední dávka
 
@@ -1540,7 +1540,6 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Nattevagten (1994) SD CZ Titulky](https://prehraj.to/nattevagten-1994-sd-cz-titulky-avi/4383712abed91a80) (ID 29463717) | [Sdílej 33205327](https://sdilej.cz/33205327/hlidac-mrtvych-nattevagten-1994-horor-denmark-cz-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:30:29.228048+00:00 |
 | [Navalny (2022) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29314819) | [Sdílej 25780265](https://sdilej.cz/25780265/navalny-2022-.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-26T19:10:16.406080+00:00 |
 | [Navěky silný (2008) 720p CZ Titulky](https://prehraj.to/naveky-silny-2008-720p-cz-titulky-mkv/d74fea3035bc04f2) (ID 30886361) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.498827+00:00 |
-| [Ne Zha 2 (2025) 1080p CZ Titulky](https://prehraj.to/ne-zha-2-2025-1080p-cz-titulky-mkv/8068e93351748100) (ID 29204256) | [Sdílej 32387424](https://sdilej.cz/32387424/ne-zha-2-2025-cz-titulky-v-obraze-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:24:47.826111+00:00 |
 | [Nebe nad Berlínem (1987) 1080p CZ Titulky](https://prehraj.to/nebe-nad-berlinem-1987-1080p-cz-titulky-mkv/1d94e43fc063223a) (ID 29208949) | [Sdílej 27805226](https://sdilej.cz/27805226/wings-of-desire-1987-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:21:23.373337+00:00 |
 | [Nebezpečné lži (2020) 1080p CZ Titulky](https://prehraj.to/nebezpecne-lzi-2020-1080p-cz-titulky-mkv/da5032c855d433e7) (ID 30373521) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.496410+00:00 |
 | [Nedívej se (2018) 1080p CZ Titulky](https://prehraj.to/nedivej-se-2018-1080p-cz-titulky-mkv/3fad82c89e15c14f) (ID 30972456) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.500967+00:00 |
@@ -2901,6 +2900,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Kdo to tam zpívá (1980) SD CZ Titulky](https://prehraj.to/kdo-to-tam-zpiva-1980-sd-cz-titulky-avi/6158338b1b67f364) (ID 28921368) | [Sdílej 32327533](https://sdilej.cz/32327533/kdo-to-tam-zpiva-1980-cz-dab.avi) | target_unavailable | 2026-11-26T19:10:54.845110+00:00 |
 | [Milost (2025) 1080p CZ Titulky](https://prehraj.to/milost-2025-1080p-cz-titulky-mkv/75a7a8b8d8b74824) (ID 29308222) | [Sdílej 33161300](https://sdilej.cz/33161300/la.grazia.2025.vostfr.1080p.web.h264-lactel.mkv) | target_unavailable | 2026-11-26T19:10:36.556633+00:00 |
 | [Mutilator 2 (2023) 1080p CZ Titulky](https://prehraj.to/mutilator-2-2023-1080p-cz-titulky-mkv/b257cdb0cdb2648c) (ID 29270312) | [Sdílej 33882380](https://sdilej.cz/33882380/mutilator.2.2023.1080p.webrip.ddp.2.0.10bit.h.265-ivy.mkv) | source_unavailable | 2026-11-26T19:08:45.865859+00:00 |
+| [Ne Zha 2 (2025) 1080p CZ Titulky](https://prehraj.to/ne-zha-2-2025-1080p-cz-titulky-mkv/8068e93351748100) (ID 29204256) | [Sdílej 32387424](https://sdilej.cz/32387424/ne-zha-2-2025-cz-titulky-v-obraze-1080p.mkv) | source_unavailable | 2026-11-27T02:27:17.804285+00:00 |
 | [Neboj, daleko neuteče (2018) 1080p CZ Titulky](https://prehraj.to/neboj-daleko-neutece-2018-1080p-cz-titulky-mkv/e404de5b1fb7b6f6) (ID 29676474) | [Sdílej 33852329](https://sdilej.cz/33852329/don-t-worry-he-won-t-get-far-on-foot-2018-1080p-fr-en-x264-ac3-mhdgz.mkv) | source_unavailable | 2026-11-26T19:08:28.105592+00:00 |
 | [Neviditelný muž (1933) SD CZ Titulky](https://prehraj.to/neviditelny-muz-1933-sd-cz-titulky-avi/786d49fd1f4caca0) (ID 29558943) | [Sdílej 20332628](https://sdilej.cz/20332628/neviditelny-muz-the-invisible-man-1933-.cz..avi) | source_unavailable | 2026-11-26T19:09:12.124911+00:00 |
 | [Nikdy neříkej sbohem (2006) SD CZ Titulky](https://prehraj.to/nikdy-nerikej-sbohem-2006-sd-cz-titulky-mp4/958214e0a5713b0d) (ID 29614101) | [Sdílej 34751294](https://sdilej.cz/34751294/nikdy-nerikej-sbohem-2006-cz-titulky.mp4) | target_unavailable | 2026-11-26T19:09:32.265855+00:00 |
