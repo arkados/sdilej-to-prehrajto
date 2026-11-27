@@ -25627,13 +25627,6 @@
           "permanent": false,
           "source_id": "10872665",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-27T10:15:13.031427+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "10872665",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:20:30.939054+00:00"
         },
         {
@@ -25642,18 +25635,19 @@
           "source_id": "10872665",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-27T10:25:55.120542+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10872665",
+          "target_video_id": "31466084",
+          "permanent": false,
+          "attempted_at": "2026-11-27T12:25:06.687207+00:00"
         }
       ],
       "last_plan": {
         "source_id": "10872665",
         "display_name": "Stree (2018) SD CZ Titulky",
         "planned_at": "2026-11-27T11:35:49.631324+00:00"
-      },
-      "claim": {
-        "worker_id": "2e5fe9336e22473fa374f9253fecd662-shard-0",
-        "claimed_at": "2026-11-27T12:12:27.354825+00:00",
-        "lease_expires_at": "2026-11-27T18:12:27.354825+00:00",
-        "run_id": "45985596298"
       },
       "previous_target_id": "31466084",
       "prepared": {
@@ -456182,5 +456176,5 @@
       }
     }
   },
-  "updated_at": "2026-11-27T12:13:50.775026+00:00"
+  "updated_at": "2026-11-27T12:25:06.687224+00:00"
 }
