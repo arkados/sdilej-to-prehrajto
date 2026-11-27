@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T02:25:51.166994+00:00
+Poslední aktualizace (UTC): 2026-11-27T02:25:58.118039+00:00
 
 Zkontrolováno videí: 3455. Další stránka kontroly: 0.
 
@@ -647,7 +647,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Eliminators (1986) SD CZ Titulky](https://prehraj.to/eliminators-1986-sd-cz-titulky-mp4/fe11e925d112d972) (ID 29720595) | [Sdílej 30090091](https://sdilej.cz/30090091/eliminators.1986.vhsrip-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:38:07.699166+00:00 |
 | [Elisa a Marcela (2019) 1080p CZ Titulky](https://prehraj.to/elisa-a-marcela-2019-1080p-cz-titulky-avi/909b92102766fa09) (ID 29848461) | [Sdílej 11824610](https://sdilej.cz/11824610/elisa-y-marcela-2019-hc.titulky.cz-1080p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:03:05.674083+00:00 |
 | [Elita armády (2005) 1080p CZ Titulky](https://prehraj.to/elita-armady-2005-1080p-cz-titulky-mp4/046814d690cc33d8) (ID 29936811) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.494763+00:00 |
-| [Elitní jednotka 2: Vnitřní nepřítel (2010) 1080p CZ Titulky](https://prehraj.to/elitni-jednotka-2-vnitrni-nepritel-2010-1080p-cz-titulky-mkv/2edf16744908e288) (ID 29178613) | [Sdílej 26776202](https://sdilej.cz/26776202/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-titulky-vlozeny.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:23:31.302754+00:00 |
+| [Elitní jednotka 2: Vnitřní nepřítel (2010) 1080p CZ Titulky](https://prehraj.to/elitni-jednotka-2-vnitrni-nepritel-2010-1080p-cz-titulky-mkv/2edf16744908e288) (ID 29178613) | [Sdílej 26776202](https://sdilej.cz/26776202/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-titulky-vlozeny.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:25:58.117888+00:00 |
 | [Elizabeth Taylor: Ztracené nahrávky (2024) 1080p CZ Titulky](https://prehraj.to/elizabeth-taylor-ztracene-nahravky-2024-1080p-cz-titulky-mp4/62c39813e89e7b1c) (ID 29440774) | [Sdílej 34725065](https://sdilej.cz/34725065/elizabeth-taylor-ztracene-nahravky-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:27:44.634626+00:00 |
 | [Ella McCay (2025) 1080p CZ Titulky](https://prehraj.to/ella-mccay-2025-1080p-cz-titulky-mkv/70def997c20f290d) (ID 30368292) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T02:17:09.496358+00:00 |
 | [Elon Musk: The Real Life Iron Man (2018) 1080p CZ Titulky](https://prehraj.to/elon-musk-the-real-life-iron-man-2018-1080p-cz-titulky-mp4/025ec2ed320d6e8d) (ID 29234125) | [Sdílej 34737048](https://sdilej.cz/34737048/elon-musk-the-real-life-iron-man-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-19T22:31:40.517445+00:00 |
