@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:16:36.582352+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:16:43.340905+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -1453,7 +1453,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Miss Americana (2020) 1080p CZ Titulky](https://prehraj.to/miss-americana-2020-1080p-cz-titulky-mkv/6821ab368a858caa) (ID 31195877) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201002+00:00 |
 | [Miss Baek (2018) 1080p CZ Titulky](https://prehraj.to/miss-baek-2018-1080p-cz-titulky-mp4/cbb922ab795ad0dd) (ID 30070857) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.188986+00:00 |
 | [Mistr jinu a jangu (2021) 1080p CZ Titulky](https://prehraj.to/mistr-jinu-a-jangu-2021-1080p-cz-titulky-mp4/57e9101388736bd0) (ID 30716253) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.194971+00:00 |
-| [Mladé pušky II (1990) 1080p CZ Titulky](https://prehraj.to/mlade-pusky-ii-1990-1080p-cz-titulky-mkv/30bedb98874ec12d) (ID 29328488) | [Sdílej 29717590](https://sdilej.cz/29717590/young-guns-ii-mlade-pusky-2-1990-1080p-bluray-x264-slovak-subtitles-sade26.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:16:33.579337+00:00 |
+| [Mladé pušky II (1990) 1080p CZ Titulky](https://prehraj.to/mlade-pusky-ii-1990-1080p-cz-titulky-mkv/30bedb98874ec12d) (ID 29328488) | [Sdílej 29717590](https://sdilej.cz/29717590/young-guns-ii-mlade-pusky-2-1990-1080p-bluray-x264-slovak-subtitles-sade26.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:16:43.340774+00:00 |
 | [Mladé vlny (2019) 1080p CZ Titulky](https://prehraj.to/mlade-vlny-2019-1080p-cz-titulky-mkv/11d70be862608dfb) (ID 28962930) | [Sdílej 13070049](https://sdilej.cz/13070049/waves.2019.1080p.bluray.h264.aac-rarbg.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:16.462931+00:00 |
 | [Mladý Billy Young (1969) SD CZ Titulky](https://prehraj.to/mlady-billy-young-1969-sd-cz-titulky-avi/b8512296105ed474) (ID 30295882) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.190505+00:00 |
 | [Mlha bez hranic (2024) 1080p CZ Titulky](https://prehraj.to/mlha-bez-hranic-2024-1080p-cz-titulky-mkv/d3d801ebee55fb49) (ID 31000877) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.199314+00:00 |
