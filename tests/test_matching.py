@@ -35,6 +35,16 @@ def test_rejects_different_angelika_film_by_year() -> None:
     assert result.reason == "wrong_year"
 
 
+def test_encoded_release_year_distinguishes_films_with_same_translated_title() -> None:
+    source = "The Bride--Nevesta.2O17.O.WEB-DL.1O8Op-SLOVENSKÉ TITULKY.mkv"
+    original = Film(1, "the-bride-2017", "Невеста", None, 2017, 90, None, search_titles=("The Bride",))
+    other = Film(2, "the-bride-2015", "屍憶", None, 2015, 89, None, search_titles=("The Bride",))
+    assert classify_candidate(original, source, duration_sec=5496).tier == MatchTier.STRONG
+    rejected = classify_candidate(other, source, duration_sec=5496)
+    assert rejected.reason == "wrong_year"
+    assert rejected.evidence["candidate_year"] == 2017
+
+
 def test_rejects_wrong_cut_even_when_title_and_year_match() -> None:
     result = classify_candidate(
         film(),
