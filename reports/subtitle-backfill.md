@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T11:03:26.015513+00:00
+Poslední aktualizace (UTC): 2026-11-27T11:03:33.778026+00:00
 
 Zkontrolováno videí: 3459. Další stránka kontroly: 0.
 
@@ -2212,7 +2212,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Dův
 | [Stěhovaví ptáci (2018) 720p CZ Titulky](https://prehraj.to/stehovavi-ptaci-2018-720p-cz-titulky-mp4/e74f4cd97c1f0e1b) (ID 31385883) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.017334+00:00 |
 | [Střed mého světa (2016) SD CZ Titulky](https://prehraj.to/stred-meho-sveta-2016-sd-cz-titulky-mp4/a8b7b72c677d9c69) (ID 29440729) | [Sdílej 34737736](https://sdilej.cz/34737736/stred-meho-sveta-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:27:30.836838+00:00 |
 | [Střed světa (2001) SD CZ Titulky](https://prehraj.to/stred-sveta-2001-sd-cz-titulky-avi/79acd4b2c9241474) (ID 29640156) | [Sdílej 23104985](https://sdilej.cz/23104985/the.center.of.the.world.2001.dvdrip.xvid-bito.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:09:23.848788+00:00 |
-| [Střela (1996) SD CZ Titulky](https://prehraj.to/strela-1996-sd-cz-titulky-mp4/1bdfb98dc8204f62) (ID 29269553) | [Sdílej 34784621](https://sdilej.cz/34784621/strela-1996-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T03:32:39.336734+00:00 |
+| [Střela (1996) SD CZ Titulky](https://prehraj.to/strela-1996-sd-cz-titulky-mp4/1bdfb98dc8204f62) (ID 29269553) | [Sdílej 34784621](https://sdilej.cz/34784621/strela-1996-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T11:03:33.777919+00:00 |
 | [Střídavá péče (2017) 720p CZ Titulky](https://prehraj.to/stridava-pece-2017-720p-cz-titulky-mkv/bcd7e6d59a5da4b9) (ID 30995891) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.014213+00:00 |
 | [Stůl č. 21 (2013) SD CZ Titulky](https://prehraj.to/stul-c-21-2013-sd-cz-titulky-mp4/d1a87b5acb4c7ab3) (ID 29340118) | [Sdílej 34698683](https://sdilej.cz/34698683/stul-c.-21-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:17:49.012252+00:00 |
 | [Subedaar (2026) 1080p CZ Titulky](https://prehraj.to/subedaar-2026-1080p-cz-titulky-mp4/fff808be51babf43) (ID 30870022) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T10:59:06.011459+00:00 |
