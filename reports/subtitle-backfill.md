@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:23:01.905368+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:23:19.377054+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -2791,7 +2791,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Zesil to! (1990) 1080p CZ Titulky](https://prehraj.to/zesil-to-1990-1080p-cz-titulky-mp4/e2e900f297ebfd59) (ID 29393286) | [Sdílej 32451615](https://sdilej.cz/32451615/pump-up-the-volume-1990-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:16:41.341788+00:00 |
 | [Zeta (2026) 1080p CZ Titulky](https://prehraj.to/zeta-2026-1080p-cz-titulky-mkv/9159d711195b9791) (ID 30337722) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.190811+00:00 |
 | [Zhan lang 2 (2017) 720p CZ Titulky](https://prehraj.to/zhan-lang-2-2017-720p-cz-titulky-mp4/287868bc3830f8d9) (ID 29911336) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.186569+00:00 |
-| [Zjevení (2018) SD CZ Titulky](https://prehraj.to/zjeveni-2018-sd-cz-titulky-avi/36503d6ecd78c4c6) (ID 29366594) | [Sdílej 11096242](https://sdilej.cz/11096242/l.apparition.2018.pl.brrip.xvid-gr4pe.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:21:55.276538+00:00 |
+| [Zjevení (2018) SD CZ Titulky](https://prehraj.to/zjeveni-2018-sd-cz-titulky-avi/36503d6ecd78c4c6) (ID 29366594) | [Sdílej 11096242](https://sdilej.cz/11096242/l.apparition.2018.pl.brrip.xvid-gr4pe.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:23:19.376923+00:00 |
 | [Zlatá cihla (2023) 720p CZ Titulky](https://prehraj.to/zlata-cihla-2023-720p-cz-titulky-mp4/cbbf28f01577c309) (ID 30277961) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.190258+00:00 |
 | [Zlaté kapradí (1963) 720p CZ Titulky](https://prehraj.to/zlate-kapradi-1963-720p-cz-titulky-mkv/5324cdfbf4c94c9b) (ID 31031745) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.199691+00:00 |
 | [Zlo si umí počkat (2023) 1080p CZ Titulky](https://prehraj.to/zlo-si-umi-pockat-2023-1080p-cz-titulky-mp4/46d8e028b91ec786) (ID 31159984) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.200675+00:00 |
