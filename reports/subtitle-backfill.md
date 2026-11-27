@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:19:30.780801+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:19:44.048312+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -1300,7 +1300,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Les Amours d’Anaïs (2021) SD CZ Titulky](https://prehraj.to/les-amours-d-anais-2021-sd-cz-titulky-avi/f7f221a7f4260800) (ID 29353903) | [Sdílej 22809669](https://sdilej.cz/22809669/les.amours.d.anais.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:19:41.234074+00:00 |
 | [Les Crevettes pailletées (2019) SD CZ Titulky](https://prehraj.to/les-crevettes-pailletees-2019-sd-cz-titulky-mp4/9b0ce3bed95c5b4b) (ID 29220527) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.182758+00:00 |
 | [Lesní chata (2017) SD CZ Titulky](https://prehraj.to/lesni-chata-2017-sd-cz-titulky-mkv/bf287f0c95d3618d) (ID 30861340) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.196415+00:00 |
-| [Lesní jahody (1957) SD CZ Titulky](https://prehraj.to/lesni-jahody-1957-sd-cz-titulky-avi/4633f5b3104c8921) (ID 29282104) | [Sdílej 32215590](https://sdilej.cz/32215590/lesni-jahody-1957-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:19:00.692047+00:00 |
+| [Lesní jahody (1957) SD CZ Titulky](https://prehraj.to/lesni-jahody-1957-sd-cz-titulky-avi/4633f5b3104c8921) (ID 29282104) | [Sdílej 32215590](https://sdilej.cz/32215590/lesni-jahody-1957-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:19:44.048190+00:00 |
 | [Lesní rituál (2017) 1080p CZ Titulky.mkv](https://prehraj.to/lesni-ritual-2017-1080p-cz-titulky-mkv/ed0bc326a27ad5fa) (ID 29972175) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.188228+00:00 |
 | [Let's Spend the Night Together (1982) 1080p CZ Titulky](https://prehraj.to/let-s-spend-the-night-together-1982-1080p-cz-titulky-mkv/875dc27add304d21) (ID 31379050) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.202215+00:00 |
 | [Letový režim (2020) 1080p CZ Titulky](https://prehraj.to/letovy-rezim-2020-1080p-cz-titulky-mp4/28294ab04560d3ca) (ID 29914287) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.186873+00:00 |
