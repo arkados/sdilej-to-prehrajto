@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-27T20:12:41.231954+00:00
+Poslední aktualizace (UTC): 2026-11-27T20:13:00.773930+00:00
 
 Zkontrolováno videí: 3477. Další stránka kontroly: 0.
 
@@ -1687,7 +1687,7 @@ Kontrol: 113; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvo
 | [Open Grave (2013) SD CZ Titulky](https://prehraj.to/open-grave-2013-sd-cz-titulky-mp4/d683debde23e65f8) (ID 30929764) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.198150+00:00 |
 | [Operace Brothers (2019) 1080p CZ Titulky](https://prehraj.to/operace-brothers-2019-1080p-cz-titulky-mp4/5c338c24cf2dc0b9) (ID 29735386) | [Sdílej 12061134](https://sdilej.cz/12061134/the.red.sea.diving.resort.2019.1080p.webrip.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:45:52.936434+00:00 |
 | [Operace „Blue Sky“ (1994) 1080p CZ Titulky](https://prehraj.to/operace-blue-sky-1994-1080p-cz-titulky-mp4/20c6be7414d517b3) (ID 29392813) | [Sdílej 32752502](https://sdilej.cz/32752502/blue-sky-1994-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:16:25.816056+00:00 |
-| [Operator (2015) SD CZ Titulky](https://prehraj.to/operator-2015-sd-cz-titulky-avi/f883e15297a21a9a) (ID 29313124) | [Sdílej 6242213](https://sdilej.cz/6242213/operator-2015-brrip-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T13:13:30.170984+00:00 |
+| [Operator (2015) SD CZ Titulky](https://prehraj.to/operator-2015-sd-cz-titulky-avi/f883e15297a21a9a) (ID 29313124) | [Sdílej 6242213](https://sdilej.cz/6242213/operator-2015-brrip-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:13:00.773821+00:00 |
 | [Opice v zimě (1962) 1080p CZ Titulky](https://prehraj.to/opice-v-zime-1962-1080p-cz-titulky-0/843f41807bce6f1b) (ID 31237510) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201343+00:00 |
 | [Opičí Král 2 (2016) SD CZ Titulky](https://prehraj.to/opici-kral-2-2016-sd-cz-titulky-mp4/fe8fd3411741f183) (ID 29934306) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.187799+00:00 |
 | [Orang Ikan (2024) 1080p CZ Titulky](https://prehraj.to/orang-ikan-2024-1080p-cz-titulky-mkv/3b3bcd5d2451f674) (ID 31249414) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-27T20:02:12.201482+00:00 |
