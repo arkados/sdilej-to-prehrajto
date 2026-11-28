@@ -12128,17 +12128,19 @@
       }
     },
     "21113": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13366421",
+          "target_video_id": "31497600",
+          "permanent": false,
+          "attempted_at": "2026-11-28T11:58:33.058193+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13366421",
         "display_name": "Raz, dva, tři (1961) 1080p CZ Dabing",
         "planned_at": "2026-11-28T10:10:05.225006+00:00"
-      },
-      "claim": {
-        "worker_id": "7e191626d43d4e4c9c6a07ca758f8e4f-shard-0",
-        "claimed_at": "2026-11-28T11:04:36.085642+00:00",
-        "lease_expires_at": "2026-11-28T17:04:36.085642+00:00",
-        "run_id": "46132985481"
       },
       "previous_target_id": "31497600",
       "prepared": {
@@ -456387,5 +456389,5 @@
       }
     }
   },
-  "updated_at": "2026-11-28T11:05:03.471996+00:00"
+  "updated_at": "2026-11-28T11:58:33.058208+00:00"
 }
