@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T02:48:48.048261+00:00
+Poslední aktualizace (UTC): 2026-11-28T02:48:58.197369+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -2688,7 +2688,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Výheň (2011) SD CZ Titulky](https://prehraj.to/vyhen-2011-sd-cz-titulky-avi/355cca1c01d64405) (ID 29916356) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.020412+00:00 |
 | [Věrní nevěrní (2018) 1080p CZ Titulky](https://prehraj.to/verni-neverni-2018-1080p-cz-titulky-avi/b7075c0eb2ff9f7f) (ID 30289967) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.025796+00:00 |
 | [Věznice (1987) SD CZ Titulky](https://prehraj.to/veznice-1987-sd-cz-titulky-mkv/a3754d5982242d2e) (ID 30921827) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.040253+00:00 |
-| [Věřte mi: Únos Lisy McVeyové (2018) 1080p CZ Titulky](https://prehraj.to/verte-mi-unos-lisy-mcveyove-2018-1080p-cz-titulky-mp4/bafd0c41c2aeae4b) (ID 29393996) | [Sdílej 34735084](https://sdilej.cz/34735084/verte-mi-unos-lisy-mcveyove-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:17:05.864293+00:00 |
+| [Věřte mi: Únos Lisy McVeyové (2018) 1080p CZ Titulky](https://prehraj.to/verte-mi-unos-lisy-mcveyove-2018-1080p-cz-titulky-mp4/bafd0c41c2aeae4b) (ID 29393996) | [Sdílej 34735084](https://sdilej.cz/34735084/verte-mi-unos-lisy-mcveyove-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:48:58.197269+00:00 |
 | [Všechna ta krása a zabíjení (2022) 1080p CZ Titulky](https://prehraj.to/vsechna-ta-krasa-a-zabijeni-2022-1080p-cz-titulky-mp4/7adfb285aa1dbffd) (ID 30000019) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.022831+00:00 |
 | [Všechno je, jak má být (1995) SD CZ Titulky](https://prehraj.to/vsechno-je-jak-ma-byt-1995-sd-cz-titulky-avi/674b09a7ddcb383d) (ID 29688687) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.018813+00:00 |
 | [Všechny malé zázraky (2020) 720p CZ Titulky](https://prehraj.to/vsechny-male-zazraky-2020-720p-cz-titulky-mkv/2d8b2d2b5bce5212) (ID 30201204) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.024757+00:00 |
