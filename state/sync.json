@@ -369754,17 +369754,19 @@
       }
     },
     "13110": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35451571",
+          "target_video_id": "31489250",
+          "permanent": false,
+          "attempted_at": "2026-11-28T06:40:41.160294+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35451571",
         "display_name": "The Triangle (2001) SD CZ Titulky",
         "planned_at": "2026-11-28T06:37:31.802024+00:00"
-      },
-      "claim": {
-        "worker_id": "2aac03eef2f642d9a5eaeac38c7b8e09-shard-0",
-        "claimed_at": "2026-11-28T06:37:33.887055+00:00",
-        "lease_expires_at": "2026-11-28T12:37:33.887055+00:00",
-        "run_id": "46105312023"
       },
       "previous_target_id": "31489250",
       "prepared": {
@@ -456265,5 +456267,5 @@
       }
     }
   },
-  "updated_at": "2026-11-28T06:37:37.345494+00:00"
+  "updated_at": "2026-11-28T06:40:41.160311+00:00"
 }
