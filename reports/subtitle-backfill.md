@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:06:27.761524+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:06:35.332562+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -1709,7 +1709,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Otis (2008) 1080p CZ Titulky](https://prehraj.to/otis-2008-1080p-cz-titulky-mp4/61face0c51ac2799) (ID 31245130) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.149820+00:00 |
 | [Otřes mozku (2013) SD CZ Titulky](https://prehraj.to/otres-mozku-2013-sd-cz-titulky-avi/94b6105984e420e1) (ID 29664066) | [Sdílej 31070024](https://sdilej.cz/31070024/concussion-vostfr-2013-hdrip-xvid-etrg.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:20:21.605931+00:00 |
 | [Our Girls (2025) 1080p CZ Titulky](https://prehraj.to/our-girls-2025-1080p-cz-titulky-mkv/632484251331b136) (ID 30036296) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.134595+00:00 |
-| [Our Godfather (2019) SD CZ Titulky](https://prehraj.to/our-godfather-2019-sd-cz-titulky-mp4/e763c63f9511ff67) (ID 29562884) | [Sdílej 34733987](https://sdilej.cz/34733987/our-godfather-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:44:47.741478+00:00 |
+| [Our Godfather (2019) SD CZ Titulky](https://prehraj.to/our-godfather-2019-sd-cz-titulky-mp4/e763c63f9511ff67) (ID 29562884) | [Sdílej 34733987](https://sdilej.cz/34733987/our-godfather-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:06:35.332450+00:00 |
 | [Out (2017) 720p CZ Titulky](https://prehraj.to/out-2017-720p-cz-titulky-mp4/01314149436509fb) (ID 31364138) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.150303+00:00 |
 | [Out of Darkness (2022) 1080p CZ Titulky](https://prehraj.to/out-of-darkness-2022-1080p-cz-titulky-mkv/c650a7d37c6afe72) (ID 31165119) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148761+00:00 |
 | [Out of Death (2021) 720p CZ Titulky](https://prehraj.to/out-of-death-2021-720p-cz-titulky-avi/9dbce487d8a4df83) (ID 29089541) | [Sdílej 17416471](https://sdilej.cz/17416471/out-of-death-2021-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:20:57.092695+00:00 |
