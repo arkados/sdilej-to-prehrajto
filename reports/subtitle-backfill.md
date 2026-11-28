@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T02:47:43.052223+00:00
+Poslední aktualizace (UTC): 2026-11-28T02:47:51.320650+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -130,7 +130,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Anelka: Nepochopený střelec (2020) 1080p CZ Titulky](https://prehraj.to/anelka-nepochopeny-strelec-2020-1080p-cz-titulky-mp4/448aee86917fda4a) (ID 30573295) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.032592+00:00 |
 | [Angeliena (2021) 1080p CZ Titulky](https://prehraj.to/angeliena-2021-1080p-cz-titulky-mp4/b221f9d42fa71f98) (ID 30775020) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.036611+00:00 |
 | [Angels Fallen: Warriors of Peace (2024) 1080p CZ Titulky](https://prehraj.to/angels-fallen-warriors-of-peace-2024-1080p-cz-titulky-mkv/ee3277ad1302d694) (ID 30755618) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.036166+00:00 |
-| [Angie: Lost Girls (2020) 1080p CZ Titulky](https://prehraj.to/angie-lost-girls-2020-1080p-cz-titulky-mp4/ac8650b2819ddd1c) (ID 29389569) | [Sdílej 34773466](https://sdilej.cz/34773466/angie-lost-girls-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:15:59.508144+00:00 |
+| [Angie: Lost Girls (2020) 1080p CZ Titulky](https://prehraj.to/angie-lost-girls-2020-1080p-cz-titulky-mp4/ac8650b2819ddd1c) (ID 29389569) | [Sdílej 34773466](https://sdilej.cz/34773466/angie-lost-girls-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:47:51.320509+00:00 |
 | [Angliština Engliština (2012) SD CZ Titulky](https://prehraj.to/anglistina-englistina-2012-sd-cz-titulky-avi/6a43bddcdd6fb3d7) (ID 30548725) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.032104+00:00 |
 | [Angustia (1987) SD CZ Titulky](https://prehraj.to/angustia-1987-sd-cz-titulky-mkv/e6ccd03fef5a23da) (ID 31220953) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.045465+00:00 |
 | [Aniara (2018) 1080p CZ Titulky](https://prehraj.to/aniara-2018-1080p-cz-titulky-mp4/4cbc0c48b03d7365) (ID 30926745) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.040693+00:00 |
