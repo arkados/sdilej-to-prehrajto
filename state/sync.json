@@ -22153,17 +22153,19 @@
       }
     },
     "10790": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17044462",
+          "target_video_id": "31495991",
+          "permanent": false,
+          "attempted_at": "2026-11-28T10:09:38.539111+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17044462",
         "display_name": "Osud člověka (1959) SD CZ Dabing",
         "planned_at": "2026-11-28T10:04:31.378845+00:00"
-      },
-      "claim": {
-        "worker_id": "fb3ec1a4e3594e6f9dd62fb1dd8497e0-shard-0",
-        "claimed_at": "2026-11-28T10:04:32.271642+00:00",
-        "lease_expires_at": "2026-11-28T16:04:32.271642+00:00",
-        "run_id": "46132985481"
       },
       "previous_target_id": "31495991",
       "prepared": {
@@ -456292,5 +456294,5 @@
       }
     }
   },
-  "updated_at": "2026-11-28T10:04:35.579132+00:00"
+  "updated_at": "2026-11-28T10:09:38.539125+00:00"
 }
