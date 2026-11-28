@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:06:54.748698+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:07:01.528758+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -2261,7 +2261,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Sweet Home (2015) SD CZ Titulky](https://prehraj.to/sweet-home-2015-sd-cz-titulky-avi/c3fc72fb2779159f) (ID 30863281) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.144748+00:00 |
 | [Sweet Virginia (2017) 1080p CZ Titulky](https://prehraj.to/sweet-virginia-2017-1080p-cz-titulky-mkv/06a8c4ca907e4511) (ID 31039056) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148088+00:00 |
 | [Sweetheart (2019) 720p CZ Titulky](https://prehraj.to/sweetheart-2019-720p-cz-titulky-mp4/fc8d34ce98c0dae4) (ID 29909865) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.133146+00:00 |
-| [Sword Art Online: Extra Edition (2013) 1080p CZ Titulky](https://prehraj.to/sword-art-online-extra-edition-2013-1080p-cz-titulky-mkv/1b4c7e2e2f3e2bc4) (ID 29565053) | [Sdílej 35057302](https://sdilej.cz/35057302/sword-art-online-extra-edition-sk-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:45:11.441092+00:00 |
+| [Sword Art Online: Extra Edition (2013) 1080p CZ Titulky](https://prehraj.to/sword-art-online-extra-edition-2013-1080p-cz-titulky-mkv/1b4c7e2e2f3e2bc4) (ID 29565053) | [Sdílej 35057302](https://sdilej.cz/35057302/sword-art-online-extra-edition-sk-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:07:01.528635+00:00 |
 | [Sword of Vengeance (2015) SD CZ Titulky](https://prehraj.to/sword-of-vengeance-2015-sd-cz-titulky-avi/5d40e6bf6c23fe64) (ID 31047863) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148317+00:00 |
 | [Sye Raa Narasimha Reddy (2019) SD CZ Titulky](https://prehraj.to/sye-raa-narasimha-reddy-2019-sd-cz-titulky-mp4/8fad0f5b7268326d) (ID 31388297) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.151270+00:00 |
 | [Syn (2019) SD CZ Titulky](https://prehraj.to/syn-2019-sd-cz-titulky-mkv/5b0b1f88e314fd41) (ID 29921282) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.133607+00:00 |
