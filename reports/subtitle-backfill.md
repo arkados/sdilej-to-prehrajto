@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:10:20.557664+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:10:27.403529+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -2608,7 +2608,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [V kapradí: Film (2019) 720p CZ Titulky](https://prehraj.to/v-kapradi-film-2019-720p-cz-titulky-mkv/f0e3c3408128805f) (ID 30344502) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.137944+00:00 |
 | [V koutku srdce (2018) 1080p CZ Titulky](https://prehraj.to/v-koutku-srdce-2018-1080p-cz-titulky-mkv/8115efb1b80126a4) (ID 31022039) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.147669+00:00 |
 | [V kraji vína (2019) 1080p CZ Titulky](https://prehraj.to/v-kraji-vina-2019-1080p-cz-titulky-mkv/38d7a468ee8a7756) (ID 30368186) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.138511+00:00 |
-| [V kuchyni (2024) 1080p CZ Titulky](https://prehraj.to/v-kuchyni-2024-1080p-cz-titulky-mkv/f62964fbf7b5264a) (ID 29576745) | [Sdílej 30627533](https://sdilej.cz/30627533/la-cocina-alonso-ruizpalacios-2024-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:49:02.291783+00:00 |
+| [V kuchyni (2024) 1080p CZ Titulky](https://prehraj.to/v-kuchyni-2024-1080p-cz-titulky-mkv/f62964fbf7b5264a) (ID 29576745) | [Sdílej 30627533](https://sdilej.cz/30627533/la-cocina-alonso-ruizpalacios-2024-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:10:27.403399+00:00 |
 | [V lásce a válce (2018) 720p CZ Titulky](https://prehraj.to/v-lasce-a-valce-2018-720p-cz-titulky-mkv/641bc8a9880f1272) (ID 30157444) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.135225+00:00 |
 | [V objetí upíra (1995) 1080p CZ Titulky](https://prehraj.to/v-objeti-upira-1995-1080p-cz-titulky-mp4/2c7711e85338d047) (ID 30944832) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.146745+00:00 |
 | [V objetí ďábla (2015) 720p CZ Titulky](https://prehraj.to/v-objeti-dabla-2015-720p-cz-titulky-avi/fc067476341c44b4) (ID 29043938) | [Sdílej 5581518](https://sdilej.cz/5581518/regression-2015-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:19:33.161281+00:00 |
