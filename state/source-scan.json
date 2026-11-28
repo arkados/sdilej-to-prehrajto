@@ -20546,16 +20546,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-28T00:53:32.750935+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "empty_reason": "media_rejected",
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-28T10:15:54.013029+00:00"
         },
         {
@@ -20567,6 +20557,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-28T15:50:44.034116+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13:release-runtime:113",
+          "reason": "Discovery deadline expired before verification completed",
+          "attempted_at": "2026-11-28T16:31:34.380474+00:00"
         }
       ]
     },
@@ -160479,13 +160476,6 @@
     "24062": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate limit reached before verification completed",
-          "attempted_at": "2026-11-26T04:03:35.608507+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "empty_reason": "media_rejected",
@@ -160501,6 +160491,16 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-28T15:30:01.463933+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "empty_reason": "media_rejected",
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-28T16:32:00.284617+00:00"
         }
       ]
     },
@@ -734051,5 +734051,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-28T16:30:35.064356+00:00"
+  "updated_at": "2026-11-28T16:32:00.284641+00:00"
 }
