@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:18:40.315154+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:18:48.304883+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -208,7 +208,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Bad Man's River (1971) 720p CZ Titulky](https://prehraj.to/bad-man-s-river-1971-720p-cz-titulky-mp4/9736c2bd76b5c601) (ID 31399456) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.151496+00:00 |
 | [Badh (2025) 1080p CZ Titulky](https://prehraj.to/badh-2025-1080p-cz-titulky-mkv/4402c5b033d856af) (ID 30293376) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.137114+00:00 |
 | [Badland (2019) 1080p CZ Titulky](https://prehraj.to/badland-2019-1080p-cz-titulky-mkv/568000c5d80e1725) (ID 29922148) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.133625+00:00 |
-| [Badrinath Ki Dulhania (2017) SD CZ Titulky](https://prehraj.to/badrinath-ki-dulhania-2017-sd-cz-titulky-mp4/ae1bbefe2f26d754) (ID 29611698) | [Sdílej 34737525](https://sdilej.cz/34737525/badrinath-ki-dulhania-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:57:26.308954+00:00 |
+| [Badrinath Ki Dulhania (2017) SD CZ Titulky](https://prehraj.to/badrinath-ki-dulhania-2017-sd-cz-titulky-mp4/ae1bbefe2f26d754) (ID 29611698) | [Sdílej 34737525](https://sdilej.cz/34737525/badrinath-ki-dulhania-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:18:48.304750+00:00 |
 | [Baekdusan (2019) SD CZ Titulky](https://prehraj.to/baekdusan-2019-sd-cz-titulky-avi/e16dd5ab339c14e3) (ID 30294473) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.137177+00:00 |
 | [Bag of Lies (2024) 1080p CZ Titulky](https://prehraj.to/bag-of-lies-2024-1080p-cz-titulky-mp4/83498605230eb452) (ID 30609005) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.142263+00:00 |
 | [Baggio: Božský copánek (2021) 1080p CZ Titulky](https://prehraj.to/baggio-bozsky-copanek-2021-1080p-cz-titulky-mp4/dce78961197bd72d) (ID 29585364) | [Sdílej 34731587](https://sdilej.cz/34731587/baggio-bozsky-copanek-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:12:41.017583+00:00 |
