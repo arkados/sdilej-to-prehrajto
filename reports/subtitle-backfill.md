@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T03:03:10.059383+00:00
+Poslední aktualizace (UTC): 2026-11-28T03:03:20.775051+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -40,7 +40,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [2067 (2020) 1080p CZ Titulky](https://prehraj.to/2067-2020-1080p-cz-titulky-mkv/d4c55bce0188c61c) (ID 31373233) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.046156+00:00 |
 | [2073 (2024) 1440p CZ Titulky](https://prehraj.to/2073-2024-1440p-cz-titulky-mkv/284a43ab5ea3d0b7) (ID 31373034) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.046123+00:00 |
 | [22 July (2018) 1080p CZ Titulky](https://prehraj.to/22-july-2018-1080p-cz-titulky-avi/7431fb18a4ca373e) (ID 29676030) | [Sdílej 11434044](https://sdilej.cz/11434044/22.-cervence-22-july-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:22:41.960881+00:00 |
-| [25 km/h (2018) 1080p CZ Titulky](https://prehraj.to/25-km-h-2018-1080p-cz-titulky-mp4/a57b882fd4bcf21c) (ID 29461434) | [Sdílej 30612611](https://sdilej.cz/30612611/25-km-h-2018-de-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:30:15.244112+00:00 |
+| [25 km/h (2018) 1080p CZ Titulky](https://prehraj.to/25-km-h-2018-1080p-cz-titulky-mp4/a57b882fd4bcf21c) (ID 29461434) | [Sdílej 30612611](https://sdilej.cz/30612611/25-km-h-2018-de-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T03:03:20.774923+00:00 |
 | [25 let neviny (2020) 1080p CZ Titulky](https://prehraj.to/25-let-neviny-2020-1080p-cz-titulky-mkv/ccb4fe7ab705d118) (ID 30321465) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.026614+00:00 |
 | [2898 (2024) 720p CZ Titulky.avi](https://prehraj.to/2898-2024-720p-cz-titulky-avi/44ba3b2824c6af99) (ID 30041803) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.023338+00:00 |
 | [2:37 (2006) SD CZ Titulky](https://prehraj.to/2-37-2006-sd-cz-titulky-mp4/f3fa945e6fb563b0) (ID 29674582) | [Sdílej 33563983](https://sdilej.cz/33563983/2.37-2006-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:22:02.783243+00:00 |
