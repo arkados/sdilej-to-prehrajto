@@ -160570,13 +160570,6 @@
     "10686": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate limit reached before verification completed",
-          "attempted_at": "2026-11-25T21:44:54.277925+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "empty_reason": "media_rejected",
@@ -160592,6 +160585,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-28T08:27:29.857222+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before verification completed",
+          "attempted_at": "2026-11-28T08:52:24.007425+00:00"
         }
       ]
     },
@@ -187610,13 +187610,6 @@
           "status": "source_deep_scan_failed",
           "permanent": false,
           "selection_policy": "compact-quality-v13",
-          "reason": "Unrecognized search response; refusing empty result; title='Beauties Of The Night online | Sdilej.cz'; bytes=214861; notice=Kvalita Vše 4K 1080p+ 720p+ Uživatelé také hledají: Tchan S Tchyni Jsou Psanci Sex Education S04e01 Svetlonoc Mavka Zakony Vlka S02e04 Přejdi na roční plán a ušetři! 🎁 ROČNÍ PLÁN = 1 MĚSÍC ZDARMA Platíš jen ~137 Kč/měs. místo 149 Kč Zbývající dny měsíčního plánu: - Hodnota zbývajících dní: - Cena ročního plánu: - K doplacení: - Načítám informace... ✅ Přejít na roční plán Možná později",
-          "attempted_at": "2026-11-26T21:48:20.836031+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Beauties Of The Night online | Sdilej.cz'; bytes=214817; notice=Kvalita Vše 4K 1080p+ 720p+ Uživatelé také hledají: Horor 2023 The Nun 2023 Cz The Winter King Prave Se Stahuje Kandahar Přejdi na roční plán a ušetři! 🎁 ROČNÍ PLÁN = 1 MĚSÍC ZDARMA Platíš jen ~137 Kč/měs. místo 149 Kč Zbývající dny měsíčního plánu: - Hodnota zbývajících dní: - Cena ročního plánu: - K doplacení: - Načítám informace... ✅ Přejít na roční plán Možná později",
           "attempted_at": "2026-11-27T09:29:11.367302+00:00"
         },
@@ -187626,6 +187619,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Beauties Of The Night online | Sdilej.cz'; bytes=217953; notice=Kvalita Vše 4K 1080p+ 720p+ Uživatelé také hledají: Equalizer Polnocna Spoved Fuck Zrazena Laska 118 Our Flag Means Death S02e01 Přejdi na roční plán a ušetři! 🎁 ROČNÍ PLÁN = 1 MĚSÍC ZDARMA Platíš jen ~137 Kč/měs. místo 149 Kč Zbývající dny měsíčního plánu: - Hodnota zbývajících dní: - Cena ročního plánu: - K doplacení: - Načítám informace... ✅ Přejít na roční plán Možná později",
           "attempted_at": "2026-11-27T21:55:20.696701+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before search completed",
+          "attempted_at": "2026-11-28T09:07:24.832496+00:00"
         }
       ]
     },
@@ -624878,15 +624878,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-20T21:54:21.685908+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-23T10:14:28.542365+00:00"
         },
         {
@@ -624898,6 +624889,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-25T22:18:53.948398+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before search completed",
+          "attempted_at": "2026-11-28T09:07:25.630565+00:00"
         }
       ]
     },
@@ -633909,15 +633907,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-23T10:06:34.874059+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "empty_reason": "media_rejected",
           "discovery_complete": true,
           "search_response_validated": true,
@@ -633931,6 +633920,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Discovery deadline expired before search completed",
           "attempted_at": "2026-11-28T08:26:17.302478+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before search completed",
+          "attempted_at": "2026-11-28T09:02:24.305013+00:00"
         }
       ]
     },
@@ -636298,15 +636294,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-20T21:53:47.708370+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-23T10:13:59.889876+00:00"
         },
         {
@@ -636318,6 +636305,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-25T22:18:07.426783+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before search completed",
+          "attempted_at": "2026-11-28T08:57:23.780957+00:00"
         }
       ]
     },
@@ -733160,5 +733154,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-28T08:47:17.920372+00:00"
+  "updated_at": "2026-11-28T09:07:25.630587+00:00"
 }
