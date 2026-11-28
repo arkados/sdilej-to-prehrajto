@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:07:10.194499+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:07:19.084944+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -2809,7 +2809,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Zločin z nenávisti (2005) 1080p CZ Titulky](https://prehraj.to/zlocin-z-nenavisti-2005-1080p-cz-titulky-mp4/44c3bffbd65c579f) (ID 31206717) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.149219+00:00 |
 | [Zločiny budoucnosti (2022) 1080p CZ Titulky](https://prehraj.to/zlociny-budoucnosti-2022-1080p-cz-titulky-mkv/9f7721c0319bfab5) (ID 30863648) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.144766+00:00 |
 | [Znamení voodoo (2020) 1080p CZ Titulky](https://prehraj.to/znameni-voodoo-2020-1080p-cz-titulky-avi/4f390f64c2c7f833) (ID 29936659) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.134097+00:00 |
-| [Znovu zrozen (2016) 1080p CZ Titulky](https://prehraj.to/znovu-zrozen-2016-1080p-cz-titulky-mkv/7f2b941812745f52) (ID 29566591) | [Sdílej 32832255](https://sdilej.cz/32832255/re.born-2016-1080p-bluray-x265-10bit-eac3-5.1-japanese-sampa-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:45:29.883234+00:00 |
+| [Znovu zrozen (2016) 1080p CZ Titulky](https://prehraj.to/znovu-zrozen-2016-1080p-cz-titulky-mkv/7f2b941812745f52) (ID 29566591) | [Sdílej 32832255](https://sdilej.cz/32832255/re.born-2016-1080p-bluray-x265-10bit-eac3-5.1-japanese-sampa-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:07:19.084821+00:00 |
 | [Zoe (2018) 1080p CZ Titulky](https://prehraj.to/zoe-2018-1080p-cz-titulky-mkv/b1528fc9ed0df376) (ID 30313724) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.137590+00:00 |
 | [Zola (2020) 720p CZ Titulky](https://prehraj.to/zola-2020-720p-cz-titulky-mp4/fe2f51475df96405) (ID 29400325) | [Sdílej 34773120](https://sdilej.cz/34773120/zola-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:52:30.430973+00:00 |
 | [Zombeavers (2014) 1080p CZ Titulky](https://prehraj.to/zombeavers-2014-1080p-cz-titulky-mp4/43fafd36e9c5ae44) (ID 29907381) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.132999+00:00 |
