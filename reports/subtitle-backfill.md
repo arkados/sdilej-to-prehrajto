@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T02:53:56.112267+00:00
+Poslední aktualizace (UTC): 2026-11-28T02:54:09.106103+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -435,7 +435,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Co tomu řeknou lidi (2017) SD CZ Titulky](https://prehraj.to/co-tomu-reknou-lidi-2017-sd-cz-titulky-avi/d273b2314a3dfbe5) (ID 29318908) | [Sdílej 23210602](https://sdilej.cz/23210602/co-tomu-reknou-lidi-2017-sk-titulky-vlozene.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:14:06.726365+00:00 |
 | [Co tě drží naživu (2018) 1080p CZ Titulky](https://prehraj.to/co-te-drzi-nazivu-2018-1080p-cz-titulky-avi/8d39960c23efb3e0) (ID 29914193) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.020170+00:00 |
 | [Cocaine Godmother (2017) 1080p CZ Titulky](https://prehraj.to/cocaine-godmother-2017-1080p-cz-titulky-mp4/ac462843c1036ca3) (ID 30615594) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.033732+00:00 |
-| [Code 3 (2025) 1080p CZ Titulky](https://prehraj.to/code-3-2025-1080p-cz-titulky-mkv/9551d43f76ecfff4) (ID 29409331) | [Sdílej 32098593](https://sdilej.cz/32098593/code-3-2025-1080p-web-dl-x265--.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:21:36.979165+00:00 |
+| [Code 3 (2025) 1080p CZ Titulky](https://prehraj.to/code-3-2025-1080p-cz-titulky-mkv/9551d43f76ecfff4) (ID 29409331) | [Sdílej 32098593](https://sdilej.cz/32098593/code-3-2025-1080p-web-dl-x265--.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:54:09.105992+00:00 |
 | [Coffee & Kareem (2020) 1080p CZ Titulky](https://prehraj.to/coffee-kareem-2020-1080p-cz-titulky-mkv/fc0f314f4ff05e5d) (ID 30625703) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.034035+00:00 |
 | [Coffin Baby (2013) SD CZ Titulky](https://prehraj.to/coffin-baby-2013-sd-cz-titulky-avi/d472534b6e21eb42) (ID 31373082) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.046132+00:00 |
 | [Cold Meat (2023) 1080p CZ Titulky](https://prehraj.to/cold-meat-2023-1080p-cz-titulky-mp4/cd345aa685724de7) (ID 29912376) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.019983+00:00 |
