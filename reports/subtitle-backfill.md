@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:09:32.150361+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:09:40.270382+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -293,7 +293,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Blood Bound (2019) 1080p CZ Titulky](https://prehraj.to/blood-bound-2019-1080p-cz-titulky-avi/bbf71258af7b2e49) (ID 30294830) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.137208+00:00 |
 | [Blood Fest (2018) SD CZ Titulky](https://prehraj.to/blood-fest-2018-sd-cz-titulky-avi/e65f5bcfb37dab75) (ID 30459984) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.140716+00:00 |
 | [Blood Is Blood (2016) SD CZ Titulky](https://prehraj.to/blood-is-blood-2016-sd-cz-titulky-mp4/372fc0d943c961bc) (ID 29392783) | [Sdílej 34737840](https://sdilej.cz/34737840/blood-is-blood-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:48:09.449595+00:00 |
-| [Blood Machines (2019) 1080p CZ Titulky](https://prehraj.to/blood-machines-2019-1080p-cz-titulky-mkv/e96282f111c55a7e) (ID 29574743) | [Sdílej 13672105](https://sdilej.cz/13672105/blood.machines.2019.e01-e03.1080p.amzn.webrip.x264.dts-hd.ma-creative24.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:48:05.458500+00:00 |
+| [Blood Machines (2019) 1080p CZ Titulky](https://prehraj.to/blood-machines-2019-1080p-cz-titulky-mkv/e96282f111c55a7e) (ID 29574743) | [Sdílej 13672105](https://sdilej.cz/13672105/blood.machines.2019.e01-e03.1080p.amzn.webrip.x264.dts-hd.ma-creative24.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:09:40.270254+00:00 |
 | [Blood Shot (2013) SD CZ Titulky](https://prehraj.to/blood-shot-2013-sd-cz-titulky-mp4/391206f73351e444) (ID 29679551) | [Sdílej 31936352](https://sdilej.cz/31936352/blood-shot-2013-tit-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:23:58.554497+00:00 |
 | [Blood Star (2024) SD CZ Titulky](https://prehraj.to/blood-star-2024-sd-cz-titulky-mkv/1cb76781539aeed6) (ID 30921597) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.145945+00:00 |
 | [Blood Vessel (2019) SD CZ Titulky](https://prehraj.to/blood-vessel-2019-sd-cz-titulky-mkv/e122c56107dd526c) (ID 29912378) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.133293+00:00 |
