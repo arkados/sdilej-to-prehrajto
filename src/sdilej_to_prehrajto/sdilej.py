@@ -461,9 +461,9 @@ class SdilejProvider:
             self._get(candidate.url, session=session).text, candidate
         )
 
-    def discover(self, film: Film) -> list[Candidate]:
+    def discover(self, film: Film, *, previous_source: Candidate | None = None) -> list[Candidate]:
         deadline = time.monotonic() + self.discovery_timeout_seconds
-        candidates: dict[str, Candidate] = {}
+        seen_sources: set[str] = set()
         matched_by_rank: dict[int, list[Candidate]] = {}
         resolved: list[Candidate] = []
         search_failure: SdilejError | None = None
@@ -472,6 +472,24 @@ class SdilejProvider:
         searched_slugs: set[str] = set()
         verification_failed = False
         inspected = 0
+
+        def consider(candidate: Candidate) -> None:
+            if candidate.source_id in seen_sources:
+                return
+            seen_sources.add(candidate.source_id)
+            matched = classify_candidate(film, candidate.title, duration_sec=candidate.duration_sec)
+            if matched.reason == "wrong_runtime":
+                # The search list can truncate the runtime. The original-media
+                # probe still checks it before the candidate can be accepted.
+                title_match = classify_candidate(film, candidate.title)
+                if title_match.tier == MatchTier.SOLID and title_match.evidence.get("title_contains_alias"):
+                    matched = title_match
+            candidate.match_tier = matched.tier
+            candidate.match_evidence = matched.evidence
+            if matched.tier in (MatchTier.STRONG, MatchTier.SOLID):
+                rank = resolution_rank(candidate.width, candidate.height)
+                matched_by_rank.setdefault(rank, []).append(candidate)
+
         titles = dict.fromkeys(
             item for item in film.titles if slugify(item)
         )
@@ -508,29 +526,9 @@ class SdilejProvider:
                     search_failure = error
                     continue
                 for candidate in results:
-                    if candidate.source_id in candidates:
-                        continue
-                    candidates[candidate.source_id] = candidate
-                    matched = classify_candidate(
-                        film,
-                        candidate.title,
-                        duration_sec=candidate.duration_sec,
-                    )
-                    if matched.reason == "wrong_runtime":
-                        # The search list can report a shorter duration than
-                        # the actual media. Let a matching title and year reach
-                        # the original-media check, which still enforces runtime.
-                        title_match = classify_candidate(film, candidate.title)
-                        if (
-                            title_match.tier == MatchTier.SOLID
-                            and title_match.evidence.get("title_contains_alias")
-                        ):
-                            matched = title_match
-                    candidate.match_tier = matched.tier
-                    candidate.match_evidence = matched.evidence
-                    if matched.tier in (MatchTier.STRONG, MatchTier.SOLID):
-                        rank = resolution_rank(candidate.width, candidate.height)
-                        matched_by_rank.setdefault(rank, []).append(candidate)
+                    consider(candidate)
+        if previous_source is not None:
+            consider(previous_source)
 
         if search_failure is not None:
             if not matched_by_rank:
@@ -635,7 +633,7 @@ class SdilejProvider:
         if verification_failed and not resolved:
             raise SdilejError("Candidate verification failed; no source was ruled out conclusively")
         if not resolved:
-            if not candidates:
+            if not seen_sources:
                 self.empty_reason = "no_search_results"
             elif not matched_by_rank:
                 self.empty_reason = "no_matching_listing"

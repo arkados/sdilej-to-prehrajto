@@ -58,7 +58,7 @@ jobs:
             sync_output=$(sdilej-sync continuous \
               --limit "${{ vars.CONTINUOUS_BATCH_SIZE || '5' }}" \
               --persist-git-state 2>&1 | tee /dev/stderr)
-            if grep -q "planned=0" <<<"$sync_output"; then
+            if grep -Eq '^planned=0 |^transfer_plan=1 pending_target_checks=1 new_transfer_candidates=0 old_target_checks=1$' <<<"$sync_output"; then
               # Source preparation publishes small verified batches. Poll
               # frequently enough that an empty queue does not add another
               # multi-minute gap before the next relay starts.

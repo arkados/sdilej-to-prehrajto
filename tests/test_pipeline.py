@@ -553,12 +553,13 @@ def test_continuous_queue_rotates_retries_behind_unvisited_films(tmp_path) -> No
     plan = pipeline.build_plan(films, 2, max_scan=2, verified_only=True)
     assert [row["film"]["cr_film_id"] for row in plan] == [3, 4]
 
-    # While recent uploads cool down, the oldest reconciliation gets a turn.
+    # While recent uploads cool down, reconcile one old target before polling
+    # the source queue again.
     for film_id in (3, 4):
         state.record_target_processing(film_id, video_id=str(100 + film_id),
                                        size=100, source_id=str(film_id))
     plan = pipeline.build_plan(films, 2, max_scan=2, verified_only=True)
-    assert [row["film"]["cr_film_id"] for row in plan] == [2, 1]
+    assert [row["film"]["cr_film_id"] for row in plan] == [2]
     assert [film.cr_film_id for film in films] == [1, 2, 3, 4]
 
 

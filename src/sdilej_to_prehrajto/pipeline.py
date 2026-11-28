@@ -135,6 +135,7 @@ class SyncPipeline:
             raise ValueError("Limit must be positive")
         plan: list[dict] = []
         inspected = 0
+        old_target_checks = 0
         if verified_only:
             recent_cutoff = _recent_target_cutoff()
 
@@ -178,6 +179,13 @@ class SyncPipeline:
             # verified sources lower in the prioritized backlog forever.
             if verified_only and cached is None:
                 continue
+            if verified_only and transfer_priority(film)[0] == 2:
+                # Keep each polling round short when only old targets remain.
+                # Fresh sources published during reconciliation can then run
+                # on the next round.
+                if old_target_checks:
+                    break
+                old_target_checks += 1
             if max_scan is not None and inspected >= max_scan:
                 break
             inspected += 1
@@ -231,7 +239,8 @@ class SyncPipeline:
             pending_targets = sum(self.state.pending_prepared(row["film"]["cr_film_id"])
                                   for row in plan)
             print(f"transfer_plan={len(plan)} pending_target_checks={pending_targets} "
-                  f"new_transfer_candidates={len(plan) - pending_targets}", flush=True)
+                  f"new_transfer_candidates={len(plan) - pending_targets} "
+                  f"old_target_checks={old_target_checks}", flush=True)
         return plan
 
     def prepare_sources(
@@ -276,7 +285,13 @@ class SyncPipeline:
                     flush=True,
                 )
             try:
-                discovered = self.source_provider.discover(film)
+                previous_source = self.selected_sources.candidate(
+                    film.cr_film_id, for_reverification=True,
+                )
+                if previous_source is None:
+                    discovered = self.source_provider.discover(film)
+                else:
+                    discovered = self.source_provider.discover(film, previous_source=previous_source)
             except PremiumRequiredError:
                 # Missing fast-download entitlement affects every source.
                 # Fail the workflow visibly instead of scanning the backlog.

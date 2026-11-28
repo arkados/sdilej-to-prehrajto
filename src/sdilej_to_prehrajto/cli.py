@@ -120,7 +120,8 @@ def prepare_source_batch(
         )
         return (
             film.cr_film_id not in priority_ids,
-            source.get("source_status") != "rediscovery_needed",
+            source.get("source_status") != "rediscovery_needed"
+            and sources.candidate(film.cr_film_id, for_reverification=True) is None,
             not changed_titles,
             (attempts[-1].get("attempted_at") or "") if attempts else "",
         )

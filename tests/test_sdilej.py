@@ -32,6 +32,26 @@ SEARCH_HTML = """
 """
 
 
+@pytest.mark.parametrize("verified", [False, True])
+def test_discovery_rechecks_legacy_source_missing_from_search(monkeypatch, verified):
+    provider = SdilejProvider(object(), None)
+    film = Film(1, "film", "Example Film", None, 2000, 100, "en")
+    previous = Candidate("10", "https://sdilej.cz/10/film.mkv", "Example Film (2000).mkv",
+                         duration_sec=6000, width=1920, height=1080)
+    checked = []
+    monkeypatch.setattr(provider, "search_by_quality", lambda _query: [])
+
+    def verify(verified_film, candidate):
+        assert verified_film is film
+        checked.append(candidate.source_id)
+        return candidate if verified else None
+
+    monkeypatch.setattr(provider, "_verify_candidate", verify)
+
+    assert provider.discover(film, previous_source=previous) == ([previous] if verified else [])
+    assert checked == ["10"]
+
+
 @pytest.mark.parametrize("independent_session", [False, True])
 @pytest.mark.parametrize("status", [429, 500, 522])
 def test_http_failure_is_retryable_and_redacted(independent_session, status):

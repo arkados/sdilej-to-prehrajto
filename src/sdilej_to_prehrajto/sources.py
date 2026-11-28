@@ -137,9 +137,18 @@ class SelectedSourceStore:
             if os.path.exists(temporary_name):
                 os.unlink(temporary_name)
 
-    def candidate(self, film_id: int) -> Candidate | None:
+    def candidate(self, film_id: int, *, for_reverification: bool = False) -> Candidate | None:
         row = self.get(film_id)
-        if not row or row.get("selection_policy") != SELECTION_POLICY:
+        if not row:
+            return None
+        if for_reverification:
+            policy = row.get("selection_policy")
+            if row.get("source_status") != "verified" or (
+                policy is not None
+                and (policy == SELECTION_POLICY or not policy.startswith("compact-quality-v"))
+            ):
+                return None
+        elif row.get("selection_policy") != SELECTION_POLICY:
             return None
         return Candidate.from_dict(
             {
