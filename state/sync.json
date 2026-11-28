@@ -1796,17 +1796,19 @@
       }
     },
     "10807": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35548472",
+          "target_video_id": "31496156",
+          "permanent": false,
+          "attempted_at": "2026-11-28T10:26:40.325260+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35548472",
         "display_name": "Norimberský proces (1961) 1080p CZ Dabing",
         "planned_at": "2026-11-28T10:10:03.544603+00:00"
-      },
-      "claim": {
-        "worker_id": "7e191626d43d4e4c9c6a07ca758f8e4f-shard-0",
-        "claimed_at": "2026-11-28T10:10:05.648415+00:00",
-        "lease_expires_at": "2026-11-28T16:10:05.648415+00:00",
-        "run_id": "46132985481"
       },
       "previous_target_id": "31496156",
       "prepared": {
@@ -456331,5 +456333,5 @@
       }
     }
   },
-  "updated_at": "2026-11-28T10:10:08.960243+00:00"
+  "updated_at": "2026-11-28T10:26:40.325275+00:00"
 }
