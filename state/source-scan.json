@@ -25703,16 +25703,6 @@
     "25191": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "empty_reason": "media_rejected",
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-25T17:22:19.322555+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -25728,6 +25718,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-28T04:29:25.410275+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-11-28T15:37:09.862260+00:00"
         }
       ]
     },
@@ -314408,13 +314405,6 @@
     "15475": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate limit reached before verification completed",
-          "attempted_at": "2026-11-26T03:38:42.361387+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "empty_reason": "media_rejected",
@@ -314430,6 +314420,16 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate limit reached before verification completed",
           "attempted_at": "2026-11-28T15:06:15.201773+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "empty_reason": "media_rejected",
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-28T15:37:06.013158+00:00"
         }
       ]
     },
@@ -733989,5 +733989,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-28T15:34:36.993742+00:00"
+  "updated_at": "2026-11-28T15:37:09.862277+00:00"
 }
