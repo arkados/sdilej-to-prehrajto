@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T02:57:34.357392+00:00
+Poslední aktualizace (UTC): 2026-11-28T02:57:47.506243+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -2236,7 +2236,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Subedaar (2026) 1080p CZ Titulky](https://prehraj.to/subedaar-2026-1080p-cz-titulky-mp4/fff808be51babf43) (ID 30870022) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.038107+00:00 |
 | [Suburban Gothic (2014) 720p CZ Titulky](https://prehraj.to/suburban-gothic-2014-720p-cz-titulky-mkv/2003e064355c0546) (ID 29947165) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.022268+00:00 |
 | [Suicide Forest Village (2021) 720p CZ Titulky](https://prehraj.to/suicide-forest-village-2021-720p-cz-titulky-mkv/e6cfb495d6fb9e97) (ID 30303192) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.026274+00:00 |
-| [Suite Française (2015) SD CZ Titulky](https://prehraj.to/suite-francaise-2015-sd-cz-titulky-mp4/d1684521361ec087) (ID 29427034) | [Sdílej 34737967](https://sdilej.cz/34737967/suite-fran-aise-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:25:11.828942+00:00 |
+| [Suite Française (2015) SD CZ Titulky](https://prehraj.to/suite-francaise-2015-sd-cz-titulky-mp4/d1684521361ec087) (ID 29427034) | [Sdílej 34737967](https://sdilej.cz/34737967/suite-fran-aise-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:57:47.506115+00:00 |
 | [Sultan (2016) SD CZ Titulky](https://prehraj.to/sultan-2016-sd-cz-titulky-mp4/92ef36b94b7ade80) (ID 30885381) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.038631+00:00 |
 | [Summerland (2020) 720p CZ Titulky](https://prehraj.to/summerland-2020-720p-cz-titulky-mkv/a0bbf5899ea71af6) (ID 29418460) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.017129+00:00 |
 | [Super Volcano (2022) 1080p CZ Titulky](https://prehraj.to/super-volcano-2022-1080p-cz-titulky-mp4/3d9e3e85ee29610a) (ID 29989189) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.022612+00:00 |
