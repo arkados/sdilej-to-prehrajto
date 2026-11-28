@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:10:27.403529+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:10:35.092852+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -1308,7 +1308,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Let's Spend the Night Together (1982) 1080p CZ Titulky](https://prehraj.to/let-s-spend-the-night-together-1982-1080p-cz-titulky-mkv/875dc27add304d21) (ID 31379050) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.151030+00:00 |
 | [Letový režim (2020) 1080p CZ Titulky](https://prehraj.to/letovy-rezim-2020-1080p-cz-titulky-mp4/28294ab04560d3ca) (ID 29914287) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.133375+00:00 |
 | [Level 16 (2018) 1080p CZ Titulky](https://prehraj.to/level-16-2018-1080p-cz-titulky-mp4/86cc6cb07514ccbe) (ID 30608250) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.142232+00:00 |
-| [Liam Gallagher: As It Was (2019) 720p CZ Titulky](https://prehraj.to/liam-gallagher-as-it-was-2019-720p-cz-titulky-mp4/210fb84a887059b2) (ID 29576760) | [Sdílej 34734179](https://sdilej.cz/34734179/liam-gallagher-as-it-was-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:49:10.800778+00:00 |
+| [Liam Gallagher: As It Was (2019) 720p CZ Titulky](https://prehraj.to/liam-gallagher-as-it-was-2019-720p-cz-titulky-mp4/210fb84a887059b2) (ID 29576760) | [Sdílej 34734179](https://sdilej.cz/34734179/liam-gallagher-as-it-was-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:10:35.092710+00:00 |
 | [Libenjyeo (2018) 1080p CZ Titulky](https://prehraj.to/libenjyeo-2018-1080p-cz-titulky-mp4/add7a8e641ce0de1) (ID 31397673) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.151448+00:00 |
 | [Libertarias (1996) SD CZ Titulky](https://prehraj.to/libertarias-1996-sd-cz-titulky-mp4/781fd0ab19bf9e19) (ID 30991126) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.147414+00:00 |
 | [Lidská stonožka (2009) SD CZ Titulky](https://prehraj.to/lidska-stonozka-2009-sd-cz-titulky-avi/e76cf2ba04d86a04) (ID 30759568) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.144016+00:00 |
