@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:06:01.187613+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:06:27.761524+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -2103,7 +2103,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Sirius (2013) SD CZ Titulky](https://prehraj.to/sirius-2013-sd-cz-titulky-avi/c552939e2e21f3d1) (ID 29234030) | [Sdílej 11779816](https://sdilej.cz/11779816/sirius-odhaleni-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:34:13.050870+00:00 |
 | [Sisu (2022) 1080p CZ Titulky](https://prehraj.to/sisu-2022-1080p-cz-titulky-mkv/f8a2dbc6ff9eb7a8) (ID 31032292) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.147939+00:00 |
 | [Sisu: Odplata (2025) 4K CZ Titulky](https://prehraj.to/sisu-odplata-2025-4k-cz-titulky-mkv/c7bd097335f87f04) (ID 31032358) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.147948+00:00 |
-| [Skate Kitchen (2018) 1080p CZ Titulky](https://prehraj.to/skate-kitchen-2018-1080p-cz-titulky-avi/0a3ca241dde6d605) (ID 29562810) | [Sdílej 11486609](https://sdilej.cz/11486609/skate-kitchen-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:44:39.471628+00:00 |
+| [Skate Kitchen (2018) 1080p CZ Titulky](https://prehraj.to/skate-kitchen-2018-1080p-cz-titulky-avi/0a3ca241dde6d605) (ID 29562810) | [Sdílej 11486609](https://sdilej.cz/11486609/skate-kitchen-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:06:27.761395+00:00 |
 | [Skif (2018) 1080p CZ Titulky](https://prehraj.to/skif-2018-1080p-cz-titulky-mkv/9a048ef3f2b928bb) (ID 30253451) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.136336+00:00 |
 | [Skin Walker (2019) 1080p CZ Titulky](https://prehraj.to/skin-walker-2019-1080p-cz-titulky-mkv/91e9b137013da82a) (ID 29734666) | [Sdílej 14016315](https://sdilej.cz/14016315/skin.walker.2019.1080p.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:47.137232+00:00 |
 | [Skinamarink (2023) 720p CZ Titulky](https://prehraj.to/skinamarink-2023-720p-cz-titulky-mp4/3e2f8c24e58b65b6) (ID 31378246) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.150998+00:00 |
