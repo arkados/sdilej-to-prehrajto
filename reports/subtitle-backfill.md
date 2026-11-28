@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:08:39.548441+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:08:47.029270+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -1341,7 +1341,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Lovci bájných relikvií (2013) SD CZ Titulky](https://prehraj.to/lovci-bajnych-relikvii-2013-sd-cz-titulky-avi/edf599abc67d5112) (ID 30375319) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.138796+00:00 |
 | [Love Reset (2023) 1080p CZ Titulky](https://prehraj.to/love-reset-2023-1080p-cz-titulky-mp4/5de9660bffda9818) (ID 30096836) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.134832+00:00 |
 | [Lovec příšer: Legendy cechu (2021) 1080p CZ Titulky](https://prehraj.to/lovec-priser-legendy-cechu-2021-1080p-cz-titulky-mkv/e9bef72d57fc31c6) (ID 30796693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.144434+00:00 |
-| [Lovná zvěř (1986) SD CZ Titulky](https://prehraj.to/lovna-zver-1986-sd-cz-titulky-mp4/e48003459881f5ce) (ID 29571577) | [Sdílej 34755371](https://sdilej.cz/34755371/lovna-zver-1986-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:47:03.260043+00:00 |
+| [Lovná zvěř (1986) SD CZ Titulky](https://prehraj.to/lovna-zver-1986-sd-cz-titulky-mp4/e48003459881f5ce) (ID 29571577) | [Sdílej 34755371](https://sdilej.cz/34755371/lovna-zver-1986-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:08:47.029155+00:00 |
 | [Lowlifes (2024) 1080p CZ Titulky](https://prehraj.to/lowlifes-2024-1080p-cz-titulky-mp4/5d2f2881bcfee53c) (ID 30475889) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.140829+00:00 |
 | [Lowriders (2016) 1080p CZ Titulky](https://prehraj.to/lowriders-2016-1080p-cz-titulky-mkv/2c54946d9b032456) (ID 30604362) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.142089+00:00 |
 | [Lumberjack Man (2015) SD CZ Titulky](https://prehraj.to/lumberjack-man-2015-sd-cz-titulky-mp4/4228562343a7aca6) (ID 29926192) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.133761+00:00 |
