@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T03:03:46.752375+00:00
+Poslední aktualizace (UTC): 2026-11-28T03:03:54.978096+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -1437,7 +1437,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Merrily We Roll Along (2025) 1080p CZ Titulky](https://prehraj.to/merrily-we-roll-along-2025-1080p-cz-titulky-mp4/aa02345e5988f324) (ID 29213153) | [Sdílej 34723802](https://sdilej.cz/34723802/merrily-we-roll-along-2025-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:30:23.135236+00:00 |
 | [Meruňkový ostrov (2011) SD CZ Titulky](https://prehraj.to/merunkovy-ostrov-2011-sd-cz-titulky-avi/93f6f661be89787a) (ID 30545611) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.032042+00:00 |
 | [Metallica: The Night Before (2016) 720p CZ Titulky](https://prehraj.to/metallica-the-night-before-2016-720p-cz-titulky-mp4/5c6d4ae26dbdf67d) (ID 31021614) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.043170+00:00 |
-| [Metallica: Through the Never (2013) 1080p CZ Titulky](https://prehraj.to/metallica-through-the-never-2013-1080p-cz-titulky-mp4/f1ebcfe158f2165a) (ID 29464033) | [Sdílej 33285707](https://sdilej.cz/33285707/metallica-throught-the-never-2013-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:30:44.984610+00:00 |
+| [Metallica: Through the Never (2013) 1080p CZ Titulky](https://prehraj.to/metallica-through-the-never-2013-1080p-cz-titulky-mp4/f1ebcfe158f2165a) (ID 29464033) | [Sdílej 33285707](https://sdilej.cz/33285707/metallica-throught-the-never-2013-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T03:03:54.977921+00:00 |
 | [Mexicali (2026) 4K CZ Titulky](https://prehraj.to/mexicali-2026-4k-cz-titulky-mp4/93465c1b9d1ea0b6) (ID 30574782) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.032694+00:00 |
 | [Mezi námi děvčaty 2 (2025) 1080p CZ Titulky](https://prehraj.to/mezi-nami-devcaty-2-2025-1080p-cz-titulky-mkv/791341b7f48dd299) (ID 30310186) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.026403+00:00 |
 | [Mezitím na Zemi (2024) 1080p CZ Titulky](https://prehraj.to/mezitim-na-zemi-2024-1080p-cz-titulky-mkv/6c630a15c3c03726) (ID 31130526) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.045086+00:00 |
