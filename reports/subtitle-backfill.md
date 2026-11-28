@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T02:56:37.830860+00:00
+Poslední aktualizace (UTC): 2026-11-28T02:56:46.266219+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -2186,7 +2186,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Speed Faster (2026) SD CZ Titulky](https://prehraj.to/speed-faster-2026-sd-cz-titulky-mp4/8dc4af08129b5e65) (ID 29706671) | [Sdílej 34770840](https://sdilej.cz/34770840/speed-faster-2026-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:31:10.490584+00:00 |
 | [Spellbound (2011) 1080p CZ Titulky](https://prehraj.to/spellbound-2011-1080p-cz-titulky-mkv/af5d98de34bbf928) (ID 29883036) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.019203+00:00 |
 | [Spirit (2001) 4K CZ Titulky](https://prehraj.to/spirit-2001-4k-cz-titulky-mkv/3c9b4d38844fb6d1) (ID 30259616) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.025410+00:00 |
-| [Spitfire (2018) 720p CZ Titulky](https://prehraj.to/spitfire-2018-720p-cz-titulky-mp4/18a7066584eda70c) (ID 29415714) | [Sdílej 34736579](https://sdilej.cz/34736579/spitfire-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:24:23.436478+00:00 |
+| [Spitfire (2018) 720p CZ Titulky](https://prehraj.to/spitfire-2018-720p-cz-titulky-mp4/18a7066584eda70c) (ID 29415714) | [Sdílej 34736579](https://sdilej.cz/34736579/spitfire-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:56:46.266085+00:00 |
 | [Splašené srdce (2017) 1080p CZ Titulky](https://prehraj.to/splasene-srdce-2017-1080p-cz-titulky-mp4/4f86d844b3bf0d36) (ID 30689529) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.035002+00:00 |
 | [Splitsville (2025) 4K CZ Titulky](https://prehraj.to/splitsville-2025-4k-cz-titulky-mkv/2e2ddd64ac2783a6) (ID 30589588) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.033237+00:00 |
 | [Spolu nespolu (2021) 1080p CZ Titulky](https://prehraj.to/spolu-nespolu-2021-1080p-cz-titulky-mkv/5bd76ac6f67332e4) (ID 30250371) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.025328+00:00 |
