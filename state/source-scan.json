@@ -5703,15 +5703,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-25T12:17:06.731083+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "empty_reason": "media_rejected",
           "discovery_complete": true,
           "search_response_validated": true,
@@ -5728,6 +5719,16 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-28T10:16:33.411194+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "empty_reason": "media_rejected",
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-28T16:43:51.013124+00:00"
         }
       ]
     },
@@ -7337,13 +7338,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13:release-runtime:126",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
-          "attempted_at": "2026-11-28T14:24:49.941976+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13:release-runtime:126",
-          "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-28T15:07:55.611683+00:00"
         },
         {
@@ -7352,6 +7346,13 @@
           "selection_policy": "compact-quality-v13:release-runtime:126",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-11-28T16:01:22.273373+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13:release-runtime:126",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-11-28T16:44:13.606989+00:00"
         }
       ]
     },
@@ -734066,5 +734067,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-28T16:43:20.829882+00:00"
+  "updated_at": "2026-11-28T16:44:13.607002+00:00"
 }
