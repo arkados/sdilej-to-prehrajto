@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:10:35.092852+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:10:44.855028+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -269,7 +269,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Bhaag Milkha Bhaag (2013) SD CZ Titulky](https://prehraj.to/bhaag-milkha-bhaag-2013-sd-cz-titulky-mp4/1ba06e799f148ba0) (ID 29212380) | [Sdílej 34742267](https://sdilej.cz/34742267/bhaag-milkha-bhaag-2013-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:28:36.560838+00:00 |
 | [Bikini Drive-In (1995) SD CZ Titulky](https://prehraj.to/bikini-drive-in-1995-sd-cz-titulky-mkv/6a7c25c16d12d2cd) (ID 29637810) | [Sdílej 34828279](https://sdilej.cz/34828279/bikini-drive-in.1995.dvdrip.xvid-cg-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:48.012561+00:00 |
 | [Billie Eilish: The World's a Little Blurry (2021) 1080p CZ Titulky](https://prehraj.to/billie-eilish-the-world-s-a-little-blurry-2021-1080p-cz-titulky-mp4/63d1d2a65c2f7bab) (ID 31355955) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.150146+00:00 |
-| [Bitcoin: Konec peněz jak je známe (2015) 1080p CZ Titulky](https://prehraj.to/bitcoin-konec-penez-jak-je-zname-2015-1080p-cz-titulky-mp4/d42cc963c656de4e) (ID 29578193) | [Sdílej 34738133](https://sdilej.cz/34738133/bitcoin-konec-penez-jak-je-zname-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:49:18.779956+00:00 |
+| [Bitcoin: Konec peněz jak je známe (2015) 1080p CZ Titulky](https://prehraj.to/bitcoin-konec-penez-jak-je-zname-2015-1080p-cz-titulky-mp4/d42cc963c656de4e) (ID 29578193) | [Sdílej 34738133](https://sdilej.cz/34738133/bitcoin-konec-penez-jak-je-zname-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:10:44.854915+00:00 |
 | [Bite (2015) 1080p CZ Titulky](https://prehraj.to/bite-2015-1080p-cz-titulky-mkv/5dd7151b2e8b6cad) (ID 30909531) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.145585+00:00 |
 | [Bitkař (2022) 720p CZ Titulky](https://prehraj.to/bitkar-2022-720p-cz-titulky-mkv/22f2761bf267a8e3) (ID 31353523) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.150131+00:00 |
 | [Bitter Harvest (2017) 1080p CZ Titulky](https://prehraj.to/bitter-harvest-2017-1080p-cz-titulky-mkv/b1ba9644a89bd450) (ID 30480407) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.140898+00:00 |
