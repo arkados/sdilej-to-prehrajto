@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:17:50.386391+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:17:57.697561+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -569,7 +569,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Dobrou noc, mami (2022) 1080p CZ Titulky](https://prehraj.to/dobrou-noc-mami-2022-1080p-cz-titulky-avi/238300d9e92eeb3f) (ID 29925531) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.133749+00:00 |
 | [Dobrou, mámo (2014) SD CZ Titulky](https://prehraj.to/dobrou-mamo-2014-sd-cz-titulky-mkv/9f4c175735e6834c) (ID 31385963) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.151223+00:00 |
 | [Dobrá země (2018) SD CZ Titulky](https://prehraj.to/dobra-zeme-2018-sd-cz-titulky-mp4/1831c8491d580e2b) (ID 30096642) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.134821+00:00 |
-| [Dobrý Sam (2019) 1080p CZ Titulky](https://prehraj.to/dobry-sam-2019-1080p-cz-titulky-mp4/6f1496b01a29e5df) (ID 29610544) | [Sdílej 34734506](https://sdilej.cz/34734506/dobry-sam-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:56:33.742631+00:00 |
+| [Dobrý Sam (2019) 1080p CZ Titulky](https://prehraj.to/dobry-sam-2019-1080p-cz-titulky-mp4/6f1496b01a29e5df) (ID 29610544) | [Sdílej 34734506](https://sdilej.cz/34734506/dobry-sam-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:17:57.697455+00:00 |
 | [Dokjeon (2018) 1080p CZ Titulky](https://prehraj.to/dokjeon-2018-1080p-cz-titulky-mp4/66f75fcfc7765a88) (ID 30164040) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.135293+00:00 |
 | [Dokonalost (2018) 1080p CZ Titulky](https://prehraj.to/dokonalost-2018-1080p-cz-titulky-mkv/aacd345360985794) (ID 30314945) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.137639+00:00 |
 | [Dokonalá loupež 2 (2025) 1080p CZ Titulky](https://prehraj.to/dokonala-loupez-2-2025-1080p-cz-titulky-avi/1d96e03427903e95) (ID 31254267) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.149910+00:00 |
