@@ -11825,17 +11825,19 @@
       }
     },
     "21907": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32740139",
+          "target_video_id": "31503357",
+          "permanent": false,
+          "attempted_at": "2026-11-28T16:56:17.269422+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32740139",
         "display_name": "Lev v zimě (1968) 1080p CZ Dabing",
         "planned_at": "2026-11-28T16:30:37.511020+00:00"
-      },
-      "claim": {
-        "worker_id": "e7c2bc09cc3648bd8a25fb57f41bfa7b-shard-0",
-        "claimed_at": "2026-11-28T16:30:38.721488+00:00",
-        "lease_expires_at": "2026-11-28T22:30:38.721488+00:00",
-        "run_id": "46148356867"
       },
       "previous_target_id": "31503357",
       "prepared": {
@@ -456410,5 +456412,5 @@
       }
     }
   },
-  "updated_at": "2026-11-28T16:30:42.755405+00:00"
+  "updated_at": "2026-11-28T16:56:17.269439+00:00"
 }
