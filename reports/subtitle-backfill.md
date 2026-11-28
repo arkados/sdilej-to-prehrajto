@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:16:16.693303+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:16:24.520702+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -1470,7 +1470,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Mohenjo Daro (2016) SD CZ Titulky](https://prehraj.to/mohenjo-daro-2016-sd-cz-titulky-mp4/f4d5b3bceac2651e) (ID 30929467) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.146265+00:00 |
 | [Moje dcera je zombie (2025) 1080p CZ Titulky](https://prehraj.to/moje-dcera-je-zombie-2025-1080p-cz-titulky-mkv/142026d0abb3719d) (ID 29919615) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.133595+00:00 |
 | [Moje mistrovské dílo (2018) 1080p CZ Titulky](https://prehraj.to/moje-mistrovske-dilo-2018-1080p-cz-titulky-avi/cddd61543768f9a1) (ID 29175853) | [Sdílej 34271003](https://sdilej.cz/34271003/2018-moje-mistrovske-dilo-komedie-drama-77-argentina-spanelsko-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:25:21.217804+00:00 |
-| [Moje nečekané sexuální dobrodružství (2012) 1080p CZ Titulky](https://prehraj.to/moje-necekane-sexualni-dobrodruzstvi-2012-1080p-cz-titulky-mp4/404091db2cb40115) (ID 29608644) | [Sdílej 34744322](https://sdilej.cz/34744322/moje-necekane-sexualni-dobrodruzstvi-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:55:01.292925+00:00 |
+| [Moje nečekané sexuální dobrodružství (2012) 1080p CZ Titulky](https://prehraj.to/moje-necekane-sexualni-dobrodruzstvi-2012-1080p-cz-titulky-mp4/404091db2cb40115) (ID 29608644) | [Sdílej 34744322](https://sdilej.cz/34744322/moje-necekane-sexualni-dobrodruzstvi-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:16:24.520567+00:00 |
 | [Moje noc s Maud (1969) SD CZ Titulky](https://prehraj.to/moje-noc-s-maud-1969-sd-cz-titulky-avi/4b2d296ba14ae59f) (ID 28948721) | [Sdílej 29230755](https://sdilej.cz/29230755/moje-noc-s-maud-1969-fran-oise-fabian-cz-tit-zdeno791.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:18:43.975007+00:00 |
 | [Money Plane (2020) 1080p CZ Titulky](https://prehraj.to/money-plane-2020-1080p-cz-titulky-mp4/7e8c681548dbb5c6) (ID 30432886) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.140319+00:00 |
 | [Monolith (2016) 1080p CZ Titulky](https://prehraj.to/monolith-2016-1080p-cz-titulky-mkv/5ea71186d3e389e6) (ID 29732159) | [Sdílej 34220045](https://sdilej.cz/34220045/monolith-2016-1080p-web-dl-dd5-1-h-264-cro-diamond.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:41:49.105391+00:00 |
