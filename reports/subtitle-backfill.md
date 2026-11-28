@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:11:58.226540+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:12:05.923109+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -1726,7 +1726,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [PK (2014) SD CZ Titulky](https://prehraj.to/pk-2014-sd-cz-titulky-mp4/cd2b0169314ad6bc) (ID 29878877) | [Sdílej 34714281](https://sdilej.cz/34714281/pk-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:03:27.787090+00:00 |
 | [Paddleton (2019) 1080p CZ Titulky](https://prehraj.to/paddleton-2019-1080p-cz-titulky-mp4/8063bd130acfec92) (ID 29339814) | [Sdílej 34733979](https://sdilej.cz/34733979/paddleton-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:17:56.880579+00:00 |
 | [Padmaavat (2018) 720p CZ Titulky](https://prehraj.to/padmaavat-2018-720p-cz-titulky-mp4/0930fabc75ac7c68) (ID 30885701) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.145140+00:00 |
-| [Paintball Massacre (2020) 720p CZ Titulky](https://prehraj.to/paintball-massacre-2020-720p-cz-titulky-mp4/5677884787b5fce8) (ID 29582168) | [Sdílej 34773203](https://sdilej.cz/34773203/paintball-massacre-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:50:40.477181+00:00 |
+| [Paintball Massacre (2020) 720p CZ Titulky](https://prehraj.to/paintball-massacre-2020-720p-cz-titulky-mp4/5677884787b5fce8) (ID 29582168) | [Sdílej 34773203](https://sdilej.cz/34773203/paintball-massacre-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:12:05.922986+00:00 |
 | [Painted Skin: The Resurrection (2012) SD CZ Titulky.mp4](https://prehraj.to/painted-skin-the-resurrection-2012-sd-cz-titulky-mp4/cb7126d126ea6040) (ID 29571679) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.132045+00:00 |
 | [Paisà (1946) SD CZ Titulky](https://prehraj.to/paisa-1946-sd-cz-titulky-mp4/bf2ff48f4aa82833) (ID 30279727) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.136875+00:00 |
 | [Palmer (2021) 1080p CZ Titulky](https://prehraj.to/palmer-2021-1080p-cz-titulky-mkv/a29da1f136fb25ba) (ID 29489297) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.131827+00:00 |
