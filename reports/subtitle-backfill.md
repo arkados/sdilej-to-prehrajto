@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:01:21.810387+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:01:33.553056+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -545,7 +545,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Devil's Playground (2010) SD CZ Titulky](https://prehraj.to/devil-s-playground-2010-sd-cz-titulky-mp4/67914c42c0649bac) (ID 31386002) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.151239+00:00 |
 | [Devil's Tree: Rooted Evil (2018) SD CZ Titulky](https://prehraj.to/devil-s-tree-rooted-evil-2018-sd-cz-titulky-mkv/ce1c59135ef8e430) (ID 31384313) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.151111+00:00 |
 | [Di Ambang Kematian (2023) 1080p CZ Titulky](https://prehraj.to/di-ambang-kematian-2023-1080p-cz-titulky-mkv/39fc63ab2479d794) (ID 30705515) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.143477+00:00 |
-| [Diana: Muzikál (2021) 1080p CZ Titulky](https://prehraj.to/diana-muzikal-2021-1080p-cz-titulky-mp4/2b96150ec0d52356) (ID 29538176) | [Sdílej 34730953](https://sdilej.cz/34730953/diana-muzikal-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:39:34.840633+00:00 |
+| [Diana: Muzikál (2021) 1080p CZ Titulky](https://prehraj.to/diana-muzikal-2021-1080p-cz-titulky-mp4/2b96150ec0d52356) (ID 29538176) | [Sdílej 34730953](https://sdilej.cz/34730953/diana-muzikal-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:01:33.552930+00:00 |
 | [Diaz - Don't Clean Up This Blood (2012) SD CZ Titulky](https://prehraj.to/diaz-don-t-clean-up-this-blood-2012-sd-cz-titulky-mp4/191e10da6ade7f91) (ID 31356620) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.150178+00:00 |
 | [Die Alone (2024) 1080p CZ Titulky](https://prehraj.to/die-alone-2024-1080p-cz-titulky-mkv/28c3f5c171327eea) (ID 30353074) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.138192+00:00 |
 | [Die Hart: The Movie (2023) 1080p CZ Titulky](https://prehraj.to/die-hart-the-movie-2023-1080p-cz-titulky-mp4/769f40cacab6dd70) (ID 30351257) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.138176+00:00 |
