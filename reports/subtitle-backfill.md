@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:13:54.001096+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:14:01.789292+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -495,7 +495,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Dark Touch (2013) SD CZ Titulky](https://prehraj.to/dark-touch-2013-sd-cz-titulky-avi/8d218cb1de4bde00) (ID 31048077) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148343+00:00 |
 | [Dark Was the Night (2014) 1080p CZ Titulky](https://prehraj.to/dark-was-the-night-2014-1080p-cz-titulky-mp4/9f36ef871f4e3b0f) (ID 31225119) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.149487+00:00 |
 | [Darkland (2017) SD CZ Titulky](https://prehraj.to/darkland-2017-sd-cz-titulky-avi/a036c70847703bce) (ID 30926093) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.146110+00:00 |
-| [Dashcam (2021) 1080p CZ Titulky](https://prehraj.to/dashcam-2021-1080p-cz-titulky-mp4/0459afc4e8afde30) (ID 29588938) | [Sdílej 34731562](https://sdilej.cz/34731562/dashcam-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:52:36.059446+00:00 |
+| [Dashcam (2021) 1080p CZ Titulky](https://prehraj.to/dashcam-2021-1080p-cz-titulky-mp4/0459afc4e8afde30) (ID 29588938) | [Sdílej 34731562](https://sdilej.cz/34731562/dashcam-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:14:01.789187+00:00 |
 | [David Gilmour v Pompejích (2017) 1080p CZ Titulky](https://prehraj.to/david-gilmour-v-pompejich-2017-1080p-cz-titulky-mp4/112374df502e5bd5) (ID 31026260) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.147733+00:00 |
 | [Dawn Breaks Behind the Eyes (2021) 1080p CZ Titulky](https://prehraj.to/dawn-breaks-behind-the-eyes-2021-1080p-cz-titulky-mp4/b347989444e56516) (ID 29665328) | [Sdílej 34903875](https://sdilej.cz/34903875/dawn-breaks-behind-the-eyes-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:07:11.746836+00:00 |
 | [Dawn Rider (2012) SD CZ Titulky](https://prehraj.to/dawn-rider-2012-sd-cz-titulky-avi/f41ab185bfceddd8) (ID 30972976) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.147325+00:00 |
