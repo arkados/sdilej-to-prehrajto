@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:11:42.435711+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:11:50.120426+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -1232,7 +1232,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Kraken (2026) 1080p CZ Titulky](https://prehraj.to/kraken-2026-1080p-cz-titulky-mkv/68a4b77aecf514e5) (ID 30864572) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.144801+00:00 |
 | [Krev z hrobky mumie (1971) 1080p CZ Titulky](https://prehraj.to/krev-z-hrobky-mumie-1971-1080p-cz-titulky-mp4/bbef59c9a38a48f7) (ID 30908800) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.145568+00:00 |
 | [Krev zmizelého (2005) SD CZ Titulky](https://prehraj.to/krev-zmizeleho-2005-sd-cz-titulky-mkv/798e41df1dae9b0a) (ID 29717465) | [Sdílej 35085090](https://sdilej.cz/35085090/krev-zmizeleho.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:35:51.769521+00:00 |
-| [Kripl kemp: Revoluce na kolečkách (2020) 1080p CZ Titulky](https://prehraj.to/kripl-kemp-revoluce-na-koleckach-2020-1080p-cz-titulky-mp4/503affdb39de17b1) (ID 29581930) | [Sdílej 34696167](https://sdilej.cz/34696167/kripl-kemp-revoluce-na-koleckach-2020-cz-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:50:24.272467+00:00 |
+| [Kripl kemp: Revoluce na kolečkách (2020) 1080p CZ Titulky](https://prehraj.to/kripl-kemp-revoluce-na-koleckach-2020-1080p-cz-titulky-mp4/503affdb39de17b1) (ID 29581930) | [Sdílej 34696167](https://sdilej.cz/34696167/kripl-kemp-revoluce-na-koleckach-2020-cz-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:11:50.120305+00:00 |
 | [Krrish (2006) SD CZ Titulky](https://prehraj.to/krrish-2006-sd-cz-titulky-mp4/67cfe535e2d1b5ae) (ID 29234994) | [Sdílej 34751293](https://sdilej.cz/34751293/krrish-2006-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:34:59.178911+00:00 |
 | [Krtek a buldozer (1975) 720p CZ Titulky](https://prehraj.to/krtek-a-buldozer-1975-720p-cz-titulky-mp4/3c560ccab4b1e40f) (ID 31174436) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148821+00:00 |
 | [Krtek a hodiny (1994) 720p CZ Titulky](https://prehraj.to/krtek-a-hodiny-1994-720p-cz-titulky-mp4/30048ca8b92eac28) (ID 31051720) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148453+00:00 |
