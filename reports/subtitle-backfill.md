@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:08:32.681451+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:08:39.548441+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -1275,7 +1275,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [La cueva (2014) 1080p CZ Titulky](https://prehraj.to/la-cueva-2014-1080p-cz-titulky-mp4/fe01d5744f07daa5) (ID 29610525) | [Sdílej 34738388](https://sdilej.cz/34738388/la-cueva-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:56:25.924126+00:00 |
 | [La viaccia (1961) SD CZ Titulky](https://prehraj.to/la-viaccia-1961-sd-cz-titulky-mkv/2a58abcf42168b2e) (ID 31188801) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148994+00:00 |
 | [Laal Kaptaan (2019) SD CZ Titulky](https://prehraj.to/laal-kaptaan-2019-sd-cz-titulky-mp4/41d4ab0e0465778d) (ID 30110731) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.135015+00:00 |
-| [Labutí píseň (2021) 720p CZ Titulky](https://prehraj.to/labuti-pisen-2021-720p-cz-titulky-mkv/e2c314d842927e6f) (ID 29570060) | [Sdílej 34057205](https://sdilej.cz/34057205/2021-labuti-pisen-drama-sci-fi-64-usa-cz-tit..mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:46:55.217385+00:00 |
+| [Labutí píseň (2021) 720p CZ Titulky](https://prehraj.to/labuti-pisen-2021-720p-cz-titulky-mkv/e2c314d842927e6f) (ID 29570060) | [Sdílej 34057205](https://sdilej.cz/34057205/2021-labuti-pisen-drama-sci-fi-64-usa-cz-tit..mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:08:39.548321+00:00 |
 | [Labyrint podle Davea (2017) 1080p CZ Titulky](https://prehraj.to/labyrint-podle-davea-2017-1080p-cz-titulky-avi/fb85e0700ab54ce8) (ID 29567534) | [Sdílej 11112400](https://sdilej.cz/11112400/labyrint-podle-davea-dave-made-a-maze-2017-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:08:10.859202+00:00 |
 | [Lancaster Skies (2019) 1080p CZ Titulky](https://prehraj.to/lancaster-skies-2019-1080p-cz-titulky-mp4/18e104799b6ab15f) (ID 31157997) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148694+00:00 |
 | [Larva: Kouzelný přívěsek (2022) 1080p CZ Titulky](https://prehraj.to/larva-kouzelny-privesek-2022-1080p-cz-titulky-mp4/5f8ece86f24ceb9c) (ID 31023683) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.147712+00:00 |
