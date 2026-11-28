@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T03:01:04.898028+00:00
+Poslední aktualizace (UTC): 2026-11-28T03:01:13.767655+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -2853,7 +2853,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Úniková cesta (2016) 720p CZ Titulky](https://prehraj.to/unikova-cesta-2016-720p-cz-titulky-avi/f231757960d6becc) (ID 29709428) | [Sdílej 9549271](https://sdilej.cz/9549271/term-life-2016-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:32:40.869687+00:00 |
 | [Únos 93 (2024) 1080p CZ Titulky](https://prehraj.to/unos-93-2024-1080p-cz-titulky-mp4/48e6a394838655aa) (ID 29709533) | [Sdílej 34724519](https://sdilej.cz/34724519/unos-93-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:32:59.292265+00:00 |
 | [Únos Stelly (2019) 1080p CZ Titulky](https://prehraj.to/unos-stelly-2019-1080p-cz-titulky-mkv/037ecf6c55937e65) (ID 30910225) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.039613+00:00 |
-| [Útěk z Hašimy (2017) SD CZ Titulky](https://prehraj.to/utek-z-hasimy-2017-sd-cz-titulky-mp4/3abef9c9d988f277) (ID 29444573) | [Sdílej 34697822](https://sdilej.cz/34697822/utek-z-hasimy-2017-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:28:26.960677+00:00 |
+| [Útěk z Hašimy (2017) SD CZ Titulky](https://prehraj.to/utek-z-hasimy-2017-sd-cz-titulky-mp4/3abef9c9d988f277) (ID 29444573) | [Sdílej 34697822](https://sdilej.cz/34697822/utek-z-hasimy-2017-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T03:01:13.767518+00:00 |
 | [Čarovný les (2014) 1080p CZ Titulky](https://prehraj.to/carovny-les-2014-1080p-cz-titulky-mkv/48ef178fccd7e71c) (ID 29935980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.021851+00:00 |
 | [Časový posun (1979) SD CZ Titulky](https://prehraj.to/casovy-posun-1979-sd-cz-titulky-mkv/960cf3b93a1bc97a) (ID 29923350) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.020962+00:00 |
 | [Čerkasy (2019) 1080p CZ Titulky](https://prehraj.to/cerkasy-2019-1080p-cz-titulky-mp4/a24c531875891b58) (ID 30180029) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.024617+00:00 |
