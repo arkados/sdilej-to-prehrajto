@@ -7329,15 +7329,6 @@
           "search_response_validated": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-11-21T02:52:34.728420+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-23T14:25:06.836620+00:00"
         },
         {
@@ -7349,6 +7340,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-26T02:58:16.329062+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13:release-runtime:126",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-11-28T10:04:24.989271+00:00"
         }
       ]
     },
@@ -733210,5 +733208,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-28T10:03:58.706580+00:00"
+  "updated_at": "2026-11-28T10:04:24.989287+00:00"
 }
