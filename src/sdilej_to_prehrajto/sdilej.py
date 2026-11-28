@@ -389,7 +389,7 @@ class SdilejProvider:
         return detail
 
     def _get(
-        self, url: str, *, session: requests.Session | None = None
+        self, url: str, *, session: requests.Session | None = None, search: bool = False
     ) -> requests.Response:
         # Upload workers use independent authenticated sessions. Serializing
         # those detail refreshes behind the discovery rate-limit lock turns one
@@ -405,30 +405,32 @@ class SdilejProvider:
                 raise SdilejError(f"Request failed for {safe_url(url)} (HTTP {status})") from None
             return response
         throttle = self.discovery_throttle
-        with throttle.lock:
-            wait = max(
-                throttle.last_request + self.request_gap_seconds,
-                throttle.retry_after,
-            ) - time.monotonic()
-            if wait > 0:
-                time.sleep(wait)
-            try:
-                response = (session or self.session).get(url, timeout=45)
-                response.raise_for_status()
-            except requests.RequestException as error:
-                status = getattr(error.response, "status_code", None)
-                raise SdilejError(f"Request failed for {safe_url(url)} (HTTP {status})") from None
-            finally:
-                throttle.last_request = time.monotonic()
-        return response
+        while True:
+            with throttle.lock:
+                next_request = throttle.last_request + self.request_gap_seconds
+                if search:
+                    next_request = max(next_request, throttle.retry_after)
+                wait = next_request - time.monotonic()
+                if wait <= 0:
+                    try:
+                        response = self.session.get(url, timeout=45)
+                        response.raise_for_status()
+                    except requests.RequestException as error:
+                        status = getattr(error.response, "status_code", None)
+                        raise SdilejError(f"Request failed for {safe_url(url)} (HTTP {status})") from None
+                    finally:
+                        throttle.last_request = time.monotonic()
+                    return response
+            # Other workers can verify known sources while a search is paused.
+            time.sleep(wait)
 
     def search(self, query: str, quality: str | None = None) -> list[Candidate]:
         suffix = f"--{quality}" if quality else ""
         url = f"{BASE_URL}/{slugify(query)}/s/{suffix}"
-        return parse_search_html(self._get(url).text, query=query)
+        return parse_search_html(self._get(url, search=True).text, query=query)
 
     def search_by_quality(self, query: str) -> list[Candidate]:
-        response = self._get(f"{BASE_URL}/{slugify(query)}/s/-6")
+        response = self._get(f"{BASE_URL}/{slugify(query)}/s/-6", search=True)
         soup = BeautifulSoup(response.text, "html.parser")
         rows = parse_search_html(response.text, query=query)
         if not rows and not soup.select("div.videobox"):
@@ -497,36 +499,41 @@ class SdilejProvider:
             # Non-Latin titles can normalize to an empty path. Never interpret
             # the homepage (or a year-only search) as a film search result.
             raise SdilejError("No searchable title after source URL normalization")
-        for title in titles:
-            queries = dict.fromkeys(
-                item for item in (f"{title} {film.year}" if film.year else title, title)
-                if item
-            )
-            for query in queries:
-                slug = slugify(query)
-                if slug in searched_slugs:
-                    continue
-                if time.monotonic() >= deadline:
-                    error_type = (
-                        DeepScanRequired
-                        if self.max_candidates is not None
-                        else SdilejError
-                    )
-                    raise error_type("Discovery deadline expired before search completed")
-                searched_slugs.add(slug)
-                try:
-                    results = self.search_by_quality(query)
-                except PremiumRequiredError:
+        queries = (
+            query for title in titles
+            for query in ((f"{title} {film.year}", title) if film.year else (title,))
+        )
+        for query in queries:
+            slug = slugify(query)
+            if slug in searched_slugs:
+                continue
+            now = time.monotonic()
+            if now >= deadline:
+                error_type = DeepScanRequired if self.max_candidates is not None else SdilejError
+                raise error_type("Discovery deadline expired before search completed")
+            # A paused search must not consume the deep lane's time for checking
+            # candidates from earlier results or a previous source checkpoint.
+            if self.allow_unresolved_fallback and self.max_candidates is None and (
+                matched_by_rank or previous_source is not None
+            ):
+                with self.discovery_throttle.lock:
+                    search_paused = self.discovery_throttle.retry_after > now
+                if search_paused:
+                    search_failure = search_failure or SdilejError("Source search cooldown is active")
+                    break
+            searched_slugs.add(slug)
+            try:
+                results = self.search_by_quality(query)
+            except PremiumRequiredError:
+                raise
+            except SdilejError as error:
+                if error.permanent:
                     raise
-                except SdilejError as error:
-                    if error.permanent:
-                        raise
-                    # A broken alias response can follow a successful search
-                    # for the same film. Keep the candidates from valid pages.
-                    search_failure = error
-                    continue
-                for candidate in results:
-                    consider(candidate)
+                # Keep the candidates from valid pages when an alias fails.
+                search_failure = error
+                continue
+            for candidate in results:
+                consider(candidate)
         if previous_source is not None:
             consider(previous_source)
 

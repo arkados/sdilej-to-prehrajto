@@ -71,7 +71,7 @@ def test_http_failure_is_retryable_and_redacted(independent_session, status):
 
 def test_search_rejects_successful_http_challenge_page(monkeypatch):
     provider = SdilejProvider(FakeSession(), None)
-    monkeypatch.setattr(provider, "_get", lambda _url: FakeResponse("<h1>Checking your browser</h1>"))
+    monkeypatch.setattr(provider, "_get", lambda _url, **_kwargs: FakeResponse("<h1>Checking your browser</h1>"))
     with pytest.raises(SdilejError, match="Unrecognized search response"):
         provider.search_by_quality("Film")
 
@@ -121,10 +121,45 @@ def test_unrecognized_search_backs_off_all_discovery_workers(monkeypatch):
     assert waits == before
 
 
+def test_search_cooldown_does_not_block_detail_requests(monkeypatch):
+    clock = [100.0]
+    monkeypatch.setattr("sdilej_to_prehrajto.sdilej.time.monotonic", lambda: clock[0])
+    provider = SdilejProvider(FakeSession(), None)
+    provider.discovery_throttle.search_failed()
+    provider.discovery_throttle.last_request = clock[0]
+    waits = []
+
+    def sleep(seconds):
+        waits.append(seconds)
+        clock[0] += seconds
+
+    monkeypatch.setattr("sdilej_to_prehrajto.sdilej.time.sleep", sleep)
+    provider._get("https://sdilej.cz/10/film.mkv")
+    assert waits == [2.0]
+    provider.search_by_quality("Film")
+    assert waits == [2.0, 58.0]
+
+
+def test_deep_discovery_verifies_previous_source_during_search_cooldown(monkeypatch):
+    provider = SdilejProvider(
+        FakeSession(), FakeDetector(), allow_unresolved_fallback=True,
+        media_probe=lambda _url: {}, request_gap_seconds=0,
+    )
+    provider.discovery_throttle.search_failed()
+    monkeypatch.setattr(
+        provider, "search_by_quality",
+        lambda _query: pytest.fail("Known source should not wait for a paused search"),
+    )
+    film = Film(1, "film", "Film", None, 2000, 100, "en")
+    previous = Candidate("20", "https://sdilej.cz/20/film-hd.mkv", "Film (2000).mkv",
+                         size_bytes=3_000_000_000, duration_sec=6000, width=1280, height=720)
+    assert rank_candidates(provider.discover(film, previous_source=previous))[0].source_id == "20"
+
+
 def test_explicit_empty_search_is_valid_and_resets_failure_streak(monkeypatch):
     provider = SdilejProvider(FakeSession(), None)
     provider.discovery_throttle.search_failures = 3
-    monkeypatch.setattr(provider, "_get", lambda _url: FakeResponse("Na tvůj dotaz jsme nic nenašli"))
+    monkeypatch.setattr(provider, "_get", lambda _url, **_kwargs: FakeResponse("Na tvůj dotaz jsme nic nenašli"))
     assert provider.search_by_quality("Missing film") == []
     assert provider.discovery_throttle.search_failures == 0
 
