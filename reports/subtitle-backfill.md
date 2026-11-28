@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T02:48:58.197369+00:00
+Poslední aktualizace (UTC): 2026-11-28T02:49:11.031837+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -1253,7 +1253,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Království Planeta opic (2024) 4K CZ Titulky](https://prehraj.to/kralovstvi-planeta-opic-2024-4k-cz-titulky-mkv/71f1c03b1958f3f5) (ID 31172052) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.045253+00:00 |
 | [Království bílé čarodějnice (2014) 1080p CZ Titulky](https://prehraj.to/kralovstvi-bile-carodejnice-2014-1080p-cz-titulky-mkv/635a4bdfc8beab9f) (ID 30341585) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.026845+00:00 |
 | [Království zombie: Ashin ze severu (2021) 1080p CZ Titulky](https://prehraj.to/kralovstvi-zombie-ashin-ze-severu-2021-1080p-cz-titulky-mp4/5608eda8f5ab44a5) (ID 31021932) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.043195+00:00 |
-| [Království zvěrstev (2010) SD CZ Titulky](https://prehraj.to/kralovstvi-zverstev-2010-sd-cz-titulky-avi/73a80ed35a88ca83) (ID 29394133) | [Sdílej 33324077](https://sdilej.cz/33324077/kralovstvi-zverstev-animal-kingdom-2010-krimi-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:17:20.746484+00:00 |
+| [Království zvěrstev (2010) SD CZ Titulky](https://prehraj.to/kralovstvi-zverstev-2010-sd-cz-titulky-avi/73a80ed35a88ca83) (ID 29394133) | [Sdílej 33324077](https://sdilej.cz/33324077/kralovstvi-zverstev-animal-kingdom-2010-krimi-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:49:11.031734+00:00 |
 | [Krásná katastrofa (2023) 1440p CZ Titulky](https://prehraj.to/krasna-katastrofa-2023-1440p-cz-titulky-mkv/53a6f72fb12276f8) (ID 29932996) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.021624+00:00 |
 | [Krásné sny (1981) 1080p CZ Titulky](https://prehraj.to/krasne-sny-1981-1080p-cz-titulky-mp4/4fe6c58b8f5ea32f) (ID 30927246) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.040725+00:00 |
 | [Kufr - uvězněná (2023) 1080p CZ Titulky](https://prehraj.to/kufr-uveznena-2023-1080p-cz-titulky-mkv/d1cebfb6b6a4a1de) (ID 30346264) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.027001+00:00 |
