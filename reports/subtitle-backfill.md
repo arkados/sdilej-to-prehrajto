@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:14:40.027164+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:14:47.433535+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -2793,7 +2793,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Země na scestí (2019) 1080p CZ Titulky](https://prehraj.to/zeme-na-scesti-2019-1080p-cz-titulky-mkv/c54ce521b58304ad) (ID 30743293) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.143860+00:00 |
 | [Země potomků (2021) 1080p CZ Titulky](https://prehraj.to/zeme-potomku-2021-1080p-cz-titulky-mkv/e8fc208f60dbb588) (ID 31372667) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.150603+00:00 |
 | [Zemětřesení (2018) SD CZ Titulky](https://prehraj.to/zemetreseni-2018-sd-cz-titulky-avi/bf9dc1b755088deb) (ID 29993413) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.134402+00:00 |
-| [Zero (2015) SD CZ Titulky](https://prehraj.to/zero-2015-sd-cz-titulky-mp4/9663f521233e2731) (ID 29601859) | [Sdílej 34737910](https://sdilej.cz/34737910/zero-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:53:23.093917+00:00 |
+| [Zero (2015) SD CZ Titulky](https://prehraj.to/zero-2015-sd-cz-titulky-mp4/9663f521233e2731) (ID 29601859) | [Sdílej 34737910](https://sdilej.cz/34737910/zero-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:14:47.433408+00:00 |
 | [Zesil to! (1990) 1080p CZ Titulky](https://prehraj.to/zesil-to-1990-1080p-cz-titulky-mp4/e2e900f297ebfd59) (ID 29393286) | [Sdílej 32451615](https://sdilej.cz/32451615/pump-up-the-volume-1990-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:48:37.126110+00:00 |
 | [Zeta (2026) 1080p CZ Titulky](https://prehraj.to/zeta-2026-1080p-cz-titulky-mkv/9159d711195b9791) (ID 30337722) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.137830+00:00 |
 | [Zhan lang 2 (2017) 720p CZ Titulky](https://prehraj.to/zhan-lang-2-2017-720p-cz-titulky-mp4/287868bc3830f8d9) (ID 29911336) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.133192+00:00 |
