@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T03:08:56.402278+00:00
+Poslední aktualizace (UTC): 2026-11-28T03:09:08.533808+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -2582,7 +2582,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Ultramarines: A Warhammer 40,000 Movie (2010) 1080p CZ Titulky](https://prehraj.to/ultramarines-a-warhammer-40-000-movie-2010-1080p-cz-titulky-mp4/a8da8257183be7f9) (ID 29688874) | [Sdílej 34780444](https://sdilej.cz/34780444/ultramarines-a-warhammer-40-000-movie-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:27:54.855250+00:00 |
 | [Ultras (2020) 1080p CZ Titulky](https://prehraj.to/ultras-2020-1080p-cz-titulky-mp4/8846b0904a8e7191) (ID 30926708) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.040670+00:00 |
 | [Umjolo: Po uši zamilovaná (2024) 1080p CZ Titulky](https://prehraj.to/umjolo-po-usi-zamilovana-2024-1080p-cz-titulky-mp4/4ff61e2fff88f01d) (ID 31379963) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.046259+00:00 |
-| [Umlčené svědectví (2021) 1080p CZ Titulky](https://prehraj.to/umlcene-svedectvi-2021-1080p-cz-titulky-mp4/aaa8d6d41fe4b334) (ID 29517754) | [Sdílej 34728537](https://sdilej.cz/34728537/umlcene-svedectvi-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:35:04.268616+00:00 |
+| [Umlčené svědectví (2021) 1080p CZ Titulky](https://prehraj.to/umlcene-svedectvi-2021-1080p-cz-titulky-mp4/aaa8d6d41fe4b334) (ID 29517754) | [Sdílej 34728537](https://sdilej.cz/34728537/umlcene-svedectvi-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T03:09:08.533701+00:00 |
 | [Umučení Krista (2004) 1080p CZ Titulky](https://prehraj.to/umuceni-krista-2004-1080p-cz-titulky-mp4/431499095bdd2313) (ID 31027669) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.043421+00:00 |
 | [Umění létat 3D (2011) 720p CZ Titulky](https://prehraj.to/umeni-letat-3d-2011-720p-cz-titulky-mp4/6eb8f3b52a30ffe8) (ID 31026910) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.043367+00:00 |
 | [Un hipster en la España vacía (2024) 720p CZ Titulky](https://prehraj.to/un-hipster-en-la-espana-vacia-2024-720p-cz-titulky-mp4/ec0634a4118036c7) (ID 29575065) | [Sdílej 34724603](https://sdilej.cz/34724603/un-hipster-en-la-espa-a-vacia-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:48:30.726151+00:00 |
