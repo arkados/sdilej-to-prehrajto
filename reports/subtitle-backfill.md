@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:11:09.195820+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:11:22.567331+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -1669,7 +1669,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Oidipus král (1967) SD CZ Titulky](https://prehraj.to/oidipus-kral-1967-sd-cz-titulky-mp4/c4d43158115f6a39) (ID 30882365) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.145114+00:00 |
 | [Okamžitá smrt (2017) SD CZ Titulky](https://prehraj.to/okamzita-smrt-2017-sd-cz-titulky-mkv/e2827c7657fb2f16) (ID 29614071) | [Sdílej 11243558](https://sdilej.cz/11243558/instant-death-2017-cztitulky-by-becker.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:02:18.601168+00:00 |
 | [Okolo futbola (2013) SD CZ Titulky](https://prehraj.to/okolo-futbola-2013-sd-cz-titulky-avi/c6045945f9e0f029) (ID 30786600) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.144365+00:00 |
-| [Oktoberfest (2006) SD CZ Titulky](https://prehraj.to/oktoberfest-2006-sd-cz-titulky-mkv/be440d34137bd7af) (ID 29579307) | [Sdílej 20584458](https://sdilej.cz/20584458/beerfest.2006.dvdrip.x264.ac3.bgaudio-siso.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:49:59.084054+00:00 |
+| [Oktoberfest (2006) SD CZ Titulky](https://prehraj.to/oktoberfest-2006-sd-cz-titulky-mkv/be440d34137bd7af) (ID 29579307) | [Sdílej 20584458](https://sdilej.cz/20584458/beerfest.2006.dvdrip.x264.ac3.bgaudio-siso.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:11:22.567226+00:00 |
 | [Old Henry (2021) 1080p CZ Titulky](https://prehraj.to/old-henry-2021-1080p-cz-titulky-mkv/c70047c191ae72ed) (ID 29371614) | [Sdílej 18912474](https://sdilej.cz/18912474/old.henry.-2021-.1080p.webrip.dd5.1.cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:47.490665+00:00 |
 | [Om Shanti Om (2007) 720p CZ Titulky](https://prehraj.to/om-shanti-om-2007-720p-cz-titulky-mp4/13bb7cb924f661f1) (ID 29314549) | [Sdílej 34751266](https://sdilej.cz/34751266/om-shanti-om-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:13:22.492080+00:00 |
 | [Omlouvám se! (2013) SD CZ Titulky](https://prehraj.to/omlouvam-se-2013-sd-cz-titulky-mp4/0f6afaebd2838e33) (ID 30695444) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.143443+00:00 |
