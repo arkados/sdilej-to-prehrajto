@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:02:01.757606+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:02:09.446053+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -2155,7 +2155,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Snuff (1976) SD CZ Titulky](https://prehraj.to/snuff-1976-sd-cz-titulky-mp4/837d4940c557a0d3) (ID 30946488) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.146767+00:00 |
 | [Sněhový dort (2006) 1080p CZ Titulky](https://prehraj.to/snehovy-dort-2006-1080p-cz-titulky-mp4/f8d92e68fc7f6b8b) (ID 29411865) | [Sdílej 33173672](https://sdilej.cz/33173672/snow-cake-2006-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:55:42.721138+00:00 |
 | [Sobibor (2018) SD CZ Titulky](https://prehraj.to/sobibor-2018-sd-cz-titulky-avi/15603bd4cba7590c) (ID 30229240) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.136053+00:00 |
-| [Sociální dilema (2020) 1080p CZ Titulky](https://prehraj.to/socialni-dilema-2020-1080p-cz-titulky-mp4/a86bd82a6ccf9b9f) (ID 29558320) | [Sdílej 34647118](https://sdilej.cz/34647118/socialni-dilema-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:40:14.326594+00:00 |
+| [Sociální dilema (2020) 1080p CZ Titulky](https://prehraj.to/socialni-dilema-2020-1080p-cz-titulky-mp4/a86bd82a6ccf9b9f) (ID 29558320) | [Sdílej 34647118](https://sdilej.cz/34647118/socialni-dilema-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:02:09.445950+00:00 |
 | [Socky na vzestupu (2025) 1080p CZ Titulky](https://prehraj.to/socky-na-vzestupu-2025-1080p-cz-titulky-mp4/61016ea660f228cb) (ID 29299340) | [Sdílej 34723497](https://sdilej.cz/34723497/socky-na-vzestupu-2025-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:09:55.962428+00:00 |
 | [Soft & Quiet (2022) 1080p CZ Titulky](https://prehraj.to/soft-quiet-2022-1080p-cz-titulky-mp4/e2ae2a566735c982) (ID 29598584) | [Sdílej 34726778](https://sdilej.cz/34726778/soft-quiet-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:53:07.040439+00:00 |
 | [Sojuz spasenija (2019) 720p CZ Titulky](https://prehraj.to/sojuz-spasenija-2019-720p-cz-titulky-mp4/474454251c4e8271) (ID 29637006) | [Sdílej 34733852](https://sdilej.cz/34733852/sojuz-spasenija-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:07:31.949936+00:00 |
