@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:07:51.853478+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:08:10.859312+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -1276,7 +1276,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [La viaccia (1961) SD CZ Titulky](https://prehraj.to/la-viaccia-1961-sd-cz-titulky-mkv/2a58abcf42168b2e) (ID 31188801) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148994+00:00 |
 | [Laal Kaptaan (2019) SD CZ Titulky](https://prehraj.to/laal-kaptaan-2019-sd-cz-titulky-mp4/41d4ab0e0465778d) (ID 30110731) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.135015+00:00 |
 | [Labutí píseň (2021) 720p CZ Titulky](https://prehraj.to/labuti-pisen-2021-720p-cz-titulky-mkv/e2c314d842927e6f) (ID 29570060) | [Sdílej 34057205](https://sdilej.cz/34057205/2021-labuti-pisen-drama-sci-fi-64-usa-cz-tit..mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:46:55.217385+00:00 |
-| [Labyrint podle Davea (2017) 1080p CZ Titulky](https://prehraj.to/labyrint-podle-davea-2017-1080p-cz-titulky-avi/fb85e0700ab54ce8) (ID 29567534) | [Sdílej 11112400](https://sdilej.cz/11112400/labyrint-podle-davea-dave-made-a-maze-2017-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:46:26.229397+00:00 |
+| [Labyrint podle Davea (2017) 1080p CZ Titulky](https://prehraj.to/labyrint-podle-davea-2017-1080p-cz-titulky-avi/fb85e0700ab54ce8) (ID 29567534) | [Sdílej 11112400](https://sdilej.cz/11112400/labyrint-podle-davea-dave-made-a-maze-2017-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:08:10.859202+00:00 |
 | [Lancaster Skies (2019) 1080p CZ Titulky](https://prehraj.to/lancaster-skies-2019-1080p-cz-titulky-mp4/18e104799b6ab15f) (ID 31157997) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148694+00:00 |
 | [Larva: Kouzelný přívěsek (2022) 1080p CZ Titulky](https://prehraj.to/larva-kouzelny-privesek-2022-1080p-cz-titulky-mp4/5f8ece86f24ceb9c) (ID 31023683) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.147712+00:00 |
 | [Last Radio Call (2022) 1080p CZ Titulky](https://prehraj.to/last-radio-call-2022-1080p-cz-titulky-avi/3010ce71359a4470) (ID 29648411) | [Sdílej 21709810](https://sdilej.cz/21709810/last-radio-call-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:13:04.813456+00:00 |
