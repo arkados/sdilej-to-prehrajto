@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T02:51:06.081625+00:00
+Poslední aktualizace (UTC): 2026-11-28T02:51:14.555586+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -2681,7 +2681,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Vášeň v tanci (2006) 1080p CZ Titulky](https://prehraj.to/vasen-v-tanci-2006-1080p-cz-titulky-mp4/44dbcf97f1938115) (ID 30971989) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.042584+00:00 |
 | [Vášnivý tanec (1998) 1080p CZ Titulky](https://prehraj.to/vasnivy-tanec-1998-1080p-cz-titulky-mkv/0260781a43cc9671) (ID 30467621) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.030821+00:00 |
 | [Vážený občan (2016) 1080p CZ Titulky.mp4](https://prehraj.to/vazeny-obcan-2016-1080p-cz-titulky-mp4/9c7b2e66853ad588) (ID 29751541) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.019061+00:00 |
-| [Víkendový trapas (2023) 720p CZ Titulky](https://prehraj.to/vikendovy-trapas-2023-720p-cz-titulky-mp4/f9a967202d5e011a) (ID 29398207) | [Sdílej 34725261](https://sdilej.cz/34725261/vikendovy-trapas-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:18:56.643699+00:00 |
+| [Víkendový trapas (2023) 720p CZ Titulky](https://prehraj.to/vikendovy-trapas-2023-720p-cz-titulky-mp4/f9a967202d5e011a) (ID 29398207) | [Sdílej 34725261](https://sdilej.cz/34725261/vikendovy-trapas-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:51:14.555440+00:00 |
 | [Vítej doma (2018) SD CZ Titulky](https://prehraj.to/vitej-doma-2018-sd-cz-titulky-avi/ac384bc9687afc30) (ID 30370191) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.027711+00:00 |
 | [Vítejte ve Wellville (1994) 1080p CZ Titulky](https://prehraj.to/vitejte-ve-wellville-1994-1080p-cz-titulky-mkv/6ba942edea0fe9f9) (ID 31008113) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.043049+00:00 |
 | [Vítězové a poražení (1999) 1080p CZ Titulky](https://prehraj.to/vitezove-a-porazeni-1999-1080p-cz-titulky-mkv/cb14f71fd3a8778f) (ID 29240141) | [Sdílej 25959295](https://sdilej.cz/25959295/any-given-sunday-1999-vitazovia-a-porazeni-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:39.155601+00:00 |
