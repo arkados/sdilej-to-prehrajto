@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T03:04:06.624123+00:00
+Poslední aktualizace (UTC): 2026-11-28T03:04:16.799401+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -1806,7 +1806,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Pomsta upírek (2022) 720p CZ Titulky](https://prehraj.to/pomsta-upirek-2022-720p-cz-titulky-avi/fcc4c2f18567a092) (ID 29732167) | [Sdílej 23601371](https://sdilej.cz/23601371/v-for-vengeance-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:42:09.258634+00:00 |
 | [Ponyo z útesu nad mořem (2008) 1080p CZ Titulky](https://prehraj.to/ponyo-z-utesu-nad-morem-2008-1080p-cz-titulky-mkv/7a3b3b497fa06287) (ID 30953848) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.041932+00:00 |
 | [Popel a démant (1958) SD CZ Titulky](https://prehraj.to/popel-a-demant-1958-sd-cz-titulky-avi/5b35057b2324cec0) (ID 29558608) | [Sdílej 31010197](https://sdilej.cz/31010197/popel-a-demant-popiol-i-diament-1958-valecny-x1.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:07:47.815877+00:00 |
-| [Popelka (1997) SD CZ Titulky](https://prehraj.to/popelka-1997-sd-cz-titulky-mp4/99d5e1576dd63fc7) (ID 29468162) | [Sdílej 34784463](https://sdilej.cz/34784463/popelka-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:31:00.695127+00:00 |
+| [Popelka (1997) SD CZ Titulky](https://prehraj.to/popelka-1997-sd-cz-titulky-mp4/99d5e1576dd63fc7) (ID 29468162) | [Sdílej 34784463](https://sdilej.cz/34784463/popelka-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T03:04:16.799259+00:00 |
 | [Popeye the Slayer Man (2025) 1080p CZ Titulky](https://prehraj.to/popeye-the-slayer-man-2025-1080p-cz-titulky-mkv/2e3c54d792ba9b3f) (ID 30417286) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.029314+00:00 |
 | [Popeye's Revenge (2025) 1080p CZ Titulky](https://prehraj.to/popeye-s-revenge-2025-1080p-cz-titulky-mkv/5a471340e717fe3b) (ID 31369557) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.045932+00:00 |
 | [Porco Rosso (1992) 1080p CZ Titulky](https://prehraj.to/porco-rosso-1992-1080p-cz-titulky-mkv/9dad0ee34af177f9) (ID 29336328) | [Sdílej 32535114](https://sdilej.cz/32535114/-animerg-porco-rosso-1992-crimson-pig-multi-audio-1080p-x265-pseudo-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:40.376059+00:00 |
