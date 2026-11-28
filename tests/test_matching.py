@@ -88,6 +88,9 @@ def test_rejects_shorter_cut_even_when_difference_is_under_twenty_percent() -> N
         (20410, "Oceán s Davidem Attenboroughem", 2025, 95, 84, 5036),
         (29724, "Tumbbad", 2018, 113, 104, 6298),
         (32455, "Zločiny a poklesky", 1989, 107, 100, 5962),
+        (14334, "Jmenuji se Khan", 2010, 165, 155, 9294),
+        (21907, "Lev v zimě", 1968, 134, 129, 7607),
+        (34298, "Moji přátelé", 1975, 140, 113, 6801),
     ],
 )
 def test_documented_edition_keeps_title_year_and_duration_guards(

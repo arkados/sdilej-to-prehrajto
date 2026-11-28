@@ -13,7 +13,7 @@ RUNTIME_TOLERANCE = 0.05
 RUNTIME_SHORTFALL_REJECT = 0.05
 RUNTIME_HARD_REJECT = 0.40
 SIMILARITY_GATE = 0.58
-# Published broadcast and streaming editions can differ from the archive's theatrical
+# Published home video, broadcast and theatrical editions can differ from the archive's
 # runtime. Apply these only to a title with an explicit matching year.
 RELEASE_RUNTIMES = {
     # https://sede.mcu.gob.es/CatalogoICAA/es-es/Peliculas/Detalle?pelicula=153715&q=true
@@ -38,6 +38,12 @@ RELEASE_RUNTIMES = {
     (21551, 1959): 85,
     # https://www.disneyplus.com/cs-cz/browse/entity-1d8f1a4a-72dc-4532-a0e0-d35daa00d3a7
     (20410, 2025): 84,
+    # https://www.bbfc.co.uk/release/my-name-is-khan-q29sbgvjdglvbjpwwc00mjg0mji
+    (14334, 2010): 155,
+    # https://www.bbfc.co.uk/release/the-lion-in-winter-q29sbgvjdglvbjpwwc0ynjgwoda
+    (21907, 1968): 129,
+    # https://www.cinemateca.pt/CinematecaSite/media/Documentos/2024-05-03_AMICI-MIEI.pdf
+    (34298, 1975): 113,
 }
 EPISODE_RE = re.compile(r"\bS\d{1,2}E\d{1,3}\b|\b\d{1,2}x\d{1,3}\b", re.I)
 YEAR_RE = re.compile(r"(?<!\d)(19\d{2}|20\d{2})(?!\d)")
