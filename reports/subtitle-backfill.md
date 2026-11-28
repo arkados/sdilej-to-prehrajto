@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:15:21.144893+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:15:31.104604+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -2332,7 +2332,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [The Battle at Lake Changjin (2021) SD CZ Titulky](https://prehraj.to/the-battle-at-lake-changjin-2021-sd-cz-titulky-mp4/3192249b4b63b4e0) (ID 29678356) | [Sdílej 30543734](https://sdilej.cz/30543734/the-battle-at-lake-changjin-chosin-2021-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:23:23.194662+00:00 |
 | [The Bay (2012) 1080p CZ Titulky](https://prehraj.to/the-bay-2012-1080p-cz-titulky-mp4/f1e92022a69444bc) (ID 29926794) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.133778+00:00 |
 | [The Beast Within (2024) 1080p CZ Titulky](https://prehraj.to/the-beast-within-2024-1080p-cz-titulky-mkv/ef87f9c1d738bfb1) (ID 30417586) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.139994+00:00 |
-| [The Beta Test (2021) 1080p CZ Titulky](https://prehraj.to/the-beta-test-2021-1080p-cz-titulky-mp4/a5779b40ccdaeff3) (ID 29607672) | [Sdílej 34772650](https://sdilej.cz/34772650/the-beta-test-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:54:08.876114+00:00 |
+| [The Beta Test (2021) 1080p CZ Titulky](https://prehraj.to/the-beta-test-2021-1080p-cz-titulky-mp4/a5779b40ccdaeff3) (ID 29607672) | [Sdílej 34772650](https://sdilej.cz/34772650/the-beta-test-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:15:31.104473+00:00 |
 | [The Binge (2020) 1080p CZ Titulky](https://prehraj.to/the-binge-2020-1080p-cz-titulky-mp4/c2b7dfe6d9f80258) (ID 29721157) | [Sdílej 34773234](https://sdilej.cz/34773234/the-binge-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:38:57.482856+00:00 |
 | [The Boat (2018) 1080p CZ Titulky](https://prehraj.to/the-boat-2018-1080p-cz-titulky-mkv/77b99845dd157225) (ID 31397189) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.151415+00:00 |
 | [The Bombing of Wall Street (2018) SD CZ Titulky](https://prehraj.to/the-bombing-of-wall-street-2018-sd-cz-titulky-mp4/c5a1153aa4e4f050) (ID 29562079) | [Sdílej 34736187](https://sdilej.cz/34736187/the-bombing-of-wall-street-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:05:13.312457+00:00 |
