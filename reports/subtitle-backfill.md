@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T02:58:37.814658+00:00
+Poslední aktualizace (UTC): 2026-11-28T02:58:46.399828+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -1931,7 +1931,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Raymond & Ray (2022) 1080p CZ Titulky](https://prehraj.to/raymond-ray-2022-1080p-cz-titulky-mkv/9681752b725c0ee7) (ID 29579297) | [Sdílej 23454392](https://sdilej.cz/23454392/raymond-a-ray-2022-cz-sub.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:44.023747+00:00 |
 | [Rašómon (1950) 720p CZ Titulky](https://prehraj.to/rasomon-1950-720p-cz-titulky-avi/b95b2e19764ace87) (ID 30942109) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.041469+00:00 |
 | [Re-Kill (2015) SD CZ Titulky](https://prehraj.to/re-kill-2015-sd-cz-titulky-avi/6cb5d0ca86c67b09) (ID 29540122) | [Sdílej 34850986](https://sdilej.cz/34850986/re-kill-.sk-tit.v-obraze-scifi-horor-2015.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:52:24.462379+00:00 |
-| [ReMastered: Devil at the Crossroads (2019) 1080p CZ Titulky](https://prehraj.to/remastered-devil-at-the-crossroads-2019-1080p-cz-titulky-mp4/61d7073f666022d4) (ID 29432057) | [Sdílej 34733904](https://sdilej.cz/34733904/remastered-devil-at-the-crossroads-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:26:16.565921+00:00 |
+| [ReMastered: Devil at the Crossroads (2019) 1080p CZ Titulky](https://prehraj.to/remastered-devil-at-the-crossroads-2019-1080p-cz-titulky-mp4/61d7073f666022d4) (ID 29432057) | [Sdílej 34733904](https://sdilej.cz/34733904/remastered-devil-at-the-crossroads-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:58:46.399700+00:00 |
 | [Realms (2017) SD CZ Titulky](https://prehraj.to/realms-2017-sd-cz-titulky-mkv/83f47607b2709cff) (ID 31047713) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.044468+00:00 |
 | [Rebel (2022) 720p CZ Titulky](https://prehraj.to/rebel-2022-720p-cz-titulky-mp4/fd628e2b5a38719e) (ID 30261234) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.025423+00:00 |
 | [Recep İvedik 6 (2019) SD CZ Titulky](https://prehraj.to/recep-ivedik-6-2019-sd-cz-titulky-mp4/ff340788d39cf0a9) (ID 30440166) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.030121+00:00 |
