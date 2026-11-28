@@ -78,9 +78,16 @@ def test_rejects_shorter_cut_even_when_difference_is_under_twenty_percent() -> N
 @pytest.mark.parametrize(
     ("film_id", "title", "year", "catalog_minutes", "release_minutes", "source_seconds"),
     [
+        (484, "Osm hrozných", 2015, 188, 168, 10068),
+        (10690, "Rebecca", 1940, 130, 126, 7200),
+        (10790, "Osud člověka", 1959, 103, 97, 5821),
+        (10807, "Norimberský proces", 1961, 191, 172, 10307),
+        (21113, "Raz, dva, tři", 1961, 115, 104, 6247),
         (24064, "Synové hor", 1956, 92, 82, 4913),
         (21551, "Balada o vojákovi", 1959, 89, 85, 5054),
         (20410, "Oceán s Davidem Attenboroughem", 2025, 95, 84, 5036),
+        (29724, "Tumbbad", 2018, 113, 104, 6298),
+        (32455, "Zločiny a poklesky", 1989, 107, 100, 5962),
     ],
 )
 def test_documented_edition_keeps_title_year_and_duration_guards(

@@ -5,7 +5,7 @@ import json
 import re
 import unicodedata
 
-from .matching import YEAR_RE
+from .matching import RELEASE_RUNTIMES, YEAR_RE
 from .models import Candidate, Film, LanguageTier, MatchTier
 
 
@@ -17,12 +17,15 @@ INEFFICIENT_CODECS = {"h264", "vc1"}
 
 
 def discovery_policy(film: Film) -> str:
-    # Revisit only films affected by a new alias or by numeric title matching.
+    # Revisit films affected by catalog aliases or documented edition lengths.
     # The selection policy on already verified sources remains independent.
-    if not any(t not in (film.title, film.original_title) or YEAR_RE.search(t) for t in film.titles):
-        return SELECTION_POLICY
-    digest = hashlib.sha256(json.dumps(film.titles, ensure_ascii=False).encode()).hexdigest()
-    return f"{SELECTION_POLICY}:titles-v1:{digest[:16]}"
+    policy = SELECTION_POLICY
+    if any(t not in (film.title, film.original_title) or YEAR_RE.search(t) for t in film.titles):
+        digest = hashlib.sha256(json.dumps(film.titles, ensure_ascii=False).encode()).hexdigest()
+        policy += f":titles-v1:{digest[:16]}"
+    if release_runtime := RELEASE_RUNTIMES.get((film.cr_film_id, film.year)):
+        policy += f":release-runtime:{release_runtime}"
+    return policy
 
 
 def infer_video_codec(filename: str | None) -> str | None:

@@ -16,6 +16,20 @@ SIMILARITY_GATE = 0.58
 # Published broadcast and streaming editions can differ from the archive's theatrical
 # runtime. Apply these only to a title with an explicit matching year.
 RELEASE_RUNTIMES = {
+    # https://sede.mcu.gob.es/CatalogoICAA/es-es/Peliculas/Detalle?pelicula=153715&q=true
+    (484, 2015): 168,
+    # https://www.ceskatelevize.cz/porady/26920-mrtva-a-ziva/
+    (10690, 1940): 126,
+    # https://www.ceskatelevize.cz/porady/1142247383-osud-cloveka/
+    (10790, 1959): 97,
+    # https://www.ceskatelevize.cz/porady/16759-norimbersky-proces/
+    (10807, 1961): 172,
+    # https://www.fsk.de/detail/?detailid=63c7b11d4deb09001c8fb3f9&stype=single
+    (21113, 1961): 104,
+    # https://www.sicvenezia.eu/4727/edizione-2018/film-2018/tumbbad/?lang=en
+    (29724, 2018): 104,
+    # https://www.legislation.gov.au/files/gazettes/historic/1990/1990GN15.pdf
+    (32455, 1989): 100,
     # https://www.ceskatelevize.cz/porady/15988-synove-hor/
     (24064, 1956): 82,
     # https://www.iprima.cz/filmy/deti-na-zakazku

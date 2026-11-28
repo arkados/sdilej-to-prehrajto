@@ -115,14 +115,14 @@ def prepare_source_batch(
         source = sources.get(film.cr_film_id) or {}
         attempts = state.snapshot(film.cr_film_id).get("attempts") or []
         policy = discovery_policy(film)
-        changed_titles = policy != SELECTION_POLICY and (
+        changed_policy = policy != SELECTION_POLICY and (
             not attempts or attempts[-1].get("selection_policy") != policy
         )
         return (
             film.cr_film_id not in priority_ids,
             source.get("source_status") != "rediscovery_needed"
             and sources.candidate(film.cr_film_id, for_reverification=True) is None,
-            not changed_titles,
+            not changed_policy,
             (attempts[-1].get("attempted_at") or "") if attempts else "",
         )
 
