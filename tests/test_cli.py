@@ -10,11 +10,13 @@ from sdilej_to_prehrajto.cli import (
     main,
     additional_worker_count,
     deep_prepare_worker_count,
+    edition_reviews,
     exclude_uploaded_films,
     prepare_source_batch,
     prepare_source_lane,
 )
 from sdilej_to_prehrajto.models import Film
+from sdilej_to_prehrajto.ranking import discovery_policy
 from sdilej_to_prehrajto.state import StateStore
 from sdilej_to_prehrajto.sources import SelectedSourceStore
 
@@ -105,6 +107,33 @@ def test_prepare_backlog_excludes_already_uploaded_films(tmp_path) -> None:
     pending = exclude_uploaded_films(films, state)
 
     assert [film.cr_film_id for film in pending] == [2]
+
+
+def test_documented_editions_are_automatically_reviewed_once_per_policy(tmp_path):
+    films = [
+        Film(21907, "lion", "Lev v zimě", None, 1968, 134, "en"),
+        Film(34298, "friends", "Moji přátelé", None, 1975, 140, "it"),
+    ]
+    sources = SelectedSourceStore(tmp_path / "sources.jsonl")
+    scan = StateStore(tmp_path / "scan.json")
+    uploads = StateStore(tmp_path / "uploads.json")
+    for film in films:
+        sources.record({
+            "cr_film_id": film.cr_film_id, "source_id": str(film.cr_film_id),
+            "source_url": f"https://sdilej.cz/{film.cr_film_id}/film.mkv",
+            "source_status": "verified",
+        })
+    uploads.record_prepared(34298, "700", 1000)
+    scan.record_attempt(21907, {
+        "status": "no_acceptable_source", "selection_policy": "old-policy",
+    })
+
+    assert edition_reviews(films, scan, uploads, sources) == {21907}
+
+    scan.record_attempt(21907, {
+        "status": "no_acceptable_source", "selection_policy": discovery_policy(films[0]),
+    })
+    assert edition_reviews(films, scan, uploads, sources) == set()
 
 
 def test_prepare_workers_search_disjoint_backlog_slices(tmp_path) -> None:

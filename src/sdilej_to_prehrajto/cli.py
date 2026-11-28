@@ -11,6 +11,7 @@ from pathlib import Path
 from .backlog import load_backlog
 from .git_state import GitStatePersister
 from .language import WhisperLanguageDetector
+from .matching import RELEASE_RUNTIMES
 from .models import Film
 from .pipeline import MAX_PILOT_FILMS, SyncPipeline, plan_sha, write_plan, write_report
 from .prehrajto import login as login_prehrajto
@@ -47,6 +48,29 @@ def exclude_uploaded_films(
     films: list[Film], upload_state: StateStore
 ) -> list[Film]:
     return [film for film in films if not upload_state.uploaded(film.cr_film_id)]
+
+
+def edition_reviews(
+    films: list[Film], scan_state: StateStore, upload_state: StateStore,
+    sources: SelectedSourceStore,
+) -> set[int]:
+    """Revisit known sources promptly when their documented runtime changes."""
+    reviews = set()
+    for film in films:
+        if (film.cr_film_id, film.year) not in RELEASE_RUNTIMES:
+            continue
+        film_id = film.cr_film_id
+        if sources.candidate(film_id, for_reverification=True) is None:
+            continue
+        transfer = upload_state.snapshot(film_id)
+        if any(transfer.get(key) for key in ("upload", "prepared", "previous_target_id", "claim")):
+            continue
+        if any(attempt.get("target_video_id") for attempt in transfer.get("attempts", [])):
+            continue
+        attempts = scan_state.snapshot(film_id).get("attempts", [])
+        if not attempts or attempts[-1].get("selection_policy") != discovery_policy(film):
+            reviews.add(film_id)
+    return reviews
 
 
 def recover_failed_sources(upload_state: StateStore, sources: SelectedSourceStore) -> int:
@@ -368,9 +392,8 @@ def main() -> int:
                     selected_sources=selected_sources,
                 )
             )
-        backlog = exclude_uploaded_films(
-            load_backlog(args.backlog), StateStore(default_state)
-        )
+        upload_state = StateStore(default_state)
+        backlog = exclude_uploaded_films(load_backlog(args.backlog), upload_state)
         deadline = (
             time.monotonic() + args.prepare_runtime_minutes * 60
             if args.prepare_runtime_minutes
@@ -392,8 +415,10 @@ def main() -> int:
             deep_pipelines = prepare_pipelines[-deep_workers:]
             deep_limit = max(1, args.limit // len(prepare_pipelines))
             fast_limit = max(1, args.limit - deep_limit)
-            explicit_reviews = set(args.priority_film_id)
-            fast_backlog = [film for film in backlog if film.cr_film_id not in explicit_reviews]
+            priority_reviews = set(args.priority_film_id) | edition_reviews(
+                backlog, state, upload_state, selected_sources,
+            )
+            fast_backlog = [film for film in backlog if film.cr_film_id not in priority_reviews]
             with ThreadPoolExecutor(max_workers=2) as executor:
                 fast_future = executor.submit(
                     prepare_source_lane,
@@ -411,7 +436,7 @@ def main() -> int:
                     max_scan=args.max_scan,
                     deadline_monotonic=deadline,
                     deep_scan_only=True,
-                    priority_film_ids=explicit_reviews,
+                    priority_film_ids=priority_reviews,
                 )
                 plan = fast_future.result() + deep_future.result()
         digest = write_plan(args.plan_out, plan)

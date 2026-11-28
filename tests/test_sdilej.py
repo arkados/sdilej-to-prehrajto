@@ -661,6 +661,24 @@ def test_discovery_checks_original_runtime_when_search_duration_is_short(
         assert discovered[0].duration_sec == original_duration
 
 
+@pytest.mark.parametrize("deep", [False, True])
+def test_unavailable_probe_cannot_rule_out_short_reported_runtime(monkeypatch, deep):
+    provider = SdilejProvider(
+        FakeSession(), FakeDetector(), request_gap_seconds=0,
+        max_candidates=None if deep else 3, allow_unresolved_fallback=deep,
+        media_probe=lambda _url: {},
+    )
+    candidate = Candidate(
+        "10", "https://sdilej.cz/10/film.mkv", "Film (2000) 4K CZ.mkv",
+        size_bytes=6_000_000_000, duration_sec=7200, width=3840, height=1600,
+    )
+    monkeypatch.setattr(provider, "search_by_quality", lambda _query: [candidate])
+
+    with pytest.raises(SdilejError if deep else DeepScanRequired):
+        provider.discover(Film(1, "film", "Film", None, 2000, 139, "en"))
+    assert provider.empty_reason is None
+
+
 def test_discovery_searches_title_with_and_without_year() -> None:
     class YearlessResultSession:
         def __init__(self) -> None:

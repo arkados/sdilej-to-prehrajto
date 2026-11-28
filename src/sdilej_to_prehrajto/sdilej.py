@@ -339,6 +339,12 @@ class SdilejProvider:
         detail.match_tier = verified_match.tier
         detail.match_evidence = verified_match.evidence
         if verified_match.tier not in (MatchTier.STRONG, MatchTier.SOLID):
+            if verified_match.reason == "wrong_runtime" and not media.get("duration_sec"):
+                # The listing and detail page can report a truncated runtime.
+                # An unavailable probe cannot establish that the file is short.
+                raise SdilejError(
+                    f"Original media runtime unavailable; source_id={candidate.source_id}"
+                )
             return None
         if not quality_acceptable(detail):
             return None
