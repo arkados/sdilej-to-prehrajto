@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T03:05:53.565503+00:00
+Poslední aktualizace (UTC): 2026-11-28T03:06:01.870413+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -1284,7 +1284,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Last Straw (2023) 1080p CZ Titulky](https://prehraj.to/last-straw-2023-1080p-cz-titulky-mkv/203de5218c5f9692) (ID 29720485) | [Sdílej 29855453](https://sdilej.cz/29855453/last.straw.2023.1080p.amzn.web-dl.ddp5.1.h.264-leon.-en-subssk-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:01.033048+00:00 |
 | [Late Night with the Devil (2023) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29491175) | [Sdílej 28718234](https://sdilej.cz/28718234/late.night.with.the.devil.2023.1080p.10bit.webrip.6ch.x265.hevc-psa.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-27T20:33:59.913511+00:00 |
 | [Late Phases (2014) SD CZ Titulky](https://prehraj.to/late-phases-2014-sd-cz-titulky-avi/afb7d6cb6496b349) (ID 30611359) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.033655+00:00 |
-| [Lawn Dogs (1997) SD CZ Titulky](https://prehraj.to/lawn-dogs-1997-sd-cz-titulky-mp4/1eff6ba83026b251) (ID 29489351) | [Sdílej 34784474](https://sdilej.cz/34784474/lawn-dogs-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:32:29.367137+00:00 |
+| [Lawn Dogs (1997) SD CZ Titulky](https://prehraj.to/lawn-dogs-1997-sd-cz-titulky-mp4/1eff6ba83026b251) (ID 29489351) | [Sdílej 34784474](https://sdilej.cz/34784474/lawn-dogs-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T03:06:01.870287+00:00 |
 | [Lazareth (2024) 1080p CZ Titulky](https://prehraj.to/lazareth-2024-1080p-cz-titulky-mkv/e966860eeb115cee) (ID 30457688) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.030669+00:00 |
 | [Lazer Team (2016) SD CZ Titulky](https://prehraj.to/lazer-team-2016-sd-cz-titulky-mp4/9eaf7f52a73ad220) (ID 29724204) | [Sdílej 34775189](https://sdilej.cz/34775189/lazer-team-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:40:33.427967+00:00 |
 | [Le Milieu de l'horizon (2020) 1080p CZ Titulky](https://prehraj.to/le-milieu-de-l-horizon-2020-1080p-cz-titulky-mp4/8e359146848d24e3) (ID 31403822) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.046446+00:00 |
