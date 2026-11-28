@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:08:18.998621+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:08:32.681451+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -146,7 +146,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Antropocén: Epocha člověka (2018) 720p CZ Titulky](https://prehraj.to/antropocen-epocha-cloveka-2018-720p-cz-titulky-mp4/41fa081a25f124d9) (ID 30695344) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.143433+00:00 |
 | [Anything for Jackson (2020) 1080p CZ Titulky](https://prehraj.to/anything-for-jackson-2020-1080p-cz-titulky-mp4/dbb349b8cccbaf89) (ID 30733891) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.143706+00:00 |
 | [Apache Junction (2021) 720p CZ Titulky](https://prehraj.to/apache-junction-2021-720p-cz-titulky-mp4/c56348699fda513c) (ID 29639155) | [Sdílej 34773078](https://sdilej.cz/34773078/apache-junction-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:08:21.809456+00:00 |
-| [Apaches (2023) 1080p CZ Titulky](https://prehraj.to/apaches-2023-1080p-cz-titulky-mp4/661bc562ebe217bc) (ID 29567722) | [Sdílej 26562939](https://sdilej.cz/26562939/apaches-2023.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:46:44.844601+00:00 |
+| [Apaches (2023) 1080p CZ Titulky](https://prehraj.to/apaches-2023-1080p-cz-titulky-mp4/661bc562ebe217bc) (ID 29567722) | [Sdílej 26562939](https://sdilej.cz/26562939/apaches-2023.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:08:32.681336+00:00 |
 | [Apartment 7A (2024) 1080p CZ Titulky](https://prehraj.to/apartment-7a-2024-1080p-cz-titulky-mkv/7d165860baab27a5) (ID 29917896) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.133550+00:00 |
 | [Aplikace (2019) 1080p CZ Titulky](https://prehraj.to/aplikace-2019-1080p-cz-titulky-mp4/d85ea4d04c6ab69a) (ID 30404271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.139609+00:00 |
 | [Apocalypto (2006) 1080p CZ Titulky](https://prehraj.to/apocalypto-2006-1080p-cz-titulky-mkv/f431782a7fac2a61) (ID 31156942) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148676+00:00 |
