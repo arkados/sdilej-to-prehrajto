@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:17:39.811651+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:17:50.386391+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -1272,7 +1272,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [LX 2048 (2020) 1080p CZ Titulky](https://prehraj.to/lx-2048-2020-1080p-cz-titulky-mkv/10e62b579ea80314) (ID 31372938) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.150665+00:00 |
 | [La French – Francouzská spojka (2014) 1080p CZ Titulky](https://prehraj.to/la-french-francouzska-spojka-2014-1080p-cz-titulky-mkv/5c0279c0005b7ba7) (ID 31091637) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148564+00:00 |
 | [La cara oculta (2011) 1080p CZ Titulky](https://prehraj.to/la-cara-oculta-2011-1080p-cz-titulky-mkv/05ae3d9eb3a59c39) (ID 30029724) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.134534+00:00 |
-| [La cueva (2014) 1080p CZ Titulky](https://prehraj.to/la-cueva-2014-1080p-cz-titulky-mp4/fe01d5744f07daa5) (ID 29610525) | [Sdílej 34738388](https://sdilej.cz/34738388/la-cueva-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:56:25.924126+00:00 |
+| [La cueva (2014) 1080p CZ Titulky](https://prehraj.to/la-cueva-2014-1080p-cz-titulky-mp4/fe01d5744f07daa5) (ID 29610525) | [Sdílej 34738388](https://sdilej.cz/34738388/la-cueva-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:17:50.386283+00:00 |
 | [La viaccia (1961) SD CZ Titulky](https://prehraj.to/la-viaccia-1961-sd-cz-titulky-mkv/2a58abcf42168b2e) (ID 31188801) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148994+00:00 |
 | [Laal Kaptaan (2019) SD CZ Titulky](https://prehraj.to/laal-kaptaan-2019-sd-cz-titulky-mp4/41d4ab0e0465778d) (ID 30110731) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.135015+00:00 |
 | [Labutí píseň (2021) 720p CZ Titulky](https://prehraj.to/labuti-pisen-2021-720p-cz-titulky-mkv/e2c314d842927e6f) (ID 29570060) | [Sdílej 34057205](https://sdilej.cz/34057205/2021-labuti-pisen-drama-sci-fi-64-usa-cz-tit..mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:08:39.548321+00:00 |
