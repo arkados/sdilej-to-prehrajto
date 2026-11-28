@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:17:05.667867+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:17:15.377119+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -2251,7 +2251,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Suspiria (1977) SD CZ Titulky](https://prehraj.to/suspiria-1977-sd-cz-titulky-mkv/0d59baa805280089) (ID 30876633) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.145042+00:00 |
 | [Suzie Heartless (2009) SD CZ Titulky](https://prehraj.to/suzie-heartless-2009-sd-cz-titulky-mp4/f4eea6937e91996c) (ID 31050011) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148419+00:00 |
 | [Svaha: Šestý prst (2019) 1080p CZ Titulky](https://prehraj.to/svaha-sesty-prst-2019-1080p-cz-titulky-avi/f2f4fe56402a4daf) (ID 30272804) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.136686+00:00 |
-| [Svatba (2021) 1080p CZ Titulky](https://prehraj.to/svatba-2021-1080p-cz-titulky-mp4/7133dab942c1b644) (ID 29609988) | [Sdílej 26498869](https://sdilej.cz/26498869/svatba-wesele-2021-pl-sktit-tvrip-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:55:53.643100+00:00 |
+| [Svatba (2021) 1080p CZ Titulky](https://prehraj.to/svatba-2021-1080p-cz-titulky-mp4/7133dab942c1b644) (ID 29609988) | [Sdílej 26498869](https://sdilej.cz/26498869/svatba-wesele-2021-pl-sktit-tvrip-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:17:15.377007+00:00 |
 | [Svatá hora (1973) SD CZ Titulky](https://prehraj.to/svata-hora-1973-sd-cz-titulky-avi/7ec715f344a5c411) (ID 31028228) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.147828+00:00 |
 | [Svaté město (1990) 1080p CZ Titulky](https://prehraj.to/svate-mesto-1990-1080p-cz-titulky-mkv/eb408d16846ce067) (ID 31028129) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.147817+00:00 |
 | [Svátky na návsi s Dolly Parton (2020) 1080p CZ Titulky](https://prehraj.to/svatky-na-navsi-s-dolly-parton-2020-1080p-cz-titulky-mp4/e54627938dcf2687) (ID 29707261) | [Sdílej 34709164](https://sdilej.cz/34709164/svatky-na-navsi-s-dolly-parton-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:31:36.897852+00:00 |
