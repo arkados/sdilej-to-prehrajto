@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:06:35.332562+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:06:44.095546+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -2139,7 +2139,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Smyk (1960) SD CZ Titulky](https://prehraj.to/smyk-1960-sd-cz-titulky-avi/a710d8e22203f86d) (ID 29820103) | [Sdílej 12537063](https://sdilej.cz/12537063/smyk-1960-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T23:01:29.008907+00:00 |
 | [Smysl života (2020) SD CZ Titulky](https://prehraj.to/smysl-zivota-2020-sd-cz-titulky-mp4/f60de73f5b6bdfee) (ID 29571652) | [Sdílej 26045287](https://sdilej.cz/26045287/smysl-zivota-was-wir-wollten-2020.hdrip.-vlozene-tit.cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:47:22.199005+00:00 |
 | [Smyčka (2014) 1080p CZ Titulky](https://prehraj.to/smycka-2014-1080p-cz-titulky-mkv/3303bf26211ee6da) (ID 29306244) | [Sdílej 34335089](https://sdilej.cz/34335089/the.incident.2014.spanish.1080p.web-dl.x264.aac-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:11:39.606078+00:00 |
-| [Směr Země (1980) SD CZ Titulky](https://prehraj.to/smer-zeme-1980-sd-cz-titulky-mp4/4c3fcea1bd91ef3a) (ID 29563642) | [Sdílej 34755724](https://sdilej.cz/34755724/smer-zeme-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:44:55.616544+00:00 |
+| [Směr Země (1980) SD CZ Titulky](https://prehraj.to/smer-zeme-1980-sd-cz-titulky-mp4/4c3fcea1bd91ef3a) (ID 29563642) | [Sdílej 34755724](https://sdilej.cz/34755724/smer-zeme-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:06:44.095418+00:00 |
 | [Snadný prachy (2010) SD CZ Titulky](https://prehraj.to/snadny-prachy-2010-sd-cz-titulky-mp4/4169c43a8e39c051) (ID 30127797) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.135069+00:00 |
 | [Snafu: V háji jako obvykle (2023) 1080p CZ Titulky](https://prehraj.to/snafu-v-haji-jako-obvykle-2023-1080p-cz-titulky-mkv/0fae309fd3e3f3f4) (ID 30375707) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.138811+00:00 |
 | [Snakehead (2021) 1080p CZ Titulky](https://prehraj.to/snakehead-2021-1080p-cz-titulky-mkv/684c6c0d65cedc56) (ID 30293567) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.137146+00:00 |
