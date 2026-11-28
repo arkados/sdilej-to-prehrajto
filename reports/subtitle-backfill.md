@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:19:32.846578+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:19:40.688165+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -2373,7 +2373,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [The Divine Move 2: The Wrathful (2019) 1080p CZ Titulky](https://prehraj.to/the-divine-move-2-the-wrathful-2019-1080p-cz-titulky-mkv/44a9228731c943d9) (ID 31471271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.152007+00:00 |
 | [The Dreadful (2026) 4K CZ Titulky](https://prehraj.to/the-dreadful-2026-4k-cz-titulky-mkv/b9b8ed7ae1ba673e) (ID 30393249) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.139227+00:00 |
 | [The Engineer (2023) 1080p CZ Titulky](https://prehraj.to/the-engineer-2023-1080p-cz-titulky-mkv/bbf93480adf4f2a6) (ID 29737979) | [Sdílej 34393567](https://sdilej.cz/34393567/the-engineer-2023-1080p-amzn-web-dl-ddp5-1-h-264-flux.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:55.721895+00:00 |
-| [The Escape of Prisoner 614 (2018) 1080p CZ Titulky](https://prehraj.to/the-escape-of-prisoner-614-2018-1080p-cz-titulky-mp4/35f646ff39be45b9) (ID 29612662) | [Sdílej 34735652](https://sdilej.cz/34735652/the-escape-of-prisoner-614-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:01:31.684984+00:00 |
+| [The Escape of Prisoner 614 (2018) 1080p CZ Titulky](https://prehraj.to/the-escape-of-prisoner-614-2018-1080p-cz-titulky-mp4/35f646ff39be45b9) (ID 29612662) | [Sdílej 34735652](https://sdilej.cz/34735652/the-escape-of-prisoner-614-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:19:40.688041+00:00 |
 | [The Escort (2015) 1080p CZ Titulky](https://prehraj.to/the-escort-2015-1080p-cz-titulky-avi/1019bfda02c3be4d) (ID 29907584) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.133016+00:00 |
 | [The Exception (2016) 1080p CZ Titulky](https://prehraj.to/the-exception-2016-1080p-cz-titulky-mkv/38d783fd76aca73d) (ID 29680017) | [Sdílej 7576370](https://sdilej.cz/7576370/vyjimka-the-exception.2016.1080p.web-dl.dd5.1.h264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:48.134543+00:00 |
 | [The Exorcism (2024) 1080p CZ Titulky](https://prehraj.to/the-exorcism-2024-1080p-cz-titulky-mkv/93c776162fc9cbbc) (ID 30946916) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.146799+00:00 |
