@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T02:56:54.609097+00:00
+Poslední aktualizace (UTC): 2026-11-28T02:57:06.177690+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -2562,7 +2562,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Tygr a drak: Meč osudu (2016) 1080p CZ Titulky](https://prehraj.to/tygr-a-drak-mec-osudu-2016-1080p-cz-titulky-mkv/4e2800cb1ff8a0b5) (ID 30929583) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.040832+00:00 |
 | [Tygr lidožrout (2007) SD CZ Titulky](https://prehraj.to/tygr-lidozrout-2007-sd-cz-titulky-avi/3744b085a3f3ed2e) (ID 29664192) | [Sdílej 23245687](https://sdilej.cz/23245687/maneater.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:20:36.190757+00:00 |
 | [Tygr z Ešnapuru (1959) 720p CZ Titulky](https://prehraj.to/tygr-z-esnapuru-1959-720p-cz-titulky-mp4/b7bf8a404ed7ffdd) (ID 30696408) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.035074+00:00 |
-| [Tygři (2024) 1080p CZ Titulky](https://prehraj.to/tygri-2024-1080p-cz-titulky-mp4/674e5585d67ab62e) (ID 29415991) | [Sdílej 34724647](https://sdilej.cz/34724647/tygri-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:24:37.481624+00:00 |
+| [Tygři (2024) 1080p CZ Titulky](https://prehraj.to/tygri-2024-1080p-cz-titulky-mp4/674e5585d67ab62e) (ID 29415991) | [Sdílej 34724647](https://sdilej.cz/34724647/tygri-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:57:06.177581+00:00 |
 | [Tátův drak (2022) SD CZ Titulky](https://prehraj.to/tatuv-drak-2022-sd-cz-titulky-mp4/a0a9443b4118a26a) (ID 30556214) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.032296+00:00 |
 | [Téměř dokonalý (2012) 720p CZ Titulky](https://prehraj.to/temer-dokonaly-2012-720p-cz-titulky-mp4/2794f7a09bfe893c) (ID 29289240) | [Sdílej 34965884](https://sdilej.cz/34965884/temer-dokonaly-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:05:00.921951+00:00 |
 | [Tísňové volání (2018) 1080p CZ Titulky](https://prehraj.to/tisnove-volani-2018-1080p-cz-titulky-mkv/9b663ed89380f9b3) (ID 29824745) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.019134+00:00 |
