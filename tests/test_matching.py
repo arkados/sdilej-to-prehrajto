@@ -83,6 +83,7 @@ def test_rejects_shorter_cut_even_when_difference_is_under_twenty_percent() -> N
         (10790, "Osud člověka", 1959, 103, 97, 5821),
         (10807, "Norimberský proces", 1961, 191, 172, 10307),
         (21113, "Raz, dva, tři", 1961, 115, 104, 6247),
+        (21284, "Zázrak v New Yorku", 1947, 114, 96, 5785),
         (24064, "Synové hor", 1956, 92, 82, 4913),
         (21551, "Balada o vojákovi", 1959, 89, 85, 5054),
         (20410, "Oceán s Davidem Attenboroughem", 2025, 95, 84, 5036),

@@ -26,6 +26,8 @@ RELEASE_RUNTIMES = {
     (10807, 1961): 172,
     # https://www.fsk.de/detail/?detailid=63c7b11d4deb09001c8fb3f9&stype=single
     (21113, 1961): 104,
+    # https://www.bbfc.co.uk/release/miracle-on-34th-street-q29sbgvjdglvbjpwwc0zmjawmtc
+    (21284, 1947): 96,
     # https://www.sicvenezia.eu/4727/edizione-2018/film-2018/tumbbad/?lang=en
     (29724, 2018): 104,
     # https://www.legislation.gov.au/files/gazettes/historic/1990/1990GN15.pdf
