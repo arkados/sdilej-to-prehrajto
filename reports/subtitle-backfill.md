@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:10:02.754439+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:10:12.970123+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -1538,7 +1538,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Nails (2017) SD CZ Titulky](https://prehraj.to/nails-2017-sd-cz-titulky-avi/ab861bd702a8ee82) (ID 30957411) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.147031+00:00 |
 | [Naked (2017) 720p CZ Titulky](https://prehraj.to/naked-2017-720p-cz-titulky-mp4/823102487ad5672e) (ID 30666040) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.143177+00:00 |
 | [Naked Cannibal Campers (2020) 1080p CZ Titulky](https://prehraj.to/naked-cannibal-campers-2020-1080p-cz-titulky-mp4/fa41e96baba70977) (ID 30920198) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.145824+00:00 |
-| [Naked Soldier (2012) 720p CZ Titulky](https://prehraj.to/naked-soldier-2012-720p-cz-titulky-mp4/11450c72f4c04eb8) (ID 29575110) | [Sdílej 31961981](https://sdilej.cz/31961981/naked-soldier-tit-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:48:41.111874+00:00 |
+| [Naked Soldier (2012) 720p CZ Titulky](https://prehraj.to/naked-soldier-2012-720p-cz-titulky-mp4/11450c72f4c04eb8) (ID 29575110) | [Sdílej 31961981](https://sdilej.cz/31961981/naked-soldier-tit-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:10:12.969995+00:00 |
 | [Nalijme si čistého vína (2020) 1080p CZ Titulky](https://prehraj.to/nalijme-si-cisteho-vina-2020-1080p-cz-titulky-mp4/825d76a87813fa42) (ID 30584015) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.141827+00:00 |
 | [Naneživo (2017) 1080p CZ Titulky](https://prehraj.to/nanezivo-2017-1080p-cz-titulky-avi/83270e62569f7115) (ID 29559289) | [Sdílej 32272446](https://sdilej.cz/32272446/nanezivo-kamera-o-tomeru-na-2017-komedie-horor-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:02:53.590916+00:00 |
 | [Nanga Parbat (1953) SD CZ Titulky](https://prehraj.to/nanga-parbat-1953-sd-cz-titulky-mp4/cd008ad65bd6b2c6) (ID 30890850) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.145307+00:00 |
