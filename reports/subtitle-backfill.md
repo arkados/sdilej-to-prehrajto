@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T12:03:21.712411+00:00
+Poslední aktualizace (UTC): 2026-11-28T12:03:30.046884+00:00
 
 Zkontrolováno videí: 3483. Další stránka kontroly: 0.
 
@@ -1542,7 +1542,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 524. Dů
 | [Nalijme si čistého vína (2020) 1080p CZ Titulky](https://prehraj.to/nalijme-si-cisteho-vina-2020-1080p-cz-titulky-mp4/825d76a87813fa42) (ID 30584015) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.141827+00:00 |
 | [Naneživo (2017) 1080p CZ Titulky](https://prehraj.to/nanezivo-2017-1080p-cz-titulky-avi/83270e62569f7115) (ID 29559289) | [Sdílej 32272446](https://sdilej.cz/32272446/nanezivo-kamera-o-tomeru-na-2017-komedie-horor-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:02:53.590916+00:00 |
 | [Nanga Parbat (1953) SD CZ Titulky](https://prehraj.to/nanga-parbat-1953-sd-cz-titulky-mp4/cd008ad65bd6b2c6) (ID 30890850) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.145307+00:00 |
-| [Nanking! Nanking! (2009) 720p CZ Titulky](https://prehraj.to/nanking-nanking-2009-720p-cz-titulky-mp4/84a412e89dc0ac37) (ID 29560066) | [Sdílej 34698292](https://sdilej.cz/34698292/nanking-nanking-2009-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:41:36.355274+00:00 |
+| [Nanking! Nanking! (2009) 720p CZ Titulky](https://prehraj.to/nanking-nanking-2009-720p-cz-titulky-mp4/84a412e89dc0ac37) (ID 29560066) | [Sdílej 34698292](https://sdilej.cz/34698292/nanking-nanking-2009-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T12:03:30.046756+00:00 |
 | [Napoleon (2023) 4K CZ Titulky](https://prehraj.to/napoleon-2023-4k-cz-titulky-mkv/d1359a3e8b8e63b1) (ID 31042247) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.148158+00:00 |
 | [Naprosto osvětleno (2005) 720p CZ Titulky](https://prehraj.to/naprosto-osvetleno-2005-720p-cz-titulky-mkv/dd6cb0d65bf7311e) (ID 31027473) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T11:57:32.147785+00:00 |
 | [Naprostí cizinci (2016) 720p CZ Titulky](https://prehraj.to/naprosti-cizinci-2016-720p-cz-titulky-mp4/0beaa73b6807cef9) (ID 29363411) | [Sdílej 34449418](https://sdilej.cz/34449418/2016-naprosti-cizinci-komedie-drama-83-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T20:21:12.543789+00:00 |
