@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-28T02:57:06.177690+00:00
+Poslední aktualizace (UTC): 2026-11-28T02:57:18.107312+00:00
 
 Zkontrolováno videí: 3482. Další stránka kontroly: 0.
 
@@ -1980,7 +1980,7 @@ Kontrol: 58; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Ronnie Coleman: The King (2018) 1080p CZ Titulky](https://prehraj.to/ronnie-coleman-the-king-2018-1080p-cz-titulky-mp4/965cef32ee3ad9bf) (ID 30050630) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.023436+00:00 |
 | [Room for Rent (2019) 1080p CZ Titulky](https://prehraj.to/room-for-rent-2019-1080p-cz-titulky-mp4/a0264f33b207020a) (ID 29719978) | [Sdílej 34773611](https://sdilej.cz/34773611/room-for-rent-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T22:37:37.520114+00:00 |
 | [Rooney (2022) 720p CZ Titulky](https://prehraj.to/rooney-2022-720p-cz-titulky-mp4/fe1bc46caa543d17) (ID 29216763) | [Sdílej 34726946](https://sdilej.cz/34726946/rooney-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-27T02:31:43.283682+00:00 |
-| [Rose (2026) 1080p CZ Titulky](https://prehraj.to/rose-2026-1080p-cz-titulky-mkv/048cc23bede989f4) (ID 29417398) | [Sdílej 35000223](https://sdilej.cz/35000223/rose-2026-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-20T21:24:48.552972+00:00 |
+| [Rose (2026) 1080p CZ Titulky](https://prehraj.to/rose-2026-1080p-cz-titulky-mkv/048cc23bede989f4) (ID 29417398) | [Sdílej 35000223](https://sdilej.cz/35000223/rose-2026-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-28T02:57:18.107204+00:00 |
 | [Rosencrantz a Guildenstern jsou mrtví (1991) 1080p CZ Titulky](https://prehraj.to/rosencrantz-a-guildenstern-jsou-mrtvi-1991-1080p-cz-titulky-mkv/809de9a8de2944ef) (ID 30490354) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.031401+00:00 |
 | [Roseovi (2025) 4K CZ Titulky](https://prehraj.to/roseovi-2025-4k-cz-titulky-mkv/945ebfb7bb29bc30) (ID 29735982) | [Sdílej 32152538](https://sdilej.cz/32152538/the.roses-2025-cz-sktit-v-obraze-2160p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:38.997972+00:00 |
 | [Route 66 Revisited! (2016) 720p CZ Titulky](https://prehraj.to/route-66-revisited-2016-720p-cz-titulky-mp4/0122e7d00d18df27) (ID 30941602) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-28T02:46:53.041410+00:00 |
